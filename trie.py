@@ -1,4 +1,4 @@
-from scraper import _Trie
+from scrapping import _Trie
 
 
 class Trie:

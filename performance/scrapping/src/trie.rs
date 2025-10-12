@@ -70,3 +70,5 @@ impl _Trie {
         words.join("\n")
     }
 }
+
+type Trie = _Trie;

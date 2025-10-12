@@ -7,7 +7,6 @@ app = marimo.App(width="full")
 @app.cell
 def _():
     import marimo as mo
-
     return (mo,)
 
 
@@ -31,10 +30,10 @@ def _(mo):
 
     Recorreremos las categorías de la página web, almacenando:
 
-    - **text**: La palabra que hace referencia al signo.
+    - **video**: Enlace al video del signante
+    - **gloss**: La glosa.
     - **grammar-categorie**: La categoría gramatical _(Nombre, Verbo ...)_
     - **categorie**: Categoría temática del signo
-    - **video**: Enlace al video del signante
 
     De manera paralela se construirá un diccionario de palabras _(signos)_ para uso futuro en la extracción de datos de la página web de **CNSE**.
     """
@@ -53,7 +52,6 @@ def _():
     from bs4 import BeautifulSoup  # parseo de html
     from unidecode import unidecode  # para tranformar carácteres
     from trie import Trie  # para almacenamiento de prefijos de manera eficiente
-
     return BeautifulSoup, Trie, json, os, pl, requests, sys, unidecode, urllib
 
 
@@ -138,19 +136,19 @@ def _(mo):
 
 
 @app.function
-# "'"\n        palabra\n        \n          tipo-palabra\n"'"  ->  {"'"text"'": palabra, "'"grammar-categorie"'": tipo-palabra}
+# "'"\n        palabra\n        \n          tipo-palabra\n"'"  ->  {"'"text"'": palabra, "'"type"'": tipo-palabra}
 def format_text_type(text: str):
     if "\n" not in text:
-        return {"gloss": text, "grammar-categorie": "next-page"}
+        return {"gloss": text, "type": "next-page"}
 
     try:
         _, word, _, wtype, _ = text.split("\n")
         word = word.split(" ")[-1]
         wtype = wtype.split(" ")[-1]
     except (RuntimeError, ValueError):
-        return {"gloss": text, "grammar-categorie": "unknow"}
+        return {"gloss": text, "type": "unknow"}
 
-    return {"gloss": word, "grammar-categorie": wtype}
+    return {"gloss": word, "type": wtype}
 
 
 @app.cell
@@ -176,11 +174,11 @@ def _(BeautifulSoup):
         ]
 
         only_theme_links = [
-            link for link in theme_links if link["grammar-categorie"] != "next-page"
+            link for link in theme_links if link["type"] != "next-page"
         ]  # todos los enlaces que no son página de siguiente
 
         next_pages_links = [
-            np for np in theme_links if np["grammar-categorie"] == "next-page"
+            np for np in theme_links if np["type"] == "next-page"
         ]  # lo enlaces que son de páginas siguiente o previa
         theme_links = only_theme_links
 
@@ -190,7 +188,6 @@ def _(BeautifulSoup):
             ]  # Si hay página siguiente cogemos la última que sera la página siguiente
 
         return deque(theme_links)
-
     return deque, get_theme_links
 
 
@@ -225,7 +222,7 @@ def _(mo):
 
 @app.cell
 def _(current_cat):
-    path_raw_txt: str = "data-mining/raw/txt/"  # path a los datos sin limpiar
+    path_raw_txt: str = "datamining/raw/txt/"  # path a los datos sin limpiar
     global current_cat  # para tener in registro de la útlima categoría visitada en caso de error
     return (path_raw_txt,)
 
@@ -290,7 +287,7 @@ def _(
                         theme = theme_links.popleft()  # sacamos un enlace de la cola
 
                         is_theme_page: bool = (
-                            theme["grammar-categorie"] != "next-page"
+                            theme["type"] != "next-page"
                         )  # saber si es una temática o una página siguiente
                         page_url: str = f"{sts_url if is_theme_page else current_url}{theme['href']}"  # url correcto para la página
 
@@ -345,7 +342,6 @@ def _(
             print("Error", file=sys.stderr)
             return current_cat
         return current_cat
-
     return (get_sts_videos,)
 
 
@@ -356,7 +352,7 @@ def _(mo):
         on_click=lambda value: not value,
         label="Ejecutar ⚠️",
         kind="danger",
-        tooltip="Al pulsar este botón ejecutaras un proceso extensivo en recursos y tiempo",
+        tooltip="Al pulsar este botón ejecutaras un proceso intensivo en recursos y tiempo",
     )
     button
     return (button,)
@@ -377,16 +373,15 @@ def _(mo):
 
 @app.cell
 def _():
-    path_raw_json: str = "data-mining/raw/json/"  # path a los datos en json
-    path_clean: str = "data-mining/clean/"  # path a la salida de los datos limpios
-    return path_clean, path_raw_json
+    path_raw_json: str = "datamining/raw/json/"  # path a los datos en json
+    path_clean: str = "datamining/clean/"  # path a la salida de los datos limpios
+    path_clean_sts: str = "datamining/clean/StS/"
+    return path_clean, path_clean_sts, path_raw_json
 
 
 @app.cell
 def _(mo):
-    mo.md(
-        r"""Ahora vamos a recorrer los ficheros `.txt` que se guardaron de las copias de seguridad que estan en formato diccionario por linea, lo convertiremos a `json`"""
-    )
+    mo.md(r"""Ahora vamos a recorrer los ficheros `.txt` que se guardaron de las copias de seguridad que estan en formato diccionario por linea, lo convertiremos a `json`""")
     return
 
 
@@ -413,9 +408,7 @@ def _(json, os, path_raw_json: str, path_raw_txt: str):
 
 @app.cell
 def _(mo):
-    mo.md(
-        r"""Resulta que el campo `"gloss"` de nuestros datos no se guardo correctamente, para recuperarlo y que se entendible vamos a recuperarlo de la url de la página de donde extrajimos los datos, guardaremos en un dataframe."""
-    )
+    mo.md(r"""Resulta que el campo `"text"` de nuestros datos no se guardo correctamente, para recuperarlo y que se entendible vamos a recuperarlo de la url de la página de donde extrajimos los datos, guardaremos en un dataframe, como `"gloss"`.""")
     return
 
 
@@ -424,6 +417,7 @@ def _(os, path_raw_json: str, pl, urllib):
     dfs = [
         pl.read_json(os.path.join(path_raw_json, p)) for p in os.listdir(path_raw_json)
     ]  # leer todos los json a dataframe
+
     df = pl.concat(dfs, how="vertical")  # concatenar
 
     def extract_word(url: str) -> str:
@@ -431,10 +425,20 @@ def _(os, path_raw_json: str, pl, urllib):
         q = urllib.parse.parse_qs(parsed.query).get("q", [""])[0]
         return urllib.parse.unquote(q).replace("+", " ")
 
+    df = df.with_columns(
+        df["type"].alias("grammar-categorie")
+    )  # Cambiar "type" a "grammar-categorie"
+
     # Aplicar con map_elements
     df = df.with_columns(
         df["href"].map_elements(extract_word, return_dtype=pl.Utf8).alias("gloss")
     )  # había problemas con el nombre de las palabras
+
+    df = df.drop(["type", "text"])
+
+    df = df["href","video", "gloss", "grammar-categorie", "categorie"]
+
+    df
     return (df,)
 
 
@@ -445,10 +449,14 @@ def _(mo):
 
 
 @app.cell
-def _(df, path_clean: str, pl):
-    dictionary = pl.DataFrame(df["gloss"].unique().sort())
+def _(df, os, path_clean: str, pl):
+    dictionary = pl.DataFrame(
+        df["gloss"]
+        .alias("word")
+        .unique()
+    )
 
-    dictionary.write_csv(path_clean + "dictionary.csv")
+    dictionary.write_csv(os.path.join(path_clean, "dictionary.csv"))
     return
 
 
@@ -467,8 +475,8 @@ def _(mo):
 @app.cell
 def _(df):
     videos = df.filter(df["video"] != "no-video")[
-        "gloss", "grammar-categorie", "categorie", "video"
-    ]  #
+        "href", "video", "gloss", "grammar-categorie", "categorie"
+    ]
     videos.filter(
         videos["grammar-categorie"] == "unknow"
     )  # ver si hay videos sin tipo semántico
@@ -476,22 +484,65 @@ def _(df):
 
 
 @app.cell
-def _(path_clean: str, pl, unidecode, videos):
-    filtered_videos: pl.DataFrame = videos.with_columns(
+def _(pl, unidecode, videos):
+    filtered: pl.DataFrame = videos.with_columns(
         videos["grammar-categorie"]
         .replace({"unknow": "Nombre"})
         .alias("grammar-categorie")  # quitar unknow (todos deberían ser nombre)
     )
 
-    filtered_videos = filtered_videos.with_columns(
-        filtered_videos["grammar-categorie"]
+    filtered = filtered.with_columns(
+        filtered["grammar-categorie"]
         .map_elements(str.lower)  # todo en minúsculas
         .map_elements(unidecode)  # Sin tíldes
         .alias("grammar-categorie")  # reemplazar la columna "grammar-categorie"
     )
+    return (filtered,)
 
-    filtered_videos.write_csv(path_clean + "sts_videos.csv")
-    return (filtered_videos,)
+
+@app.cell
+def _(mo):
+    mo.md(
+        r"""
+    ### 4.3 Duplicados en el campo `"video"` y `"gloss"`
+
+    Mismo video distinta glosa ❌
+
+    Misma glosa distinto video ⚠️, es posible pero raro.
+
+    Repetición de video y glosa, eliminar ✅
+    """
+    )
+    return
+
+
+@app.cell
+def _(filtered: "pl.DataFrame"):
+    duplicated = filtered.filter( filtered["video"].is_duplicated() == True )
+    duplicated
+    return (duplicated,)
+
+
+@app.cell
+def _(duplicated):
+    unique_duplicated = duplicated.unique()
+    unique_duplicated
+
+    selection = duplicated.sort(by="video")
+    selection
+    return
+
+
+@app.cell
+def _(mo):
+    mo.md(r"""En este caso los videos que estan repetidos tienen la misma glosa asociada, es el caso más sencillo entonces nos quedamos con los valores únicos""")
+    return
+
+
+@app.cell
+def _(filtered: "pl.DataFrame"):
+    cleaned = filtered.filter( filtered["video", "gloss"].is_unique()).sort(by="video")
+    return (cleaned,)
 
 
 @app.cell
@@ -501,103 +552,101 @@ def _(mo):
 
 
 @app.cell
-def _(filtered_videos: "pl.DataFrame", mo):
-    mo.ui.data_explorer(filtered_videos)
+def _(cleaned, mo):
+    mo.ui.data_explorer(cleaned)
     return
 
 
 @app.cell
-def _(filtered_videos: "pl.DataFrame", pl):
-    categorie_count = filtered_videos.group_by("categorie").agg(pl.len().alias("count"))
+def _(pl):
+    def count_categories(df: pl.DataFrame, start = None, end = None):
+        return df \
+        .group_by("categorie") \
+        .agg(pl
+            .len() 
+            .alias("count"))\
+        .sort(by="count")[start:end] # Conteo de categorías para balancear (0 - 9)
+    return (count_categories,)
 
-    categorie_count = categorie_count.transpose(
-        column_names=categorie_count["categorie"].to_list(), include_header=False
+
+@app.cell
+def _(cleaned, pl):
+    cleaned \
+        .group_by("categorie") \
+        .agg(pl
+            .len() 
+            .alias("count"))\
+        .sort(by="count")[0:10] # Conteo de categorías para balancear (0 - 9)
+    return
+
+
+@app.cell
+def _(cleaned, pl):
+    cleaned \
+        .group_by("categorie") \
+        .agg(pl
+            .len() 
+            .alias("count"))\
+        .sort(by="count")[10::] # Conteo de categorías para balancear (10 - 16)
+    return
+
+
+@app.cell
+def _(cleaned, count_categories):
+    metadata = cleaned.with_columns(
+        cleaned["categorie"].replace(
+            old=[
+                "lengua-de-signos-para-bebes",
+                "oraciones",
+                "religion",
+                "geografia-y-viajes",
+                "pedagogia",
+                "informatica-y-tecnologia-moderna",
+                "alimentos-y-bebidas",
+                "estilo-de-vida",
+                "deportes-y-ocio",
+                "arte-y-entretenimiento",
+            ],
+            new=[
+                "generalidades",
+                "lenguaje",
+                "educacion",
+                "educacion",
+                "educacion",
+                "tecnologia",
+                "cotidiano",
+                "cotidiano",
+                "entretenimiento",
+                "entretenimiento",
+            ],
+        ).alias("categorie")
     )
 
-    categorie_count
+    count_categories(metadata)
+    return (metadata,)
+
+
+@app.cell
+def _(metadata, mo):
+    mo.ui.data_explorer(metadata)
     return
+
+
+@app.cell
+def _(metadata):
+    out = metadata.drop("grammar-categorie")
+    return (out,)
 
 
 @app.cell
 def _(mo):
-    mo.md(r"""## 6. Descarga de los videos""")
+    mo.md(r"""## 6. Guardar los datos""")
     return
 
 
 @app.cell
-def _():
-    csv_in: str = "data-mining/clean/sts_videos.csv"
-    csv_out: str = "data-mining/clean/sts_videos_labeled.csv"
-    videos_path: str = "data-mining/videos/"
-    return csv_in, csv_out, videos_path
-
-
-@app.cell
-def _(csv_in: str, pl):
-    videos_df = pl.read_csv(csv_in)
-    return
-
-
-@app.cell
-def _(os, videos_path: str):
-    os.makedirs(videos_path, exist_ok=True)
-    return
-
-
-@app.cell
-def _():
-    FIGURES: int = 5
-
-    class VideoLabeler:
-        def __init__(self, id=0) -> None:
-            self.id = id
-
-        def get_id(self):
-            rep = str(self.id)
-            n = FIGURES - len(rep)
-            self.id += 1
-            return n * "0" + rep + ".mp4"
-
-    return (VideoLabeler,)
-
-
-@app.cell
-def _(VideoLabeler, csv_out: str, df, os, pl, requests, videos_path: str):
-    def download_sts_videos():
-        vl = VideoLabeler()
-
-        # Aquí guardamos los metadatos
-        records = []
-
-        for row in df.iter_rows(named=True):
-            video_url = row["video"]
-            r = requests.get(video_url, stream=True)
-            r.raise_for_status()
-
-            video_name = vl.get_id()
-            video_out = os.path.join(videos_path, video_name)
-
-            with open(video_out, "wb") as f:
-                for chunk in r.iter_content(chunk_size=8192):
-                    if chunk:
-                        f.write(chunk)
-
-            # Guardamos los metadatos
-            records.append(
-                {
-                    "path": video_out,
-                    "gloss": row.get("gloss", None),
-                    "grammar-categorie": row.get("grammar-categorie", None),
-                    "categorie": row.get("categorie", None),
-                }
-            )
-
-        # Convertimos a polars DataFrame y lo guardamos como CSV
-        df_out = pl.DataFrame(records)
-        df_out.write_csv(csv_out)
-
-        print(f"CSV generado en: {csv_out}")
-
+def _(os, out, path_clean_sts: str):
+    out.write_csv(os.path.join(path_clean_sts, "metadata.csv")) 
     return
 
 

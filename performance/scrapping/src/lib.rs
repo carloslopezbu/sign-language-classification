@@ -1,10 +1,12 @@
 use pyo3::prelude::*;
-mod trie;
 
+mod trie;
 use trie::_Trie;
 
+mod webcrawler;
+
 #[pymodule]
-fn rust_wordsoup(m: &Bound<'_, PyModule>) -> PyResult<()> {
+fn scrapping(m: &Bound<'_, PyModule>) -> PyResult<()> {
     m.add_class::<_Trie>()?;
     Ok(())
 }
