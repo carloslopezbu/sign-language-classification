@@ -13,3 +13,4 @@ performance/scrapping/target/
 *.pth.tar
 
 *.lock
+documentos/*
