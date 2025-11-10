@@ -12,7 +12,7 @@ struct StSRecord {
     href: String,
     video: String,
     gloss: String,
-    categorie: String,
+    category: String,
 }
 fn extract_base_url(url: &str) -> String {
     // Buscar /word/NÚMERO/ y mantener hasta ahí
@@ -51,7 +51,7 @@ fn extract_record_video(
         href: href.to_string(),
         video: video.to_string(),
         gloss: record.gloss.clone(),
-        categorie: record.categorie.clone(),
+        category: record.category.clone(),
     })
 }
 fn get_sts_single_language(
@@ -109,6 +109,7 @@ fn get_sts_multilingual(file: &str, langs: Vec<&str>) -> Result<(), Box<dyn Erro
     }
     Ok(())
 }
+
 #[pyfunction]
 pub fn get_the_meat_balls(file: String, langs: Vec<String>) -> PyResult<()> {
     let lang_refs = langs.iter().map(|lang| lang.as_str()).collect();

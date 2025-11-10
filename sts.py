@@ -32,8 +32,8 @@ def _(mo):
 
     - **video**: Enlace al video del signante
     - **gloss**: La glosa.
-    - **grammar-categorie**: La categoría gramatical _(Nombre, Verbo ...)_
-    - **categorie**: Categoría temática del signo
+    - **grammar-category**: La categoría gramatical _(Nombre, Verbo ...)_
+    - **category**: Categoría temática del signo
 
     De manera paralela se construirá un diccionario de palabras _(signos)_ para uso futuro en la extracción de datos de la página web de **CNSE**.
     """
@@ -64,10 +64,10 @@ def _(mo):
 @app.cell
 def _():
     sts_url: str = "https://spreadthesign.com"  # root de la página original
-    sts_categories: str = (
+    sts_categorys: str = (
         f"{sts_url}/es.es/search/by-category/"  # url de la página de las categorías
     )
-    return sts_categories, sts_url
+    return sts_categorys, sts_url
 
 
 @app.cell
@@ -81,42 +81,42 @@ def _():
 
 
 @app.cell
-def _(headers: dict[str, str], requests, sts_categories: str):
-    sts_categories_page = requests.get(
-        sts_categories, headers=headers
+def _(headers: dict[str, str], requests, sts_categorys: str):
+    sts_categorys_page = requests.get(
+        sts_categorys, headers=headers
     )  # hmtl de la página de las categorías
-    return (sts_categories_page,)
+    return (sts_categorys_page,)
 
 
 @app.cell
-def _(BeautifulSoup, Trie, sts_categories_page, unidecode):
-    sts_categories_soup = BeautifulSoup(
-        sts_categories_page.text, "html.parser"
+def _(BeautifulSoup, Trie, sts_categorys_page, unidecode):
+    sts_categorys_soup = BeautifulSoup(
+        sts_categorys_page.text, "html.parser"
     )  # parseamos html de las categorías
 
-    categories = sts_categories_soup.find(id="categories").find_all(
+    categorys = sts_categorys_soup.find(id="categories").find_all(
         "li", recursive=False
     )  # encontramos todas las listas, solo padre
 
-    categories_links = [
+    categorys_links = [
         {"href": tag["href"], "gloss": unidecode(tag.get_text()).lower()}
-        for cat in categories
+        for cat in categorys
         for tag in cat.find_all(
             "a", href=True, recursive=False
         )  # Solo el primero no los hijos
     ]  # Obtenemos todos los enlace en de las listas en formato {"'"href"'": "'"referencia"'", "'"text"'": "'"categoria"'"}
 
     repeted: Trie = Trie()  # Creamos un trie para categorías no repetidas
-    categories_links_filtered = []  # lista con las categorias filtradas
+    categorys_links_filtered = []  # lista con las categorias filtradas
 
-    for cat in categories_links:
+    for cat in categorys_links:
         if not repeted.contains(cat["gloss"]):
-            categories_links_filtered.append(cat)
+            categorys_links_filtered.append(cat)
             repeted.insert(cat["gloss"])
 
-    categories_links = categories_links_filtered  # Sustituimos la lista filtrada
-    categories_links
-    return (categories_links,)
+    categorys_links = categorys_links_filtered  # Sustituimos la lista filtrada
+    categorys_links
+    return (categorys_links,)
 
 
 @app.cell
@@ -129,7 +129,7 @@ def _(mo):
 
     Los datos de cada signo normalmente era del tipo `"\n        palabra\n        \n          tipo-palabra\n"` _(Algunas no)_.
 
-    Este formato se mapea a `{"text": palabra, "grammar-categorie": tipo-palabra}`, si en algún caso no se puede hacer el parseo se pone el texto como esta en el formato sin parsear y se pone el tipo semático `"unknow"`.
+    Este formato se mapea a `{"text": palabra, "grammar-category": tipo-palabra}`, si en algún caso no se puede hacer el parseo se pone el texto como esta en el formato sin parsear y se pone el tipo semático `"unknow"`.
     """
     )
     return
@@ -231,7 +231,7 @@ def _(current_cat):
 def _(
     BeautifulSoup,
     Trie,
-    categories_links,
+    categorys_links,
     deque,
     get_theme_links,
     headers: dict[str, str],
@@ -247,7 +247,7 @@ def _(
         current_cat = 0
         theme_links = deque()
         try:
-            for cat_link in categories_links:  # iteramos sobre todas las cateogrias (Parar si va lento, recuperar por categoria)
+            for cat_link in categorys_links:  # iteramos sobre todas las cateogrias (Parar si va lento, recuperar por categoria)
                 # hacemos copia de seguridad por cateroría (⚠️ repetidos por categoría)
                 file_name = f"{cat_link['text'].replace(' ', '-')}.txt"
                 file_name = os.path.join(path_raw_txt, file_name)
@@ -376,7 +376,7 @@ def _():
     path_raw_json: str = "datamining/raw/json/"  # path a los datos en json
     path_clean: str = "datamining/clean/"  # path a la salida de los datos limpios
     path_clean_sts: str = "datamining/clean/StS/"
-    return path_clean, path_clean_sts, path_raw_json
+    return path_clean, path_raw_json
 
 
 @app.cell
@@ -391,11 +391,11 @@ def _(json, os, path_raw_json: str, path_raw_txt: str):
         path_raw_txt
     ):  # iteramos en la caperta con los ficheros categoria.txt (bad json)
         rows = []
-        categorie: str = file.split(".")[0]
+        category: str = file.split(".")[0]
         with open(path_raw_txt + file, "r", encoding="utf-8") as f:
             for line in f:
                 data = json.loads(line)  # cargamos diccionarios
-                data["categorie"] = categorie
+                data["category"] = category
                 if type(data["video"]) == list:  # Estaba como lista ahora sera cadena
                     assert len(data["video"]) == 1
                     data["video"] = data["video"][0]
@@ -426,8 +426,8 @@ def _(os, path_raw_json: str, pl, urllib):
         return urllib.parse.unquote(q).replace("+", " ")
 
     df = df.with_columns(
-        df["type"].alias("grammar-categorie")
-    )  # Cambiar "type" a "grammar-categorie"
+        df["type"].alias("grammar-category")
+    )  # Cambiar "type" a "grammar-category"
 
     # Aplicar con map_elements
     df = df.with_columns(
@@ -436,7 +436,7 @@ def _(os, path_raw_json: str, pl, urllib):
 
     df = df.drop(["type", "text"])
 
-    df = df["href","video", "gloss", "grammar-categorie", "categorie"]
+    df = df["href","video", "gloss", "grammar-category", "category"]
 
     df
     return (df,)
@@ -464,7 +464,7 @@ def _(df, os, path_clean: str, pl):
 def _(mo):
     mo.md(
         r"""
-    ### 4.2 Corrección del campo `"grammar-categorie"`
+    ### 4.2 Corrección del campo `"grammar-category"`
 
     Obtenemos los elementos que si tengan enlace de video y de ellos seleccionamos los que no se haya podido determinar su tipo semántico, en esta caso solo fueron cinco elementos y todos ellos eran nombres, después se formatean todos los nombres en miníscula y sin tíldes.
     """
@@ -475,10 +475,10 @@ def _(mo):
 @app.cell
 def _(df):
     videos = df.filter(df["video"] != "no-video")[
-        "href", "video", "gloss", "grammar-categorie", "categorie"
+        "href", "video", "gloss", "grammar-category", "category"
     ]
     videos.filter(
-        videos["grammar-categorie"] == "unknow"
+        videos["grammar-category"] == "unknow"
     )  # ver si hay videos sin tipo semántico
     return (videos,)
 
@@ -486,167 +486,29 @@ def _(df):
 @app.cell
 def _(pl, unidecode, videos):
     filtered: pl.DataFrame = videos.with_columns(
-        videos["grammar-categorie"]
+        videos["grammar-category"]
         .replace({"unknow": "Nombre"})
-        .alias("grammar-categorie")  # quitar unknow (todos deberían ser nombre)
+        .alias("grammar-category")  # quitar unknow (todos deberían ser nombre)
     )
 
     filtered = filtered.with_columns(
-        filtered["grammar-categorie"]
+        filtered["grammar-category"]
         .map_elements(str.lower)  # todo en minúsculas
         .map_elements(unidecode)  # Sin tíldes
-        .alias("grammar-categorie")  # reemplazar la columna "grammar-categorie"
+        .alias("grammar-category")  # reemplazar la columna "grammar-category"
     )
     return (filtered,)
 
 
-@app.cell
+@app.cell(hide_code=True)
 def _(mo):
-    mo.md(
-        r"""
-    ### 4.3 Duplicados en el campo `"video"` y `"gloss"`
-
-    Mismo video distinta glosa ❌
-
-    Misma glosa distinto video ⚠️, es posible pero raro.
-
-    Repetición de video y glosa, eliminar ✅
-    """
-    )
+    mo.md(r"""## 5. Guardar los datos para post-procesado""")
     return
 
 
 @app.cell
 def _(filtered: "pl.DataFrame"):
-    duplicated = filtered.filter( filtered["video"].is_duplicated() == True )
-    duplicated
-    return (duplicated,)
-
-
-@app.cell
-def _(duplicated):
-    unique_duplicated = duplicated.unique()
-    unique_duplicated
-
-    selection = duplicated.sort(by="video")
-    selection
-    return
-
-
-@app.cell
-def _(mo):
-    mo.md(r"""En este caso los videos que estan repetidos tienen la misma glosa asociada, es el caso más sencillo entonces nos quedamos con los valores únicos""")
-    return
-
-
-@app.cell
-def _(filtered: "pl.DataFrame"):
-    cleaned = filtered.filter( filtered["video", "gloss"].is_unique()).sort(by="video")
-    return (cleaned,)
-
-
-@app.cell
-def _(mo):
-    mo.md(r"""## 5. Exploración de los datos""")
-    return
-
-
-@app.cell
-def _(cleaned, mo):
-    mo.ui.data_explorer(cleaned)
-    return
-
-
-@app.cell
-def _(pl):
-    def count_categories(df: pl.DataFrame, start = None, end = None):
-        return df \
-        .group_by("categorie") \
-        .agg(pl
-            .len() 
-            .alias("count"))\
-        .sort(by="count")[start:end] # Conteo de categorías para balancear (0 - 9)
-    return (count_categories,)
-
-
-@app.cell
-def _(cleaned, pl):
-    cleaned \
-        .group_by("categorie") \
-        .agg(pl
-            .len() 
-            .alias("count"))\
-        .sort(by="count")[0:10] # Conteo de categorías para balancear (0 - 9)
-    return
-
-
-@app.cell
-def _(cleaned, pl):
-    cleaned \
-        .group_by("categorie") \
-        .agg(pl
-            .len() 
-            .alias("count"))\
-        .sort(by="count")[10::] # Conteo de categorías para balancear (10 - 16)
-    return
-
-
-@app.cell
-def _(cleaned, count_categories):
-    metadata = cleaned.with_columns(
-        cleaned["categorie"].replace(
-            old=[
-                "lengua-de-signos-para-bebes",
-                "oraciones",
-                "religion",
-                "geografia-y-viajes",
-                "pedagogia",
-                "informatica-y-tecnologia-moderna",
-                "alimentos-y-bebidas",
-                "estilo-de-vida",
-                "deportes-y-ocio",
-                "arte-y-entretenimiento",
-            ],
-            new=[
-                "generalidades",
-                "lenguaje",
-                "educacion",
-                "educacion",
-                "educacion",
-                "tecnologia",
-                "cotidiano",
-                "cotidiano",
-                "entretenimiento",
-                "entretenimiento",
-            ],
-        ).alias("categorie")
-    )
-
-    count_categories(metadata)
-    return (metadata,)
-
-
-@app.cell
-def _(metadata, mo):
-    mo.ui.data_explorer(metadata)
-    return
-
-
-@app.cell
-def _(metadata):
-    out = metadata.drop("grammar-categorie")
-    return (out,)
-
-
-@app.cell
-def _(mo):
-    mo.md(r"""## 6. Guardar los datos""")
-    return
-
-
-@app.cell
-def _(os, out, path_clean_sts: str):
-    out.write_csv(os.path.join(path_clean_sts, "metadata.csv")) 
+    filtered.write_csv("datamining/clean/StS/metadata.csv")
     return
 
 

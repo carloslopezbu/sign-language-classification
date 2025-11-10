@@ -16,6 +16,7 @@ dependencies = [
     "requests>=2.32.5",
     "scrapping",
     "torch>=2.8.0",
+    "unidecode>=1.4.0",
 ]
 
 [tool.uv.sources]
