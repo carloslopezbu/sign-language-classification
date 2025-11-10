@@ -1,0 +1,142 @@
+\documentclass[a4paper,12pt,twoside,final]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-nodecimaldot]{babel} % International, rec. by RAE: http://www.tex-tipografia.com/marca_decimal.html
+
+% COLOR
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+% Colores para portada
+\definecolor{epsc:oscuro}{HTML}{280091}
+ \definecolor{epsc:medio}{HTML}{4C5CC5}
+ \definecolor{epsc:claro}{HTML}{3FCFD5}
+ \definecolor{epsc:verde}{HTML}{00B299}
+
+\usepackage{tikz} % used in cover to place images
+
+% UTILs
+\usepackage{datetime} % allow formal date format
+% "Month, YEAR" date format, in spanish with the month uppercased not interfering other dates
+\newcommand\Monthname[1][EMPTY]{
+  \ifnum1=#1Enero\else
+  \ifnum2=#1Febrero\else
+  \ifnum3=#1Marzo\else
+  \ifnum4=#1Abril\else
+  \ifnum5=#1Mayo\else
+  \ifnum6=#1Junio\else
+  \ifnum7=#1Julio\else
+  \ifnum8=#1Agosto\else
+  \ifnum9=#1Septiembre\else
+  \ifnum10=#1Octubre\else
+  \ifnum11=#1Noviembre\else
+  \ifnum12=#1Diciembre\else
+  \fi\fi\fi\fi\fi\fi\fi\fi\fi\fi\fi\fi
+}
+\newdateformat{monthyeardate}{%
+  \Monthname[\THEMONTH], \THEYEAR}
+
+
+% FONTs
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}           % Needed for new symbols like € ?
+
+\usepackage[scaled]{berasans} % Font for the cover similar to Vera 33
+%\renewcommand*\familydefault{\sfdefault}  %% To use as the base font of the document is to be sans serif
+
+
+% PAGE STYLE
+\usepackage[twoside,bindingoffset=0mm,headheight=16pt,margin=25mm]{geometry} %,verbose,showframe
+\usepackage{fancyhdr} % Encabezados
+\pagestyle{fancy}
+% XXX Evitar el binding en la portada pero no en el resto del documento
+
+
+% TABLES AND FIGURES
+\usepackage{graphicx}
+\graphicspath{ {img/} }
+
+
+
+\begin{document}
+\frontmatter
+
+%
+% INSTRUCCIONES:
+% - Cambia a el escudo de tu titulación comentando y descomentando las líneas correspondientes
+% - Cambia todos los textos que están entre '<' y '>' por lo que corresponda en tu proyecto
+%
+
+
+%------------- Cover --------------
+\thispagestyle{empty}
+
+% Backgroud images
+\begin{tikzpicture}[remember picture, overlay]
+  % Top
+  \node [anchor=north east, inner sep=0pt]  at (current page.north east)
+     {\includegraphics[height=6cm]{topRightCorner.pdf}};
+  % Bottom
+  \node [anchor=south west, inner sep=0pt]  at (current page.south west)
+     {\includegraphics[height=6cm]{bottomLeftCorner.pdf}};
+  \node (uco) [anchor=south east, inner sep=0pt, xshift=-10mm, yshift=10mm]  at (current page.south east)
+        {\includegraphics[height=2cm]{logoUCO.pdf}};
+  \node [anchor=south east, inner sep=0pt, xshift=-10mm]  at (uco.south west)
+% ---- Escudo de la titulación correspondiente ----
+        {\includegraphics[height=2cm]{emblema-ing-informatica.pdf}};
+%        {\includegraphics[height=2cm]{emblema-ing-industrial.pdf}};
+%        {\includegraphics[height=2cm]{emblema-ing-tec-industrial.pdf}};
+\end{tikzpicture}
+
+
+\begin{center}
+\fontfamily{\sfdefault}\selectfont
+\vspace*{2cm}
+
+\vfill
+\vfill
+\includegraphics[width=12.5cm]{LogotipoEPSC.pdf}
+\vfill
+\vfill
+
+\large\textbf{\color{epsc:medio}
+  TRABAJO FIN DE <GRADO/MÁSTER>
+}
+\vfill
+
+\Large\textbf{\color{epsc:verde}
+  Grado en Ingeniería <Informática/Electrónica Industrial/Eléctrica/Mecánica>
+}
+\vfill
+\vfill
+
+\Huge\textbf{\color{epsc:oscuro}
+  <Título del proyecto del trabajo fin de carrera>
+}
+\vfill
+\vfill
+
+\large{\color{epsc:oscuro}Autor}\\
+\textbf{\color{epsc:medio} <Nombre Apellidos Autor> }
+\vfill
+
+\large{\color{epsc:oscuro} Director$<$es$>$ }\\
+\textbf{\color{epsc:medio} <Nombre Apellidos Director 1> \\ <Nombre Apellidos Director 2> }
+\vfill
+
+
+
+\textbf{\color{epsc:verde} \monthyeardate\today}
+\vfill
+\vfill
+\vspace{2.7cm}
+\end{center}
+
+
+%-------------------------------------------------------------------------------------------------------
+\clearpage
+
+\thispagestyle{empty}
+\pagecolor{white}
+
+\cleardoublepage
+%-------------------------------------------------------------------------------------------------------
+
+\end{document}

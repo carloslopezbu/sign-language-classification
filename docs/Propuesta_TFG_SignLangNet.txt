@@ -1,0 +1,16 @@
+SignLangNet: Aprendiendo a ver el lenguaje — Clasificación multilingüe de lenguas de signos mediante modelos de visión y lenguaje
+
+Este Trabajo de Fin de Grado propone el desarrollo de un sistema multilingüe para el análisis y clasificación de vídeos de lenguas de signos, combinando modelos de visión artificial y transformadores multilingües.
+
+El objetivo principal es doble:
+1. Clasificar cada vídeo según la lengua de signos utilizada (por ejemplo, LSE, ASL o LSF).
+2. Identificar la temática o categoría semántica del contenido (saludos, familia, comida, educación, etc.).
+
+El sistema integrará un modelo de redes convolucionales tridimensional (I3D) para la extracción de características visuales y un modelo transformer multilingüe (mBART o XLM-R) para capturar la estructura temporal y lingüística de la secuencia.
+Mediante mecanismos de atención temporal, el modelo podrá centrarse en las partes más relevantes de cada gesto, incluso en vídeos de duración y complejidad variable.
+
+La evaluación incluirá métricas de clasificación top-k por idioma y precisión temática, junto con un análisis de confusiones entre lenguas de signos para estudiar las similitudes visuales y las diferencias lingüísticas entre ellas.
+
+Este proyecto se enmarca en el ámbito de la lingüística computacional multimodal, explorando cómo los modelos de visión y lenguaje pueden ayudar a comprender la diversidad visual y estructural de las lenguas de signos.
+
+El trabajo se desarrollará y redactará íntegramente en inglés.
