@@ -19,3 +19,11 @@ documentos/*
 
 datamining/videos*
 datamining/images*
+build/
+target/
+*.so
+*.dylib
+*.pyc
+__pycache__/
+.venv/
+*.egg-info/
