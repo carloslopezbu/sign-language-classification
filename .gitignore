@@ -14,3 +14,5 @@ src/performance/scrapping/target/
 
 *.lock
 documentos/*
+
+datamining/videos*

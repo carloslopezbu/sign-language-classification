@@ -1016,7 +1016,7 @@ wheels = [
 [[package]]
 name = "scrapping"
 version = "0.1.0"
-source = { path = "performance/scrapping/target/wheels/scrapping-0.1.0-cp313-cp313-macosx_11_0_arm64.whl" }
+source = { path = "src/performance/scrapping/target/wheels/scrapping-0.1.0-cp313-cp313-macosx_11_0_arm64.whl" }
 wheels = [
     { filename = "scrapping-0.1.0-cp313-cp313-macosx_11_0_arm64.whl", hash = "sha256:8aed38d6abd73135e25beb6d97bc5f20aaef722ef6945594252893667d362672" },
 ]
@@ -1111,7 +1111,7 @@ requires-dist = [
     { name = "playwright", specifier = ">=1.55.0" },
     { name = "polars", specifier = ">=1.35.1" },
     { name = "requests", specifier = ">=2.32.5" },
-    { name = "scrapping", path = "performance/scrapping/target/wheels/scrapping-0.1.0-cp313-cp313-macosx_11_0_arm64.whl" },
+    { name = "scrapping", path = "src/performance/scrapping/target/wheels/scrapping-0.1.0-cp313-cp313-macosx_11_0_arm64.whl" },
     { name = "torch", specifier = ">=2.8.0" },
     { name = "unidecode", specifier = ">=1.4.0" },
 ]

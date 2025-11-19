@@ -20,4 +20,4 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-scrapping = { path = "performance/scrapping/target/wheels/scrapping-0.1.0-cp313-cp313-macosx_11_0_arm64.whl" }
+scrapping = { path = "src/performance/scrapping/target/wheels/scrapping-0.1.0-cp313-cp313-macosx_11_0_arm64.whl" }
