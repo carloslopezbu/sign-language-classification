@@ -8,7 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
-src/performance/scrapping/target/
+src/performance/webproc/target/
+src/performance/imgproc/build/
+
 .DS_Store
 *.pth.tar
 
