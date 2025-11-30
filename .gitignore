@@ -12,7 +12,7 @@ src/performance/webproc/target/
 src/performance/imgproc/build/
 
 .DS_Store
-*.pth.tar
+models/
 
 *.lock
 documentos/*
@@ -27,3 +27,7 @@ target/
 __pycache__/
 .venv/
 *.egg-info/
+
+.cache
+
+.env

@@ -1,3 +1,5 @@
+// Source implementation: https://dev.to/timclicks/two-trie-implementations-in-rust-ones-super-fast-2f3m
+
 use fxhash::FxBuildHasher;
 use pyo3::prelude::*;
 use std::collections::HashMap;
@@ -17,7 +19,6 @@ pub struct Trie {
 }
 
 impl Trie {
-    /// Recorre el trie y acumula palabras
     fn collect_words(node: &TrieNode, prefix: &mut String, words: &mut Vec<String>) {
         if node.is_end_of_word {
             words.push(prefix.clone());
@@ -62,7 +63,6 @@ impl Trie {
         current_node.is_end_of_word
     }
 
-    /// Devuelve todas las palabras en un solo string
     pub fn to_str(&self) -> String {
         let mut words = Vec::new();
         let mut prefix = String::new();

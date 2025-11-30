@@ -1,3 +1,0 @@
-def hello_world(msg: str) -> None:
-    """Prints msg"""
-    ...
