@@ -19,6 +19,8 @@ documentos/*
 
 datamining/videos*
 datamining/images*
+datamining/samples*
+
 build/
 target/
 *.so
@@ -29,5 +31,5 @@ __pycache__/
 *.egg-info/
 
 .cache
-
 .env
+*.mp4
