@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Las lenguas de signos nos unen.",
+         "start": 1.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba, polo rosa y chaqueta clara.",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,131 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Yo siempre como bien, llevo una dieta saludable para estar fuerte",
+         "start": 5.964,
+         "duration": 2.919,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Joven pelo corto, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y hacer deporte. Me he dado cuenta gracias a",
+         "start": 8.883,
+         "duration": 1.668,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Joven pelo corto, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "He terminado Bachillerato, y ahora no sé qué hacer,",
+         "start": 15.098,
+         "duration": 2.502,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta rosa y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "si ir a un ciclo superior o a la universidad. ¿Tú qué piensas?",
+         "start": 17.6,
+         "duration": 2.919,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta rosa y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Espera mira.",
+         "start": 21.02,
+         "duration": 0.667,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra 'WHO'S THE BOSS'",
+         "screen_position": "left"
+      },
+      {
+         "text": "Esta página web puede darte toda la información que necesites",
+         "start": 22.272,
+         "duration": 3.295,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra 'WHO'S THE BOSS'",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ah, a mí me encanta la música.",
+         "start": 27.027,
+         "duration": 1.501,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra 'WHO'S THE BOSS'",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Hay algún evento o cosas así de música para sordos?. Me gustaría ir, no sé",
+         "start": 28.862,
+         "duration": 3.211,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra 'WHO'S THE BOSS'",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pues lo buscamos en esta web y vamos juntas.",
+         "start": 32.615,
+         "duration": 1.918,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta rosa y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Sí, ¡ vamos! ¡Vamos!",
+         "start": 34.868,
+         "duration": 1.251,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra 'WHO'S THE BOSS'",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si también tenéis dudas sobre algunos de estos temas:",
+         "start": 37.537,
+         "duration": 2.836,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "amigos, familia, estudios, sobre ti mismo como persona",
+         "start": 40.874,
+         "duration": 5.672,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Entra en la web www.jovensordo.org ahí tendrás información de todo esto.",
+         "start": 47.047,
+         "duration": 6.006,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y si no encuentras lo que necesitas ¡pincha en el botón \"Pregúntanos\"!",
+         "start": 53.636,
+         "duration": 5.422,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, jersey granate",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Estamos en el Colegio Oficial de Arquitectos de Madrid.",
+         "start": 17.217,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Está cerca del metro de Chueca.",
+         "start": 20.82,
+         "duration": 1.769,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué se va a celebrar aquí?",
+         "start": 22.922,
+         "duration": 1.368,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El II Foro Asociativo.",
+         "start": 24.624,
+         "duration": 1.869,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El aforo máximo será de 300 personas.",
+         "start": 34.834,
+         "duration": 2.703,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Va a estar así de vacío?",
+         "start": 46.246,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los días 17 y 18 de octubre del año 2020, va a estar repleto de personas sordas, stands, exposiciones culturales, etc.",
+         "start": 48.248,
+         "duration": 8.375,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, aquí será el lugar del catering.",
+         "start": 56.956,
+         "duration": 1.702,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Nos vemos!",
+         "start": 104.904,
+         "duration": 1.235,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

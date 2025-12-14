@@ -1,0 +1,50 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¿El permiso de conducir ucraniano es válido en España?",
+         "start": 1.0,
+         "duration": 7.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y mujer pelo corto rubio",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Sí. Las personas ucranianas pueden utilizar su permiso de conducir en territorio español durante al menos un año.",
+         "start": 8.0,
+         "duration": 11.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y mujer pelo corto rubio",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Además, podrán canjear su permiso de conducción ucraniano por un permiso de conducción español si así lo desean.",
+         "start": 19.0,
+         "duration": 9.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y mujer pelo corto rubio",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Para ello, deberán acreditar su residencia en España presentando el permiso de protección temporal que se les ha otorgado, y en su defecto el resguardo de la presentación de la solicitud de protección temporal.",
+         "start": 28.0,
+         "duration": 20.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y mujer pelo corto rubio",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Les apoyarán en el trámite en el centro de recepción y acogida en el que les atiendan.",
+         "start": 48.0,
+         "duration": 11.56,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y mujer pelo corto rubio",
+         "screen_position": "multiple"
+      }
+   ]
+}

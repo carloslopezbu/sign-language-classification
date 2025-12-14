@@ -1,0 +1,77 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Mis padres me controlan mucho ¿es por qué soy sorda?",
+         "start": 4.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta blanca y chaqueta negra",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "¿Soy hipoacúsica? ¿Soy sorda? ¿Soy oyente?",
+         "start": 8.0,
+         "duration": 4.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Sentirse enfadado, triste, contento. ¿Tantos cambios son normales?",
+         "start": 13.0,
+         "duration": 6.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "¿Qué puedo hacer cuando estoy nervioso?",
+         "start": 20.0,
+         "duration": 4.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "¿Por qué hay gente que adelgaza con facilidad y otra no?",
+         "start": 25.0,
+         "duration": 6.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Dicen que estar siempre borracho no es bueno ¿por qué?",
+         "start": 33.0,
+         "duration": 6.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "¡Callaos ya! Si tenéis alguna duda preguntadlo.",
+         "start": 40.0,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Haced click en el botón \"Pregúntanos\" y un experto os contestará.",
+         "start": 44.0,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta roja",
+         "screen_position": "center"
+      }
+   ]
+}

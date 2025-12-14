@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Personas sordas: ciudadanos y con deberes y derechos",
+         "start": 29.0,
+         "duration": 29.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta vaquera y sudadera blanca, pelo oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "derechos para todas las personas, hombres y mujeres. Da igual el porcentaje, sea un 1, un 10, un 93 o un millón de personas.",
+         "start": 0.9,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, chaqueta oscura y blusa clara",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tenemos que cubrir los derechos.",
+         "start": 5.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, chaqueta oscura y blusa clara",
+         "screen_position": "right"
+      },
+      {
+         "text": "El servicio de intérpretes, no cabe ninguna duda, de que es un derecho vinculado a los derechos.",
+         "start": 6.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, chaqueta oscura y blusa clara",
+         "screen_position": "right"
+      },
+      {
+         "text": "El servicio de intérpretes no es un lujo, no es un capricho.",
+         "start": 9.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, chaqueta oscura y blusa clara",
+         "screen_position": "right"
+      },
+      {
+         "text": "El servicio de intérpretes es una necesidad humana y una necesidad básica que se debe de cubrir.",
+         "start": 11.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, chaqueta oscura y blusa clara",
+         "screen_position": "right"
+      },
+      {
+         "text": "Gracias a este servicio, las personas sordas y las personas sordociegas pueden ejercer sus derechos en igualdad de condiciones con el resto de la ciudadanía.",
+         "start": 15.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, chaqueta oscura y blusa clara",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y esto es un avance muy importante para la sociedad en general y para las personas sordas y sordociegas en particular.",
+         "start": 21.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, chaqueta oscura y blusa clara",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es un derecho fundamental.",
+         "start": 28.0,
+         "duration": 1.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, chaqueta oscura y blusa clara",
+         "screen_position": "right"
+      }
+   ]
+}

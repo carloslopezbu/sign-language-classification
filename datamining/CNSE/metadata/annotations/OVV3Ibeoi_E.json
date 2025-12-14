@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy celebramos el 50º aniversario de la Asociación de Persoas Xordas de Ferrolterra.",
+         "start": 3.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro, gafas, vestido negro de puntos blancos.",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Felicidades!",
+         "start": 8.0,
+         "duration": 1.8,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Ambas mujeres haciendo un gesto de celebración con las manos levantadas.",
+         "screen_position": "multiple"
+      }
+   ]
+}

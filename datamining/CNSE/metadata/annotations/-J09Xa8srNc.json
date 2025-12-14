@@ -1,0 +1,140 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy, Pedro Sánchez, el Presidente del Gobierno, ha declarado el estado de alarma en toda España por la alerta sanitaria del coronavirus.",
+         "start": 1.117,
+         "duration": 7.224,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El estado de alarma es un régimen excepcional que recoge y regula la Constitución Española.",
+         "start": 9.009,
+         "duration": 6.222,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Por qué se declara?",
+         "start": 15.932,
+         "duration": 1.201,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se declara cuando surgen situaciones que alteran la normalidad como terremotos, catástrofes naturales, riesgos graves o alarmas sanitarias como la que estamos viviendo.",
+         "start": 17.717,
+         "duration": 13.614,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El estado de estado se declara para asegurar el restablecimiento de la normalidad.",
+         "start": 31.831,
+         "duration": 7.928,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Quiénes lo declaran?",
+         "start": 40.927,
+         "duration": 1.301,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con la autorización previa del Congreso, lo declara el Gobierno mediante decreto acordado por el Consejo de Ministros",
+         "start": 42.729,
+         "duration": 10.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuánto dura?",
+         "start": 53.69,
+         "duration": 0.801,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un plazo máximo de quince días, aunque puede ser prorrogado a más tiempo si el Congreso lo autoriza y si fuera necesario.",
+         "start": 54.941,
+         "duration": 8.178,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué supone?",
+         "start": 103.92,
+         "duration": 2.502,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Supone muchas medidas. Porque su objetivo es asegurar la protección de personas, bienes y lugares.",
+         "start": 107.089,
+         "duration": 6.126,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por tanto, las medidas son de obligado cumplimiento.",
+         "start": 113.715,
+         "duration": 4.603,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden afectar al uso de servicios, al consumo y la libre circulación de personas y vehículos, etc",
+         "start": 118.818,
+         "duration": 13.27,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es posible que mañana, tras el Consejo de Ministros extraordinario, el Gobierno explique las medidas con más detalle.",
+         "start": 132.589,
+         "duration": 7.126,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os informaremos de las mismas.",
+         "start": 140.049,
+         "duration": 2.083,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

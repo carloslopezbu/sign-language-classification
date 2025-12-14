@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "PRESENTACIÓN DE QUEJA / SUGERENCIA",
+         "start": 19.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "left"
+      },
+      {
+         "text": "El asterisco * indica que es imprescindible completar este dato. Si se trata de una QUEJA, deberá indicar el NIF, el primer apellido y pulsar en Registrar. La SUGERENCIA podrá ser Anónima y por lo tanto no será obligatorio indicar el NIF.",
+         "start": 24.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tipo de Documento: Queja y Sugerencia",
+         "start": 28.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "left"
+      },
+      {
+         "text": "Motivo",
+         "start": 40.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "left"
+      },
+      {
+         "text": "Motivo: Persona sorda",
+         "start": 42.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "left"
+      },
+      {
+         "text": "Como persona sorda, interpongo esta queja ante la falta de accesibilidad en los medios para contactar con la Agencia Tributaria. La única alternativa que ofrecen para resolver dudas y obtener cita para realizar la declaración de la renta es por vía telefónica, sin ser posible la comunicación a través de videointerpretación en lengua de signos o por escrito. Es preciso que tengan presente que esto supone una discriminación por razón de mi discapacidad y un incumplimiento de la legislación, tales como la Convención sobre los Derechos de las Personas con Discapacidad, la Ley 27/2007 por la que se reconocen las lenguas de signos españolas o el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de inclusión social, entre otros instrumentos normativos. Dicho esto, quedo a la espera de respuesta y de que se tenga en cuenta esta reclamación para que, como persona sorda, pueda hacer efectivos mis derechos en igualdad de condiciones, cumpliéndose los principios de transversalidad de las políticas en materia de lengua de signos y medios de apoyo a la comunicación oral, accesibilidad universal, libertad de elección, no discriminación y normalización.",
+         "start": 45.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "left"
+      },
+      {
+         "text": "Como persona sorda, interpongo esta queja ante la falta de accesibilidad en los medios para contactar con la Agencia Tributaria. La única alternativa que ofrecen para resolver dudas y obtener cita para realizar la declaración de la renta es por vía telefónica, sin ser posible la comunicación a través de videointerpretación en lengua de signos o por escrito. Es preciso que tengan presente que esto supone una discriminación por razón de mi discapacidad y un incumplimiento de la legislación, tales como la Convención sobre los Derechos de las Personas con Discapacidad, la Ley 27/2007 por la que se reconocen las lenguas de signos españolas o el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de inclusión social, entre otros instrumentos normativos. Dicho esto, quedo a la espera de respuesta y de que se tenga en cuenta esta reclamación para que, como persona sorda, pueda hacer efectivos mis derechos en igualdad de condiciones, cumpliéndose los principios de transversalidad de las políticas en materia de lengua de signos y medios de apoyo a la comunicación oral, accesibilidad universal, libertad de elección, no discriminación y normalización.",
+         "start": 48.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "left"
+      },
+      {
+         "text": "Aceptar",
+         "start": 51.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "left"
+      }
+   ]
+}

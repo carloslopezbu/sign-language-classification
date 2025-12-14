@@ -1,0 +1,104 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "LAS PERSONAS TRANS, CON LOS MISMOS DERECHOS",
+         "start": 0.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, camiseta roja, pelo recogido en moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pese a que son varios los países europeos que permiten de forma legal la adopción y el matrimonio igualitario, respecto a las personas trans,",
+         "start": 2.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, camiseta roja, pelo recogido en moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "hay que denunciar que a día de hoy, 24 países piden como requisito la esterilización forzosa antes de proporcionar",
+         "start": 9.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, camiseta roja, pelo recogido en moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "dicho reconocimiento legal. Asimismo, aún son 7 los países que no permiten a estas personas cambiar de nombre y de género.",
+         "start": 17.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, camiseta roja, pelo recogido en moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Muchas personas trans han intentado suicidarse en algún momento,",
+         "start": 22.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, camiseta roja, pelo recogido en moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "para acabar con el tormento que supone el rechazo social, y la falta de legislación que les ampare.",
+         "start": 28.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, camiseta roja, pelo recogido en moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "SoLidaridad",
+         "start": 39.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, camiseta roja, pelo recogido en moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGualdad",
+         "start": 43.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer, pelo con rastas",
+         "screen_position": "center"
+      },
+      {
+         "text": "RespeTo",
+         "start": 46.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre, barba, calvo",
+         "screen_position": "center"
+      },
+      {
+         "text": "LiBertad",
+         "start": 48.0,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer, pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Identidad",
+         "start": 51.0,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer, pelo oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

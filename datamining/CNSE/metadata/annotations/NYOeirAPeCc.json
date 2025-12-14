@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La noche de los libros 2016",
+         "start": 1.121,
+         "duration": 44.085,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo morado",
+         "screen_position": "right"
+      },
+      {
+         "text": "Museo ICO, calle Zorrilla número 3 Madrid",
+         "start": 45.206,
+         "duration": 6.294,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo morado",
+         "screen_position": "right"
+      }
+   ]
+}

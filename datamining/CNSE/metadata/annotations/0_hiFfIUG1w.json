@@ -1,0 +1,68 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Nuestro futuro no se construye solo. Se construye juntas y juntos.",
+         "start": 5.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y las claves son tres: innovación, inspiración e impacto.",
+         "start": 14.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo suelto, mono negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Innovación es aprovechar esa diversidad que nos caracteriza. Que nos enriquece. Que nos hace más fuertes. De ahí nacen las mejores ideas.",
+         "start": 21.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Inspiración es ver a una persona sorda lograr sus metas y pensar: ¡yo también puedo!",
+         "start": 32.0,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo suelto, mono negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Impacto es cuando esa inspiración cambia las cosas: leyes más justas, más accesibilidad, más respeto.",
+         "start": 42.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Nuestro futuro empieza aquí y ahora. Con nosotras, con nosotros. Con innovación, inspiración e impacto.",
+         "start": 56.0,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo suelto, mono negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Unidas podemos construir un mundo donde la lengua de signos esté presente en todo momento, en todo lugar y en cualquier circunstancia. Porque sin la lengua de signos nada es lo mismo.",
+         "start": 65.0,
+         "duration": 16.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      }
+   ]
+}

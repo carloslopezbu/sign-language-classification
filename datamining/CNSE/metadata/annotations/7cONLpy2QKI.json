@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy día 5 de febrero se celebra el Día de Internet Segura,",
+         "start": 0.92,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "con el objetivo de promover, entre niñas/os y jóvenes del mundo,",
+         "start": 3.92,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "un uso responsable de Internet.",
+         "start": 8.92,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "FCNSE y la Fundación MAPFRE han creado la página web",
+         "start": 11.92,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "de 'Internet un uso responsable'.",
+         "start": 16.92,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta página web, los niñas y niños sordos pueden aprender a usar Internet y las redes sociales de forma responsable,",
+         "start": 20.92,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "evitando posibles peligros y amenazas.",
+         "start": 26.92,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La web es útil para profesores y familias también",
+         "start": 42.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que conozcan cómo los niños/as pueden usar el Internet, tanto en la escuela como en casa.",
+         "start": 47.0,
+         "duration": 9.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta gris",
+         "screen_position": "center"
+      }
+   ]
+}

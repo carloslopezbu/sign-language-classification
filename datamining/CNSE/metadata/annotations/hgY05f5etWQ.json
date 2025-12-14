@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El BOE ha publicado la convocatoria del Fondo Reina Letizia",
+         "start": 0.83,
+         "duration": 4.63,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que alumnado con discapacidad pueda optar a las ayudas de estudio.",
+         "start": 5.46,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las ayudas tienen como finalidad mejorar las condiciones educativas y formativas de las alumnas y alumnos con discapacidad,",
+         "start": 10.46,
+         "duration": 8.87,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y dotarles de los recursos de apoyo y económicos para desarrollar sus proyectos formativos y su capacitación profesional.",
+         "start": 19.33,
+         "duration": 9.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tienes más de 16 años, y una discapacidad igual o superior al 33 por ciento, y cursas estudios, puedes solicitarlas.",
+         "start": 29.29,
+         "duration": 9.71,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El plazo finaliza el 4 de agosto.",
+         "start": 39.0,
+         "duration": 3.13,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para más información, entra la página web del BOE donde encontrarás toda la información para solicitar las ayudas.",
+         "start": 42.13,
+         "duration": 8.59,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      }
+   ]
+}

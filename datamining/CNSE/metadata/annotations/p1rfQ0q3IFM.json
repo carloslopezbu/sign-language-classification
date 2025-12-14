@@ -1,0 +1,140 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "El reconocimiento legal de las lenguas de signos no es un acto simbólico.",
+         "start": 6.1,
+         "duration": 4.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es un paso fundamental para garantizar los derechos humanos de millones de personas sordas en todo el mundo.",
+         "start": 11.2,
+         "duration": 6.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y aunque en todos los rincones del planeta, estas lenguas son la llave para acceder a la educación, la cultura, la información y la participación ciudadana, son muchos",
+         "start": 20.2,
+         "duration": 9.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "left"
+      },
+      {
+         "text": "los países en los que no cuentan con un refrendo legal suficiente.",
+         "start": 29.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con motivo de la Semana Internacional de las Personas Sordas, la WFD",
+         "start": 36.2,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso",
+         "screen_position": "right"
+      },
+      {
+         "text": "recuerda a los Estados su compromiso con la Convención sobre los Derechos de las Personas con Discapacidad de Naciones Unidas, que establece",
+         "start": 39.5,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso",
+         "screen_position": "right"
+      },
+      {
+         "text": "la obligación de reconocer, promover y proteger oficialmente las lenguas de signos.",
+         "start": 48.8,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso",
+         "screen_position": "right"
+      },
+      {
+         "text": "Reconocerlas significa garantizar la igualdad de oportunidades,",
+         "start": 58.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "left"
+      },
+      {
+         "text": "el respeto a la diversidad lingüística y el derecho a una vida plena.",
+         "start": 62.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "left"
+      },
+      {
+         "text": "Protegerlas implica reconocer la identidad, la cultura y los derechos",
+         "start": 109.2,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso",
+         "screen_position": "right"
+      },
+      {
+         "text": "de la comunidad sorda en todo el mundo.",
+         "start": 114.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso",
+         "screen_position": "right"
+      },
+      {
+         "text": "Promoverlas contribuye a asegurar su uso efectivo en todos los ámbitos.",
+         "start": 121.2,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y es que todas las lenguas de signos comparten un mismo valor:",
+         "start": 130.2,
+         "duration": 3.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso",
+         "screen_position": "right"
+      },
+      {
+         "text": "la capacidad de unir a las personas y derribar barreras.",
+         "start": 134.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hagamos realidad en España y en el mundo el derecho a la lengua de signos.",
+         "start": 139.0,
+         "duration": 5.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      }
+   ]
+}

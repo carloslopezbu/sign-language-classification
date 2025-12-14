@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE ofrecerá una charla en directo por primera vez",
+         "start": 1.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tendremos como ponente a María Luz Esteban, directora de CNLSE y lingüista sorda.",
+         "start": 7.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La charla tratará la lengua de signos, la lengua en la comunidad sorda,",
+         "start": 13.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "la lengua de signos como lengua,",
+         "start": 19.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "el estatus de la lengua de signos con otras lenguas",
+         "start": 21.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "con un enfoque lingüístico,",
+         "start": 24.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "el papel que la lengua de signos juega en la vida de las personas sordas.",
+         "start": 28.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todo esto se abarcará en el webinario que será el día 13 de noviembre a las 20:00.",
+         "start": 34.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No es necesaria la inscripción con antelación, podéis acceder al webinario en directo desde la página de Facebook de CNSE.",
+         "start": 39.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos vemos.",
+         "start": 45.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

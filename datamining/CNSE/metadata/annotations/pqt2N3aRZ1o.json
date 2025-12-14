@@ -1,0 +1,104 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "Las personas bisexuales sufren constantemente rechazo",
+         "start": 1.0,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y discriminación, fruto del tabú, de la proliferación de prejuicios",
+         "start": 5.0,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y de falta de referentes.",
+         "start": 10.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "2016 es el Año de la Visibilidad Bisexual en la Diversidad,",
+         "start": 15.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "una celebración que pretende dar la máxima difusión pedagógica",
+         "start": 21.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "posible a la orientación sexual más estigmatizada: la bisexualidad.",
+         "start": 27.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Solidaridad",
+         "start": 33.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo recogido y barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 36.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con rastas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Respeto",
+         "start": 38.0,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "Libertad",
+         "start": 41.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Identidad",
+         "start": 44.0,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

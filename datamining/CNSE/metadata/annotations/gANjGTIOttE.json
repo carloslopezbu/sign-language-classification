@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Atención a esta importante campaña.",
+         "start": 0.0,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si te enteras de la existencia de fotografías, vídeos o audios",
+         "start": 2.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de contenido sexual o violento que circulan por Internet.",
+         "start": 9.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes hacer algo, puedes pararlo.",
+         "start": 15.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Contacta a la Agencia Española de Protección de Datos en su Canal Prioritario.",
+         "start": 19.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Indique el perfil o la página web donde se ha realizado tal difusión.",
+         "start": 26.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "O bien, puedes ir a la oficina a informarles.",
+         "start": 31.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es responsabilidad de todas y todos. Tú puedes pararlo.",
+         "start": 34.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,14 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Feliz Semana Internacional de las Personas Sordas.",
+         "start": 0.0,
+         "duration": 3.9,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Cuatro signantes (dos hombres, dos mujeres)",
+         "screen_position": "multiple"
+      }
+   ]
+}

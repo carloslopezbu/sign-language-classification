@@ -1,0 +1,131 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La Red Nacional de los Ferrocarriles Españoles (RENFE)",
+         "start": 2.2,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ofrece gratuidad en todos sus trenes",
+         "start": 8.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para las refugiadas y los refugiados ucranianos que lleguen a España",
+         "start": 12.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y deseen desplazarse a cualquier punto del territorio nacional.",
+         "start": 16.0,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para solicitar estos billetes gratuitos, deberán acudir a cualquiera de las oficinas",
+         "start": 23.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o puntos de venta presencial que Renfe tiene en sus estaciones",
+         "start": 31.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y acreditar su condición de refugiados/as",
+         "start": 35.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "mediante pasaporte u otro documento de identidad.",
+         "start": 39.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de querer viajar fuera de España,",
+         "start": 45.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "deberán dirigirse a la estación de Sants en Barcelona.",
+         "start": 51.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sants será el centro de conexión para la salida de estos/as ciudadanos/as",
+         "start": 58.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "hacia Francia y, posteriormente a otros puntos de Europa,",
+         "start": 62.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "gracias a Elipsos Internacional, empresa surgida de la asociación",
+         "start": 68.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "entre Renfe y la Sociedad Nacional de Ferrocarriles Franceses.",
+         "start": 75.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      }
+   ]
+}

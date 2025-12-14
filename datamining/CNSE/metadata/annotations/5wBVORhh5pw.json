@@ -1,0 +1,140 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Son mayores, sordos y ya cuentan con tecnología para estar acompañados las 24 horas.",
+         "start": 1.7,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora nos hablamos por videollamada, lo cual es positivo para mí, para toda la familia.",
+         "start": 5.8,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y top rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de un servicio de vídeo, asistencia y acompañamiento para aquellos en situación de vulnerabilidad.",
+         "start": 10.2,
+         "duration": 4.3,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos centramos en las diferentes necesidades de los usuarios, tal vez alguna gestión burocrática que no entienden, algún procedimiento médico para tomar pastillas...",
+         "start": 15.0,
+         "duration": 8.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Confederación Estatal de Personas Sordas establece un contacto diario a través de un televisor.",
+         "start": 24.5,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta granate",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si ellas no te lo dicen, te olvidas, ¿verdad?",
+         "start": 29.3,
+         "duration": 1.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Siempre me lo recuerdan.",
+         "start": 31.7,
+         "duration": 1.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y cárdigan marrón",
+         "screen_position": "right"
+      },
+      {
+         "text": "En este servicio tienen estos dispositivos. Tienen una bombilla de tal forma que cuando yo les llamo, se ilumina. También tienen dos mandos.",
+         "start": 37.0,
+         "duration": 8.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "las personas sordas, mayores, que viven solas o en residencias.",
+         "start": 49.0,
+         "duration": 2.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes (hombre mayor en pantalla principal, mujer en esquina)",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Me sentía solo y aislado. Ahora me cuentan cosas. Es muy positivo y me siento contento.",
+         "start": 51.0,
+         "duration": 5.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre mayor con pelo blanco y camisa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "La comunicación es vida. Igual que una persona oyente puede utilizar el teléfono, pues... tampoco hay tantas intérpretes en la televisión.",
+         "start": 64.0,
+         "duration": 8.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un sistema que también usan para comunicarse con sus seres queridos.",
+         "start": 73.0,
+         "duration": 2.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes (hombre mayor en pantalla principal, mujer en esquina)",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "También pueden utilizarlo con amistades, entre ellas, el usuario con una amistad o incluso su familia.",
+         "start": 76.0,
+         "duration": 7.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque una vez más la tecnología acompaña, ayuda y también acerca a los que más lo necesitan.",
+         "start": 84.0,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta granate",
+         "screen_position": "left"
+      },
+      {
+         "text": "acompaña, ayuda y también acerca a los que más lo necesitan.",
+         "start": 86.5,
+         "duration": 3.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes (hombre mayor en pantalla principal, mujer en esquina)",
+         "screen_position": "multiple"
+      }
+   ]
+}

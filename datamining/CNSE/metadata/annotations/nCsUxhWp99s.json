@@ -1,0 +1,59 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Actualmente estoy estudiando temas de energía.",
+         "start": 4.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quería informarme sobre el medio ambiente y la sostenibilidad.",
+         "start": 8.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenéis alguna información sobre eso?",
+         "start": 12.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si le interesan la sostenibilidad, y el medio ambiente,",
+         "start": 15.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "en la página web de Repsol, encontrará información.",
+         "start": 19.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si quiere más información, puede usar el servicio de videointerpretación SVisual, en la página web de Repsol.",
+         "start": 22.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      }
+   ]
+}

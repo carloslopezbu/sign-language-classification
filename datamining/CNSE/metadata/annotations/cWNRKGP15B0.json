@@ -1,0 +1,95 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Ahora toca el signo de ACCIONAR.",
+         "start": 6.36,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ten cuidado con el dedo meñique.",
+         "start": 11.2,
+         "duration": 2.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Accionar. Ok.",
+         "start": 15.2,
+         "duration": 1.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con rastas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora empezamos.",
+         "start": 17.2,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Accionar.",
+         "start": 20.0,
+         "duration": 1.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con rastas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Perfecto.",
+         "start": 23.2,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Perfecto? OK.",
+         "start": 25.8,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con rastas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los vídeos y las fotos ya están listos.",
+         "start": 50.2,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estamos con el DILSE, el Diccionario de la Lengua de Signos Española, en el que llevamos un tiempo trabajando.",
+         "start": 53.8,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "La nueva página web estará terminada muy pronto.",
+         "start": 58.92,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y gafas",
+         "screen_position": "center"
+      }
+   ]
+}

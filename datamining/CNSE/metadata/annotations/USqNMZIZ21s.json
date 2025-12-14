@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Las lenguas de signos nos unen.",
+         "start": 0.0,
+         "duration": 3.88,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y pelo rizado oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

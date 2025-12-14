@@ -1,0 +1,14 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Las lenguas de signos nos unen.",
+         "start": 0.0,
+         "duration": 6.44,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Cuatro personas (dos mujeres, dos hombres) signando.",
+         "screen_position": "multiple"
+      }
+   ]
+}

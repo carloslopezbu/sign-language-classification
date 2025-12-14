@@ -1,0 +1,104 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Yo puedo hacer el spagat, ¿y tú?",
+         "start": 9.9,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo oscuro, camiseta naranja",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Serías capaz de morderte el codo? ¡A ver! ¡Nadie puede! ¡Es imposible hacerlo!",
+         "start": 13.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo oscuro, camiseta naranja",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Sabes cuál es el músculo más fuerte del cuerpo?",
+         "start": 19.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo oscuro, camiseta naranja",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿El bíceps? ¡No!",
+         "start": 23.5,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo oscuro, camiseta naranja",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Los abdominales? ¡Tampoco!",
+         "start": 25.5,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo oscuro, camiseta naranja",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿El del muslo? No.",
+         "start": 27.5,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo oscuro, camiseta naranja",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡ES LA LENGUA!",
+         "start": 29.5,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo oscuro, camiseta naranja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes entrar en la web jovensordo ivamos!",
+         "start": 33.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo castaño, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Encontrarás más curiosidades, muy divertidas, y cosas que no te imaginabas.",
+         "start": 37.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo castaño, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mola, ¡venga entra! Contacta con nosotros.",
+         "start": 42.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo castaño, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Busca el botón \"Pregúntanos\" haz click en él y envíanos tus dudas. Te responderemos. ¡Anímate!",
+         "start": 46.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo castaño, camiseta roja",
+         "screen_position": "center"
+      }
+   ]
+}

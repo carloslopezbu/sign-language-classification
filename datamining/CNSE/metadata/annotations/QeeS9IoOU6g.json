@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La terrible catástrofe provocada por la DANA ha despertado una ola de solidaridad en todo el país. Una solidaridad que es importante canalizar y organizar debidamente para auxiliar con lo más básico a las personas afectadas.",
+         "start": 5.12,
+         "duration": 13.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Quieres saber dónde es más necesaria la ayuda y de qué manera poder prestarla? Te lo contamos a continuación.",
+         "start": 20.12,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si quieres ayudar en el mismo lugar de la tragedia tienes a tu disposición un formulario en el portal web 'Som Solidaritat' de la Generalitat Valenciana.",
+         "start": 26.44,
+         "duration": 9.28,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si vas a colaborar con material, alimentos o donativos tienes las siguientes vías: Ayuntamientos: En sus redes sociales encontrarás los puntos de recogida de ayuda a los que puedes dirigirte en cada ciudad.",
+         "start": 40.44,
+         "duration": 13.08,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Federación Española de Banco de Alimentos: Puedes encontrar los bancos de alimentos más cercanos.",
+         "start": 57.24,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, puedes colaborar con entidades como por ejemplo",
+         "start": 67.44,
+         "duration": 4.08,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por último, se está recogiendo material y alimentos para los animales afectados por el temporal. PACMA ofrece en su página web un listado de los lugares habilitados en cada ciudad, así como de las protectoras de animales afectadas por la DANA, para que puedas consultar las necesidades de cada una y contactar directamente con ellas.",
+         "start": 79.52,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

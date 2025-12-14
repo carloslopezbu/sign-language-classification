@@ -1,0 +1,113 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Las bromas se gastan entre amigos o personas de confianza.",
+         "start": 0.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es verdad que, a veces, pueden llegar a ser pesadas",
+         "start": 6.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "y llegar a molestar o herir los sentimientos de alguien.",
+         "start": 10.5,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso ya no es una broma. Eso es acoso.",
+         "start": 13.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para que sea acoso, debe haber:",
+         "start": 18.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Intención de dañar.",
+         "start": 22.2,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Repetición.",
+         "start": 25.2,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desequilibrio de poder.",
+         "start": 28.2,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ojo, a menudo todo comienza con una pequeña broma.",
+         "start": 34.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero ¿qué pasa si se repite varias veces a la misma persona y esta persona no se ríe, sino que está sufriendo?",
+         "start": 40.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo que empieza como una broma, puede acabar en acoso.",
+         "start": 49.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso es acoso.",
+         "start": 53.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro con gafas",
+         "screen_position": "center"
+      }
+   ]
+}

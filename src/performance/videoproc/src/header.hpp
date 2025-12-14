@@ -7,10 +7,4 @@
 
 
 
-void align_sign_text_sequences(
-    const std::string &video_path,
-    const std::string &text_detector_path,
-    const std::string &text_recognitor_path,
-    float roi_ratio // NUEVO: Porcentaje de pantalla (0.0 a 1.0)
-);
 #endif

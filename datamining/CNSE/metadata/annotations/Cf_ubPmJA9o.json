@@ -1,0 +1,50 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El próximo 25 de noviembre es el Día Internacional de la Eliminación de la Violencia contra la Mujer. ¿Cómo conmemoraremos este día?",
+         "start": 3.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y camisa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Ah! El lunes 27 de noviembre a las 17:30h, ofreceremos un webinario a través de Zoom.",
+         "start": 11.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y camisa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Puedes encontrar información detallada en el cartel informativo.",
+         "start": 19.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y camisa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Quiénes serán las ponentes? Mujeres sordas, alumnas actuales del curso de la CNSE 'Mujeres sordas, líderes en sus derechos'.",
+         "start": 23.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y camisa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ellas compartirán sus experiencias y hablarán sobre la violencia de género. ¿Interesante, verdad? ¡Esperamos verte allí! ¡Adiós!",
+         "start": 34.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y camisa negra",
+         "screen_position": "right"
+      }
+   ]
+}

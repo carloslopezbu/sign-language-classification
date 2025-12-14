@@ -1,0 +1,194 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ante la situación de emergencia provocada por el coronavirus,",
+         "start": 0.0,
+         "duration": 2.969,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "el Gobierno ha aprobado medidas económicas y laborales.",
+         "start": 3.203,
+         "duration": 3.203,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Entre ellas, garantizar el suministro de luz, agua y gas en todos los hogares.",
+         "start": 6.906,
+         "duration": 3.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante el estado de alarma y emergencia sanitaria,",
+         "start": 11.078,
+         "duration": 4.604,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "ninguna compañía podrá cortarte los suministros.",
+         "start": 15.916,
+         "duration": 4.938,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si por tu situación económica no puedes pagar la factura,",
+         "start": 21.855,
+         "duration": 4.471,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "podrás pagar la deuda más adelante de forma fraccionada y sin intereses,",
+         "start": 26.726,
+         "duration": 4.772,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "o llegando a un acuerdo con la compañía.",
+         "start": 31.765,
+         "duration": 2.202,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los bonos sociales para aquellas personas que ya eran beneficiarias",
+         "start": 35.535,
+         "duration": 3.103,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "se renuevan de forma automática hasta septiembre.",
+         "start": 38.905,
+         "duration": 3.337,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "No es necesario notificarlo respecto del suministro de energía eléctrica.",
+         "start": 42.776,
+         "duration": 3.07,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de las compañías de agua y de gas natural,",
+         "start": 46.113,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "sí debe comunicarse que se es beneficiario del bono social,",
+         "start": 48.315,
+         "duration": 2.502,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya sea por vía telemática o por teléfono",
+         "start": 51.084,
+         "duration": 1.868,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no eres beneficiario del bono social, pero ahora cumples los requisitos para ello,",
+         "start": 53.786,
+         "duration": 4.571,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "puedes presentar la solicitud en tu empresa de energía eléctrica.",
+         "start": 58.791,
+         "duration": 2.769,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En su página web encontrarás los formularios de solicitud.",
+         "start": 61.961,
+         "duration": 3.77,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recordamos que algunas personas con discapacidad el 33 por ciento o más,",
+         "start": 66.799,
+         "duration": 3.804,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "dependiendo de su situación económica,",
+         "start": 70.936,
+         "duration": 1.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "pueden acogerse a los bonos sociales.",
+         "start": 72.939,
+         "duration": 2.069,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En nuestra web tenéis un vídeo sobre este tema.",
+         "start": 75.675,
+         "duration": 4.638,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      }
+   ]
+}

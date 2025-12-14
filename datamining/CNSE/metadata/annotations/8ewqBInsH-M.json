@@ -1,0 +1,59 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La Dirección General de Protección Civil realizará hasta",
+         "start": 0.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "el miércoles 16 de noviembre en varias comunidades autónomas",
+         "start": 5.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "las pruebas del nuevo sistema de alertas a la población 'ES-Alert'.",
+         "start": 11.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de un simulacro que consiste en informar directamente a través del móvil a las ciudadanas y los ciudadanos afectados por una posible emergencia o catástrofe.",
+         "start": 21.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por tanto, durante este calendario de pruebas, es posible que recibáis en vuestro teléfono un pitido o vibración con un mensaje de texto que anuncia que se trata de una prueba y en el que se avisa al ciudadano/a que no tiene que hacer nada en particular.",
+         "start": 33.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con esta prueba se busca asegurar que los sistemas funcionan adecuadamente.",
+         "start": 49.0,
+         "duration": 7.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      }
+   ]
+}

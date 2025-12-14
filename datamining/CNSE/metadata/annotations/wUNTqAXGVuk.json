@@ -1,0 +1,176 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La gripe es un importante problema de salud,",
+         "start": 1.25,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "por su mortalidad que en 2019 fue la quinta causa de muerte en España,",
+         "start": 5.05,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y por las complicaciones y costes económicos y sociales que origina.",
+         "start": 18.55,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este año, es más importante que nunca que nos vacunemos frente a la gripe para protegernos,",
+         "start": 26.85,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para proteger a los que nos rodean,",
+         "start": 33.55,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y para evitar sobrecargar el sistema sanitario en plena pandemia del COVID.",
+         "start": 35.85,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿A quién se recomienda la vacunación de gripe?",
+         "start": 48.05,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fundamentalmente a personas mayores de 65 años,",
+         "start": 52.05,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "profesionales sanitarios y sociosanitarios,",
+         "start": 56.05,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "mujeres embarazadas,",
+         "start": 103.85,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "personas en condición de riesgo o con enfermedades crónicas,",
+         "start": 106.05,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y grupos de población con trabajos esenciales.",
+         "start": 112.05,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Éstos son los grupos a los que se recomienda la vacunación.",
+         "start": 118.05,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con el objetivo de ampliar la cobertura de personas vacunadas,",
+         "start": 81.55,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el ministerio de Sanidad ha adelantado la campaña de vacunación",
+         "start": 85.85,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la primera quincena de octubre.",
+         "start": 91.05,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se comenzará a vacunar a las personas mayores y al personal sanitario,",
+         "start": 96.05,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y se seguirá con el resto de los grupos prioritarios.",
+         "start": 100.85,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "#GripeYoMeVacuno",
+         "start": 105.05,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

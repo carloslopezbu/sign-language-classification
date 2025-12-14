@@ -1,0 +1,32 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "CURSO online “Cómo poner en marcha una pequeña empresa”",
+         "start": 0.0,
+         "duration": 91.232,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "http://www.cnse.es/cursos/crear_empresa.html",
+         "start": 91.232,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "formatempleo@cnse.es",
+         "start": 101.232,
+         "duration": 4.288,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo rojo",
+         "screen_position": "center"
+      }
+   ]
+}

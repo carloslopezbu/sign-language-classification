@@ -1,0 +1,77 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Soy autónomo y uso el coche para mis desplazamientos con frecuencia.",
+         "start": 2.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y cárdigan verde oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quisiera saber si ofrecéis algún descuento.",
+         "start": 5.0,
+         "duration": 2.99,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y cárdigan verde oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí, tenemos algo para usted.",
+         "start": 9.5,
+         "duration": 1.49,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acceda a la página web de Repsol y seleccione el apartado de PRODUCTOS Y SERVICIOS.",
+         "start": 11.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Luego seleccione \"Estaciones de servicios y tarjetas\".",
+         "start": 16.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Verá las opciones de España y Portugal. Seleccione la de España.",
+         "start": 20.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Después verá en la información detallada en \"Tarjetas Solred Profesionales\".",
+         "start": 25.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de alguna duda, puede usar el servicio de videointerpretación SVisual, en la página web de Repsol.",
+         "start": 31.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate",
+         "screen_position": "center"
+      }
+   ]
+}

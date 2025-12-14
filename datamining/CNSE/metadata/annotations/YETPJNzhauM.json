@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Europa MÁS SOCIAL, construyendo un futuro inclusivo.",
+         "start": 1.12,
+         "duration": 7.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una campaña lanzada por CERMI para dar visibilidad a vuestras historias de inclusión.",
+         "start": 8.92,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo crees que debe ser la Europa del Futuro?",
+         "start": 19.2,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuál es la Europa de tus sueños?",
+         "start": 25.88,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuéntaselo a CERMI escribiendo una historia.",
+         "start": 30.88,
+         "duration": 6.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Su extensión sería de un máximo de 200 palabras y podéis hacerlo en este enlace.",
+         "start": 38.0,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez recopilados los mensajes de las y los participantes, CERMI los utilizará en su labor de incidencia política y para actualizar el documento de propuestas de CERMI Europa Construyendo Inclusión.",
+         "start": 45.8,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la CNSE, queremos animar a las personas sordas a escribir vuestros deseos y esperanzas para la Europa del futuro.",
+         "start": 104.8,
+         "duration": 12.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por una Europa más social e inclusiva.",
+         "start": 118.2,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y camiseta granate",
+         "screen_position": "center"
+      }
+   ]
+}

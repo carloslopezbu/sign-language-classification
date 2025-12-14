@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Pregúntanos",
+         "start": 51.93,
+         "duration": 5.42,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven, camisa vaquera azul",
+         "screen_position": "center"
+      }
+   ]
+}

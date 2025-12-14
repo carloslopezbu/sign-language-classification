@@ -1,0 +1,140 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Emergencias sanitarias. Terremotos. Incendios. Pandemias...",
+         "start": 5.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "La falta de información en situaciones críticas nos deja indefensas.",
+         "start": 11.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "El artículo 11 de la Convención de la ONU sobre los Derechos de las Personas con Discapacidad y el Marco de Sendai obligan a los Estados a informar sin discriminación.",
+         "start": 16.5,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y eso significa hacerlo también en lengua de signos.",
+         "start": 28.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Desde el primer minuto, en cada aviso, en cada rueda de prensa, en cada aplicación.",
+         "start": 32.0,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Porque cuando la información no llega...",
+         "start": 43.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay miedo. Hay confusión.",
+         "start": 47.5,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hay abandono. Hay riesgo.",
+         "start": 50.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Porque la información no es solo un derecho.",
+         "start": 54.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es seguridad.",
+         "start": 59.0,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es salvar vidas. Es protegernos.",
+         "start": 60.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Basta de excusas.",
+         "start": 64.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "La información en lengua de signos es calma en medio del caos.",
+         "start": 67.0,
+         "duration": 5.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Es esperanza en medio de la incertidumbre.",
+         "start": 73.0,
+         "duration": 2.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "La información en lengua de signos es dignidad.",
+         "start": 75.5,
+         "duration": 2.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      }
+   ]
+}

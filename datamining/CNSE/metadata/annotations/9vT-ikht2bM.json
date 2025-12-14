@@ -1,0 +1,59 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Ministerio de Sanidad ya ha puesto fecha de fin al uso obligatorio de la mascarilla en el transporte público.",
+         "start": 1.0,
+         "duration": 8.999,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La medida se acordará en el Consejo de Ministros del 7 de febrero, y se hará efectiva el día 8.",
+         "start": 10.0,
+         "duration": 12.999,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por tanto, llevar mascarilla en autobuses, metro, tranvía o cercanías pasará a ser una recomendación.",
+         "start": 23.0,
+         "duration": 12.999,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También será opcional en trenes y aerolíneas de titularidad española.",
+         "start": 36.0,
+         "duration": 10.999,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí que se mantendrá su obligatoriedad en centros sanitarios, como hospitales o centros de salud, y en centros sociosanitarios, como las ópticas, farmacias, centros de fisioterapia, o clínicas dentales, tanto para trabajadoras/es como para visitantes.",
+         "start": 47.0,
+         "duration": 66.999,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No obstante, desde el Ministerio han aclarado que en caso de que se produjese un repunte importante de casos de coronavirus, la mascarilla podría volver a estar en vigor tanto en transporte público como en establecimientos cerrados.",
+         "start": 114.0,
+         "duration": 15.389,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

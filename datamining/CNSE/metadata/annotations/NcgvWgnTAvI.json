@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Tu proyecto cuenta",
+         "start": 9.843,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta morada y pelo castaño claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Del 22 de marzo al 26 de abril 2018",
+         "start": 14.848,
+         "duration": 5.138,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta morada y pelo castaño claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Valores como:",
+         "start": 56.556,
+         "duration": 3.036,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta morada y pelo castaño claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trabajo en equipo",
+         "start": 60.56,
+         "duration": 1.235,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta morada y pelo castaño claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esfuerzo",
+         "start": 62.062,
+         "duration": 0.934,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta morada y pelo castaño claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Solidaridad",
+         "start": 63.263,
+         "duration": 1.535,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta morada y pelo castaño claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Responsabilidad",
+         "start": 65.065,
+         "duration": 1.534,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta morada y pelo castaño claro",
+         "screen_position": "center"
+      }
+   ]
+}

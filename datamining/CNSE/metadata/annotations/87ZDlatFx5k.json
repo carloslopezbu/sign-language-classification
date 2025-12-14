@@ -1,0 +1,59 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Sabías que 14 Constituciones de todo el mundo hacen referencia explícita a la lengua de signos?",
+         "start": 4.0,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En nuestro país, las lenguas de signos están incluidas en 8 Estatutos de Autonomía.",
+         "start": 14.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A nivel estatal, la Ley 27/2007, de 23 de octubre reconoce las lenguas de signos españolas.",
+         "start": 27.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cataluña y Andalucía tienen legislación propia, la ley catalana 17/2010, de 3 de junio, y la ley andaluza 11/2011, de 5 de diciembre.",
+         "start": 44.0,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, hay distintas referencias a las lenguas de signos españolas en distintas leyes y normativas, y están consideradas como patrimonio cultural inmaterial.",
+         "start": 63.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la CNSE y su red asociativa, reivindicamos la incorporación de la lengua de signos española y la lengua de signos catalana en el artículo 3 de la Constitución Española, al mismo nivel que el resto de las lenguas.",
+         "start": 76.0,
+         "duration": 19.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

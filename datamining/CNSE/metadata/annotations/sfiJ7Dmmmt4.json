@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 0.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy queremos presentaros 'Signar por derecho',",
+         "start": 1.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "un espacio virtual que busca promocionar la identidad lingüística y cultural de las personas sordas.",
+         "start": 5.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "En 'Signar por derecho' vais a encontrar vídeos, entrevistas y reels que ayudarán a visibilizar todo el patrimonio cultural, artístico e intelectual propio de la comunidad sorda.",
+         "start": 15.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "También hablaremos sobre nuestros derechos.",
+         "start": 29.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Repasaremos la actualidad legislativa que más concierne a las personas sordas desde un enfoque cercano y participativo que nos enriquecerá a todas y a todos.",
+         "start": 33.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos vemos muy pronto en Instagram.",
+         "start": 45.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "@cnse.info",
+         "start": 48.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      }
+   ]
+}

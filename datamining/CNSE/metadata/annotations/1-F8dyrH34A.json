@@ -1,0 +1,50 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Fundación Repsol pone en marcha un año más el concurso para proyectos de formación, para formar a personas con discapacidad,",
+         "start": 1.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y cresta, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con el objetivo de la mejora de competencias, el fomento de la autonomía personal y el desarrollo de habilidades.",
+         "start": 8.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y cresta, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El premio puede ser hasta 100.000 euros, para el desarrollo de uno o varios proyectos seleccionados por el jurado, según los criterios de evaluación.",
+         "start": 17.0,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y cresta, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las bases están disponibles para leer. Luego tienes que cumplimentar el formulario.",
+         "start": 32.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y cresta, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El plazo de presentación de propuestas es el 25 de abril. La resolución de la convocatoria está prevista para junio de 2019.",
+         "start": 40.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y cresta, camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

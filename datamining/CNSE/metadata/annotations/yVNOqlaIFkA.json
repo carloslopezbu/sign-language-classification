@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Eres una persona sorda y estás estudiando?",
+         "start": 1.7,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿O tal vez hace poco que has terminado tus estudios?",
+         "start": 4.7,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si es así, contesta a esta encuesta y colabora con el estudio 'Educación y Juventud Sorda' que está elaborando la CNSE con la colaboración de la CJS-CNSE.",
+         "start": 10.7,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tu opinión importa.",
+         "start": 24.7,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El enlace al cuestionario es es.research.net/r/TXR76F5",
+         "start": 30.7,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El plazo para contestar a la encuesta es el día 25 noviembre.",
+         "start": 35.7,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Cuantas más respuestas, mejor!",
+         "start": 40.7,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias. Comparte y difunde.",
+         "start": 45.7,
+         "duration": 5.02,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño",
+         "screen_position": "center"
+      }
+   ]
+}

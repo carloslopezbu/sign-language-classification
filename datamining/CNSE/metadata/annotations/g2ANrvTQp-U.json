@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¡Hola! Queremos proponeros un reto.",
+         "start": 0.9,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El 14 de junio es el Día Nacional de las Lenguas de Signos Españolas",
+         "start": 2.9,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y lo vamos a celebrar en las redes sociales.",
+         "start": 8.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque la lengua de signos es parte de nuestra vida.",
+         "start": 10.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Signamos en el trabajo, en clase, con amistades, con la familia, etc.",
+         "start": 13.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Disfrutamos de la cultura y el arte en lengua de signos. ¡Nos encanta!",
+         "start": 18.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Seguro que todas y todos tenemos un montón de recuerdos en forma de fotos.",
+         "start": 23.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por eso, os animamos a subir vuestras fotos signando a vuestras redes sociales usando el hashtag #YoconlaLS. ¡Cuántas más mejor!",
+         "start": 28.5,
+         "duration": 10.54,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "center"
+      }
+   ]
+}

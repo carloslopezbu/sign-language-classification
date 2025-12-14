@@ -1,0 +1,32 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Sabías muchos edificios de España se iluminan de color turquesa por el Día Nacional de las Lenguas de Signos Españolas?",
+         "start": 1.9,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Por qué turquesa? El color turquesa refleja la lucha y la fortaleza de la comunidad sorda por el respeto a la lengua de signos.",
+         "start": 10.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con este color se pretende no solo recordar situaciones pasadas en las que se impedía a las personas sordas usar la lengua de signos e incluso se les marginaba y castigaba por hacerlo, sino también llamar la atención sobre la vulneración de los derechos humanos y lingüísticos a los que se enfrenta este colectivo en muchos lugares del mundo hoy en día.",
+         "start": 34.5,
+         "duration": 24.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

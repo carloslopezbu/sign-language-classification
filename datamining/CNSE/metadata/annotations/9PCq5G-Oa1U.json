@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Sabías que la lengua de signos es la lengua natural de muchas personas sordas?",
+         "start": 2.452,
+         "duration": 6.079,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Surge por la interacción entre la biología y la cultura en el ser humano,",
+         "start": 9.219,
+         "duration": 7.18,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y tal como demuestran las investigaciones lingüísticas,",
+         "start": 16.899,
+         "duration": 3.544,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "poseen todas las características propias de las lenguas orales y",
+         "start": 20.943,
+         "duration": 5.086,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la misma funcionalidad para pensar, comunicar y manejar cualquier concepto.",
+         "start": 26.529,
+         "duration": 10.477,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La lengua de signos es una lengua, no un lenguaje.",
+         "start": 37.747,
+         "duration": 4.675,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según una resolución del Parlamento Europeo de 2018,",
+         "start": 42.922,
+         "duration": 6.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se calcula que una de cada mil personas utiliza la lengua de signos como primera lengua.",
+         "start": 49.932,
+         "duration": 7.085,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

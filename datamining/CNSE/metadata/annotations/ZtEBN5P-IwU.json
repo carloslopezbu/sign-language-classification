@@ -1,0 +1,32 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "IGUALDAD",
+         "start": 10.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa de rayas y corbata azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 13.8,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta morada y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 17.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con traje gris y camisa blanca",
+         "screen_position": "center"
+      }
+   ]
+}

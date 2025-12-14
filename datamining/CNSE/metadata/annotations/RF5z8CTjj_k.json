@@ -1,0 +1,113 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El servicio de videollamada en lengua de signos permite la comunicación entre el gestor y el cliente sordo",
+         "start": 4.838,
+         "duration": 7.215,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a través de la web del banco.",
+         "start": 12.053,
+         "duration": 4.129,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este servicio ofrece la imagen en vivo del gestor, que habla con el cliente en lengua de signos o a través de un chat",
+         "start": 16.182,
+         "duration": 7.966,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que permite compartir la pantalla para navegar juntos por internet, enviar y recibir documentos on-line.",
+         "start": 24.148,
+         "duration": 11.97,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es un servicio de utilidad para las personas sordas, pues les permite recibir información, realizar operaciones bancarias o concertar una cita con servicio de intérprete en la oficina con su gestor.",
+         "start": 36.116,
+         "duration": 12.262,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El servicio es sencillo y cómodo, se puede contactar desde cualquier ordenador que disponga de conexión a internet.",
+         "start": 48.378,
+         "duration": 7.925,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El horario es de 9 a 14 horas.",
+         "start": 56.303,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo se accede a este servicio?",
+         "start": 100.307,
+         "duration": 2.919,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Primero, accede a www.bankinter.com",
+         "start": 103.226,
+         "duration": 6.006,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Luego, pulsa “contáctanos” que está abajo de todo.",
+         "start": 111.838,
+         "duration": 3.504,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pulsa “contactar por videollamada”.",
+         "start": 115.342,
+         "duration": 3.211,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Después, pulsar “Realizar videollamada en lengua de signos”.",
+         "start": 118.553,
+         "duration": 6.632,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

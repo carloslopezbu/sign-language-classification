@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "A partir de hoy, las personas sordas refugiadas de Ucrania podrán realizar llamadas a través del SVisual utilizando el nuevo botón de Ucrania.",
+         "start": 1.21,
+         "duration": 12.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este caso, el servicio de videointerpretación será ofrecido por una persona profesional intérprete con un/a profesional mediador/a sordo/a,",
+         "start": 13.89,
+         "duration": 8.42,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "para hacer la comunicación más efectiva entre la persona sorda y la persona oyente.",
+         "start": 22.81,
+         "duration": 8.46,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden ser llamadas a distancia o conversaciones presenciales cuando",
+         "start": 38.25,
+         "duration": 11.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "la persona sorda y la persona oyente se encuentran en el mismo sitio.",
+         "start": 52.81,
+         "duration": 11.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "SVisual es un servicio gratuito al que se puede acceder desde la web",
+         "start": 105.55,
+         "duration": 6.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "o la aplicación móvil, solamente hay que crear cuenta y registrarse.",
+         "start": 112.83,
+         "duration": 9.42,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "El horario de llamadas de intérprete con mediador/a sordo/a será",
+         "start": 134.55,
+         "duration": 7.42,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "de lunes a viernes de las 9 de la mañana a las 8 de la tarde.",
+         "start": 142.23,
+         "duration": 6.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os informaremos de cualquier novedad que surja próximamente.",
+         "start": 148.83,
+         "duration": 2.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta morada",
+         "screen_position": "center"
+      }
+   ]
+}

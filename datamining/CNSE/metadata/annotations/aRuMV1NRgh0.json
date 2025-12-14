@@ -1,0 +1,50 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Tengo bombonas de GLP en casa.",
+         "start": 0.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, pelo corto, jersey oscuro con franja clara.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora toca revisión.",
+         "start": 5.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, pelo corto, jersey oscuro con franja clara.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Dónde puedo llamar?",
+         "start": 8.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre, pelo corto, jersey oscuro con franja clara.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este caso, se tiene que llamar.",
+         "start": 12.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer, pelo recogido, blusa granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo llamar? En la página web de Repsol, puede usar el servicio de videointerpretación SVisual, para pedir una revisión.",
+         "start": 15.0,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer, pelo recogido, blusa granate.",
+         "screen_position": "center"
+      }
+   ]
+}

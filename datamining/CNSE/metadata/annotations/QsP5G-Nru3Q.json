@@ -1,0 +1,77 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Había gente en mi colegio que me insultaba y me llamaban sordomuda.",
+         "start": 3.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido en moño, camiseta verde, vaqueros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nadie me habla ni me escucha. Siempre estoy sola. Me ignoran.",
+         "start": 13.5,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio largo, camisa blanca, vaqueros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me graban signando para burlarse de mi y me amenazan con publicarlo. Nunca me siento a salvo.",
+         "start": 19.5,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con pelo rizado oscuro y barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La juventud sorda sigue siendo más vulnerable frente al acoso.",
+         "start": 29.0,
+         "duration": 5.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro largo y gafas, camiseta negra",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "No lo normalices. Evitarlo está en nuestras manos.",
+         "start": 35.0,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro largo y gafas, camiseta negra",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "Háblalo con tu familia, con tus compañeros, con tus profesores.",
+         "start": 38.5,
+         "duration": 4.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro largo y gafas, camiseta negra",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "No te calles. Actúa.",
+         "start": 43.5,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro largo y gafas, camiseta negra",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "BULLYING STOP",
+         "start": 46.0,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro largo y gafas, camiseta negra",
+         "screen_position": "news-corners"
+      }
+   ]
+}

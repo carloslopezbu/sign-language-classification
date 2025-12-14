@@ -1,0 +1,59 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Desde la CNSE, Confederación Estatal de las Personas Sordas estamos elaborando",
+         "start": 0.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "una guía de prevención del acoso escolar a la juventud sorda,",
+         "start": 6.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y nos gustaría recopilar posibles experiencias relacionadas con el bullying o acoso escolar en tu entorno (colegio, instituto, universidad, amistades, conocidos, ...).",
+         "start": 12.5,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tus respuestas serán confidenciales y anónimas. Nadie sabrá lo que tú has contestado.",
+         "start": 29.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El plazo para responder este cuestionario finaliza el 3 de junio del 2022.",
+         "start": 38.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias por tu tiempo.",
+         "start": 44.5,
+         "duration": 3.22,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

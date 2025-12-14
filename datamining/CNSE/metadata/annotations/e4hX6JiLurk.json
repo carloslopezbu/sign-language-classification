@@ -1,0 +1,50 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¡Hola! El próximo mes de junio se renueva el Comité para la Eliminación de la Discriminación contra la Mujer de Naciones Unidas (CEDAW).",
+         "start": 6.548,
+         "duration": 14.014,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con chaqueta de cuero",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ana Peláez, una mujer ciega, es la candidata propuesta por el Gobierno de España.",
+         "start": 21.563,
+         "duration": 12.93,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con chaqueta de cuero",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ana Peláez tiene tras de sí una gran trayectoria como defensora de los derechos de las mujeres y las niñas con discapacidad en España, Europa y el mundo.",
+         "start": 35.535,
+         "duration": 10.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con chaqueta de cuero",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nunca antes una mujer con discapacidad ha sido miembro del Comité de la CEDAW. Y sabemos que las mujeres y niñas con discapacidad son víctimas de formas agravadas de discriminación.",
+         "start": 46.046,
+         "duration": 11.979,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con chaqueta de cuero",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CNSE, Confederación Estatal de Personas Sordas de España, apoya la candidatura de Ana Peláez para el Comité de la CEDAW.",
+         "start": 58.558,
+         "duration": 5.966,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con chaqueta de cuero",
+         "screen_position": "center"
+      }
+   ]
+}

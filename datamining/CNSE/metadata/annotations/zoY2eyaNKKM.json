@@ -1,0 +1,131 @@
+{
+   "num_signers": 12,
+   "annotations": [
+      {
+         "text": "Hoy, 14 de junio, se celebra el Día Nacional de las Lenguas de Signos Españolas.",
+         "start": 0.9,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una lengua que las personas sordas queremos ofrecer a toda la sociedad.",
+         "start": 7.9,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Y cómo? Regalando lengua de signos.",
+         "start": 13.9,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque la lengua de signos es...",
+         "start": 17.9,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comunicación",
+         "start": 20.9,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, camisa vaquera",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vida",
+         "start": 22.9,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Inclusión",
+         "start": 24.9,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Oportunidad",
+         "start": 26.9,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Educación",
+         "start": 28.9,
+         "duration": 2.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre pelo oscuro, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Unidad",
+         "start": 30.9,
+         "duration": 2.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con barba, polo azul oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cultura",
+         "start": 32.9,
+         "duration": 2.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre pelo corto, camiseta blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Participación",
+         "start": 34.9,
+         "duration": 4.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso con gafas y Hombre con barba y gafas",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Accesibilidad",
+         "start": 38.9,
+         "duration": 2.0,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y gafas, camisa naranja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Compartir",
+         "start": 40.9,
+         "duration": 4.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro y niño pequeño",
+         "screen_position": "multiple"
+      }
+   ]
+}

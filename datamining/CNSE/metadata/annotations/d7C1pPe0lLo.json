@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "ILUNION Y LA CNSE FIRMAN UN CONVENIO PARA PROMOVER EL EMPLEO ENTRE LAS PERSONAS SORDAS",
+         "start": 2.0,
+         "duration": 92.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba, camisa granate",
+         "screen_position": "center"
+      }
+   ]
+}

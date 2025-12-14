@@ -1,0 +1,41 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Intérpretes en el Consejo de Ministros (2009)",
+         "start": 17.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro corto, camisa negra",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "Intérpretes de lengua de signos en el Telediario (2015)",
+         "start": 37.8,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado corto, gafas, camisa negra",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "salvaguardar los derechos de las personas sordas. Comparecencia de la CNSE en el Congreso (2017)",
+         "start": 45.0,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro, camisa negra",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "Reivindicación de los derechos lingüísticos en el Senado (2018)",
+         "start": 52.0,
+         "duration": 4.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

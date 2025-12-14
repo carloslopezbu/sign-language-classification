@@ -1,0 +1,23 @@
+{
+   "num_signers": 0,
+   "annotations": [
+      {
+         "text": "CNSE",
+         "start": 12.0,
+         "duration": 2.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de personas",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Fundación CNSE",
+         "start": 17.0,
+         "duration": 2.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de personas",
+         "screen_position": "multiple"
+      }
+   ]
+}

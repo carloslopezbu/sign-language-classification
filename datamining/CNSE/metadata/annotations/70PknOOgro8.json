@@ -1,0 +1,59 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Martín Luis Becerra Presidente Comité Ejecutivo CJS-CNSE",
+         "start": 10.9,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo corto oscuro, camisa azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ana María Caballero Vicepresidenta Comité Ejecutivo CJS-CNSE",
+         "start": 14.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pere Castenys Secretario Gral Comité Ejecutivo CJS-CNSE",
+         "start": 16.7,
+         "duration": 1.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo corto oscuro, gafas, camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aitor Bedialauneta Vocal Comité Ejecutivo CJS-CNSE",
+         "start": 18.8,
+         "duration": 1.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo corto oscuro, camiseta negra, pantalones cortos vaqueros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nacho Portilla Vocal Comité Ejecutivo CJS-CNSE",
+         "start": 21.0,
+         "duration": 1.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo corto oscuro, camiseta negra de manga larga",
+         "screen_position": "center"
+      },
+      {
+         "text": "David Diaz Vocal Comité Ejecutivo CJS-CNSE",
+         "start": 23.0,
+         "duration": 1.4,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre joven, pelo corto oscuro, gafas, camiseta azul",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,77 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Me gusta 5000",
+         "start": 1.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me gusta 5000",
+         "start": 3.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me gusta 5000",
+         "start": 5.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me gusta 5000",
+         "start": 7.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Muchas gracias!",
+         "start": 9.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Muchas gracias!",
+         "start": 11.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Muchas gracias!",
+         "start": 13.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Muchas gracias!",
+         "start": 15.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo",
+         "screen_position": "right"
+      }
+   ]
+}

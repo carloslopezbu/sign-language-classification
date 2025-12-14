@@ -1,0 +1,185 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy os presentamos un nuevo cuento.",
+         "start": 4.3,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se titula ‘¡Qué bonita eres, Estela!’",
+         "start": 6.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y relata la historia de una niña gnomo sorda que",
+         "start": 10.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "se siente un poco triste y acomplejada hasta que",
+         "start": 14.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "unos lindos personajes le ayudarán a verse bonita tal y como es.",
+         "start": 18.5,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "El cuento está escrito por tres maestras sordas de Educación Infantil",
+         "start": 28.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y es indispensable para niñas y niños sordos, familias y educadores,",
+         "start": 36.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya que trata de la importancia que tiene para la infancia sorda",
+         "start": 41.5,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "el apoyo emocional y el contacto con iguales.",
+         "start": 45.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "También está pensado para que el público oyente",
+         "start": 51.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "conozca la realidad de las personas sordas.",
+         "start": 53.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Pero eso no es todo!",
+         "start": 56.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de un cuento totalmente accesible que",
+         "start": 57.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "incluye un código QR de acceso a un vídeo signado,",
+         "start": 60.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "subtitulado y con audio.",
+         "start": 65.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, el tipo de letra que utiliza está indicada",
+         "start": 67.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "para personas con discapacidad visual.",
+         "start": 70.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "‘¡Qué bonita eres, Estela!’ ya está a la venta en Amazon.",
+         "start": 73.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sus beneficios irán dirigidos íntegramente a programas",
+         "start": 77.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la Fundación Vicente Ferrer para niñas y niños sordos de la India.",
+         "start": 80.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta morada",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,167 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "‘Yo no quiero limpiar’",
+         "start": 0.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "es un cuento contado en lengua de signos y lengua oral",
+         "start": 4.2,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que acompaña un libro en papel con la versión en texto escrito",
+         "start": 9.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para lectoras y lectores principiantes.",
+         "start": 12.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En su interior, encontraréis un código QR que os conducirá",
+         "start": 15.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "al cuento signado y un anexo con sugerencias para realizar",
+         "start": 20.5,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "actividades tanto en casa como en clase.",
+         "start": 26.5,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los personajes de este cuento nos enseñan de forma divertida",
+         "start": 30.8,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "lo importante que es el trabajo en equipo,",
+         "start": 36.5,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y nos transmiten una idea: ante el trabajo todas y todos somos iguales",
+         "start": 40.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "a pesar de nuestras diferencias.",
+         "start": 45.2,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Estas personas han creado este cuento desde el cariño y la amistad.",
+         "start": 58.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los beneficios de su venta se donarán al Colegio El Sol de Madrid,",
+         "start": 109.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "un centro que lleva 20 años trabajando en un proyecto de",
+         "start": 117.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "educación inclusiva de alumnado sordo y oyente.",
+         "start": 123.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puede ser un regalo para tu familia o tus amistades.",
+         "start": 127.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podéis encargarlo en cualquier librería,",
+         "start": 135.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o si lo preferís, escribiendo un correo electrónico a la editorial Ondina.",
+         "start": 139.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

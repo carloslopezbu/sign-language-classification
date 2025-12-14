@@ -1,0 +1,149 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Son dinosaurios.",
+         "start": 4.49,
+         "duration": 1.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Ah! Es el Museo de Ciencias Naturales de Madrid.",
+         "start": 6.13,
+         "duration": 2.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Museo, con la Fundación CNSE, organizará la actividad",
+         "start": 9.21,
+         "duration": 2.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "“Escuchar con la mirada”.",
+         "start": 12.33,
+         "duration": 2.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la actividad descubrirán el mundo de los dinosaurios y la paleontología.",
+         "start": 15.01,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tendrá una hora de duración.",
+         "start": 19.25,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una actividad accesible para las personas sordas.",
+         "start": 21.93,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es accesible, porque la educadora realizará la actividad en LSE.",
+         "start": 25.01,
+         "duration": 3.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, el aula educativa contará con un bucle magnético.",
+         "start": 29.01,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La actividad está dirigida a todos, de todas las edades.",
+         "start": 32.25,
+         "duration": 3.88,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La inscripción es gratuita.",
+         "start": 37.13,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las fechas son del 1 de marzo al 30 de junio.",
+         "start": 40.21,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se realizarán los martes y miércoles, de las 10 de la mañana a las 17 de la tarde.",
+         "start": 44.01,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si prefieres otra fecha, puedes consultar por correo electrónico.",
+         "start": 50.01,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La inscripción debe ser hecha con una semana de antelación.",
+         "start": 54.81,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vamos a curiosear un poco.",
+         "start": 59.93,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y ropa negra",
+         "screen_position": "center"
+      }
+   ]
+}

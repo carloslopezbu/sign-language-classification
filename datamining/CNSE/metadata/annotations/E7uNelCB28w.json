@@ -1,0 +1,122 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy, el Consejo de Ministros",
+         "start": 1.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "ha acordado prorrogar el estado de alarma,",
+         "start": 3.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que pueda aprobarse el próximo jueves en el Congreso de los Diputados.",
+         "start": 6.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con esta nueva prórroga, las actuales medidas de confinamiento",
+         "start": 10.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "y restricción en los desplazamientos se alargarán hasta el 25 de abril incluido.",
+         "start": 15.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "La gran industria y el sector de la construcción, sectores no esenciales",
+         "start": 20.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "han estado paralizados gracias a la concesión de un permiso retribuido recuperable a sus trabajadores.",
+         "start": 26.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasados los 15 días de paralización, podrán volver a trabajar con controles.",
+         "start": 33.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es decir, tras la Semana Santa volverán a trabajar.",
+         "start": 39.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las actividades esenciales como alimentación, farmacia, centros sanitarios, fuerzas de seguridad, etc, mantendrán su funcionamiento como hasta ahora.",
+         "start": 42.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno ha adelantado que tras esta prórroga vendrán más días de estado de alarma,",
+         "start": 53.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "aunque si la evolución de la epidemia y la situación sanitaria son favorables, se irán suavizando algunas medidas.",
+         "start": 62.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, ha anunciado que se está trabajando en el diseño de un plan de transición que permita la vuelta escalonada y gradual de parte y la actividad del país.",
+         "start": 72.0,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      }
+   ]
+}

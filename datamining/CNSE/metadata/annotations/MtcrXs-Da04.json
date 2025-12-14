@@ -1,0 +1,122 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, soy Paco.",
+         "start": 6.306,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Respecto a la teleasistencia, veo que la utilizan muchas personas...",
+         "start": 9.342,
+         "duration": 3.871,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "...mayores oyentes y menos personas mayores sordas.",
+         "start": 13.947,
+         "duration": 5.205,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debemos continuar luchando para buscar una solución.",
+         "start": 19.953,
+         "duration": 3.37,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, son pocas las personas mayores sordas que acuden a las casas de ocio,",
+         "start": 24.024,
+         "duration": 5.438,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "...cultura y tiempo libre. La mayoría son oyentes.",
+         "start": 30.063,
+         "duration": 4.071,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos que insistir en conseguir la igualdad.",
+         "start": 34.734,
+         "duration": 3.27,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto a las residencias, se prioriza el ingreso de oyentes respecto al...",
+         "start": 38.638,
+         "duration": 5.369,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "...de personas mayores sordas.",
+         "start": 44.007,
+         "duration": 3.737,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto me preocupa mucho porque cada vez somos más las personas mayores sordas.",
+         "start": 48.044,
+         "duration": 3.837,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una situación muy grave.",
+         "start": 52.215,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por favor, consigamos la igualdad con las personas oyentes.",
+         "start": 54.651,
+         "duration": 3.603,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y démonos prisa porque las personas mayores lo necesitamos.",
+         "start": 58.755,
+         "duration": 3.07,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa clara",
+         "screen_position": "center"
+      }
+   ]
+}

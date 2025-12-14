@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "http://goo.gl/Avtei",
+         "start": 52.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      }
+   ]
+}

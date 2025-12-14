@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ya está aquí el libro \"Lengua de signos española para Dummies\".",
+         "start": 27.23,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, blazer gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Fundación CNSE ha estado trabajando en el contenido.",
+         "start": 31.03,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, blazer gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Abarca temas como la historia, trucos para aprender, la gramática, el vocabulario de ámbitos diferentes como la salud, la alimentación, viajar, etc.",
+         "start": 34.23,
+         "duration": 11.27,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, blazer gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es un libro ideal para aquellas personas que quieran empezar con la lengua de signos a nivel básico.",
+         "start": 46.2,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, blazer gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Tú? ¿U otra persona que conozcas?",
+         "start": 52.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, blazer gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se puede comprar en Internet o en las grandes librerías.",
+         "start": 55.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, blazer gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "En formato papel o electrónico.",
+         "start": 62.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, blazer gris",
+         "screen_position": "center"
+      }
+   ]
+}

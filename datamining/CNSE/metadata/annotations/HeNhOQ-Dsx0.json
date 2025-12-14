@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Muchas gracias. Buenos días a todos, bienvenidos a la Biblioteca Nacional.",
+         "start": 0.0,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Como decía la directora, mi nombre es Inés y soy co-comisario de este trabajo de la exposición Manos con voz propia, 500 años de lengua de signos que se presenta hoy.",
+         "start": 10.4,
+         "duration": 13.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Como bien saben, no es nada desconocido para ustedes, el 23 de octubre de 2007 se aprobó la Ley 27/2007, por la que se reconocen las lenguas de signos españolas y se regulan, además, los medios de apoyo a la comunicación oral de las personas sordas, con discapacidad auditiva y sordociegas.",
+         "start": 24.7,
+         "duration": 22.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Además, la ley 27/2007.",
+         "start": 48.0,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      }
+   ]
+}

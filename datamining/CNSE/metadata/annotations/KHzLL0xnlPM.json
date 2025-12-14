@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La página web del servicio ALBA se actualiza con nuevos contenidos relacionados con la erradicación de la violencia de género.",
+         "start": 4.9,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la web de ALBA podéis estar al tanto de los derechos de las supervivientes de estas violencias,",
+         "start": 12.9,
+         "duration": 7.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "conocer noticias de actualidad,",
+         "start": 20.7,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "acceder a los recursos disponibles en este ámbito, e incluso encontrar material dirigido a profesionales que atienden a las víctimas sordas.",
+         "start": 24.7,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, estrenamos secciones como ‘¿Sabías qué?’ con información de interés, y ‘Testimonios’ donde se recopilan historias de mujeres sordas que cuentan sus vivencias para decir que se puede salir de la violencia.",
+         "start": 38.9,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Servicio ALBA sigue funcionando de igual manera: por videollamada y chat. Si bien, hemos habilitado la opción de Contacto al lado del botón de salida para que sea aún más sencillo.",
+         "start": 126.7,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os animamos a visitar la nueva web y aprender con nosotras que eliminar la violencia de género es responsabilidad de todas y todos.",
+         "start": 141.9,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      }
+   ]
+}

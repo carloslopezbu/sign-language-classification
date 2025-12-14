@@ -1,0 +1,104 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Las personas sordas tenemos derecho a acceder a los servicios como cualquier otra persona.",
+         "start": 6.2,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y no de cualquier manera... sino de acuerdo a nuestras necesidades comunicativas y preferencias lingüísticas.",
+         "start": 12.2,
+         "duration": 6.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso con chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muchas veces vamos a una conferencia, a un evento o a una reunión, y no hay intérpretes, no hay subtitulado, no hay apoyos visuales...",
+         "start": 20.9,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y eso supone quedarnos fuera. No es justo.",
+         "start": 29.9,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso con chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "La accesibilidad no es algo que se pueda improvisar. Se debe planificar.",
+         "start": 34.1,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "No vale decir “no hay intérpretes” o “es muy caro”. NO.",
+         "start": 41.1,
+         "duration": 3.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso con chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "El acceso a la lengua de signos es un derecho humano ligado a la autonomía, a la libertad de elección y a la no discriminación.",
+         "start": 46.4,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Lo que pedimos es simple: que las administraciones y las organizaciones se comprometan de verdad.",
+         "start": 56.6,
+         "duration": 6.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso con chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Que se escuche a las personas sordas cuando se decida sobre accesibilidad.",
+         "start": 105.1,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Que nadie elija por nosotras.",
+         "start": 112.6,
+         "duration": 1.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso con chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Que nuestros derechos y libertades no se pospongan más.",
+         "start": 116.2,
+         "duration": 4.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres turnándose para signar una frase",
+         "screen_position": "multiple"
+      }
+   ]
+}

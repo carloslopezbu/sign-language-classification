@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Tras la publicación del Real Decreto 463/2020 en el día 14 de marzo,",
+         "start": 1.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "por el que se declara el estado de alarma,",
+         "start": 7.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "hoy el Gobierno ha publicado en el BOE una modificación del Real Decreto.",
+         "start": 10.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se pretende proteger a algunos de los colectivos más vulnerables.",
+         "start": 15.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por tanto, las personas con discapacidad, por ejemplo personas con diagnóstico de los trastornos del espectro autista, o bien conductas que tiendan a la impulsividad o la agresividad que pudieran agravarse por la actual situación de confinamiento en casa,",
+         "start": 20.0,
+         "duration": 19.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "podrán circular por la vía de uso público junto a su acompañante, y respetando siempre las medidas recomendadas para evitar el contagio.",
+         "start": 39.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta modificación será vigente a partir de hoy 20 de marzo.",
+         "start": 50.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "LA CNSE ENTREGA SUS PREMIOS JUAN LUIS MARROQUÍN",
+         "start": 0.0,
+         "duration": 32.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "AMPARO MINGUET SOTO TRAYECTORIA ASOCIATIVA",
+         "start": 41.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "ÁNGEL ROJO GUTIÉRREZ CULTURA EN LENGUA DE SIGNOS",
+         "start": 48.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "SERVICIO DE VOLUNTARIADO DE FAXPG PROYECTO ASOCIATIVO",
+         "start": 60.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "ALENTIS FACILITY SERVICES FOMENTO DEL EMPLEO",
+         "start": 70.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "CANAL SUR ANDALUCIA AMIGO DE LA COMUNIDAD SORDA",
+         "start": 80.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "COLEGIO DE EDUCACIÓN INFANTIL Y PRIMARIA EL SOL PREMIO DE HONOR",
+         "start": 97.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, blusa azul",
+         "screen_position": "left"
+      }
+   ]
+}

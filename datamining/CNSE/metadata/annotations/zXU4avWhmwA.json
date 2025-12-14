@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, soy Soraya.",
+         "start": 3.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y camiseta azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Voy al colegio Ponce de León. Allí la comunicación con las personas oyentes es estupenda y estamos todos integrados gracias a que utilizamos la lengua de signos.",
+         "start": 5.5,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y camiseta azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la calle, sin embargo, no es así.",
+         "start": 9.9,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y camiseta azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No hay acceso al ocio y la cultura, por ejemplo no hay subtítulos en el cine español, tampoco en DVD.",
+         "start": 12.9,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y camiseta azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas oyentes pueden acceder porque oyen, pero las personas sordas no.",
+         "start": 20.9,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y camiseta azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tampoco la accesibilidad es completa en actividades para infancia y mayores.",
+         "start": 24.9,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y camiseta azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos el derecho de disfrutar de la igualdad de oportunidades igual que el resto de la sociedad.",
+         "start": 28.9,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y camiseta azul claro",
+         "screen_position": "center"
+      }
+   ]
+}

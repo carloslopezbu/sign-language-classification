@@ -1,0 +1,104 @@
+{
+   "num_signers": 10,
+   "annotations": [
+      {
+         "text": "Por un 2020 de derechos cumplidos.",
+         "start": 2.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto castaño, blusa azul marino y collar.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 7.3,
+         "duration": 0.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, jersey negro y camisa blanca.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Unidad",
+         "start": 9.3,
+         "duration": 0.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño, jersey azul y pañuelo.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociacionismo",
+         "start": 11.0,
+         "duration": 1.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa azul claro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Solidaridad",
+         "start": 13.0,
+         "duration": 1.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro, chaqueta verde y camiseta morada.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Accesibilidad",
+         "start": 15.0,
+         "duration": 1.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con pelo oscuro y jersey azul marino.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lengua de signos",
+         "start": 17.0,
+         "duration": 1.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y blusa estampada.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Respeto a la diversidad",
+         "start": 19.8,
+         "duration": 1.2,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer con rastas, chaqueta verde y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Compromiso",
+         "start": 22.8,
+         "duration": 1.2,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camisa azul claro y reloj naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Participación",
+         "start": 25.0,
+         "duration": 1.0,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre con barba, traje negro y camiseta gris.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 27.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto castaño, blusa azul marino y collar.",
+         "screen_position": "center"
+      }
+   ]
+}

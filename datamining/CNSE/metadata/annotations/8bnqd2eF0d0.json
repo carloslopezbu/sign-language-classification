@@ -1,0 +1,167 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ayer, la OMS, la Organización Mundial de la Salud anunció que",
+         "start": 0.0,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "el brote de coronavirus COVID-19 es ya una pandemia.",
+         "start": 5.3,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué es una pandemia?",
+         "start": 13.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pandemia es la propagación mundial de una nueva enfermedad.",
+         "start": 14.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, se produce una pandemia cuando aparece un nuevo virus de la gripe",
+         "start": 17.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "y se extiende por el mundo, porque casi nadie tiene defensas frente a él.",
+         "start": 22.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es diferente que una epidemia y más grave.",
+         "start": 26.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Su expansión es mayor desde el punto de vista geográfico.",
+         "start": 30.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Presenta un aumento más rápido de los casos de personas afectadas.",
+         "start": 36.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "El director general de la OMS ha explicado que en las últimas dos semanas",
+         "start": 40.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "se han multiplicado por 13 los casos de Covid-19 fuera de China, epicentro del brote.",
+         "start": 49.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuáles son los números?",
+         "start": 55.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ya son 114 los países afectados",
+         "start": 57.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se han superado los 118.000 positivos.",
+         "start": 60.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las muertes ascienden ya a 4.300.",
+         "start": 64.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "La OMS afirma que en los próximos días y semanas se espera que el número de casos aumente aún más, y que es importante",
+         "start": 68.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "seguir trabajando en la prevención, y también reforzar medidas y protocolos para reprimir y controlar el virus.",
+         "start": 76.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de España, nuestro país está coordinado con la Unión Europea, donde existen unos mecanismos de coordinación para hacer frente a la pandemia.",
+         "start": 83.5,
+         "duration": 10.34,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro recogido en una coleta alta, camiseta negra de manga tres cuartos.",
+         "screen_position": "center"
+      }
+   ]
+}

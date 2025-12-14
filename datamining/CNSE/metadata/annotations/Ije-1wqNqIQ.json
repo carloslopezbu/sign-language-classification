@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La comunidad sorda es una comunidad diversa e interseccional que alberga",
+         "start": 4.4,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "a personas de distintos géneros, edades, procedencias, religiones,",
+         "start": 8.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "discapacidades formas de comunicarse, y situaciones familiares, sociales y educativas.",
+         "start": 16.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una diversidad que lejos de ser una amenaza, es un factor de progreso.",
+         "start": 24.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una diversidad que lejos de definirnos o limitarnos, nos enriquece.",
+         "start": 31.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una diversidad que se debe reconocer, promover y respetar.",
+         "start": 39.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque cada persona sorda es válida tal y como es y porque nos sentimos orgullosas de ser lo que somos.",
+         "start": 45.5,
+         "duration": 9.02,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      }
+   ]
+}

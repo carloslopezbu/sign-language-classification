@@ -1,0 +1,113 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El próximo mes de Febrero, el Museo del Prado organiza actividades accesibles para las personas sordas.",
+         "start": 0.3,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son conferencias e itinerarios con intérpretes de LSE de la Fundación CNSE.",
+         "start": 7.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las actividades son gratuitas para las personas sordas.",
+         "start": 12.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿De qué se tratan las conferencias? Mira.",
+         "start": 16.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si quiere asistir a una conferencia, no es necesaria la inscripción.",
+         "start": 30.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Accede al auditorio, a la parte delantera izquierda, que está reservada para las personas sordas.",
+         "start": 35.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La otra actividad es el itinerario, que consiste de una visita guiada a exposiciones con intérprete de LSE.",
+         "start": 43.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué itinerarios habrá? Echa un vistazo.",
+         "start": 52.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para participar en un itinerario es necesario inscribirse.",
+         "start": 108.5,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes hacerlo hasta 15 minutos antes del inicio de la actividad, en el mostrador de Educación.",
+         "start": 111.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez inscrito, puedes unirte al grupo para el itinerario.",
+         "start": 117.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Animaos a participar en una conferencia o en un itinerario!",
+         "start": 121.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

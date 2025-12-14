@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE y la FELGTB promoverán la accesibilidad y la participación de las personas sordas LGTB",
+         "start": 0.0,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

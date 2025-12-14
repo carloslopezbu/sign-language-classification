@@ -1,0 +1,149 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Carlos Soroa es un joven sordo de 31 años, que desde que era un crío soñaba con la interpretación.",
+         "start": 6.239,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido camisa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y aunque inicialmente se decantó por la cocina, su otra pasión, hoy está viviendo su sueño como actor.",
+         "start": 13.246,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido camisa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y es que a las personas sordas no hay nada que nos pare.",
+         "start": 24.257,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos capaces.",
+         "start": 28.461,
+         "duration": 0.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos, además, unas grandes aliadas en las nuevas tecnologías.",
+         "start": 30.063,
+         "duration": 2.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las redes sociales, por ejemplo, nos permiten visibilizar todo nuestro talento.",
+         "start": 34.067,
+         "duration": 3.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias a ellas, muchas niñas y niños sordos se han puesto en contacto conmigo para decirme que se sienten muy ilusionados de verme en la pantalla.",
+         "start": 40.34,
+         "duration": 7.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y entonces yo también me emociono al ver que soy capaz de motivarles.",
+         "start": 49.683,
+         "duration": 3.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy quiero presentaros un proyecto que ayudará a redefinir el futuro de las personas sordas.",
+         "start": 56.256,
+         "duration": 4.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata del proyecto Hera.",
+         "start": 101.668,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hera, pone a disposición de las personas sordas los servicios que prestan la CNSE y su movimiento asociativo de una manera accesible.",
+         "start": 105.371,
+         "duration": 7.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo?",
+         "start": 114.681,
+         "duration": 0.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "A través de una plataforma unificada.",
+         "start": 116.683,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "El mundo está cambiando y las personas sordas debemos cambiar con él.",
+         "start": 119.686,
+         "duration": 3.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CNSE ya ha dado el primer paso.",
+         "start": 124.254,
+         "duration": 1.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora nos toca a nosotras tomar el relevo trabajando con compromiso para mejorar la calidad de vida de las personas sordas.",
+         "start": 127.323,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño jersey gris",
+         "screen_position": "center"
+      }
+   ]
+}

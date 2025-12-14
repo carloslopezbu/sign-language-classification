@@ -1,0 +1,149 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Museo Nacional del Prado de Madrid os informa las actividades de este mes que serán accesibles para las personas sordas.",
+         "start": 1.32,
+         "duration": 9.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Visitas guiadas o conferencias contarán con intérprete de LSE.",
+         "start": 11.8,
+         "duration": 4.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿De qué se tratan las actividades? ¿Cuándo y a qué hora?",
+         "start": 17.8,
+         "duration": 2.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aquí tendréis más información.",
+         "start": 21.04,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si quieres asistir a una conferencia, no es necesaria la inscripción.",
+         "start": 42.52,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes entrar en el auditorio",
+         "start": 46.0,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y ir a la parte delantera izquierda que estará reservada para las personas sordas.",
+         "start": 47.8,
+         "duration": 4.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para participar en una visita, es necesario inscribirse.",
+         "start": 53.52,
+         "duration": 2.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes hacerlo hasta 15 minutos antes del inicio de la actividad,",
+         "start": 56.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el mostrador de Educación.",
+         "start": 60.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque las plazas son limitadas, pueden apuntarse hasta 25 personas.",
+         "start": 102.8,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez inscrito, puedes participar en la visita guiada.",
+         "start": 106.8,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo poder entrar en el Museo?",
+         "start": 110.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trae tu acreditación de discapacidad a las taquillas,",
+         "start": 112.0,
+         "duration": 3.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "donde te darán una entrada gratis,",
+         "start": 115.8,
+         "duration": 2.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para poder acceder al Museo.",
+         "start": 118.8,
+         "duration": 1.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo rizado oscuro con camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

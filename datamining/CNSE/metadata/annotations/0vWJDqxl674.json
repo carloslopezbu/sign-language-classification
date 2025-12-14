@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La Fundación CNSE ha creado un banco de préstamos de audífonos para las personas sordas que más lo necesiten.",
+         "start": 1.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo es ayudar a familias con una situación socioeconómica vulnerable que no puedan comprarlos para sus hijos y hijas,",
+         "start": 9.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a personas mayores sordas que también lo requieran.",
+         "start": 19.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo hacer la solicitud?",
+         "start": 24.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Solo tienes que descargar y rellenar el impreso que encontrarás en el enlace, y entregarlo junto a la documentación, en la federación de personas sordas más cercana.",
+         "start": 28.0,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las solicitudes se enviarán a la Fundación CNSE para su estudio y valoración.",
+         "start": 41.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta iniciativa es posible gracias al impulso de la Fundación Solidaridad Carrefour y Ford España, y la colaboración de GAES-Amplifon.",
+         "start": 48.0,
+         "duration": 11.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño",
+         "screen_position": "center"
+      }
+   ]
+}

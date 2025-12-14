@@ -1,0 +1,104 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Ministerio de Transportes y Movilidad Sostenible ha lanzado una iniciativa para que la juventud de 18 a 30 años pueda recorrer España y Europa en transporte público con grandes descuentos!",
+         "start": 1.0,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuándo?",
+         "start": 19.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Del 1 de julio al 30 de septiembre de 2025.",
+         "start": 20.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué descuentos hay?",
+         "start": 27.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hasta un 90% en billetes sencillos y de ida y vuelta de autobuses estatales y trenes estatales",
+         "start": 29.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Y hasta un 50% en pases Interrail para viajar por Europa!",
+         "start": 41.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo funciona?",
+         "start": 49.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. Regístrate online al menos 24 horas antes de comprar tu primer billete, a través de la web del Ministerio de Transportes y Movilidad Sostenible.",
+         "start": 51.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. Recibirás un código personal.",
+         "start": 65.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "3. Usa ese código al comprar tus billetes en la web o puntos de venta de las operadoras de transporte.",
+         "start": 68.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Prepárate para un verano lleno de aventuras!",
+         "start": 80.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas",
+         "screen_position": "center"
+      }
+   ]
+}

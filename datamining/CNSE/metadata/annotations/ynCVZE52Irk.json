@@ -1,0 +1,32 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿El certificado de discapacidad ucraniano es válido en España?",
+         "start": 0.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño alto, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Está en trámite. El CERMI (Comité Español de Representantes de Personas con Discapacidad)",
+         "start": 7.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño alto, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "ha solicitado al Gobierno la consideración legal, extraordinaria y urgente del estatuto de discapacidad de las personas refugiadas para que puedan disfrutar de todos sus derechos en el país de acogida.",
+         "start": 17.0,
+         "duration": 17.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño alto, camiseta negra",
+         "screen_position": "left"
+      }
+   ]
+}

@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "A mi hijo se le ha roto el implante y no podemos pagar otro.",
+         "start": 0.6,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las ayudas técnicas son un derecho y no bienes de lujo.",
+         "start": 4.0,
+         "duration": 4.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro",
+         "screen_position": "left"
+      }
+   ]
+}

@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El día 24 de marzo fue un día importante para el movimiento sordo CNSE.",
+         "start": 2.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mantuvimos una nueva reunión acerca de la reconstrucción sorda, en la que participaron todas las federaciones y asociaciones territoriales de la Confederación.",
+         "start": 7.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En primer lugar, cada una explicó cuál es su situación actual. Por ejemplo, si las asociaciones están abiertas o cerradas, qué actividades están organizando, etc.",
+         "start": 20.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "También se abordaron, entre otras cuestiones, cómo es la cohesión entre federaciones y asociaciones, y en qué gestiones se les brinda apoyo y cómo.",
+         "start": 30.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CNSE y sus federaciones y asociaciones acordaron por mayoría la revisión de las medidas de actuación adoptadas en el Congreso celebrado en Bilbao en 2018. De entre ellas, decidieron seleccionar cinco, por ser las que más se adecúan a este objetivo de reconstrucción que estamos implementando.",
+         "start": 37.0,
+         "duration": 23.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "De ahora en adelante, trabajaremos de forma coordinada con las federaciones y sus asociaciones para que el movimiento asociativo sepa adaptarse a una sociedad también en reconstrucción, y consolide, asimismo, una perspectiva de futuro.",
+         "start": 60.0,
+         "duration": 30.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "De ahí, que sea esencial que la CNSE y las federaciones y asociaciones avancemos unidas y trabajemos de forma paralela por y para las personas sordas de España.",
+         "start": 90.0,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso es todo. Seguiremos trabajando conjuntamente.",
+         "start": 105.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Sabías que España no es el único que tiene día nacional de lengua de signos?",
+         "start": 2.12,
+         "duration": 5.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Europa, hay siete países que tienen día nacional de lengua de signos.",
+         "start": 8.12,
+         "duration": 3.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A nivel estatal, la Ley 27/2007, de 23 de octubre reconoce las lenguas de signos españolas.",
+         "start": 18.8,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En nuestro país, las lenguas de signos están incluidas en 8 Estatutos de Autonomía.",
+         "start": 31.8,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cataluña y Andalucía tienen legislación propia, la ley catalana 17/2010, de 3 de junio y la Ley andaluza 11/2011, de 5 de diciembre.",
+         "start": 41.8,
+         "duration": 14.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, hay distintas referencias a las lenguas de signos españolas en distintas leyes y normativas.",
+         "start": 56.8,
+         "duration": 6.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Están consideradas como patrimonio cultural inmaterial.",
+         "start": 103.92,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

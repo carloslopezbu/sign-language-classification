@@ -1,0 +1,41 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "Quiero trabajar en Repsol, ¿qué tengo que hacer?",
+         "start": 1.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estoy finalizando mis estudios universitarios, y me gustaría realizar las prácticas en Repsol. ¿Cómo es el proceso?",
+         "start": 6.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con rastas y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si quieres hacer las prácticas o trabajar en Repsol, accede a la página web de Repsol, y entra en el apartado de EMPLEO. Encontrará becas o puestos de trabajos y solicite el que te interese.",
+         "start": 17.0,
+         "duration": 12.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de alguna duda, puede usar el servicio de videointerpretación SVisual, en la página web de Repsol.",
+         "start": 29.5,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido",
+         "screen_position": "center"
+      }
+   ]
+}

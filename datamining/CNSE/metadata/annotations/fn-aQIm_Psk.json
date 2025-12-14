@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, soy Mercedes.",
+         "start": 5.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "He estudiadio psicopedagogía y magisterio de primaria e Infantil.",
+         "start": 7.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo creo que los derechos de las personas sordas deben mejorar...",
+         "start": 14.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "...por ejemplo, en cuanto al acceso a la información y a la formación.",
+         "start": 20.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por un lado, los intérpretes deben ser gratis.",
+         "start": 25.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro, en cuanto a las ayudas técnicas, por ejemplo las pilas para el implante...",
+         "start": 29.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "...y para el audífono que son muy caras, deberían tener un precio más barato...",
+         "start": 35.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "...o que se den más subvenciones para costearlo.",
+         "start": 40.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo creo que las personas sordas debemos apoyarnos y luchar por nuestros...",
+         "start": 44.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "...derechos y por la igualdad de oportunidades.",
+         "start": 51.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta azul",
+         "screen_position": "center"
+      }
+   ]
+}

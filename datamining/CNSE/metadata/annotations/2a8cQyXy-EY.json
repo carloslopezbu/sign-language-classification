@@ -1,0 +1,32 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Vivo solo y me gustaría saber cuándo será",
+         "start": 0.96,
+         "duration": 2.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "la teleasistencia accesible para las personas mayores sordas.",
+         "start": 3.0,
+         "duration": 3.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestras necesidades también importan.",
+         "start": 6.92,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo rojo",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,122 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El coronavirus es un virus de aparición reciente en China, donde ya ha afectado a más de 2.000 personas y causado la muerte de cerca de 60 personas.",
+         "start": 1.0,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Su transmisión es similar a la de la gripe.",
+         "start": 16.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El virus infecta las vías respiratorias y causa desde síntomas leves como la tos seca o la fiebre a síntomas más graves, como dificultades para respirar, dolencias del riñón, y neumonía.",
+         "start": 20.8,
+         "duration": 23.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Después de extenderse en China, el virus llegó a Europa hace poco con tres casos en Francia.",
+         "start": 46.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por el momento, no ha entrado en España.",
+         "start": 55.8,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cualquier caso, las autoridades sanitarias tienen preparados protocolos de actuación.",
+         "start": 58.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay varios consejos para la prevención del virus.",
+         "start": 106.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Usar las mascarillas.",
+         "start": 111.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Usar pañuelos para cubrirse la nariz y la boca cuando se tose o se estornuda.",
+         "start": 113.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Evitar el contacto con animales infectados o usar protección para ello.",
+         "start": 119.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Evitar aglomeraciones.",
+         "start": 128.5,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lavarse las manos de manera frecuente.",
+         "start": 135.0,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acudir al médico tan pronto como se identifiquen los síntomas.",
+         "start": 141.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

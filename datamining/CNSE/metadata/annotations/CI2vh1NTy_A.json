@@ -1,0 +1,32 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "Teresa Blat Presidenta Union Asociaciones Familiares (UNAF)",
+         "start": 11.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia, chaqueta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Antonia Espejo Presidenta Federación Madrileña Padres y Madres Niños Sordos",
+         "start": 13.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Irene Carrera Presidenta Asociación Bilingüe Padres Niños Sordos (ABIPANS)",
+         "start": 16.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa negra",
+         "screen_position": "center"
+      }
+   ]
+}

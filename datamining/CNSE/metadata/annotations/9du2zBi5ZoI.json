@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La WFD ha hecho público su posicionamiento acerca de priorizar a las personas sordas en la enseñanza de las lenguas de signos.",
+         "start": 1.334,
+         "duration": 9.543,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una postura que, desde la CNSE, suscribimos plenamente ya que se trata de una reivindicación largamente perseguida por nuestra entidad y su red asociativa.",
+         "start": 11.411,
+         "duration": 7.808,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según afirma la WFD, personas sordas de diferentes países se han dirigido a ella para transmitirles una situación muy preocupante.",
+         "start": 20.32,
+         "duration": 7.674,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y es que las personas oyentes ocupan el lugar de las personas sordas enseñando lenguas de signos o realizando investigaciones sobre las lenguas de signos nacionales.",
+         "start": 29.129,
+         "duration": 8.275,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto supone que muchas personas sordas estén quedándose fuera de estas actividades, algo que nos negamos a aceptar.",
+         "start": 38.238,
+         "duration": 6.173,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "A tal efecto, han reunido a expertos y expertas en la enseñanza y la investigación de las lenguas de signos,",
+         "start": 45.445,
+         "duration": 7.074,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "que han acordado que tanto la enseñanza como la investigación de estas lenguas debe ser impartida y estar dirigida por personas sordas.",
+         "start": 53.453,
+         "duration": 12.079,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "El documento en el que se recoge este posicionamiento está disponible en inglés y signos internacionales.",
+         "start": 66.566,
+         "duration": 6.473,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la CNSE, lo hemos traducido a la lengua de signos española y al castellano.",
+         "start": 113.847,
+         "duration": 3.937,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa roja",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,104 @@
+{
+   "num_signers": 8,
+   "annotations": [
+      {
+         "text": "¿Sabías que los proyectos de accesibilidad contribuyen a fomentar el empleo entre las personas sordas?",
+         "start": 2.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Muchas y muchos de nuestros profesionales sordos coordinan y forman parte de ellos.",
+         "start": 11.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "VIDASOR Videoasistencia y acompañamiento para personas mayores sordas",
+         "start": 21.8,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, camiseta negra",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "DILSE. Diccionario de la lengua de signos española",
+         "start": 25.0,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, camiseta verde de manga larga",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "Formación en lengua de signos",
+         "start": 28.0,
+         "duration": 4.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples personas en un aula",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Comunicación y acceso a la información",
+         "start": 32.0,
+         "duration": 4.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes en vídeos pequeños",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Movistar+ 5S. Televisión accesible",
+         "start": 36.0,
+         "duration": 4.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio, camiseta granate",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "Traducción de páginas web a la lengua de signos",
+         "start": 40.0,
+         "duration": 3.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "ALBA. Información y asesoramiento contra la violencia de género",
+         "start": 43.0,
+         "duration": 4.0,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, camiseta rosa",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "Servicio de videointerpretación SVisual",
+         "start": 47.0,
+         "duration": 4.0,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, camiseta rosa",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "Signoguías. Accesibilidad a museos y recintos culturales",
+         "start": 51.0,
+         "duration": 4.0,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, camiseta negra",
+         "screen_position": "news-corners"
+      }
+   ]
+}

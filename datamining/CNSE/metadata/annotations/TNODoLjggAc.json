@@ -1,0 +1,104 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 1.29,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Estamos trabajando con mucha ilusión en la organización de la concentración de la comunidad sorda que se celebra el próximo 28 de octubre en Madrid.",
+         "start": 2.51,
+         "duration": 9.82,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mirad quién lo organiza, cuál es el programa ¡y cómo es nuestro cartel!",
+         "start": 12.75,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿A que hay ganas?",
+         "start": 28.31,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Comenzará a las 11 horas en la Plaza de Callao.",
+         "start": 29.83,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por la tarde habrá un punto de encuentro, del cual se os informará más adelante.",
+         "start": 34.67,
+         "duration": 6.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Será un encuentro lleno de alegría por haber logrado en nuestro país un paso más a favor de la libertad de las personas sordas y sordociegas: la aprobación del Reglamento que desarrolla la Ley 27/2007.",
+         "start": 42.51,
+         "duration": 14.02,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Un Reglamento que protege nuestras lenguas de signos y las considera un legado cultural e histórico que se debe cuidar, difundir y dignificar.",
+         "start": 57.23,
+         "duration": 16.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "El 28 de octubre tendremos la oportunidad de visibilizar nuestra identidad lingüística, nuestra cultura, nuestra realidad, para mostrar, unidas y unidos, que en cuestión de derechos no hay vuelta atrás.",
+         "start": 76.83,
+         "duration": 15.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las personas sordas... Avanzamos en derechos, avanzamos en dignidad.",
+         "start": 94.23,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Nos vemos en Madrid!",
+         "start": 99.53,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta negra",
+         "screen_position": "left"
+      }
+   ]
+}

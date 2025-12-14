@@ -1,0 +1,50 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hello! Elections to the CEDAW Committee on the Elimination of Discrimination against Women will Be held on June 2018.",
+         "start": 6.5,
+         "duration": 9.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta de cuero",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ms. Ana Peláez, a blind woman, is the Spanish government candidate.",
+         "start": 16.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta de cuero",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ms. Ana Peláez has great career as an advocate for the rights of women and girls with disabilities in Spain, Europe and worldwide.",
+         "start": 26.8,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta de cuero",
+         "screen_position": "center"
+      },
+      {
+         "text": "Never before has a woman whit disability been a member of the CEDAW Committee and we know women and girls with disabilities are victims of aggravated forms of discrimination.",
+         "start": 38.2,
+         "duration": 16.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta de cuero",
+         "screen_position": "center"
+      },
+      {
+         "text": "CNSE, National Confederation of the Deaf in Spain, supports the candidacy of Ana Peláez for the CEDAW Committee.",
+         "start": 55.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta de cuero",
+         "screen_position": "center"
+      }
+   ]
+}

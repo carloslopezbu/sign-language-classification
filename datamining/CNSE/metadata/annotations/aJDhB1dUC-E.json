@@ -1,0 +1,95 @@
+{
+   "num_signers": 9,
+   "annotations": [
+      {
+         "text": "Natalia Mejías Vocal",
+         "start": 1.9,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Guadalupe Cuerva Vocal",
+         "start": 5.0,
+         "duration": 2.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Iker Sertucha Vocal",
+         "start": 7.9,
+         "duration": 2.1,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "María Jesús Sernal Vocal",
+         "start": 10.0,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Amparo Minguet Vocal",
+         "start": 12.0,
+         "duration": 2.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Naiara Larrakoetxea Secretaria General",
+         "start": 14.0,
+         "duration": 2.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "José Manuel Cercas Vicepresidente Segundo",
+         "start": 16.0,
+         "duration": 3.9,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con pelo oscuro corto y camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Marta Muñoz Vicepresidenta Primera",
+         "start": 19.9,
+         "duration": 3.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Roberto Suárez Presidente",
+         "start": 22.9,
+         "duration": 3.1,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Crecemos contigo Candidatura al Consejo de la CNSE 2022 - 2026",
+         "start": 33.0,
+         "duration": 2.333,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y pelo corto",
+         "screen_position": "center"
+      }
+   ]
+}

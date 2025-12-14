@@ -1,0 +1,113 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La segunda edición de la Escuela de Liderazgo",
+         "start": 0.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "está llegando a su fin. El año 2020, será la tercera edición.",
+         "start": 3.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué temas serán?",
+         "start": 6.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "movimiento asociativo",
+         "start": 9.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "estrategias participativas",
+         "start": 10.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "lengua de signos",
+         "start": 11.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "cultura sorda",
+         "start": 12.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "redes sociales",
+         "start": 13.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El total de las horas será 150 horas,",
+         "start": 15.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "online y dos veces presencialmente.",
+         "start": 18.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para inscribirse, contacta a tu Federación o asociación territorial.",
+         "start": 21.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El plazo es el día 18 de enero. ¡Anímaros!",
+         "start": 25.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

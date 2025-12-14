@@ -1,0 +1,113 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La Agencia Tributaria ha anunciado que a partir del 5 de junio y hasta el 29 de junio,",
+         "start": 1.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya se puede pedir cita previa para hacer la declaración de la renta de forma presencial.",
+         "start": 7.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta opción no estará disponible en todas las oficinas, debido a la limitación de aforo.",
+         "start": 14.9,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Solo atenderán presencialmente en las que haya una distancia suficiente entre puestos de atención.",
+         "start": 20.9,
+         "duration": 9.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La cita previa puede solicitarse de tres formas. Por Internet, en la web www.agenciatributaria.es",
+         "start": 30.9,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la app de la Agencia Tributaria.",
+         "start": 40.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En los teléfonos de atención 901 22 33 44 y 91 553 00 71,",
+         "start": 45.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "de lunes a viernes de 9 a 19 horas.",
+         "start": 51.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para aquellas personas sordas que prefieran hacer la declaración por teléfono, la Agencia Tributaria pone a su disposición esta opción utilizando para ello, los servicios de intérpretes de las federaciones y asociaciones de la red asociativa CNSE.",
+         "start": 61.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debes ponerte en contacto con la federación de personas sordas más cercana y rellenar un formulario que se enviará a la Agencia Tributaria para concertar una cita telefónica.",
+         "start": 71.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La federación te avisará de la fecha y hora que os ha asignado Hacienda.",
+         "start": 80.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ese día podréis realizar la declaración de la renta a través de videollamada, ya que la accesibilidad estará garantizada gracias estos intérpretes de lengua de signos.",
+         "start": 88.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      }
+   ]
+}

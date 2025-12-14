@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Listeria Monocitogenes",
+         "start": 18.898,
+         "duration": 6.127,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Carne mechada de la marca “La Mechá”",
+         "start": 27.827,
+         "duration": 7.087,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      }
+   ]
+}

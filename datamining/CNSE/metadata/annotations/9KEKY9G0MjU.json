@@ -1,0 +1,113 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¿Cuál es la duración máxima en las casas de acogida?",
+         "start": 1.161,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Cuál es la duración máxima en las casas de acogida?",
+         "start": 1.161,
+         "duration": 3.003,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven pelo corto",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las personas desplazadas de Ucrania que carezcan de recursos económicos y no cuenten con una red de apoyo familiar o de amigos en España serán acogidos por el Estado,",
+         "start": 5.005,
+         "duration": 10.877,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las personas desplazadas de Ucrania que carezcan de recursos económicos y no cuenten con una red de apoyo familiar o de amigos en España serán acogidos por el Estado,",
+         "start": 5.005,
+         "duration": 10.877,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven pelo corto",
+         "screen_position": "right"
+      },
+      {
+         "text": "ya sea en sus centros, o en casas de acogida puestas a disposición por familias españolas.",
+         "start": 16.122,
+         "duration": 6.774,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "ya sea en sus centros, o en casas de acogida puestas a disposición por familias españolas.",
+         "start": 16.122,
+         "duration": 6.774,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven pelo corto",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se les ofrecerá alojamiento y manutención, y se les ayudará a adquirir las habilidades necesarias para el desarrollo de una vida independiente (asistencia psicosocial, orientación laboral...).",
+         "start": 23.817,
+         "duration": 14.194,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se les ofrecerá alojamiento y manutención, y se les ayudará a adquirir las habilidades necesarias para el desarrollo de una vida independiente (asistencia psicosocial, orientación laboral...).",
+         "start": 23.817,
+         "duration": 14.194,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven pelo corto",
+         "screen_position": "right"
+      },
+      {
+         "text": "Su estancia en un centro o casa de acogida finalizará cuando cuenten con los recursos necesarios para vivir por su cuenta, pudiendo recibir ayudas económicas al alquiler y atención a necesidades básicas si fuera necesario.",
+         "start": 39.653,
+         "duration": 21.174,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Su estancia en un centro o casa de acogida finalizará cuando cuenten con los recursos necesarios para vivir por su cuenta, pudiendo recibir ayudas económicas al alquiler y atención a necesidades básicas si fuera necesario.",
+         "start": 39.653,
+         "duration": 21.174,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven pelo corto",
+         "screen_position": "right"
+      },
+      {
+         "text": "El compromiso de acogida de las familias será de seis meses ampliable a un año.",
+         "start": 101.995,
+         "duration": 7.648,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "El compromiso de acogida de las familias será de seis meses ampliable a un año.",
+         "start": 101.995,
+         "duration": 7.648,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven pelo corto",
+         "screen_position": "right"
+      }
+   ]
+}

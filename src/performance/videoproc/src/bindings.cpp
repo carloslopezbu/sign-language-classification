@@ -24,15 +24,4 @@ PYBIND11_MODULE(videoproc, m) {
                    ", w=" + std::to_string(r.width) +
                    ", h=" + std::to_string(r.height) + ")>";
         });
-
-
-
-    m.def("align_sign_text_sequences_v2",
-              &align_sign_text_sequences,
-              "Extrae texto del porcentaje inferior de la pantalla",
-              py::arg("video_path"),
-              py::arg("text_detector_path"),
-              py::arg("text_recognitor_path"),
-              py::arg("roi_ratio") // <--- CAMBIO AQUÍ: Ahora espera un float
-        );
 }

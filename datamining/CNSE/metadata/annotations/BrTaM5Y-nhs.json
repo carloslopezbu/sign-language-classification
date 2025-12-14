@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE recibe el premio Q de Calidad",
+         "start": 0.0,
+         "duration": 74.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

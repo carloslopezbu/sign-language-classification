@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Tengo una enfermedad crónica que me obliga a ir habitualmente al hospital y en muchas ocasiones tengo que pagar de mi bolsillo al intérprete que me acompaña.",
+         "start": 0.9,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris, camisa azul y bufanda blanca.",
+         "screen_position": "center"
+      },
+      {
+         "text": "El derecho a la sanidad debe ser universal, gratuito y accesible.",
+         "start": 9.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris, camisa azul y bufanda blanca.",
+         "screen_position": "center"
+      }
+   ]
+}

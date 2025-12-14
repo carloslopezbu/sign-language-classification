@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Sabías que hoy es el Día Internacional de las Lenguas de Signos?",
+         "start": 3.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de una fecha que Naciones Unidas declaró oficialmente en 2017 haciéndola",
+         "start": 8.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "coincidir con el aniversario de la WFD, Federación Mundial de Personas Sordas,",
+         "start": 17.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "para reivindicar estas lenguas como parte de la diversidad lingüística y cultural de los distintos países,",
+         "start": 23.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y destacar su papel fundamental en el cumplimiento de los derechos humanos y ciudadanos de nuestro colectivo.",
+         "start": 34.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Feliz Día Internacional de las Lenguas de Signos.",
+         "start": 40.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lenguas para todas y para todos.",
+         "start": 45.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      }
+   ]
+}

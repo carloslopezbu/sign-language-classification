@@ -1,0 +1,41 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "Personas Sordas, Orgullosas y Diversas",
+         "start": 5.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Personas Sordas, Orgullosas y Diversas",
+         "start": 14.0,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "left"
+      },
+      {
+         "text": "Personas Sordas, Orgullosas y Diversas",
+         "start": 22.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Personas Sordas, Orgullosas y Diversas",
+         "start": 34.0,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer joven pelo corto",
+         "screen_position": "right"
+      }
+   ]
+}

@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Si la Constitución regula la convivencia ciudadana, ¿por qué no está presente la lengua de signos?",
+         "start": 6.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y jersey rosa estampado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi lengua me permite una vida en libertad y en igualdad.",
+         "start": 12.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y jersey rosa estampado",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "LENGUA DE SIGNOS",
+         "start": 5.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "VIDA",
+         "start": 7.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "FORTALEZA",
+         "start": 16.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "UNIÓN",
+         "start": 17.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "LIBERTAD",
+         "start": 22.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "DERECHOS",
+         "start": 23.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y barba",
+         "screen_position": "center"
+      }
+   ]
+}

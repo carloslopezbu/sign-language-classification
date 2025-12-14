@@ -1,0 +1,86 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "Se estima que el 1% de la población nace intersexual,",
+         "start": 1.12,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "una realidad desconocida para la gran mayoría.",
+         "start": 8.2,
+         "duration": 4.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Organización Internacional de Intersexuales califica de mutilación genital a las cirugías de asignación de sexo a bebés que se salen de la norma, incapacitándoles para decidir por sí mismos su identidad sexual.",
+         "start": 13.2,
+         "duration": 16.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, es urgente crear un dispositivo de apoyo a la familia e impulsar un cambio de mentalidad tanto entre el personal sanitario como en la sociedad.",
+         "start": 30.8,
+         "duration": 16.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "SoLidaridad",
+         "start": 49.56,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con moño, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGualdad",
+         "start": 52.2,
+         "duration": 1.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con rastas, camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "RespeTo",
+         "start": 54.56,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba, camisa beige",
+         "screen_position": "center"
+      },
+      {
+         "text": "LiBertad",
+         "start": 57.24,
+         "duration": 2.32,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Identidad",
+         "start": 59.96,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, camiseta azul",
+         "screen_position": "center"
+      }
+   ]
+}

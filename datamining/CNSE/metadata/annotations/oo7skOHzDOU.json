@@ -1,0 +1,113 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "¡Oye! Estoy aquí.",
+         "start": 0.96,
+         "duration": 4.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra, diadema.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Olvidan mi derecho a la participación social y política.",
+         "start": 8.04,
+         "duration": 6.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra, diadema.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí, ya voy ahora.",
+         "start": 16.52,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tomo decisiones sobre cómo educar a mis hijos y hijas y la sociedad las cuestiona.",
+         "start": 21.04,
+         "duration": 5.64,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la entrevista de trabajo, he mostrado mis competencias. Pero me infravaloran igual.",
+         "start": 31.84,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mis derechos como mujer sorda son vulnerados.",
+         "start": 42.04,
+         "duration": 2.84,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me explican cosas sobre mi salud, pero no me entero de nada.",
+         "start": 48.96,
+         "duration": 2.72,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso, gafas, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exijo que me informen bien acerca de mi salud.",
+         "start": 58.84,
+         "duration": 2.84,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso, gafas, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi opinión y mi participación importan.",
+         "start": 62.6,
+         "duration": 3.28,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra, diadema.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como madre, soy capaz. Yo decido respecto a la forma de educar y cuidarles.",
+         "start": 67.72,
+         "duration": 5.32,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi currículo lo dice. Tengo la experiencia necesaria. Tengo capacidad. ¡Puedo trabajar!",
+         "start": 74.48,
+         "duration": 5.56,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como mujer sorda, quiero los mismos derechos.",
+         "start": 81.6,
+         "duration": 4.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra.",
+         "screen_position": "center"
+      }
+   ]
+}

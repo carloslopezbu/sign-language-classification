@@ -1,0 +1,122 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El próximo mes de abril, el Museo del Prado organiza",
+         "start": 0.0,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "actividades accesibles para las personas sordas.",
+         "start": 3.8,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Va a haber cuatro actividades: tres conferencias y una visita.",
+         "start": 7.9,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas ellas contarán con intérprete de LSE.",
+         "start": 12.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿De qué se tratan las actividades?",
+         "start": 16.7,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si quieres asistir a una conferencia, no es necesaria la inscripción.",
+         "start": 38.6,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el mismo día de la actividad, la parte delantera izquierda del auditorio estará reservada para las personas sordas. Puedes entrar y coger asiento ahí.",
+         "start": 42.8,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para participar en una visita, es necesario inscribirse.",
+         "start": 50.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes hacerlo hasta 15 minutos antes del inicio de la actividad, en el mostrador de Educación.",
+         "start": 54.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez inscrito, puedes unirte al grupo.",
+         "start": 59.7,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda, sólo pueden participar hasta 25 personas.",
+         "start": 102.3,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas las cuatro actividades serán gratuitas.",
+         "start": 104.9,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tienes que traer la acreditación de discapadiad para recibir la entrada del Museo.",
+         "start": 108.3,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

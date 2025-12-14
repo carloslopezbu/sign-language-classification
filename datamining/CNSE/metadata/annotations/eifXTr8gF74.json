@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "I CONGRESO ESTATAL DE MUJERES SORDAS Tiempo de mujeres Madrid, 1 al 3 de Junio de 2012 Lugar: Salón de Actos de la Fundación ONCE (C/ Sebastián Herrera nº 15)",
+         "start": 0.5,
+         "duration": 29.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro, camiseta floral y cárdigan rojo.",
+         "screen_position": "center"
+      }
+   ]
+}

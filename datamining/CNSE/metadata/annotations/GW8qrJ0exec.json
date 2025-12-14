@@ -1,0 +1,113 @@
+{
+   "num_signers": 11,
+   "annotations": [
+      {
+         "text": "IGUALDAD",
+         "start": 14.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto gris, traje oscuro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 17.5,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con camisa blanca y corbata, pelo corto castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 20.0,
+         "duration": 1.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto castaño, chaqueta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 22.5,
+         "duration": 1.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, camisa blanca.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 25.5,
+         "duration": 1.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con polo azul claro, pelo corto oscuro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 27.5,
+         "duration": 1.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con camisa blanca, pelo corto oscuro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 30.0,
+         "duration": 2.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro rizado, blusa gris.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 34.5,
+         "duration": 1.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta negra y camisa a cuadros, pelo corto oscuro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 36.5,
+         "duration": 2.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de mujeres y niñas.",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 39.5,
+         "duration": 1.0,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 42.5,
+         "duration": 1.0,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado afro, camiseta de rayas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD",
+         "start": 44.5,
+         "duration": 1.0,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Hombre con camisa blanca y vaqueros, pelo corto oscuro.",
+         "screen_position": "center"
+      }
+   ]
+}

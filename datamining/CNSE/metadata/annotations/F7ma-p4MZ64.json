@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "En el Museo Nacional de Ciencias Naturales quieren acercar la ciencia",
+         "start": 0.9,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las personas sordas a través de sus actividades accesibles y gratuitas.",
+         "start": 4.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la próxima actividad podréis participar en una visita y un taller",
+         "start": 11.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "La visita será en la exposición Biodiversidad en la que podréis conocer animales como el elefante del museo o bien Vega la ballena.",
+         "start": 16.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, realizaréis un taller en el que conoceréis mejor los animales y os transformaréis en verdaderos zoólogos estudiando las diferencias entre animales vertebrados e invertebrados y aprendiendo a clasificarlos.",
+         "start": 32.0,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para participar, se debe ir en grupo de colegios centros o asociaciones.",
+         "start": 46.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "El número máximo por grupo será de 28 personas.",
+         "start": 55.0,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para realizar una reserva, hay que avisar al Museo con una semana de antelación como mínimo.",
+         "start": 59.9,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las fechas son el segundo y el cuarto martes del mes, de ahora hasta el mes de junio 2020.",
+         "start": 106.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda, las actividades son accesibles en lengua de signos y gratuitas.",
+         "start": 122.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      }
+   ]
+}

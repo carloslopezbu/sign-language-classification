@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Desde que empezó el coronavirus, mi trabajo ha estado centrado en cuidar a las personas contagiadas.",
+         "start": 6.3,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, blusa blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Cómo se comunican las personas sordas que acuden a los centros de salud o a un hospital?",
+         "start": 12.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, blusa blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Principalmente en lengua de signos, ya sea mediante un intérprete de forma presencial, o bien a través de SVisual.",
+         "start": 18.8,
+         "duration": 12.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, blusa blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si estos recursos no están disponibles, se recurre a otras herramientas para comunicarse como la expresión labial, mímica, escritura... Todo depende de la capacidad que tengan para expresarse.",
+         "start": 32.5,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, blusa blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es muy importante que el personal sanitario conozca el mundo de las personas sordas y haya recibido una mínima formación para saber cómo comunicarse con una persona sorda, y los diferentes canales de comunicación que existen.",
+         "start": 49.8,
+         "duration": 14.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, blusa blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando una persona sorda habla con los médicos, enfermeras, o cualquier personal sanitario, es importante que reciba toda información completa de forma plenamente accesible porque se trata, además, de temas serios.",
+         "start": 65.8,
+         "duration": 16.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, blusa blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los médicos no deben omitir información, o hacer como si no pasara nada.",
+         "start": 82.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, blusa blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "El paciente sordo ha de enterarse bien de qué tipo de enfermedad tiene, qué medicación debe tomar, comunicar si tiene alguna alergia, y en caso de tratarse de una operación, conocer bien cómo debe preparase, o qué consecuencias puede tener, si graves o leves.",
+         "start": 86.8,
+         "duration": 15.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, blusa blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "En definitiva, tiene derecho a recibir toda la información.",
+         "start": 102.9,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, blusa blanca",
+         "screen_position": "left"
+      }
+   ]
+}

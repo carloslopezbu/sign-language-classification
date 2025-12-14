@@ -1,0 +1,50 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Los laboratorios BioNTech y Pfizer han publicado datos preliminares extraídos del ensayo clínico de la vacuna contra la COVID 19 en la que están trabajando.",
+         "start": 1.33,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hasta el momento, se ha contado con la participación de más de 43.500 voluntarias y voluntarios cuya evolución se ha monitorizado durante meses con muy buenos resultados.",
+         "start": 19.92,
+         "duration": 15.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La candidata a vacuna de estos laboratorios indica un alto nivel de protección (90%), es decir, ha funcionado en 9 de cada 10 voluntarios,",
+         "start": 35.83,
+         "duration": 16.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "si bien es necesario ser cautos y esperar a que el ensayo clínico haya finalizado para poder analizar los datos definitivos y extraer conclusiones sólidas.",
+         "start": 52.92,
+         "duration": 12.54,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez se concluya el ensayo, actualmente en fase III, la Agencia Europea del Medicamento será la encargada de realizar una evaluación formal y completa para garantizar que se dan las condiciones de calidad, seguridad y eficacia necesarias para su autorización y posterior comercialización.",
+         "start": 106.34,
+         "duration": 29.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y jersey negro",
+         "screen_position": "center"
+      }
+   ]
+}

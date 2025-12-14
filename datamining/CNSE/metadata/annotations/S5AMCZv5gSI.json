@@ -1,0 +1,50 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "En el día de hoy, con una sociedad machista y patriarcal, las mujeres sufrimos discriminación.",
+         "start": 8.291,
+         "duration": 8.709,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y gafas de sol naranjas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aún más las mujeres sordas y aún más las mujeres sordociegas. No podemos permitirlo.",
+         "start": 18.0,
+         "duration": 8.875,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y gafas de sol naranjas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos políticas públicas que adapten los recursos y servicios disponibles para las mujeres víctimas de violencia de género, también para las mujeres sordas y sordociegas. Exigimos igualdad.",
+         "start": 27.75,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y gafas de sol naranjas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ser lo que queramos ser es la causa que nos une.",
+         "start": 53.541,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y gafas de sol naranjas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 68.291,
+         "duration": 2.209,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto recogido y gafas de sol naranjas",
+         "screen_position": "center"
+      }
+   ]
+}

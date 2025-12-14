@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Sabías que la lengua de signos no es universal?",
+         "start": 2.21,
+         "duration": 4.212,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada país posee una o varias lenguas de signos,",
+         "start": 8.133,
+         "duration": 8.175,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como es el caso de España donde tenemos dos,",
+         "start": 16.808,
+         "duration": 3.837,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la lengua de signos española y la lengua de signos catalana.",
+         "start": 21.229,
+         "duration": 5.172,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, según datos de la Federación Mundial de Personas Sordas,",
+         "start": 27.026,
+         "duration": 3.837,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "podemos hablar de la existencia de al menos, 150 lenguas de signos en el mundo.",
+         "start": 31.03,
+         "duration": 5.839,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No existe una lengua de signos por cada lengua oral ya que las lenguas de signos",
+         "start": 37.711,
+         "duration": 5.923,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "han evolucionado de forma natural en el contacto entre personas.",
+         "start": 44.134,
+         "duration": 4.213,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Incluso varios países que comparten el mismo idioma hablado",
+         "start": 48.847,
+         "duration": 5.422,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "utilizan diferentes lenguas de signos.",
+         "start": 54.769,
+         "duration": 2.419,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

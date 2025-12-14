@@ -1,0 +1,131 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "La CNSE está realizando un estudio sobre la inclusión laboral de las personas sordas,",
+         "start": 1.28,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "un tema que nos preocupa y que afecta especialmente a la juventud sorda.",
+         "start": 8.6,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si eres una persona sorda y tienes entre 18 y 65 años, puedes ayudarnos.",
+         "start": 15.72,
+         "duration": 5.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Cómo? Respondiendo a esta encuesta.",
+         "start": 23.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tu colaboración nos permitirá conocer tu experiencia en el acceso al empleo, identificar qué barreras son las más frecuentes,",
+         "start": 29.8,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "e identificar cómo contribuir a que un trabajador/a sordo/a se desarrolle profesionalmente.",
+         "start": 41.8,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "1. Edad (en años):",
+         "start": 49.8,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "2. Sexo",
+         "start": 52.5,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "3. El tamaño de la población donde vives es:",
+         "start": 55.8,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "4. ¿En qué Comunidad Autónoma vives?",
+         "start": 58.8,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "La encuesta también está disponible en lengua de signos,",
+         "start": 102.8,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y todos los datos serán tratados de manera anónima.",
+         "start": 108.8,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Gracias por tu colaboración en la encuesta.",
+         "start": 112.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Gracias!",
+         "start": 117.2,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "left"
+      }
+   ]
+}

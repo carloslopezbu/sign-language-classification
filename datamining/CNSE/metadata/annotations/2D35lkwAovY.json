@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ninguna persona mayor sorda debería sentirse sola ni aislada,",
+         "start": 6.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer mayor con pelo gris corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "nuestras necesidades deberían ser atendidas.",
+         "start": 13.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer mayor con pelo gris corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Luchar por lo que queramos ser es la causa que nos une.",
+         "start": 30.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer mayor con pelo gris corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 39.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer mayor con pelo gris corto",
+         "screen_position": "center"
+      }
+   ]
+}

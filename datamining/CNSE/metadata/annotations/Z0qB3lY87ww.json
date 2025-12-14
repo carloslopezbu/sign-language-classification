@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Comunicado del Comité Especial para la gestión de la enfermedad por el virus ébola (16 de octubre de 2014)",
+         "start": 1.334,
+         "duration": 30.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

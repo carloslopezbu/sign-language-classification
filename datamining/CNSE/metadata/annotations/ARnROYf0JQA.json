@@ -1,0 +1,50 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "¡Felices Fiestas!",
+         "start": 1.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro, gorro de Navidad rojo, jersey blanco y rojo.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Felices Fiestas!",
+         "start": 3.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, camiseta roja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Felices Fiestas!",
+         "start": 5.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio, gorro de Navidad rojo, camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Felices Fiestas!",
+         "start": 7.0,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con barba, jersey rojo.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Felices Fiestas!",
+         "start": 9.0,
+         "duration": 6.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de cuatro personas (dos mujeres con gorro de Navidad, una mujer y un hombre) signando juntas.",
+         "screen_position": "multiple"
+      }
+   ]
+}

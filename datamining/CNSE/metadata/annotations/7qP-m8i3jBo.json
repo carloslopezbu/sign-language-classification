@@ -1,0 +1,95 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "CONCENTRACIÓN DE LA COMUNIDAD Sorda",
+         "start": 4.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "CONCENTRACIÓN DE LA COMUNIDAD Sorda",
+         "start": 7.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "CONCENTRACIÓN DE LA COMUNIDAD Sorda",
+         "start": 9.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre pelo corto, barba, gafas, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "CONCENTRACIÓN DE LA COMUNIDAD Sorda",
+         "start": 11.0,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, gafas, camiseta negra, reloj",
+         "screen_position": "center"
+      },
+      {
+         "text": "CONCENTRACIÓN DE LA COMUNIDAD Sorda",
+         "start": 14.0,
+         "duration": 5.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris, gafas, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "CONCENTRACIÓN DE LA COMUNIDAD Sorda",
+         "start": 19.0,
+         "duration": 8.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "AVANZAMOS EN DERECHOS, AVANZAMOS EN DIGNIDAD.",
+         "start": 27.5,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "AVANZAMOS EN DERECHOS, AVANZAMOS EN DIGNIDAD.",
+         "start": 29.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "AVANZAMOS EN DERECHOS, AVANZAMOS EN DIGNIDAD.",
+         "start": 31.0,
+         "duration": 1.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, gafas, camiseta negra, reloj",
+         "screen_position": "center"
+      },
+      {
+         "text": "AVANZAMOS EN DERECHOS, AVANZAMOS EN DIGNIDAD.",
+         "start": 32.0,
+         "duration": 1.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre pelo corto, barba, gafas, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

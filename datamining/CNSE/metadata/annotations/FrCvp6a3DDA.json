@@ -1,0 +1,59 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "FREMAP ya cuenta con SVIsual entre sus servicios.",
+         "start": 1.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A partir de hoy, 1 de abril, las trabajadoras y trabajadores sordos cuya empresa esté asociada a FREMAP podrán realizar cualquier trámite con plena accesibilidad.",
+         "start": 7.0,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si vas a un centro de FREMAP, a realizar alguna gestión o alguna consulta médica, te facilitarán el servicio SVIsual al momento.",
+         "start": 19.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de que quieras llamar desde tu casa, puedes usar el servicio desde https://fremap.svisual.org.",
+         "start": 28.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A partir de hoy, las trabajadoras y trabajadores sordos que pertenezcan a FREMAP podrán usar el servicio SVIsual.",
+         "start": 39.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no eres cliente de FREMAP y quieres pedir información, también puedes hacerlo en https://fremap.svisual.org.",
+         "start": 46.0,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

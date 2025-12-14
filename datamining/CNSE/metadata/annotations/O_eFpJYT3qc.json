@@ -1,0 +1,59 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE se adhiere a la Unión Democrática de Pensionistas y Jubilados de España UDP, como asociación sectorial.",
+         "start": 1.281,
+         "duration": 12.399,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así se aprobó y ratificó durante la celebración de la 51 Asamblea General de UDP, el pasado mes de junio.",
+         "start": 13.847,
+         "duration": 8.008,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CNSE, entidad más antigua de la discapacidad, que cuenta con un sólido tejido asociativo conformado por federaciones y asociaciones, pasa a formar parte de las 70 asociaciones y confederaciones que conforman UDP.",
+         "start": 22.522,
+         "duration": 19.319,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Paca Tricio, Presidenta de UDP, manifestó que “para UDP es un placer contar con la CNSE por su calidad asociativa que es muy alta” y ha querido dar la bienvenida públicamente a la Confederación.",
+         "start": 42.542,
+         "duration": 12.513,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, ha resaltado “la calidad de las personas que la componen”.",
+         "start": 55.522,
+         "duration": 3.703,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La presidenta de la CNSE, Concha Díaz, ha calificado de “sinergia muy positiva” la adhesión a esta entidad, con la que la Confederación comparte “una apuesta por el bienestar, el cuidado y la autonomía de las personas mayores, y en este caso, las personas mayores sordas”.",
+         "start": 60.26,
+         "duration": 18.592,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

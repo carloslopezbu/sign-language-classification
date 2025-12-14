@@ -1,0 +1,149 @@
+{
+   "num_signers": 7,
+   "annotations": [
+      {
+         "text": "Pasé años sentada en clases donde no entendía nada.",
+         "start": 6.5,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo se supone que iba a aprender... si nadie hablaba mi idioma?",
+         "start": 11.4,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso no es educación. Es exclusión.",
+         "start": 17.8,
+         "duration": 2.9,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "¿Por qué somos nosotras las que tenemos que adaptarnos?",
+         "start": 22.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos que el sistema se adapte también a nosotras.",
+         "start": 25.0,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre joven, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas tenemos derecho a una educación multilingüe que respete nuestra cultura y nuestra lengua.",
+         "start": 28.5,
+         "duration": 7.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Cuando entendí por primera vez lo que explicaba el profesor...",
+         "start": 38.5,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "todo cambió.",
+         "start": 44.0,
+         "duration": 1.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprender dejó de ser sufrir, y empezó a ser crecer.",
+         "start": 46.0,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos aulas con lengua de signos, con otras personas sordas, con profesionales que entiendan nuestra identidad.",
+         "start": 51.5,
+         "duration": 12.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Con lengua de signos, puedo estudiar, puedo crecer, puedo decidir quién quiero ser.",
+         "start": 105.0,
+         "duration": 6.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y bigote, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin ella, solo encuentro barreras.",
+         "start": 111.5,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y bigote, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La lengua de signos es más que una ayuda.",
+         "start": 115.0,
+         "duration": 2.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Es más que una lengua. La lengua de signos es igualdad.",
+         "start": 118.0,
+         "duration": 6.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "UNA EDUCACIÓN SIN LENGUA DE SIGNOS NO ES EDUCACIÓN.",
+         "start": 125.5,
+         "duration": 3.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de cinco personas",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "¡LAS PERSONAS SORDAS TENEMOS DERECHO A APRENDER!",
+         "start": 129.0,
+         "duration": 3.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de cinco personas",
+         "screen_position": "multiple"
+      }
+   ]
+}

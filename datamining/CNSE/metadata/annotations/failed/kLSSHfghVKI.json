@@ -1,0 +1,41 @@
+{
+   "num_signers": 0,
+   "annotations": [
+      {
+         "text": "Alumnado CFGS Interpretacion Lengua de Signos Fundación CNSE",
+         "start": 11.36,
+         "duration": 2.64,
+         "signer_id": -1,
+         "aligned": false,
+         "signer_description": "Grupo de estudiantes",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Profesorado CEIP \"Genil\" - Granada",
+         "start": 14.0,
+         "duration": 10.0,
+         "signer_id": -1,
+         "aligned": false,
+         "signer_description": "Grupo de profesores",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Alumnado y profesorado del Proyecto ABC IES \"Infante Don Juan Manuel\" - Murcia",
+         "start": 24.0,
+         "duration": 8.0,
+         "signer_id": -1,
+         "aligned": false,
+         "signer_description": "Grupo de estudiantes y profesores",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Ciclo Superior en interpretación de la LS - ordinario - CIFP Anxel Casal (Montealto) - A Coruña",
+         "start": 32.0,
+         "duration": 6.88,
+         "signer_id": -1,
+         "aligned": false,
+         "signer_description": "Gran grupo de estudiantes",
+         "screen_position": "multiple"
+      }
+   ]
+}

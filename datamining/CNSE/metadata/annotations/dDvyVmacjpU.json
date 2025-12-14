@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Sigue habiendo muchos prejuicios a la hora de contratar a las personas sordas, siempre nos encasillan.",
+         "start": 3.999,
+         "duration": 3.001,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con rastas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas también somos capaces.",
+         "start": 7.999,
+         "duration": 3.001,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con rastas",
+         "screen_position": "center"
+      }
+   ]
+}

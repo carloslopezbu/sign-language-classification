@@ -1,0 +1,41 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Estamos reunidos en Los Negrales, por el Plan Estratégico de 2019-2022.",
+         "start": 17.05,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris y polo azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "Elaboraremos planes de acción, basándonos en las demandas y necesidades,",
+         "start": 23.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris y polo azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los representantes de 14 Comunidades Autónomas, el Consejo y el equipo técnico, estamos aquí trabajando y debatiendo.",
+         "start": 32.5,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con rebeca azul y pelo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Estaremos aquí desde lunes por la tarde hasta el miércoles por la mañana.",
+         "start": 42.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con rebeca azul y pelo oscuro",
+         "screen_position": "right"
+      }
+   ]
+}

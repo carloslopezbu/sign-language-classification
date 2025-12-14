@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Sentencia favorable para las entidades del Tercer Sector",
+         "start": 7.327,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa negra",
+         "screen_position": "right"
+      }
+   ]
+}

@@ -1,0 +1,86 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¿Qué ocurre cuando no entiendes ni te entienden?",
+         "start": 6.4,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Que te aíslan. Que te silencian. Que te dejan fuera.",
+         "start": 10.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso castaño, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y no es únicamente no entender... es no poder ser tú misma.",
+         "start": 14.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso castaño, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Todo empieza con nuestra lengua. La lengua de signos.",
+         "start": 18.1,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sin lengua de signos, no hay educación real; no hay salud sin barreras; no hay justicia; no hay igualdad",
+         "start": 22.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Lo dice la ONU. La lengua de signos es un derecho. Es libertad. Es futuro.",
+         "start": 31.0,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso castaño, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Queremos que nuestra lengua sea compartida, valorada y protegida!",
+         "start": 40.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Porque sin una lengua que nos represente, el mundo se vuelve más pequeño.",
+         "start": 48.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo liso castaño, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "No hay derechos humanos sin el derecho a la lengua de signos.",
+         "start": 53.5,
+         "duration": 3.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      }
+   ]
+}

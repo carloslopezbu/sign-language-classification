@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 4.12,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Quiero animar a todas las personas mayores sordas a asistir a la concentración del próximo 28 de octubre",
+         "start": 5.553,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "en la Plaza de Callao de Madrid, para celebrar la aprobación del Reglamento que desarrolla la Ley 27/2007.",
+         "start": 14.22,
+         "duration": 14.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Esta norma garantiza los apoyos necesarios para que podamos ser atendidas/os en lengua de signos en los servicios de teleasistencia, de asistencia domiciliaria y de atención a la dependencia.",
+         "start": 29.686,
+         "duration": 10.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "También contempla que residencias, centros de día y centros sociales cuenten con servicios de mediación comunicativa, interpretación, videointerpretación y guía-interpretación en lengua de signos.",
+         "start": 41.22,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Queremos que participéis!",
+         "start": 55.353,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Porque las personas mayores sordas somos personas valiosas llenas de experiencias capaces de enriquecer a las generaciones más jóvenes.",
+         "start": 57.22,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Animaos a venir a la concentración. ¡Vamos!",
+         "start": 67.42,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hasta pronto.",
+         "start": 71.353,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "left"
+      }
+   ]
+}

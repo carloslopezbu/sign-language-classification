@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hay varios tipos de cuentas, explicaré dos tipos de cuentas de las más utilizadas.",
+         "start": 4.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Primero, la cuenta corriente.",
+         "start": 9.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Permite guardar o sacar dinero, hacer transferencias, ver movimientos, realizar gastos con tarjeta, contratar un fondo, y más cosas.",
+         "start": 10.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tiene una comisión de mantenimiento.",
+         "start": 23.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Segundo, la cuenta nómina.",
+         "start": 27.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tiene el mismo uso que la cuenta corriente, pero tiene ventajas con la condición de que se domicilie la nómina.",
+         "start": 28.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por ejemplo, no tener comisión de mantenimiento de la cuenta, ni comisión de tarjeta de crédito.",
+         "start": 37.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se puede abrir una cuenta en una oficina o a través de la web.",
+         "start": 46.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si tiene cualquier duda, no dude en llamarme a través del servicio de videollamada en lengua de signos.",
+         "start": 52.0,
+         "duration": 7.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "right"
+      }
+   ]
+}

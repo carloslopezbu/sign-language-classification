@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Recomendaciones de higiene, para la prevención del coronavirus.",
+         "start": 0.0,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lávate las manos frecuentemente",
+         "start": 4.3,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Evita tocarte los ojos, la nariz y la boca, ya que las manos facilitan su transmisión",
+         "start": 8.2,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al toser o estornudar, cúbrete la boca y la nariz con el codo flexionado.",
+         "start": 17.8,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Usa pañuelos desechables para eliminar secreciones respiratorias y tíralo tras su uso.",
+         "start": 22.8,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si presentas síntomas como tos, fiebre o dificultad de respirar, debes quedarte en casa y evita el contacto cercano con otras personas.",
+         "start": 31.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Llama al teléfono gratuito de tu comunidad autónoma.",
+         "start": 43.8,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para las personas sordas, podéis realizar las llamadas a través del SVisual.",
+         "start": 49.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la APP de SVisual podéis usar el botón del coronavirus para llamar directamente al teléfono de emergencia de tu comunidad autónoma.",
+         "start": 55.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      }
+   ]
+}

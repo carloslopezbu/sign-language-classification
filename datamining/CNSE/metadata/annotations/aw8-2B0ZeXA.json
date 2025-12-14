@@ -1,0 +1,41 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Pedro Sanz Presidente Federación Española Deportes Sordos (FEDS)",
+         "start": 7.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Francisco Trigueros Presidente Asociación Sordociegos España (ASOCIDE)",
+         "start": 11.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con traje negro y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Juan Zamora Presidente Federación Asociaciones Implantados Cocleares (AICE)",
+         "start": 15.0,
+         "duration": 1.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camiseta de rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Jose López Presidente Federación Española Intérpretes Lengua Signos (FILSE)",
+         "start": 17.0,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con camiseta gris",
+         "screen_position": "center"
+      }
+   ]
+}

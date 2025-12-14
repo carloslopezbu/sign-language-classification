@@ -1,0 +1,122 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Museo Nacional del Prado de Madrid os informa",
+         "start": 1.28,
+         "duration": 3.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las actividades del mes de junio que serán accesibles",
+         "start": 5.0,
+         "duration": 3.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para las personas sordas.",
+         "start": 8.6,
+         "duration": 1.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Visitas guiadas o conferencias contarán con intérprete de LSE.",
+         "start": 11.84,
+         "duration": 4.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿De qué se tratan las actividades? ¿Cuándo y a qué hora?",
+         "start": 17.92,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aquí tendréis más información.",
+         "start": 21.04,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si quieres asistir a una conferencia, no es necesaria la inscripción.",
+         "start": 51.84,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes entrar en el auditorio y ir a la parte delantera izquierda que estará reservada para las personas sordas.",
+         "start": 55.2,
+         "duration": 6.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para participar en una visita, es necesario inscribirse.",
+         "start": 102.8,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes hacerlo hasta 15 minutos antes del inicio de la actividad, en el mostrador de Educación.",
+         "start": 105.92,
+         "duration": 5.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque las plazas son limitadas, pueden apuntarse hasta 25 personas.",
+         "start": 111.84,
+         "duration": 4.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo poder entrar en el Museo?",
+         "start": 117.92,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trae tu acreditación de discapacidad a las taquillas, donde te darán una entrada gratis, para poder acceder a las conferencias o a las visitas.",
+         "start": 120.96,
+         "duration": 8.08,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

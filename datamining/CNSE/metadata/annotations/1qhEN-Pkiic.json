@@ -1,0 +1,122 @@
+{
+   "num_signers": 13,
+   "annotations": [
+      {
+         "text": "Soy sorda y soy médica.",
+         "start": 0.3,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y uniforme blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sordo, mi signo es Alvar y soy fisioterapeuta, osteópata, y podólogo.",
+         "start": 4.2,
+         "duration": 5.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con bata blanca en una oficina",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sorda y soy psicóloga y psicopedagoga.",
+         "start": 11.4,
+         "duration": 2.3,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo rizado y jersey naranja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sordo y soy arquitecto.",
+         "start": 14.9,
+         "duration": 1.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y jersey oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sordociega y soy conservadora y restauradora de patrimonio cultural.",
+         "start": 18.4,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sordo y soy actor, bailarín y técnico recepcionista de teatro.",
+         "start": 22.7,
+         "duration": 3.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta negra en un teatro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sorda y soy actriz.",
+         "start": 28.2,
+         "duration": 1.8,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rojizo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sordo y soy programador e ingeniero de software.",
+         "start": 31.3,
+         "duration": 2.9,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa de cuadros frente a ordenadores",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sorda y soy directora de un colegio público.",
+         "start": 35.3,
+         "duration": 2.7,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y jersey blanco en una oficina",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sordo y soy especialista en lengua de signos española en un centro de niñas y niños sordos.",
+         "start": 39.3,
+         "duration": 5.2,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre con polo azul en un aula infantil",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sorda y soy enfermera investigadora.",
+         "start": 45.3,
+         "duration": 2.2,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo largo y uniforme estampado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sordo y soy profesor de lengua de signos.",
+         "start": 48.6,
+         "duration": 2.9,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba larga y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sorda y soy asesora jurídica.",
+         "start": 53.3,
+         "duration": 2.5,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo largo y blusa de lunares",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,122 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Como ya os hemos contado, el próximo mes de Noviembre habrá un encuentro para jóvenes sordos de 12 a 17 años.",
+         "start": 1.05,
+         "duration": 6.16,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este año tenemos mucha ilusión en organizar de forma paralela un encuentro para jóvenes y un encuentro de familias de niños sordos.",
+         "start": 8.09,
+         "duration": 8.13,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Habrá concursos, intercambio de experiencias, actividades y mucho más, con varios monitores sordos.",
+         "start": 17.01,
+         "duration": 9.02,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "El lugar será en un pueblo de Madrid, Cercedilla.",
+         "start": 26.55,
+         "duration": 3.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mientras los jóvenes están disfrutando, aquí en Madrid, en la Fundación CNSE habrá un encuentro de familias.",
+         "start": 34.12,
+         "duration": 6.09,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y polo verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Habrá intercambio de experiencias, talleres, charlas.",
+         "start": 40.73,
+         "duration": 3.48,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y polo verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "El programa será los días 1, 2 y 3 de noviembre.",
+         "start": 45.01,
+         "duration": 4.52,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y polo verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora el equipo está preparándolo todo con ganas.",
+         "start": 51.53,
+         "duration": 2.28,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "La inscripción será 10€ por joven y familia.",
+         "start": 54.45,
+         "duration": 3.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "La inscripción se abrirá muy pronto y tendréis más información detallada.",
+         "start": 58.81,
+         "duration": 3.21,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "Recordad que las plazas son limitadas, un total de 40.",
+         "start": 62.5,
+         "duration": 3.52,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y polo verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si en algún caso quisiera participar un joven sin padres o padres sin hijos deberán ponerse en contacto con nosotros por email.",
+         "start": 66.5,
+         "duration": 6.32,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y polo verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Animaos!",
+         "start": 73.3,
+         "duration": 1.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y mujer con gafas",
+         "screen_position": "multiple"
+      }
+   ]
+}

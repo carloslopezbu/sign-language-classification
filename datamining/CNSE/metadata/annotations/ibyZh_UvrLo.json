@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Sabéis que el próximo año vamos a organizar algo grande?",
+         "start": 1.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso es. El II Foro Asociativo.",
+         "start": 7.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuál es la fecha?",
+         "start": 9.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los días 17 y 18 de octubre de 2020.",
+         "start": 11.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Y dónde? Aquí, en Madrid.",
+         "start": 14.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con todo lo que hemos trabajado en el movimiento asociativo, ¿cómo será en el futuro?",
+         "start": 18.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué necesitamos las personas sordas?",
+         "start": 22.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo fortalecer la red asociativa?",
+         "start": 27.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son algunas de las cuestiones que debatiremos en el Foro.",
+         "start": 31.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esperamos que participéis.",
+         "start": 35.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas, vestida con chaqueta negra y camiseta verde.",
+         "screen_position": "center"
+      }
+   ]
+}

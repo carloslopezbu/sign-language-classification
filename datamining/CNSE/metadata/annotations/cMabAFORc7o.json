@@ -1,0 +1,122 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "¿Quieres saber una curiosidad?",
+         "start": 8.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con chaqueta granate y azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mira ¡Qué fuerte! ¿Sabes cuál es el animal que no puede saltar?",
+         "start": 10.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con chaqueta granate y azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "Uhm, ¿el cangrejo?",
+         "start": 14.0,
+         "duration": 0.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con camiseta roja",
+         "screen_position": "right"
+      },
+      {
+         "text": "No.",
+         "start": 14.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con chaqueta granate y azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿El lagarto?",
+         "start": 15.8,
+         "duration": 0.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con camiseta roja",
+         "screen_position": "right"
+      },
+      {
+         "text": "No. ¡El elefante!",
+         "start": 16.5,
+         "duration": 0.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con chaqueta granate y azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mira otra cosa muy curiosa: ¿Puedes estornudar con los ojos abiertos?",
+         "start": 18.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con chaqueta granate y azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "No sé, voy a probar.",
+         "start": 21.0,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con camiseta roja",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡No puedo! Pero, ¡y tú cómo sabes estas cosas!",
+         "start": 23.8,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con camiseta roja",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pues porque lo veo en la web JOVENSORDO. Ahí encuentro curiosidades de este tipo, muy interesantes.",
+         "start": 25.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con chaqueta granate y azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Has visto? ¿A que es gracioso?",
+         "start": 30.0,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con camiseta roja",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Qué curiosidades! Entra en la web, hay mucha información.",
+         "start": 31.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con chaqueta granate y azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tenéis alguna duda, podéis visitar la web JOVENSORDO, y entrar en el apartado \"Pregúntanos\". Puedes enviar un texto o un vídeo por correo electrónico y un experto te responderá o con un vídeo, como prefiráis.",
+         "start": 38.0,
+         "duration": 13.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre joven con gorra azul y camiseta granate",
+         "screen_position": "center"
+      }
+   ]
+}

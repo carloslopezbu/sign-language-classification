@@ -1,0 +1,185 @@
+{
+   "num_signers": 11,
+   "annotations": [
+      {
+         "text": "Estás en una reunión de trabajo y no entiendes ni una sola palabra.",
+         "start": 1.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te imaginas?",
+         "start": 5.8,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vas en el metro. De pronto, todo el mundo sale del vagón y no sabes por qué.",
+         "start": 8.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo gris, camisa rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te imaginas?",
+         "start": 14.0,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo gris, camisa rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay una emergencia y no te cuentan qué está pasando. No sabes qué hacer porque nadie te ha informado.",
+         "start": 16.5,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre calvo con chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te imaginas?",
+         "start": 23.0,
+         "duration": 0.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre calvo con chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "En clase todas y todos preguntan, opinan, participan... Todos menos tú.",
+         "start": 24.5,
+         "duration": 5.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te imaginas?",
+         "start": 30.5,
+         "duration": 1.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acudes a una cita médica. Esperas sentada tu turno. Pasa el tiempo, pasan otras personas y sigues esperando. Te llaman por megafonía, pero tú no puedes oírlo.",
+         "start": 32.8,
+         "duration": 12.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris, gafas de sol, camiseta de rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te imaginas?",
+         "start": 46.0,
+         "duration": 0.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris, gafas de sol, camiseta de rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estás rodeado de tu familia. Y sin embargo, eres la única persona sorda y te sientes completamente solo.",
+         "start": 47.8,
+         "duration": 7.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas, camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te imaginas?",
+         "start": 55.0,
+         "duration": 0.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas, camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Te pierdes noticias importantes, decisiones que te afectan, momentos irrepetibles.",
+         "start": 56.0,
+         "duration": 7.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro, camiseta blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te imaginas?",
+         "start": 64.0,
+         "duration": 0.8,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro, camiseta blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Día, tras día, tras día tienes que adivinar lo que pasa a tu alrededor.",
+         "start": 66.0,
+         "duration": 3.5,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre joven con pelo oscuro, camiseta blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te imaginas?",
+         "start": 70.0,
+         "duration": 0.8,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre joven con pelo oscuro, camiseta blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso nos pasa a las personas sordas sin la lengua de signos.",
+         "start": 71.8,
+         "duration": 4.5,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro, cárdigan gris y negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y es que la lengua de signos nos hace más fuertes.",
+         "start": 78.0,
+         "duration": 2.5,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "YO CON LA LENGUA DE SIGNOS",
+         "start": 81.0,
+         "duration": 3.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples signantes",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "¿Y tú?",
+         "start": 85.5,
+         "duration": 1.0,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Niño con pelo rizado, camiseta azul",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,149 @@
+{
+   "num_signers": 12,
+   "annotations": [
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 0.0,
+         "duration": 5.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta vaquera",
+         "screen_position": "left"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 5.52,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo marrón",
+         "screen_position": "left"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 9.2,
+         "duration": 2.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 12.8,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y camiseta de tirantes negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 16.2,
+         "duration": 3.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con bigote y camisa gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 20.6,
+         "duration": 4.4,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo blanco",
+         "screen_position": "right"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 25.8,
+         "duration": 5.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y camiseta de tirantes negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 31.5,
+         "duration": 3.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Primer grupo de personas saludando",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 35.5,
+         "duration": 4.5,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con brazo escayolado y camiseta de rayas",
+         "screen_position": "left"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 40.5,
+         "duration": 3.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer rubia con vestido lila",
+         "screen_position": "left"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 44.0,
+         "duration": 3.5,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa de cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 47.5,
+         "duration": 2.5,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pañuelo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 50.5,
+         "duration": 3.0,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Hombre con canas y camisa de cuadros",
+         "screen_position": "right"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 54.0,
+         "duration": 4.0,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa azul claro",
+         "screen_position": "right"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 58.5,
+         "duration": 13.5,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa de cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "SOCIAS Y SOCIOS DE ASOCIACIONES DE PERSONAS SORDAS",
+         "start": 112.5,
+         "duration": 1.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Segundo grupo de personas saludando",
+         "screen_position": "multiple"
+      }
+   ]
+}

@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE ha puesto en marcha, junto a la agencia de publicidad The Blend, una campaña de prevención del acoso escolar en la juventud sorda,",
+         "start": 1.0,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Necesitamos la colaboración de chicas sordas y chicos sordos de 14 a 29 años que sepan lengua de signos y vivan en Madrid,",
+         "start": 18.0,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tienes los requisitos y estás interesado/a en participar en la campaña, escribe un correo electrónico a luciae@cnse.es indicando tu nombre, tu edad, y tu número de teléfono móvil.",
+         "start": 33.0,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Animaos.",
+         "start": 48.0,
+         "duration": 3.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo oscuro y gafas",
+         "screen_position": "center"
+      }
+   ]
+}

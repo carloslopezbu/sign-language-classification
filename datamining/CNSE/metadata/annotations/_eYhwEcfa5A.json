@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Me gusta jugar al fútbol, ir a la montaña. ¡Ah, los libros en lengua de signos!",
+         "start": 1.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con gafas, pelo recogido en coleta, camiseta blanca.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quiero una escuela en la que pueda aprender sin barreras.",
+         "start": 9.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con gafas, pelo recogido en coleta, camiseta blanca.",
+         "screen_position": "center"
+      }
+   ]
+}

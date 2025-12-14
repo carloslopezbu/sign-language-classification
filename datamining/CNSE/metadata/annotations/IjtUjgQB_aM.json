@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Sabías que la Semana Internacional de las Personas Sordas se celebra en el mes de septiembre para conmemorar el primer Congreso Mundial de la WFD, que tuvo lugar en septiembre de 1951?",
+         "start": 8.0,
+         "duration": 16.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociaciones de personas sordas de todo el mundo se suman",
+         "start": 24.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a esta celebración que este año se conmemora con el lema ‘Reafirmando los Derechos Humanos de las Personas Sordas’.",
+         "start": 29.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os invitamos a sumaros a esta celebración, que, en España, tendrá su punto álgido el próximo sábado 26 de septiembre, Día Internacional de las Personas Sordas.",
+         "start": 37.5,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

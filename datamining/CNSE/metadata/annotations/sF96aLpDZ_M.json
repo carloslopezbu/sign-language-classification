@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, soy Laura. Actualmente estoy desempleada.",
+         "start": 5.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo castaño recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me he matriculado en bastantes cursos, en algunos con más ilusión que en otros.",
+         "start": 9.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo castaño recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "El motivo es que no me facilitan el intérprete de lengua de signos.",
+         "start": 15.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo castaño recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "La razón que alegan es la falta de presupuesto, lo que para mí es cuestionable.",
+         "start": 20.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo castaño recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo yo, estando en paro, tengo que pagar la matrícula del curso... y además hacerme cargo de los gastos del intérprete. No estoy de acuerdo.",
+         "start": 25.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo castaño recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo mismo pasa en el INEM, donde me dicen que soy yo la que... tengo que buscar al intérprete porque ellos no lo proporcionan.",
+         "start": 32.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo castaño recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Encima! ¿Ni siquiera me lo facilita de forma gratuita?",
+         "start": 40.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo castaño recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me encuentro con muchas barreras. ¿Si quiero mejorar mi futuro... no me van a facilitar un intérprete?",
+         "start": 43.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo castaño recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿No voy a poder desarrollarme? No hay igualdad. No es justo.",
+         "start": 48.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo castaño recogido",
+         "screen_position": "center"
+      }
+   ]
+}

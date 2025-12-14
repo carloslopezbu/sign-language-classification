@@ -1,0 +1,131 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "La enfermedad, el cambio climático, los desastres naturales y las guerras",
+         "start": 5.2,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo, top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "propician la vulneración de los derechos humanos",
+         "start": 11.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo, top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las personas sordas, y fomentan situaciones indeseadas",
+         "start": 14.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo, top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "como las barreras de comunicación y la privación lingüística.",
+         "start": 18.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo, top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Situaciones que impiden su autonomía y seguridad",
+         "start": 22.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo, top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que no deben repetirse en el futuro.",
+         "start": 25.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo, top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que velar por los colectivos vulnerables sea una cuestión prioritaria.",
+         "start": 28.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo, top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nada justifica que ninguna persona sorda se quede atrás.",
+         "start": 33.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas, blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nada justifica que se repitan situaciones de aislamiento,",
+         "start": 38.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas, blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "indefensión y discriminación como las que muchas personas sordas denuncian haber vivido durante la pandemia.",
+         "start": 43.0,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas, blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es obligación de las administraciones públicas asegurar la accesibilidad",
+         "start": 53.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas, blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las personas sordas a la información, la comunicación y los servicios en todo momento, también en situaciones de emergencia.",
+         "start": 57.0,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas, blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Existen soluciones eficaces que lo permiten.",
+         "start": 66.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas, blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿A qué esperan para implementarlas?",
+         "start": 70.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas, blazer negro",
+         "screen_position": "center"
+      }
+   ]
+}

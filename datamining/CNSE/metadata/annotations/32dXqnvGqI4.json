@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, soy Ángeles.",
+         "start": 4.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trabajo en un instituto desde hace 20 años.",
+         "start": 7.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con mis compañeros me relaciono muy bien.",
+         "start": 12.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero existe el problema de la comunicación.",
+         "start": 15.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quiero formarme para poder promocionar, igual que mis compañeros oyentes.",
+         "start": 18.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, no cuento con intérpretes de lengua de signos.",
+         "start": 22.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, al igual que mis compañeros utilizan el teléfono yo necesito... videointerpretación para poder comunicarme.",
+         "start": 26.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aún hay carencias y no disfruto de igualdad de oportunidades.",
+         "start": 30.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "center"
+      }
+   ]
+}

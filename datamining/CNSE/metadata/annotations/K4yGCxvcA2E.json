@@ -1,0 +1,95 @@
+{
+   "num_signers": 10,
+   "annotations": [
+      {
+         "text": "Lola Soroa (vocal)",
+         "start": 0.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ignacio Carrasco (vocal)",
+         "start": 4.8,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": false,
+         "signer_description": "Hombre con barba y jersey a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Marta Muñoz (vocal)",
+         "start": 9.8,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": false,
+         "signer_description": "Mujer con gafas y pelo largo, exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aitor Bedialauneta (vocal)",
+         "start": 16.8,
+         "duration": 5.6,
+         "signer_id": 3,
+         "aligned": false,
+         "signer_description": "Hombre con barba, fondo verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mónica Rodríguez (vocal)",
+         "start": 23.4,
+         "duration": 5.4,
+         "signer_id": 4,
+         "aligned": false,
+         "signer_description": "Mujer con rastas y piercing, biblioteca",
+         "screen_position": "center"
+      },
+      {
+         "text": "José Manuel Cercas (vocal)",
+         "start": 29.8,
+         "duration": 6.4,
+         "signer_id": 5,
+         "aligned": false,
+         "signer_description": "Hombre con barba y chaqueta marrón",
+         "screen_position": "center"
+      },
+      {
+         "text": "Roberto Suárez (secretario general)",
+         "start": 37.8,
+         "duration": 4.4,
+         "signer_id": 6,
+         "aligned": false,
+         "signer_description": "Hombre con gafas y polo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mª Jesús Serna (vicepresidenta 2ª)",
+         "start": 43.2,
+         "duration": 5.2,
+         "signer_id": 7,
+         "aligned": false,
+         "signer_description": "Mujer con pelo corto negro y pañuelo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Amparo Minguet (vicepresidenta 1ª)",
+         "start": 48.8,
+         "duration": 6.2,
+         "signer_id": 8,
+         "aligned": false,
+         "signer_description": "Mujer con pelo corto rojizo, exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "Concha Díaz (presidenta)",
+         "start": 56.4,
+         "duration": 6.2,
+         "signer_id": 9,
+         "aligned": false,
+         "signer_description": "Mujer con pelo corto, jersey morado y chaqueta",
+         "screen_position": "center"
+      }
+   ]
+}

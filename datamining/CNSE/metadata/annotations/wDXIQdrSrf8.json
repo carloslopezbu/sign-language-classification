@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Quiero vivir en una sociedad libre, sin prejuicios ni etiquetas.",
+         "start": 5.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acceder tanto a la información, la comunicación, y la formación en temas de diversidad sexual y de género, en igualdad de condiciones es un derecho que quiero que respeten.",
+         "start": 11.5,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Luchando por nuestros derechos y por una sociedad sin barreras. Es la causa que nos une.",
+         "start": 33.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 46.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "center"
+      }
+   ]
+}

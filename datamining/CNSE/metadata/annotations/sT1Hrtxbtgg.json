@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Para conocer la incidencia de la epidemia del coronavirus en la población española, el Ministerio de Sanidad inicia hoy un estudio estadístico, realizando pruebas en hogares.",
+         "start": 1.2,
+         "duration": 12.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ello, se utilizará una muestra de 36.000 hogares españoles de 50 provincias seleccionados aleatoriamente por el Instituto Nacional de Estadística, a partir de criterios de edad, sexo y volumen de población.",
+         "start": 14.0,
+         "duration": 23.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas participantes, aproximadamente 90.000, se someterán a test rápidos de anticuerpos realizados con un pinchazo en el dedo, que se completarán con análisis más completos de su plasma sanguíneo.",
+         "start": 38.0,
+         "duration": 16.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "El estudio se realizará en tres oleadas, con un intervalo de 21 días entre cada una de ellas. Esto facilitará conocer la evolución en distintos momentos.",
+         "start": 56.0,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque los resultados definitivos del estudio no se conocerán hasta mediados de junio, el Ministerio se contará con los resultados parciales que se consigan en cada una de las tres fases.",
+         "start": 64.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estos resultados permitirán saber cuál es el grado de transmisión comunitaria y qué porcentaje de la población ha podido desarrollar inmunidad, y así, decidir cuáles son las medidas más adecuadas para la vuelta progresiva a la normalidad.",
+         "start": 74.0,
+         "duration": 20.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para la puesta en marcha del estudio, se contará con la colaboración del Instituto de Salud Carlos III, y los servicios de salud de las distintas comunidades autónomas.",
+         "start": 95.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta verde",
+         "screen_position": "center"
+      }
+   ]
+}

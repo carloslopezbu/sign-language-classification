@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, soy Babi y soy inmigrante.",
+         "start": 5.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta vaquera, pañuelo a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy de Rusia. Me trasladé a España y las relaciones...",
+         "start": 9.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta vaquera, pañuelo a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "...con las personas sordas son muy satisfactorias.",
+         "start": 13.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta vaquera, pañuelo a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, la gestión de mi documentación y el trato con los abogados y la policía...",
+         "start": 17.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta vaquera, pañuelo a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "...muy complicado.",
+         "start": 20.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta vaquera, pañuelo a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Veo que las personas sordas reciben...",
+         "start": 21.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta vaquera, pañuelo a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "...una atención desigual en comparación con las personas oyentes.",
+         "start": 23.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta vaquera, pañuelo a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Falta que se cumplan nuestros derechos y sentirme en igualdad de condiciones al del resto.",
+         "start": 26.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta vaquera, pañuelo a rayas",
+         "screen_position": "center"
+      }
+   ]
+}

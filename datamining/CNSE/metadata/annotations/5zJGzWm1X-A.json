@@ -1,0 +1,131 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¿Sabíais que las especies actuales más cercanas a los humanos son el chimpancé común y el chimpancé pigmeo?",
+         "start": 0.189,
+         "duration": 16.694,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Os interesa ver una réplica de Lucy, uno de los esqueletos más antiguos del mundo?",
+         "start": 17.927,
+         "duration": 11.243,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Tenéis curiosidad por conocer cuándo apareció la vida en la Tierra?",
+         "start": 30.82,
+         "duration": 7.711,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os invitamos a recorrer la exposición \"Minerales, fósiles y evolución humana\" del Museo Nacional de Ciencias Naturales sin salir de casa.",
+         "start": 39.974,
+         "duration": 15.921,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo?",
+         "start": 56.438,
+         "duration": 1.167,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias a los contenidos de las signoguías que el Museo ha publicado en su canal de YouTube.",
+         "start": 58.105,
+         "duration": 6.849,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los vídeos se han traducido a la lengua de signos española por profesionales sordos de la Fundación CNSE y, además, cuentan con subtitulado.",
+         "start": 105.839,
+         "duration": 7.124,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con la colaboración de la Fundación Española de Ciencia y Tecnología (FECYT), del Ministerio de Ciencia e Innovación.",
+         "start": 114.994,
+         "duration": 7.208,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "del Museo Nacional de Ciencias Naturales.",
+         "start": 124.04,
+         "duration": 4.044,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A lo largo de la visita encontraréis ocho vídeos signados, subtitulados",
+         "start": 128.925,
+         "duration": 3.545,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "descubierto en 1970 en Yuncos, Toledo. El ejemplar fósil está deformado porque tuvo que soportar una gran presión de sedimentación.",
+         "start": 133.513,
+         "duration": 9.379,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "George Cuvier, considerado por muchos el padre de la paleontología moderna, utilizó los dibujos de Brú para describir la especie.",
+         "start": 133.513,
+         "duration": 9.379,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "El meteorito más antiguo cayó en Sena (Huesca) en 1773. El más moderno procede de Puerto Lápice (Ciudad Real)",
+         "start": 133.513,
+         "duration": 9.379,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "varias esmeraldas de Muzo (Colombia), oro nativo de Colombia, Brasil y Argentina, rubíes y zafiros.",
+         "start": 133.513,
+         "duration": 9.379,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa negra",
+         "screen_position": "right"
+      }
+   ]
+}

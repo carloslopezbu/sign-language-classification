@@ -1,0 +1,59 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 2.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer, pelo recogido, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Sabías que el próximo 20 de noviembre es el Día Internacional de la Infancia?",
+         "start": 3.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer, pelo recogido, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por esta razón, el 22 de noviembre, la CNSE organiza un webinario a través de Zoom:",
+         "start": 8.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer, pelo recogido, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "‘Los Derechos de la Infancia y la Declaración de los Derechos de la Infancia Sorda de la Federación Mundial de Personas Sordas (WFD)’.",
+         "start": 14.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer, pelo recogido, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Quieres saber quiénes participan como ponentes? Puedes consultarlo en el cartel.",
+         "start": 21.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer, pelo recogido, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El webinario comenzará a las 10:00 h. y tendrá una duración aproximada de una hora y media. ¡Contamos con tu participación!",
+         "start": 27.0,
+         "duration": 6.16,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer, pelo recogido, gafas, chaqueta negra",
+         "screen_position": "news-corners"
+      }
+   ]
+}

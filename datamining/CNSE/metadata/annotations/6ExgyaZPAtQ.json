@@ -1,0 +1,32 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Signo del día: gota. Pequeña porción de un líquido, con forma esferoidal.",
+         "start": 2.5,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo corto, camiseta verde",
+         "screen_position": "news-corners"
+      },
+      {
+         "text": "nuevo, va. 1 Que acaba de hacerse, formarse o aparecer. 2 Distinto o diferente de lo que antes había. 3 Poco o nada deteriorado por el uso.",
+         "start": 19.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "pasaporte. Licencia o despacho por escrito que se da para poder pasar libre y seguramente de un pueblo o país a otro.",
+         "start": 29.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta gris",
+         "screen_position": "center"
+      }
+   ]
+}

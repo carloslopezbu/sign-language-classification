@@ -1,0 +1,122 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Si eres una persona sorda y recibes una notificación para ser miembro de mesa electoral (presidente/a o vocal),",
+         "start": 0.0,
+         "duration": 6.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "hay dos posibilidades.",
+         "start": 6.96,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes rechazar el cargo de miembro de mesa y debes notificarlo.",
+         "start": 8.96,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "O puedes aceptar el cargo de miembro de mesa. En este caso, se solicita intérprete de lengua de signos.",
+         "start": 12.96,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os cuento cómo es el proceso.",
+         "start": 17.96,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo importante es realizar la solicitud en 7 días a contar desde que recibes la notificación.",
+         "start": 19.96,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se debe enviar un escrito, puedes encontrar ahí abajo un modelo de solicitud de intérprete.",
+         "start": 27.96,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Rellenas tus datos personales y hay que adjuntar la copia de tu certificado de discapacidad.",
+         "start": 33.96,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Luego los envías a la Junta Electoral de Zona.",
+         "start": 39.96,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "No tienes que pedir intérprete a la Federación o a la Asociación.",
+         "start": 42.96,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Junta Electoral será la que gestione el servicio de intérpretes.",
+         "start": 47.96,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "El día de las elecciones ya contarás con el/la intérprete de lengua de signos que te acompañará todo el día.",
+         "start": 49.96,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda que la solicitud se realiza en los 7 días a partir de la notificación.",
+         "start": 54.96,
+         "duration": 4.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,86 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "En el cole signamos y hablamos",
+         "start": 1.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Chico pelo castaño camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "En casa también, con mamá y con papá.",
+         "start": 10.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Chico pelo oscuro camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "La lengua de signos me hace sentir libre",
+         "start": 14.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Chico pelo oscuro camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me permite comunicarme",
+         "start": 23.5,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niño pelo rizado sudadera verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y compartir",
+         "start": 28.5,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Chico pelo castaño camiseta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y aprender.",
+         "start": 31.5,
+         "duration": 1.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Chico pelo castaño camiseta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las niñas y niños sordos reivindicamos nuestro derecho a signar",
+         "start": 34.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Chico pelo oscuro camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque cuantas más lenguas, mejor.",
+         "start": 40.0,
+         "duration": 6.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Niña con dos coletas sudadera amarilla",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Feliz Día Internacional de la Educación!",
+         "start": 48.5,
+         "duration": 7.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de niños y niñas",
+         "screen_position": "multiple"
+      }
+   ]
+}

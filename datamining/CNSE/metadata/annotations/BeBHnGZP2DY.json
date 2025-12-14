@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Os informamos de que los Telediarios de Televisión Española",
+         "start": 1.4,
+         "duration": 5.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "dejarán de contar con intérpretes de la Fundación CNSE, a partir del lunes día 17 de febrero.",
+         "start": 6.92,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "El motivo es que, como entidad pública, Televisión Española saca a concurso este servicio, y otra empresa ha sido la adjudicataria.",
+         "start": 16.92,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "A partir del próximo lunes, serán otras intérpretes las que aparezcan en pantalla.",
+         "start": 25.92,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      }
+   ]
+}

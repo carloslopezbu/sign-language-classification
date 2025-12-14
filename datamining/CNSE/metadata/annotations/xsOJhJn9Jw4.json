@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE refuerza la atención a personas sordas inmigrantes",
+         "start": 1.1,
+         "duration": 50.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "www.cnse.es/inmigracion",
+         "start": 29.7,
+         "duration": 21.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

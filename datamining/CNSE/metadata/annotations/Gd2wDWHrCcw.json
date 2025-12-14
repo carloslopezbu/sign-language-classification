@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 4.444,
+         "duration": 0.841,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El próximo viernes 6 de octubre por la tarde, la",
+         "start": 6.206,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "EUD celebrará un seminario sobre el derecho a la salud de las personas sordas en la Unión Europea en la sede de la CNSE.",
+         "start": 10.81,
+         "duration": 9.61,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Presentado y moderado por la presidenta de la EUD, Sofía Irasi, y por el presidente de la CNSE, Roberto Suárez, contará",
+         "start": 21.821,
+         "duration": 10.611,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con la participación de integrantes de la Junta directiva de la EUD y del movimiento asociativo de la CNSE.",
+         "start": 32.832,
+         "duration": 11.011,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El seminario comenzará a las 17:00 horas.",
+         "start": 45.445,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os invitamos a asistir presencialmente en nuestra sede ubicada en la calle Islas Aleutianas 28 de Madrid.",
+         "start": 50.45,
+         "duration": 7.407,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ello, debéis registraros previamente en el enlace que os compartimos en la publicación.",
+         "start": 59.259,
+         "duration": 9.409,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También podéis seguirlo en directo a través de Facebook Live de la EUD y la CNSE.",
+         "start": 110.47,
+         "duration": 7.207,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Os esperamos el viernes!",
+         "start": 118.878,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

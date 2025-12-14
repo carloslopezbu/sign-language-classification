@@ -1,0 +1,50 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¿Si encuentro trabajo debo dejar la casa de acogida y buscar alquiler en cuestión de días?",
+         "start": 0.0,
+         "duration": 10.96,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con moño y hombre joven",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "No exactamente.",
+         "start": 10.96,
+         "duration": 5.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con moño y hombre joven",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "La estancia en un centro o casa de acogida finalizaría cuando la persona refugiada cuente con los recursos necesarios para vivir de forma independiente.",
+         "start": 15.96,
+         "duration": 12.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con moño y hombre joven",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Encontrar un trabajo puede suponer un primer paso, pero hay otros factores a tener en cuenta.",
+         "start": 27.96,
+         "duration": 10.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con moño y hombre joven",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Es tarea de los profesionales de los centros de acogida estudiar cada caso, y apoyar a estas personas en cualquier trámite administrativo, incluyendo si así lo requieren, la búsqueda de vivienda.",
+         "start": 37.96,
+         "duration": 16.92,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con moño y hombre joven",
+         "screen_position": "multiple"
+      }
+   ]
+}

@@ -1,0 +1,284 @@
+{
+   "num_signers": 8,
+   "annotations": [
+      {
+         "text": "QUÉ",
+         "start": 0.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "CÓMO",
+         "start": 1.8,
+         "duration": 2.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "CUÁNDO",
+         "start": 3.9,
+         "duration": 2.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "DÓNDE",
+         "start": 6.1,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "POR QUÉ",
+         "start": 8.6,
+         "duration": 2.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "SÍ",
+         "start": 10.7,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "NO",
+         "start": 12.7,
+         "duration": 1.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "PROBLEMA",
+         "start": 14.1,
+         "duration": 1.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "GRACIAS",
+         "start": 16.0,
+         "duration": 2.1,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "INFORMACIÓN",
+         "start": 18.1,
+         "duration": 2.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "AYUDAR",
+         "start": 20.2,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "NECESITAR",
+         "start": 22.4,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "NOMBRE",
+         "start": 24.6,
+         "duration": 2.1,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba",
+         "screen_position": "left"
+      },
+      {
+         "text": "FAMILIA",
+         "start": 26.7,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "TRABAJO",
+         "start": 28.7,
+         "duration": 2.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer piel oscura pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "MÉDICO",
+         "start": 30.7,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "COLEGIO",
+         "start": 32.9,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "DINERO",
+         "start": 35.3,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "FARMACIA",
+         "start": 37.5,
+         "duration": 2.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "ALOJAMIENTO",
+         "start": 39.9,
+         "duration": 2.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "CIUDAD",
+         "start": 42.0,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "PUEBLO",
+         "start": 44.3,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "REFUGIADO (1)",
+         "start": 46.5,
+         "duration": 2.1,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "REFUGIADO (2)",
+         "start": 48.6,
+         "duration": 2.1,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "GUERRA",
+         "start": 50.7,
+         "duration": 2.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "PROTECCION TEMPORAL",
+         "start": 52.8,
+         "duration": 4.9,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y pelo corto",
+         "screen_position": "left"
+      },
+      {
+         "text": "SORDO",
+         "start": 57.7,
+         "duration": 2.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "INTÉRPRETE",
+         "start": 60.4,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      },
+      {
+         "text": "MEDIADOR",
+         "start": 63.2,
+         "duration": 2.4,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y pelo corto",
+         "screen_position": "left"
+      },
+      {
+         "text": "FEDERACIÓN",
+         "start": 65.6,
+         "duration": 2.9,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "ASOCIACIÓN",
+         "start": 68.5,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo",
+         "screen_position": "left"
+      }
+   ]
+}

@@ -1,0 +1,113 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "La Organización Internacional del Trabajo cifra en",
+         "start": 5.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "aproximadamente un 80% las personas con discapacidad",
+         "start": 8.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en edad laboral, de las cuales, un alto porcentaje se enfrenta",
+         "start": 13.0,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a situaciones de subempleo y desempleo.",
+         "start": 16.2,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asegurar su acceso al mercado laboral en condiciones de igualdad",
+         "start": 19.2,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con respecto al resto de trabajadoras/es (iguales condiciones, igual salario, etc)",
+         "start": 22.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se hace imprescindible para avanzar hacia una sociedad justa e inclusiva.",
+         "start": 28.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Urge que se favorezca la inserción, promoción e inclusión laboral de",
+         "start": 37.2,
+         "duration": 5.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "las personas sordas en empresas ordinarias, que se favorezca su acceso al empleo público,",
+         "start": 42.8,
+         "duration": 6.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "que se elimine las restricciones que limitan su acceso a determinados empleos,",
+         "start": 49.8,
+         "duration": 6.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que se garanticen las adaptaciones precisas en su puesto de trabajo,",
+         "start": 56.5,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como su promoción laboral, incluyendo una formación continua en lengua de signos",
+         "start": 62.8,
+         "duration": 5.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y camisa gris",
+         "screen_position": "center"
+      }
+   ]
+}

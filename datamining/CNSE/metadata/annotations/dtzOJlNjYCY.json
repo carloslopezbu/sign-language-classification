@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Para las personas sordas usuarias de audífonos e implantes cocleares es necesario poder adquirir recambios y pilas para sus prótesis auditivas.",
+         "start": 0.0,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Asociación Nacional de Audioprotesistas (ANA) informa en su página web que los establecimientos que suministran estos artículos están autorizadas para abrir.",
+         "start": 8.8,
+         "duration": 12.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si cualquier propietario de establecimiento, considera que debe cerrar, por cualquier razón ética, moral, profesional o financiera, tiene libertad total para poder hacerlo.",
+         "start": 22.5,
+         "duration": 11.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si os encontráis en esta situación de necesitar pilas o recambios, es recomendable consultar a vuestra tienda habitual para confirmar que está abierta y presta servicio.",
+         "start": 34.5,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la empresa GAES Amplifon, nos informan de que siguen prestando servicio online a través de su web www.gaes.es/tienda, y telefónicamente en el 900 37 40 20.",
+         "start": 46.5,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, cuentan con un servicio de reparaciones a domicilio.",
+         "start": 59.2,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recordad, si necesitáis pilas o recambios, poneros en contacto con vuestra tienda habitual para consultar su disponibilidad y horarios.",
+         "start": 105.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta granate",
+         "screen_position": "center"
+      }
+   ]
+}

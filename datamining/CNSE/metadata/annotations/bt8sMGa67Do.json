@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Los niños y jóvenes sordos, en clase, no queremos que nos vean diferentes, raros o menos capaces.",
+         "start": 8.2,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos aprender sin barreras, y participar de las clases como hacen los compañeros oyentes.",
+         "start": 15.1,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos poder elegir el recurso que queramos: lengua de signos o ayudas técnicas o ambos.",
+         "start": 21.5,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo cual nos dará motivación para estudiar.",
+         "start": 28.2,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con una educación equitativa, inclusiva y de calidad, llegaremos lejos.",
+         "start": 31.6,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos capaces. La causa que nos une.",
+         "start": 44.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 56.9,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta verde",
+         "screen_position": "center"
+      }
+   ]
+}

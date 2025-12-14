@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Sí? ¿Todo preparado? Espera un momento, luego te explico.",
+         "start": 0.96,
+         "duration": 5.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio",
+         "screen_position": "left"
+      },
+      {
+         "text": "Estaba hablando con una amiga, que estaba preocupada porque ha presenciado una situación de violencia de género y no sabe qué hacer.",
+         "start": 7.84,
+         "duration": 7.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio",
+         "screen_position": "left"
+      },
+      {
+         "text": "Le estaba explicando que puede contactar con ALBA o el 016 a través de SVvisual. ¿Lo sabías? ¿No? Voy a explicarlo.",
+         "start": 15.04,
+         "duration": 7.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio",
+         "screen_position": "left"
+      },
+      {
+         "text": "ALBA es un servicio de videollamada accesible en lengua de signos de atención, asesoramiento e información para personas sordas contra las violencias machistas.",
+         "start": 23.28,
+         "duration": 12.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio",
+         "screen_position": "left"
+      },
+      {
+         "text": "El horario es de lunes a viernes de las 8 de la mañana a las 8 de la tarde.",
+         "start": 37.44,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si sufres violencia machista o quieres apoyar a una víctima de violencia y quieres contactar con ALBA por tener dudas pero el servicio se encuentra fuera de su horario de atención, puedes entrar en SVvisual para llamar al 016 para recibir información sobre qué hacer.",
+         "start": 44.08,
+         "duration": 17.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si la situación que estás viviendo o que has visto es grave, no esperes y ponte en contacto con el 091 de la Policía Nacional o el 062 de la Guardia Civil a través de SVvisual para informarles de la situación.",
+         "start": 63.04,
+         "duration": 20.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio",
+         "screen_position": "left"
+      },
+      {
+         "text": "Apoyar a la víctima y erradicar la violencia también es tu responsabilidad.",
+         "start": 86.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio",
+         "screen_position": "left"
+      }
+   ]
+}

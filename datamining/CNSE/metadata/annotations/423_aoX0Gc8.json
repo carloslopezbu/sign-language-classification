@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "MIS PRIMEROS SIGNOS MINI",
+         "start": 0.825,
+         "duration": 2.175,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "http://bit.ly/1Cb4eqP",
+         "start": 71.231,
+         "duration": 2.269,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y barba",
+         "screen_position": "right"
+      }
+   ]
+}

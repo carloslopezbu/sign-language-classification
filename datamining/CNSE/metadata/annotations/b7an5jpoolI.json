@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Respetando el pasado, valorando el presente, mirando al futuro",
+         "start": 41.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y blusa clara",
+         "screen_position": "left"
+      }
+   ]
+}

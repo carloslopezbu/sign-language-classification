@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Un mundo donde las personas sordas podamos signar'.",
+         "start": 0.0,
+         "duration": 5.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño",
+         "screen_position": "center"
+      }
+   ]
+}

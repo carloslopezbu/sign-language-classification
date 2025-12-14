@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Siguiendo las recomendaciones de las autoridades sanitarias, con motivo de la alerta del coronavirus",
+         "start": 1.12,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "nos vemos obligados a posponer temporalmente los viajes IMSERSO-CNSE previstos para finales de marzo y principios de abril de 2020.",
+         "start": 7.2,
+         "duration": 8.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestra intención es reanudar los viajes más adelante, cuando se normalice la situación.",
+         "start": 16.2,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De momento, se guarda la inscripción de cada participante.",
+         "start": 23.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo más urgente ahora, es que las y los participantes cancelen el transporte que tuvieran reservado, por avión, tren, autobús, etc.",
+         "start": 28.6,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Rogamos a las federaciones y asociaciones de personas sordas que se les faciliten a estas personas las gestiones que requieran, si solicitasen ayuda para ello.",
+         "start": 40.8,
+         "duration": 10.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estaremos atentos a lo que dicte el Ministerio.",
+         "start": 52.4,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os informaremos de cualquier novedad, y en el caso de que haya una nueva fecha para los viajes.",
+         "start": 56.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Muchas gracias.",
+         "start": 63.8,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

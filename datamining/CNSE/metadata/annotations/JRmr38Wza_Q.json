@@ -1,0 +1,158 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "Hasta ahora, las personas sordas encontrábamos barreras de comunicación",
+         "start": 8.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "incluso en actividades tan cotidianas como realizar la compra",
+         "start": 13.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Alcampo fiel a su compromiso de ser un comercio sin barreras",
+         "start": 17.1,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "hace accesible la atención a los clientes sordos",
+         "start": 22.2,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "gracias a la incorporación del servicio de videointerpretación",
+         "start": 25.8,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "en lengua de signos SVisual en todos sus hipermercados",
+         "start": 30.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "lo que nos permitirá contar con un videointérprete siempre que lo necesitemos",
+         "start": 34.2,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si una persona sorda quiere hacer uso del servicio SVisual",
+         "start": 40.7,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "sólo tiene que solicitarlo al personal de Alcampo",
+         "start": 44.6,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya sea en el punto de Información o en la caja de salida habilitada para ello",
+         "start": 48.3,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camisa roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este servicio es muy fácil de utilizar",
+         "start": 55.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "El personal de Alcampo contacta con SVisual a través de videoconferencia",
+         "start": 58.2,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "y gracias a la figura del videointérprete puede mantener una comunicación en tiempo real",
+         "start": 63.5,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "con cualquier persona sorda ya sea a través de lengua de signos, signo y voz, etc",
+         "start": 68.8,
+         "duration": 5.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "De este modo, Alcampo se convierte en la primera cadena de distribución en ofrecer este servicio",
+         "start": 75.0,
+         "duration": 6.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "que estará disponible durante el horario de apertura de sus hipermercados.",
+         "start": 82.2,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Alcampo, ponemos la accesibilidad al alcance de tus manos",
+         "start": 87.8,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, polo rojo",
+         "screen_position": "center"
+      }
+   ]
+}

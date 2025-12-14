@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Últimas noticias sobre el ébola (22 de octubre de 2014)",
+         "start": 0.0,
+         "duration": 56.08,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      }
+   ]
+}

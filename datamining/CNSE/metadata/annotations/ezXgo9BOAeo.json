@@ -1,0 +1,77 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "¿Qué hacen las drogas en el cuerpo?",
+         "start": 5.0,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre camiseta naranja",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Cómo es un desayuno ideal?",
+         "start": 10.0,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre camiseta naranja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mi cuerpo está cambiado ¿por qué?",
+         "start": 16.0,
+         "duration": 4.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre chaqueta granate",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Qué es la vida? ¿Por qué estoy aquí?",
+         "start": 21.0,
+         "duration": 4.9,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer blusa marrón",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿En qué zonas está prohibido fumar?",
+         "start": 26.0,
+         "duration": 5.9,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer rebeca negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué es la bulimia?",
+         "start": 32.0,
+         "duration": 4.9,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Vale ya de tanta pregunta!",
+         "start": 37.0,
+         "duration": 1.9,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer rebeca negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tienes alguna duda, haz click en el botón \"Pregúntanos\" y un experto te contestará.",
+         "start": 39.0,
+         "duration": 6.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer rebeca negra",
+         "screen_position": "center"
+      }
+   ]
+}

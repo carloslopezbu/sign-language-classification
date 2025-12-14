@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "del Día Nacional",
+         "start": 0.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "de la Lengua de Signos",
+         "start": 2.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "que tiene lugar en la Biblioteca Nacional de España.",
+         "start": 5.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Muchas más personas de las que ahora mismo están en este salón.",
+         "start": 8.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "A todos ustedes, los que están aquí presentes.",
+         "start": 13.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "También a todos los que nos están viendo en streaming, a todos, bienvenidos.",
+         "start": 15.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y muchísimas gracias por acompañarnos.",
+         "start": 20.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me acompañan en la mesa.",
+         "start": 24.5,
+         "duration": 2.02,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y vestido azul oscuro",
+         "screen_position": "left"
+      }
+   ]
+}

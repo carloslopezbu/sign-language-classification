@@ -1,0 +1,23 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Juan Manuel Moreno Secretario Estado Servicios Sociales e Igualdad",
+         "start": 10.3,
+         "duration": 2.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa blanca y corbata roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ignacio Tremiño Director Gral. Políticas de Apoyo a la Discapacidad",
+         "start": 12.4,
+         "duration": 2.44,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con traje y corbata estampada",
+         "screen_position": "center"
+      }
+   ]
+}

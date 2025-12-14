@@ -1,0 +1,185 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¿Se puede llevar animales a casas de acogida?",
+         "start": 1.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Se puede llevar animales a casas de acogida?",
+         "start": 1.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las personas ucranianas pueden viajar a España con sus mascotas sin necesidad de solicitar un permiso previo.",
+         "start": 7.0,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las personas ucranianas pueden viajar a España con sus mascotas sin necesidad de solicitar un permiso previo.",
+         "start": 7.0,
+         "duration": 11.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Una vez en España, deben informar de ello en los propios centros de recepción y acogida en los que les atiendan,",
+         "start": 19.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Una vez en España, deben informar de ello en los propios centros de recepción y acogida en los que les atiendan,",
+         "start": 19.5,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "o bien en los Servicios Veterinarios Oficiales de la comunidad autónoma de destino.",
+         "start": 27.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "o bien en los Servicios Veterinarios Oficiales de la comunidad autónoma de destino.",
+         "start": 27.8,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Los veterinarios se ocuparán de identificar a los animales con microchip;",
+         "start": 35.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los veterinarios se ocuparán de identificar a los animales con microchip;",
+         "start": 35.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "comprobar si el animal ha sido vacunado en Ucrania;",
+         "start": 44.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "comprobar si el animal ha sido vacunado en Ucrania;",
+         "start": 44.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "y extraerle una muestra de sangre para determinar su nivel de anticuerpos frente a distintas enfermedades altamente contagiosas como, por ejemplo, la rabia.",
+         "start": 49.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "y extraerle una muestra de sangre para determinar su nivel de anticuerpos frente a distintas enfermedades altamente contagiosas como, por ejemplo, la rabia.",
+         "start": 49.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si cumplen con todas las condiciones sanitarias podrán trasladarse a la casa de acogida.",
+         "start": 58.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si cumplen con todas las condiciones sanitarias podrán trasladarse a la casa de acogida.",
+         "start": 58.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "En caso contrario, deberán cumplir cuarentena en un centro para ser revacunados y alcanzar un grado de protección óptimo.",
+         "start": 63.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "En caso contrario, deberán cumplir cuarentena en un centro para ser revacunados y alcanzar un grado de protección óptimo.",
+         "start": 63.5,
+         "duration": 12.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más información: https://n9.cl/evk25",
+         "start": 77.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Más información: https://n9.cl/evk25",
+         "start": 77.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "right"
+      }
+   ]
+}

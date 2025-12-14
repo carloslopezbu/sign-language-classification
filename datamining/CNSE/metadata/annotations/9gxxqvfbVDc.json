@@ -1,0 +1,32 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Qué es text2sign?",
+         "start": 3.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuánto dinero cuesta?",
+         "start": 21.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo funciona?",
+         "start": 39.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa morada",
+         "screen_position": "center"
+      }
+   ]
+}

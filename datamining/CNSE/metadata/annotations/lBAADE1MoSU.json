@@ -1,0 +1,113 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Soy Cris, mediadora comunicativa y estudié en Fundación CNSE.",
+         "start": 17.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "El ciclo me encantó, primero, por la calidad buenísima de es experto y tiene muchos años de experiencia.",
+         "start": 21.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "lo que me influyó para evolucionar muchísimo en la lengua de signos.",
+         "start": 28.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Segundo por la relación con los y las compañeros, los trabajos en equipo, etc.",
+         "start": 31.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para mí, fue una experiencia maravillosa.",
+         "start": 35.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hola. Mi signo es éste y me llamo Laura.",
+         "start": 39.8,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El ciclo de mediación comunicativa me ha aportado una gran variedad de cosas.",
+         "start": 43.8,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, un conocimiento profundo de colectivos específicos",
+         "start": 47.0,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como el de personas sordas, personas sordociegas y otras.",
+         "start": 50.8,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo estudié el ciclo en Fundación CNSE.",
+         "start": 55.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Allí, el profesorado, tanto sordo como oyente, es experto y tiene muchos años de experiencia.",
+         "start": 58.5,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También, gracias al ciclo de mediación, he encontrado trabajo dentro de la Comunicad Sorda.",
+         "start": 64.5,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,86 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Cuando vaya a una gasolinera, ¿puedo pagar con el móvil?",
+         "start": 4.7,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y bufanda negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿También tiene ofertas?",
+         "start": 11.7,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro y bufanda negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí, es posible. Cuando haya repostado, pague en el mismo surtidor con su móvil.",
+         "start": 16.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "O puede pagar en la caja o en la tienda con su móvil.",
+         "start": 23.7,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es necesario descargar la aplicación “Waylet”.",
+         "start": 26.7,
+         "duration": 3.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahí encontrará una gran variedad de ofertas y descuentos.",
+         "start": 30.7,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "También recibirá recomendaciones de rutas.",
+         "start": 33.3,
+         "duration": 1.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "O le avisan de las gasolineras más cercanas.",
+         "start": 35.7,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la página web de Repsol, puede usar el servicio de videointerpretación SVisual, en caso de alguna duda.",
+         "start": 38.5,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta granate.",
+         "screen_position": "center"
+      }
+   ]
+}

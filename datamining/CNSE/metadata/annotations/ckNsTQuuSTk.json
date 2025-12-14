@@ -1,0 +1,50 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "La pandemia de la COVID-19 ha puesto de relieve las barreras y situaciones discriminatorias a las que tiene que hacer frente las personas sordas en materia de salud.",
+         "start": 4.591,
+         "duration": 7.921,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa azul de manga larga",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un derecho universal del que queremos ser partícipes en igualdad de condiciones y en todas sus formas, desde la gestión administrativa hasta la atención sociosanitaria.",
+         "start": 13.229,
+         "duration": 11.212,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa azul de manga larga",
+         "screen_position": "center"
+      },
+      {
+         "text": "El acceso a la salud no debe convertirse en un privilegio.",
+         "start": 26.843,
+         "duration": 4.705,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas tenemos derecho a que la prevención y el cuidado de nuestra salud sea accesible y cuente con recursos como intérpretes, videointérpretes y mediadores/as sordos/as.",
+         "start": 32.298,
+         "duration": 17.034,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es responsabilidad de los gobiernos proporcionar información y servicios sanitarios accesibles en lengua de signos para brindar a nuestro colectivo una atención sanitaria óptima.",
+         "start": 50.249,
+         "duration": 13.788,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con polo azul",
+         "screen_position": "center"
+      }
+   ]
+}

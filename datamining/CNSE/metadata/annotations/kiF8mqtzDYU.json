@@ -1,0 +1,185 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Todas y todos tenemos que usar las mascarillas para protegernos.",
+         "start": 1.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si la usamos mal, no nos protegernos bien.",
+         "start": 4.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, pone en riesgo a los demás.",
+         "start": 8.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Veamos algunos ejemplos del mal uso de las mascarillas.",
+         "start": 13.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si usamos la mascarilla por debajo de la nariz.",
+         "start": 20.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así no.",
+         "start": 24.0,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si colocamos la mascarilla en la barbilla.",
+         "start": 27.5,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así no.",
+         "start": 29.3,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si ponemos la mascarilla en la muñeca.",
+         "start": 32.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así no.",
+         "start": 35.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si ponemos la mascarilla en el codo.",
+         "start": 36.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así no.",
+         "start": 39.9,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo correcto es usar la mascarilla bien puesta y ajustada.",
+         "start": 41.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si dejas la mascarilla suelta encima de una mesa.",
+         "start": 51.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así no.",
+         "start": 55.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si metes la mascarilla suelta en el bolso.",
+         "start": 57.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así no.",
+         "start": 60.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tiras la mascarilla al suelo cuando nadie te ve.",
+         "start": 62.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así no.",
+         "start": 66.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo correcto es guardar en una bolsa de tela o de papel.",
+         "start": 68.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

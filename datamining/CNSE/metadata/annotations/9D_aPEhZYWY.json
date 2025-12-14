@@ -1,0 +1,86 @@
+{
+   "num_signers": 8,
+   "annotations": [
+      {
+         "text": "Igualdad",
+         "start": 12.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor con traje oscuro y corbata rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 16.5,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado rubio y blusa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 20.5,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa de cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 25.0,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta de baloncesto roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 28.5,
+         "duration": 1.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con traje oscuro y camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 32.0,
+         "duration": 1.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 34.5,
+         "duration": 1.5,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo largo oscuro y top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 37.0,
+         "duration": 1.5,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 39.5,
+         "duration": 2.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres, una con pelo largo oscuro y otra con pelo oscuro y flequillo, ambas con tops oscuros",
+         "screen_position": "multiple"
+      }
+   ]
+}

@@ -1,0 +1,113 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "¡NO a la LGTBIfobia!",
+         "start": 2.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "En muchos países, la diversidad sexual todavía sigue considerándose delito y castigándose con pena de muerte.",
+         "start": 3.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Asociación Internacional de Lesbianas, Gays, Bisexuales, Trans",
+         "start": 7.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "e Intersexuales (ILGA) sitúa a España en el quinto puesto",
+         "start": 11.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "en materia de derechos LGTBI en Europa.",
+         "start": 16.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, prácticamente la mitad de las agresiones contra las personas LGTBI acontecidas en nuestro país, (48%)",
+         "start": 23.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "han sido reiterativas y no puntuales.",
+         "start": 30.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "SoLidaridad",
+         "start": 39.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con moño y barba corta",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGualdad",
+         "start": 42.0,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con rastas",
+         "screen_position": "center"
+      },
+      {
+         "text": "RespeTo",
+         "start": 45.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "LiBertad",
+         "start": 47.0,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Identidad",
+         "start": 50.0,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

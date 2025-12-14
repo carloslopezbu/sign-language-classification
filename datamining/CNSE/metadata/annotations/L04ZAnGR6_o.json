@@ -1,0 +1,32 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¿Hay que encontrar trabajo inmediatamente?",
+         "start": 0.0,
+         "duration": 6.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con moño y Hombre con pelo corto",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "No. España concede a los refugiados ucranianos un permiso de protección temporal que les habilita para trabajar tanto por cuenta propia como por cuenta ajena, y que, además, les brinda orientación y asesoramiento para la búsqueda de empleo.",
+         "start": 6.5,
+         "duration": 23.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con moño y Hombre con pelo corto",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Las personas sordas también podéis dirigiros a los servicios de empleo de nuestra red asociativa repartida por toda España.",
+         "start": 29.5,
+         "duration": 12.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con moño y Hombre con pelo corto",
+         "screen_position": "multiple"
+      }
+   ]
+}
