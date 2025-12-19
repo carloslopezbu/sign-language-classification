@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Comparecencia de Rajoy por el tema de ébola",
+         "start": 0.834,
+         "duration": 3.086,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer con pelo corto y jersey rojo",
+         "screen_position": "center"
+      }
+   ]
+}

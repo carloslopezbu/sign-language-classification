@@ -1,0 +1,383 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La Constitución Española establece en su artículo 14, que todas las ciudadanas y ciudadanos somos iguales ante la ley, sin que pueda",
+         "start": 1.29,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+         "start": 8.79,
+         "duration": 11.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que compartimos idénticos deberes, derechos y libertades.",
+         "start": 22.79,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que merecemos las mismas oportunidades.",
+         "start": 29.69,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que perseguimos un presente y un futuro digno que la sociedad en la que vivimos debería garantizar, y que sin embargo, no garantiza.",
+         "start": 32.89,
+         "duration": 8.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "O al menos, no a las personas sordas.",
+         "start": 41.29,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No mientras no se respete nuestra libertad para elegir, nuestra plena participación, nuestra diversidad.",
+         "start": 44.19,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta Semana Internacional de las Personas Sordas, la CNSE (Confederación Estatal de Personas Sordas) y su red asociativa exigimos un compromiso firme con nuestro colectivo.",
+         "start": 54.79,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos IGUALDAD.",
+         "start": 104.59,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos la protección y promoción de la lengua de signos.",
+         "start": 107.29,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque es un derecho lingüístico.",
+         "start": 110.89,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un derecho que hace posible otros derechos, y cuya enseñanza y uso debe protegerse y promocionarse.",
+         "start": 113.09,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Incorporando las lenguas de signos en la Constitución y en la carta Europea de las Lenguas Regionales o Minoritarias, y de manera transversal en cualquier legislación,",
+         "start": 122.49,
+         "duration": 10.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y haciendo efectiva la declaración de las lenguas de signos en España como manifestación representativa del Patrimonio Cultural Inmaterial.",
+         "start": 133.39,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos garantías para una educación bilingüe.",
+         "start": 140.29,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos el acceso a una educación equitativa, inclusiva y de calidad para las personas sordas a lo largo de toda la vida.",
+         "start": 143.09,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "A través de una atención temprana integral que contemple la lengua de signos,",
+         "start": 149.49,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la dotación de una red de centros suficiente en todo el territorio y profesionales debidamente cualificados",
+         "start": 153.29,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "que garanticen el derecho de las familias a elegir una educación bilingüe para sus hijas e hijos.",
+         "start": 162.59,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con intérpretes de lengua de signos en el aula, y las ayudas técnicas que precise el alumnado.",
+         "start": 169.09,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque todos los recursos suman.",
+         "start": 175.39,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos más y mejor empleo.",
+         "start": 178.29,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Urge que se favorezca la inserción, promoción e inclusión laboral de las personas sordas,",
+         "start": 184.59,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "que se favorezca su acceso al empleo público, y se garanticen las adaptaciones precisas en su puesto de trabajo",
+         "start": 194.39,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como su promoción laboral, incluyendo una formación continua en lengua de signos.",
+         "start": 202.39,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los bienes y servicios a disposición de la ciudadanía deben serlo también para las personas sordas.",
+         "start": 211.09,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Atención específica para mujeres sordas víctimas de violencia de género,",
+         "start": 217.29,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "teleasistencia accesible para las personas mayores sordas y en situación de dependencia,",
+         "start": 222.09,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y un acceso a los servicios de emergencia, a la información institucional, a la televisión, la justicia, a todos los servicios sociales y sanitarios",
+         "start": 229.09,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "sin barreras de comunicación de ningún tipo mediante lengua de signos y texto escrito.",
+         "start": 239.39,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con la brecha social con el resto de la ciudadanía, es necesario, mantener y mejorar las ayudas económicas de todo tipo que reciban las personas sordas,",
+         "start": 244.49,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para permitir seguir atendiendo a las necesidades del colectivo y garantizando la estabilidad laboral de los profesionales sordos.",
+         "start": 255.79,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 265.39,
+         "duration": 0.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tan valiosas y valiosos como cualquiera.",
+         "start": 266.79,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que deciden por sí mismas.",
+         "start": 268.99,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que están presentes en todos los ámbitos para hacer valer sus derechos y visibilizar sus necesidades.",
+         "start": 273.09,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas capaces.",
+         "start": 280.39,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque nuestros límites están donde empieza el desconocimiento, los prejuicios, lo irracional.",
+         "start": 282.29,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas protagonistas de nuestras vidas.",
+         "start": 290.79,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comprometidas con una causa.",
+         "start": 297.39,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "SER AQUELLO QUE QUERAMOS SER.",
+         "start": 300.29,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La causa que nos une.",
+         "start": 303.59,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido, viste de negro",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,122 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Más de 200 personas han perdido la vida y decenas permanecen desaparecidas por las graves inundaciones causadas por la DANA.",
+         "start": 1.3,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un fenómeno meteorológico que, en pocas horas, dejó 500 litros de precipitaciones por metro cuadrado. Es decir, el equivalente a un año de lluvia.",
+         "start": 10.0,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué es la DANA?",
+         "start": 22.2,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La DANA o Depresión Aislada en Niveles Altos se produce cuando una masa de aire polar muy frío queda aislada y empieza a circular a altitudes muy elevadas (entre 5.000 y 9.000 metros).",
+         "start": 26.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puede durar varios días y viene acompañada de una bajada de las temperaturas, ambiente muy inestable y lluvias.",
+         "start": 39.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La DANA es frecuente en el Mediterráneo en la época de otoño, si bien no suele producir condiciones climáticas extremas.",
+         "start": 50.2,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Su potencial demoledor aparece justamente cuando se mezcla con las cálidas temperaturas terrestres y marítimas, como ha ocurrido en este caso.",
+         "start": 58.5,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Históricamente en España ha habido DANAS muy recordadas por sus destructivas consecuencias, como la de 1973 que afectó a Almería, Granada y Murcia.",
+         "start": 107.2,
+         "duration": 12.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si bien la Aemet (Agencia Española de Meteorología) ha calificado el pasado temporal como el más adverso del siglo en la Comunidad Valenciana.",
+         "start": 120.2,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Influye el cambio climático?",
+         "start": 133.2,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según las/os expertas/os, la creciente frecuencia de las DANAS y la intensificación de las lluvias asociadas a ellas están estrechamente ligadas al cambio climático.",
+         "start": 136.5,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, se ha detectado un incremento de las DANAS desde la década de 1960 a escala global.",
+         "start": 147.5,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La causa está en el progresivo aumento de la temperatura del mar, que facilita que se den las condiciones para que haya la energía y humedad necesarias para que se produzca una DANA más potente.",
+         "start": 156.8,
+         "duration": 11.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y jersey negro",
+         "screen_position": "center"
+      }
+   ]
+}

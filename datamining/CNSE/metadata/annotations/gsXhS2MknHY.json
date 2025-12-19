@@ -1,0 +1,248 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Me gustaría hablaros sobre las rentas,",
+         "start": 1.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "existen tres rentas distintas:",
+         "start": 6.1,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Renta Mínima de Insercción (RMI) son las rentas que corresponden",
+         "start": 10.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "a cada Comunidad Autónoma, y éstas son quienes definen",
+         "start": 16.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "las formas de acceso, requisitos exigidos, etc.",
+         "start": 19.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los requisitos que solicitan son, por ejemplo: el número de personas",
+         "start": 22.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "que conviven en esa familia, los ingresos máximos mensuales de esa familia,",
+         "start": 25.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "si en esa familia hay personas que trabajan o no, etc.",
+         "start": 31.8,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las rentas son pagadas por las Comunidades Autónomas",
+         "start": 37.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Renta Mínima Vital, ésta es una renta nueva.",
+         "start": 41.8,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno tiene previsto aprobarla en el mes de mayo",
+         "start": 45.9,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo de la Renta Mínima Vital es apoyar a las familias más vulnerables",
+         "start": 50.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que puedan sobrellevar su día a día y cubrir sus necesidades básicas.",
+         "start": 57.8,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las rentas son pagadas por el Estado.",
+         "start": 109.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto la aprueben, volveremos a signar la noticia.",
+         "start": 113.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Renta Básica, que también es nueva",
+         "start": 123.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y se desconoce cuándo se va a aprobar.",
+         "start": 127.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo de esta renta es prestar una prestación a toda la ciudadanía",
+         "start": 133.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y no se tendría en cuenta las condiciones del ciudadano,",
+         "start": 139.8,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "independientemente de la unidad familiar, si tiene empleo, subsidios.",
+         "start": 144.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es un ingreso pagado por el Estado, como derecho de ciudadanía, derecho a una vida digna.",
+         "start": 149.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Resumiendo, el RMI está operativo,",
+         "start": 154.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y las prestaciones corresponden a cada Comunidad Autónoma.",
+         "start": 158.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Renta Mínima Vital y la Renta Básica aún no están aprobadas,",
+         "start": 160.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "cuya prestación corresponde al Estado.",
+         "start": 165.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espero que os haya quedado claro.",
+         "start": 168.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto aprueben el nuevo Real Decreto os iremos informando de nuevo.",
+         "start": 170.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      }
+   ]
+}

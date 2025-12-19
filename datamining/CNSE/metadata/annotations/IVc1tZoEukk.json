@@ -1,0 +1,203 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Siempre ha habido desigualdad salarial en el ámbito laboral.",
+         "start": 1.29,
+         "duration": 5.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se limita la libre elección de la mujer de su carrera profesional por estereotipos de género.",
+         "start": 7.0,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para cuidar a sus hijos o a personas mayores, se le da el rol de cuidadora a la mujer.",
+         "start": 14.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La mujer se encarga de la compra y de las gestiones domésticas.",
+         "start": 20.0,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay que dar fin a todo eso, con una huelga.",
+         "start": 25.0,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Huelga Feminista.",
+         "start": 29.0,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como el año pasado, el 8 de marzo se ha convocado una huelga.",
+         "start": 30.7,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La huelga es un derecho constitucional.",
+         "start": 35.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el día de la huelga, no se irá a trabajar.",
+         "start": 39.4,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se irá a clase.",
+         "start": 43.0,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se encargará del cuidado a los niños o a personas mayores.",
+         "start": 45.9,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se hará la compra o las gestiones domésticas.",
+         "start": 49.1,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto será una huelga.",
+         "start": 53.1,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la huelga puede participar cualquier mujer.",
+         "start": 61.4,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si eres un hombre y deseas apoyar la huelga, puedes colaborar.",
+         "start": 64.1,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las tareas del hogar y cuidado de las que siempre se ha encargado tu mujer, asúmelas por completo.",
+         "start": 67.2,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Evita hablar mal de la huelga con tus compañeros o amigos.",
+         "start": 77.8,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Explícales que la huelga es necesaria.",
+         "start": 83.9,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes participar en la manifestación, siempre entendiendo y respetando sus normas.",
+         "start": 88.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si eres mujer y deseas estar en huelga, consulta con tu empresa.",
+         "start": 95.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para más información: www.hacialahuelgafeminista.org",
+         "start": 102.9,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por los derechos de igualdad, por un futuro mejor.",
+         "start": 108.9,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

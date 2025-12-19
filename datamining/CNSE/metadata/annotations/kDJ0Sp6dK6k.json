@@ -1,0 +1,212 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Hola.",
+         "start": 1.2,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hace pocos días asistimos a la aprobación del Real Decreto por el que se rige el Reglamento que desarrolla la Ley 27/2007.",
+         "start": 4.2,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tras su publicación en el BOE, el presidente de la CNSE, Roberto Suárez, nos ofrece una valoración de esta norma trascendental para la comunidad sorda aquí, en nuestro canal Signar por derecho.",
+         "start": 12.5,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CNSE ha luchado por que este reglamento fuera práctico, útil, y garantista.",
+         "start": 33.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que partiera de una visión integral de las personas sordas y sordociegas y posibilitase su derecho a elegir cómo comunicarse",
+         "start": 41.5,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Se han cumplido las expectativas?",
+         "start": 54.2,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La respuesta es un sí rotundo. El texto cumple con las expectativas de la CNSE y de su movimiento asociativo.",
+         "start": 102.5,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este Reglamento viene a aterrizar los derechos ya reconocidos en la Ley 27/2007 estableciendo obligaciones necesarias para que las personas sordas podamos ejercerlos a través de la lengua de signos o de los medios de apoyo a la comunicación eligiendo de manera libre, en cualquier ámbito o contexto de nuestra vida, sin que nadie nos imponga cómo debemos comunicarnos.",
+         "start": 112.8,
+         "duration": 32.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, esta norma reconoce la lengua de signos como un bien cultural a proteger, como un legado cultural histórico que debe difundirse, dignificarse y enseñarse.",
+         "start": 150.0,
+         "duration": 19.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reconoce asimismo la identidad lingüística de la comunidad sorda que utilizamos la LSE y también la LSC.",
+         "start": 209.5,
+         "duration": 15.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otra de las cuestiones reseñables en el reglamento es el reconocimiento de la figura del especialista de lengua de signos y su incorporación al ámbito educativo de las personas sordas y sordociegas.",
+         "start": 227.5,
+         "duration": 13.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo puede el Reglamento mejorar la vida de las personas sordas?",
+         "start": 242.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este reglamento hace un recorrido por los ámbitos del día a día de cualquier persona sorda garantizando su derecho a poder expresarse en lengua de signos.",
+         "start": 252.5,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así bien, por ejemplificarlo, una persona sorda que quiera llamar telefónicamente a su ayuntamiento deberá contar con servicio de videointerpretación.",
+         "start": 302.0,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si una persona sorda necesita ir al médico de urgencia, el hospital deberá contar con servicio de interpretación o videointerpretación.",
+         "start": 309.0,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si unos progenitores sordos quieren acceder a una tutoría con el profesor o profesora de su hija/o puedan contar con intérprete o servicio de videointerpretación.",
+         "start": 320.0,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si una persona sorda pretende acceder a un empleo público, que pueda hacer los exámenes orales en lengua de signos.",
+         "start": 333.5,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "O bien, si una persona sorda quiere aprender idiomas, que tenga derecho a contar con los apoyos y adaptaciones curriculares.",
+         "start": 345.5,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por tanto, el reglamento nos brinda un amplio camino de futuro lleno de oportunidades para las personas sordas.",
+         "start": 354.0,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Real Decreto por el que se aprueba el Reglamento entra en vigor el 2 de enero de 2024.",
+         "start": 244.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué acciones se han previsto para facilitar su despliegue?",
+         "start": 253.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la CNSE elaboraremos una estrategia de seguimiento de este Reglamento para que su despliegue se haga de la forma más eficaz. Para ello debemos contar con todo el movimiento asociativo pues esta norma es, mayoritariamente, de aplicación autonómica y local, dado que son las administraciones más cercanas a los ciudadanos y ciudadanas las que realizan atención más directa con las personas sordas.",
+         "start": 259.5,
+         "duration": 35.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, el reglamento, en su artículo 7, prevé expresamente la colaboración con entidades de personas sordas, por lo que la CNSE y las entidades de su movimiento asociativo tendrán que ponerse a disposición de las administraciones públicas para realizar las acciones de toma de conciencia y formación que se disponen en el texto, de cara a su cumplimiento.",
+         "start": 295.5,
+         "duration": 29.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,131 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ayer, día 9 de marzo, el Ministerio de Sanidad compareció ayer para informar sobre las últimas novedades del coronavirus.",
+         "start": 1.12,
+         "duration": 6.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Resumimos la información más destacada.",
+         "start": 8.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Comunidad de Madrid y el País Vasco pasan a considerarse zonas con un índice de transmisión alto, lo que conlleva la adopción de medidas extraordinarias con el objetivo de evitar contagios.",
+         "start": 10.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las medidas son solo para estas zonas, no para el resto de España.",
+         "start": 21.8,
+         "duration": 3.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se cierran los centros educativos al menos durante 15 días:",
+         "start": 26.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "guarderías, colegios, institutos y universidades en la Comunidad de Madrid, y en las ciudades alavesas de Vitoria y Labastida.",
+         "start": 31.8,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se recomienda que las empresas pongan en marcha el teletrabajo en la medida de lo posible, hacer turnos, flexibilizar el horario, y evitar reuniones internas y externas, para evitar concentraciones de trabajadores y trabajadoras.",
+         "start": 43.52,
+         "duration": 18.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se clausuran los centros de mayores, y se cancelan temporalmente las visitas a las residencias de ancianos.",
+         "start": 103.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por responsabilidad, evitar los viajes innecesarios.",
+         "start": 110.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todo esto fue de la comparecencia de ayer.",
+         "start": 116.2,
+         "duration": 2.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta misma mañana, el Gobierno de La Rioja ha anunciado que suspenden las clases durante dos semanas.",
+         "start": 118.8,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, las nuevas medidas que surjan en el día de hoy, os las informaremos mañana.",
+         "start": 124.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os recordamos que las personas con síntomas como estornudos, tos, fiebre, o dificultad para respirar, deben procurar quedarse en casa y llamar al teléfono que ha habilitado cada comunidad autónoma o al 112.",
+         "start": 129.8,
+         "duration": 14.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También os recordamos que hemos habilitado en SVisual, un botón directo para contactar con los teléfonos de emergencia.",
+         "start": 145.2,
+         "duration": 7.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

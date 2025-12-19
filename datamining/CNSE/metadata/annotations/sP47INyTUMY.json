@@ -1,0 +1,662 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "Un año más, la CNSE, Confederación Estatal de Personas Sordas,",
+         "start": 8.158,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se suma a la celebración del Día Internacional de las Mujeres, y a la lucha contra la desigualdad de género.",
+         "start": 11.158,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un asunto que afecta en mayor medida a las mujeres sordas,",
+         "start": 18.658,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "por nuestra condición de mujeres sordas y de personas con discapacidad.",
+         "start": 21.658,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nosotras, las mujeres sordas, tenemos que enfrentarnos cada día",
+         "start": 26.658,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a prejuicios y estereotipos sociales que nos relegan a un segundo plano en el ámbito profesional.",
+         "start": 30.158,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sufriendo conductas discriminatorias que dificultan nuestro acceso",
+         "start": 37.658,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "al empleo, a la formación y a la información.",
+         "start": 41.658,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reclamando una igualdad de oportunidades que nos sigue siendo denegada.",
+         "start": 47.158,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pidiendo que al fin, seamos escuchadas.",
+         "start": 53.658,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fomentar el emprendimiento y el autoempleo entre las mujeres sordas",
+         "start": 58.158,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "constituye una buena alternativa frente a la elevada tasa de desempleo",
+         "start": 102.658,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que afecta a este colectivo. Y para ello, necesitamos contar",
+         "start": 108.158,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con información, formación y asesoramiento accesible tanto en lengua de signos",
+         "start": 113.658,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como con textos escritos, que facilite el proceso de autoempleo.",
+         "start": 118.158,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Amalia es una mujer sorda que apostó por crear su propia empresa.",
+         "start": 129.188,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Cuáles son las principales barreras a las que deben hacer frente las mujeres sordas que eligen ser emprendedoras?",
+         "start": 134.888,
+         "duration": 8.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Existen dos tipos de barreras: la primera la de los trámites.",
+         "start": 143.888,
+         "duration": 4.3,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por ejemplo, cuando vas a hacienda, a la seguridad social etc.,",
+         "start": 148.888,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "y te encuentras con una persona oyente que no conoce la lengua de signos,",
+         "start": 153.188,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "y que además no te explica bien cómo proceder, es realmente complicado.",
+         "start": 157.188,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "La segunda barrera importante son los clientes: la mayoría de los clientes son oyentes,",
+         "start": 202.888,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "es difícil enfrentar la comunicación; cuesta mucho trabajo.",
+         "start": 208.888,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "En tu caso ¿cómo fue la experiencia?",
+         "start": 213.888,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mi experiencia fue muy buena. He estado trabajando para clientes oyentes,",
+         "start": 218.888,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "me los gané acercándome a ellos, demostrándoles la labor que realizo en la joyería.",
+         "start": 223.388,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Después de que ellos lo miraran con lupa y pudieran comprobarlo, son mis clientes habituales.",
+         "start": 229.888,
+         "duration": 12.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Actualmente, sólo un 2% de personas sordas se anima a poner un negocio.",
+         "start": 243.888,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿A qué crees que se debe?",
+         "start": 248.888,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Creo que es debido al miedo. Y hay que quitarse ese miedo,",
+         "start": 254.388,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Yo misma les invitaría a que sigan luchando, porque pueden",
+         "start": 258.888,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "conseguir iguales resultados que las personas oyentes.",
+         "start": 303.888,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cuesta, pero podemos hacerlo, aunque sea más despacio.",
+         "start": 308.388,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Dentro del mercado laboral, se observa que las personas sordas",
+         "start": 313.158,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "no tienen trabajos de calidad.",
+         "start": 317.658,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante mucho tiempo en institutos, universidades y colegios",
+         "start": 321.658,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la accesibilidad a la formación no ha existido ni ha habido formación adaptada.",
+         "start": 325.658,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por eso, hay que apostar por una formación accesible y de calidad",
+         "start": 330.158,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que favorezca la igualdad en este ámbito.",
+         "start": 334.158,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sara estudia Administración y Empresas en la Universidad.",
+         "start": 343.03,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cómo es la situación del alumnado sordo en este sentido?",
+         "start": 349.23,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ahora hay más alumnos sordos en las Universidades, gracias a que colegios e institutos practican una educación inclusiva. Estos centros y su profesorado, están más sensibilizados con las medidas de accesibilidad que necesita el alumnado sordo.",
+         "start": 353.93,
+         "duration": 9.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me gustaría que pudiéramos estudiar la carrera que nos gustase sin preguntarnos si será accesible o no.",
+         "start": 403.93,
+         "duration": 5.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Que sea una decisión libre.",
+         "start": 409.43,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "A la hora de participar en algún curso de formación para completar tus estudios, ¿encuentras barreras?",
+         "start": 412.93,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sí. En mi caso, si quiero hacer un máster, he de pagar el servicio de interpretación, siempre con la duda de si tendría una calidad óptima.",
+         "start": 420.13,
+         "duration": 6.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Además el profesorado no siempre tiene conocimientos de la comunidad sorda, y como consecuencia, no hay adaptaciones al hacer un trabajo, ni subtítulos en los vídeos que se proyectan, etc. Aún encontramos muchas barreras en las aulas.",
+         "start": 427.13,
+         "duration": 9.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Crees que el hecho de ser mujer sorda afectará a tu inserción laboral?",
+         "start": 437.63,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para cualquier mujer es complicado encontrar trabajo debido a la desigualdad de género en el ámbito laboral, en cuanto a los salarios. Ser mujer, y además sorda, supone una doble barrera, y por lo tanto, una doble dificultad.",
+         "start": 442.83,
+         "duration": 10.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Uno de los objetivos de la CNSE es incentivar y consolidar",
+         "start": 456.158,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el protagonismo, representatividad y liderazgo de las mujeres sordas",
+         "start": 501.158,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "dentro y fuera del movimiento asociativo.",
+         "start": 507.158,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Paloma es responsable de la sección de Igualdad de la asociación CECUSOR.",
+         "start": 517.818,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Crees que para las mujeres sordas es más difícil alcanzar puestos de responsabilidad?",
+         "start": 525.818,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Difícil..., no lo sé.",
+         "start": 537.318,
+         "duration": 2.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero si la mujer sorda quiere, puede hacerlo.",
+         "start": 539.818,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si se ve con capacidad suficiente, puede asumirlo.",
+         "start": 543.818,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cómo crees que nos ve la sociedad?",
+         "start": 548.818,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hoy por hoy la sociedad engloba en un mismo todo a mujeres sordas y oyentes, sin tener en cuenta nuestras necesidades.",
+         "start": 554.318,
+         "duration": 8.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "No ven que se nos discrimina.",
+         "start": 603.818,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Considero que la sociedad debe escuchar nuestras capacidades.",
+         "start": 609.818,
+         "duration": 4.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si nosotras las hemos demostrado, es porque podemos.",
+         "start": 614.818,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "O sea, que si nosotras las mostramos la sociedad tendrá que verlas, ¿no?",
+         "start": 618.818,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Eso es.",
+         "start": 624.318,
+         "duration": 2.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Qué mensaje te gustaría transmitir a las mujeres sordas?",
+         "start": 626.818,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, chaqueta verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Les transmitiría a todas y cada una de ellas, que sigan teniendo motivación personal.",
+         "start": 634.318,
+         "duration": 9.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "El miedo existe, lo tenemos todos, pero a veces tener ese miedo es bueno porque te incita a asumir el riesgo.",
+         "start": 645.318,
+         "duration": 8.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y es que si no asumes el riesgo, nunca sabrás si eres capaz o no.",
+         "start": 654.318,
+         "duration": 5.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, abrigo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "En este Día Internacional de las Mujeres, las mujeres sordas reclamamos",
+         "start": 702.158,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD en nuestro acceso al empleo, en nuestras condiciones laborales, en nuestros salarios.",
+         "start": 706.158,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD en nuestro lugar de estudios, en nuestro hogar, en nuestro día a día.",
+         "start": 711.158,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD de trato, de derechos, de libertades.",
+         "start": 715.158,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En definitiva, IGUALDAD DE OPORTUNIDADES.",
+         "start": 719.158,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

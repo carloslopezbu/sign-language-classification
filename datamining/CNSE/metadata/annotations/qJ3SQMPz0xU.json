@@ -1,0 +1,149 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "El envejecimiento de la población es un fenómeno universal.",
+         "start": 2.318,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Prácticamente todos los países del mundo están experimentando un crecimiento de la proporción de personas mayores en sus sociedades.",
+         "start": 10.238,
+         "duration": 6.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Internacional de las Personas de Edad, fecha declarada por la ONU en 1990, en Signar Por Derecho",
+         "start": 19.318,
+         "duration": 7.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "nos hacemos eco de las reivindicaciones del Consejo Consultivo de Personas Mayores Sordas de la CNSE.",
+         "start": 28.318,
+         "duration": 7.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas mayores sordas reivindicamos un envejecimiento activo, participativo y saludable que contribuya a evitar situaciones de desamparo y soledad no deseada presentes y futuras.",
+         "start": 40.673,
+         "duration": 12.24,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño rojizo y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos derecho a que los recursos y servicios para la población mayor incorporen también la lengua de signos.",
+         "start": 53.793,
+         "duration": 6.04,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño rojizo y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas mayores sordas reivindicamos que se apoye la continuidad de programas como Vidasor",
+         "start": 102.1,
+         "duration": 5.92,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "que procuran servicios de acompañamiento específicamente diseñados para atender nuestras necesidades.",
+         "start": 110.78,
+         "duration": 6.12,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos derecho a una teleasistencia accesible a través de nuestra lengua propia.",
+         "start": 120.3,
+         "duration": 4.88,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto gris y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas mayores sordas reivindicamos una atención sociosanitaria accesible y especializada en centros de día, viviendas tuteladas y servicios de atención domiciliaria.",
+         "start": 130.878,
+         "duration": 14.64,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto gris, perilla y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos derecho a disfrutar de centros residenciales adaptados con inclusión de personal formado en lengua de signos y en estrategias de comunicación con personas sordas.",
+         "start": 150.558,
+         "duration": 12.96,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto gris, perilla y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "La discriminación basada en la edad afecta a personas de todas las generaciones.",
+         "start": 208.575,
+         "duration": 4.76,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "A menudo, se asocia a las personas mayores con estereotipos negativos y con prejuicios, lo que lleva a ser tratadas de manera injusta.",
+         "start": 214.215,
+         "duration": 8.52,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas/os merecemos ser tratadas/os con respeto, sin importar cuántos años tengamos.",
+         "start": 224.775,
+         "duration": 5.92,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas mayores sordas reivindicamos nuestro derecho a una vida digna.",
+         "start": 231.935,
+         "duration": 4.92,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Feliz Día Internacional de las Personas de Edad!",
+         "start": 239.735,
+         "duration": 2.84,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Cuatro personas en pantalla dividida",
+         "screen_position": "multiple"
+      }
+   ]
+}

@@ -1,0 +1,194 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Bienvenida, Lola.",
+         "start": 1.4,
+         "duration": 2.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas, camisa azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lola trabaja desde hace muchos años como experta en tema de empleo en la Federación de Personas Sordas de la Comunidad de Madrid, FeSorCam.",
+         "start": 4.3,
+         "duration": 8.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas, camisa azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tienes muchísima experiencia en la atención a personas usuarias diversas para su inserción laboral, ¿cómo ves la situación de las mujeres sordas ante el empleo?",
+         "start": 13.5,
+         "duration": 11.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas, camisa azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Antes de nada, hola a todas.",
+         "start": 27.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me gustaría explicar un poco que las mujeres usuarias que he atendido en el área de empleo normalmente tienen una franja de edad de 18 hasta 30 años, que suelen venir bastantes.",
+         "start": 29.7,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pero vienen menos mujeres de los 30 años hasta los 40. Y más a partir de los 45 años.",
+         "start": 40.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Esta franja menor es debido a que es la edad en la que se forma una familia, se tienen hijos e hijas y hay que decidir quién trabaja pero al final se suele encargar de ello la pareja o marido.",
+         "start": 46.5,
+         "duration": 8.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "La mujer deja su trabajo y se va al paro hasta que los hijos ya son mayores y vuelve a trabajar de nuevo.",
+         "start": 56.3,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando vuelven a trabajar, es frecuente que lo hagan de cualquier cosa, conformándose con lo que salga porque que no tienen otra opción.",
+         "start": 62.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Es una situación muy delicada, las mujeres no tienen otra opción y la sociedad no se lo facilita y según la situación o la edad es muy duro.",
+         "start": 73.4,
+         "duration": 8.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas, camisa azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Este tipo de situaciones, ¿cómo se podrían cambiar?",
+         "start": 83.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas, camisa azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "- ¿Cambiar las cosas? Creo que las mujeres sordas deben trabajar sí o sí más que por economía, por autonomía, para avanzar socialmente y como desarrollo personal. Esto podría cambiar las cosas.",
+         "start": 88.8,
+         "duration": 16.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay planes de conciliación que más adelante pueden ser la solución.",
+         "start": 106.3,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay que fomentar el empleo entre las mujeres sordas.",
+         "start": 110.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Por último, ¿quieres mandar algún mensaje a la sociedad que nos ve, o a las mujeres sordas?",
+         "start": 113.5,
+         "duration": 5.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas, camisa azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Las mujeres sordas tenemos capacidad suficiente para trabajar, pero la sociedad todavía nos discrimina, nos discrimina por el hecho de ser mujeres, por ser personas sordas, por ser inmigrantes, por pertenecer a la comunidad LGTBI, etc.",
+         "start": 122.2,
+         "duration": 11.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Esto hay que revertirlo, dar oportunidades y quitar el estigma que pone la sociedad de que solo podemos trabajar en la limpieza.",
+         "start": 134.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se pueden abrir horizontes y trabajar en informática, logística o cualquier cosa porque las mujeres tenemos la responsabilidad para ello.",
+         "start": 139.5,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, jersey verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Es verdad, coincido completamente.",
+         "start": 148.2,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas, camisa azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Espero que a partir de ahora esto se pueda cambiar. Muchísimas gracias.",
+         "start": 150.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas, camisa azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Gracias.",
+         "start": 154.8,
+         "duration": 0.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas, camisa azul",
+         "screen_position": "right"
+      }
+   ]
+}

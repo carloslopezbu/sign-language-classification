@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La lengua de signos estará presente en los procesos judiciales",
+         "start": 1.1,
+         "duration": 16.9,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "center"
+      }
+   ]
+}

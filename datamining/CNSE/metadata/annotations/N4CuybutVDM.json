@@ -1,0 +1,23 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "CUIDADO LINGÜÍSTICO",
+         "start": 59.926,
+         "duration": 26.133,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris, gafas, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "www.fundacioncnse.org/cursos/linguistica2014.html",
+         "start": 149.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer pelo corto gris, gafas, chaqueta azul",
+         "screen_position": "center"
+      }
+   ]
+}

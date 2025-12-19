@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¡Hola! Estamos en plenas jornadas de trabajo.",
+         "start": 46.6,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los días 6 y 7 de marzo hemos celebrado un encuentro de trabajo en red, al que han asistido diferentes federaciones de toda España.",
+         "start": 49.6,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos 25 participantes con diferentes perfiles profesionales: ADECOSOR, mediadoras/es comunicativos, coordinadoras/es, trabajadora/es sociales.",
+         "start": 58.6,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tanto personas sordas como oyentes hemos compartido cómo va a ser la futura descentralización del servicio VidAsor, que cómo sabéis va a modificarse.",
+         "start": 108.2,
+         "duration": 8.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El contenido trabajado ha sido muy diverso: programas, protocolos, funcionamiento de VidAsor, voluntariado, actividades, etc.",
+         "start": 117.2,
+         "duration": 8.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También han participado entidades externas como la empresa OMNI que, como podéis ver, está explicando cómo funciona su plataforma de videollamadas.",
+         "start": 126.8,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al final, contaremos con una mesa de experiencias, en la que entidades como EUSKAL GORRAK, ASORNA o Fesord CV expondrán cómo ha sido su trabajo hasta ahora.",
+         "start": 137.3,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y sudadera negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,185 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 2.1,
+         "duration": 1.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy en Signar por Derecho repasamos el webinario ‘Acercamiento a los derechos lingüísticos de las personas sordas más allá de la discapacidad’,",
+         "start": 4.4,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "organizado por la CNSE el pasado mes de diciembre.",
+         "start": 14.9,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Presentado y moderado por Naiara Larrakoetxea, contó como ponentes con dos expertas en materia jurídica de la Confederación,",
+         "start": 19.1,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Marta Muñoz y Patricia Mora.",
+         "start": 29.5,
+         "duration": 2.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante su intervención, Marta Muñoz, explicó el marco normativo general que recoge los derechos lingüísticos de la comunidad sorda en diversas organizaciones internacionales como la ONU o la Federación Mundial de Personas Sordas, y todos los movimientos asociativos de cada país que buscan proteger los derechos lingüísticos de las personas sordas.",
+         "start": 36.3,
+         "duration": 22.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por un lado está la lengua y su protección legal y normativa. Si yo quiero utilizar mi lengua, la lengua de signos, tengo un derecho lingüístico.",
+         "start": 61.5,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, gafas, chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por otro lado, está el derecho a la protección de la lengua. Son diferentes. Somos una minoría lingüística cultural con una lengua propia, con unas costumbres propias.",
+         "start": 110.0,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, gafas, chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Somos una minoría que tiene una lengua propia que utiliza para comunicarse con otros que comparten esa misma lengua.",
+         "start": 120.0,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, gafas, chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por su parte, Patricia Mora, asesora jurídica de la CNSE, expuso la protección que el derecho lingüístico nacional e internacional concede a las lenguas de signos.",
+         "start": 130.6,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A nivel estatal, como hito más reciente destacó el Real Decreto 674/2023 que reglamenta el cumplimiento de la Ley 27/2007 por la que se reconocen las lenguas de signos en España.",
+         "start": 143.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este Reglamento, en primer lugar, habla de la protección de la identidad lingüística de las de las personas sordas que utilizan la lengua de signos tanto española como catalana.",
+         "start": 120.6,
+         "duration": 11.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, fondo turquesa",
+         "screen_position": "left"
+      },
+      {
+         "text": "También habla del respeto a la diferencia y de la aceptación de las personas sordas como parte de la diversidad y condición humanas.",
+         "start": 132.1,
+         "duration": 7.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, fondo turquesa",
+         "screen_position": "left"
+      },
+      {
+         "text": "Supone que ya se está reconociendo al colectivo de personas sordas como un colectivo, como una comunidad lingüística.",
+         "start": 140.1,
+         "duration": 7.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, fondo turquesa",
+         "screen_position": "left"
+      },
+      {
+         "text": "Naiara Larrakoetxea concluyó que aunque se ha avanzado en materia de derechos lingüísticos para la comunidad sorda, queda aún mucho camino por recorrer.",
+         "start": 149.1,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así, llamó al empoderamiento de la comunidad lingüística usuaria de las lenguas de signos para hacer efectivo el ejercicio de lo que les corresponde por ley.",
+         "start": 161.1,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Actualmente en España tenemos la lengua de signos española y la lengua de signos catalana reconocidas como lenguas. Tenemos herramientas jurídicas para protegernos en relación a esto. Tenemos también los Estatutos de Autonomía, que son ocho en total, que nos ofrecen ese reconocimiento de la lengua de signos.",
+         "start": 175.1,
+         "duration": 18.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, fondo blanco",
+         "screen_position": "left"
+      },
+      {
+         "text": "Contamos con diversas herramientas con las cuales podemos defender ese derecho lingüístico y la manera en que se entiende.",
+         "start": 194.1,
+         "duration": 6.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, fondo blanco",
+         "screen_position": "left"
+      },
+      {
+         "text": "El estudio ‘Acercamiento a los derechos lingüísticos de las personas sordas más allá de la discapacidad’ se publicará próximamente en la página web de la CNSE.",
+         "start": 202.1,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, podéis ver este webinario íntegro en el portal web LEYSIGN.",
+         "start": 213.6,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

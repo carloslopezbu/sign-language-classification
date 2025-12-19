@@ -1,0 +1,581 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy es el Día internacional de las Mujeres,",
+         "start": 9.326,
+         "duration": 1.918,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "la Confederación Estatal de Personas Sordas,",
+         "start": 11.244,
+         "duration": 2.586,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "quiere sumarse a la celebración,",
+         "start": 13.83,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y exigir la puesta en marcha de políticas eficaces",
+         "start": 16.433,
+         "duration": 3.086,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "que eliminen cualquier conducta discriminatoria hacia las mujeres sordas.",
+         "start": 19.519,
+         "duration": 2.803,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "La actual crisis económica, y los cambios sociales que ésta conlleva,",
+         "start": 22.822,
+         "duration": 3.704,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "sitúan a las mujeres sordas en una clara situación de desventaja social,",
+         "start": 26.526,
+         "duration": 3.304,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "económica, educativa y profesional,",
+         "start": 29.83,
+         "duration": 2.502,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "poniendo de manifiesto la necesidad de impulsar medidas específicas",
+         "start": 32.632,
+         "duration": 3.103,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "que garanticen una igualdad de oportunidades real para este colectivo.",
+         "start": 35.735,
+         "duration": 3.604,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "El respeto a los derechos de las mujeres sordas",
+         "start": 41.942,
+         "duration": 2.602,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "no puede ser una asignatura pendiente.",
+         "start": 44.544,
+         "duration": 1.702,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aún son muchas las mujeres sordas que se sienten silenciadas, invisibles,",
+         "start": 46.747,
+         "duration": 3.303,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "apartadas de cualquier toma de decisiones.",
+         "start": 50.05,
+         "duration": 1.802,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres que son víctimas de prejuicios y estereotipos sociales",
+         "start": 51.852,
+         "duration": 4.204,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "que se traducen en mayores cotas de desempleo",
+         "start": 56.757,
+         "duration": 2.802,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en una falta de equidad salarial con respecto a los hombres.",
+         "start": 59.559,
+         "duration": 3.704,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres para las que es imposible acceder a campañas informativas",
+         "start": 103.764,
+         "duration": 2.502,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a servicios de atención para la igualdad de género y la no discriminación,",
+         "start": 106.266,
+         "duration": 2.703,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "debido a la ausencia de lengua de signos y subtitulado de calidad.",
+         "start": 108.969,
+         "duration": 3.904,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "debido a la ausencia de lengua de signos y subtitulado de calidad.",
+         "start": 113.573,
+         "duration": 3.304,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres que merecen ser escuchadas, y para las que la CNSE",
+         "start": 117.778,
+         "duration": 4.504,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y su red asociativa reclaman el protagonismo",
+         "start": 122.282,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la participación social que les corresponde.",
+         "start": 125.285,
+         "duration": 2.202,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido,",
+         "start": 129.489,
+         "duration": 1.902,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "la organización del I Congreso Estatal de Mujeres Sordas en el mes de junio,",
+         "start": 131.391,
+         "duration": 4.505,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "será sin duda,",
+         "start": 135.896,
+         "duration": 1.001,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "una excelente oportunidad para que mujeres de diferentes edades,",
+         "start": 136.897,
+         "duration": 3.103,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "razas, lugar de origen, orientación sexual, etc.,",
+         "start": 140.0,
+         "duration": 3.503,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "puedan intercambiar experiencias",
+         "start": 143.804,
+         "duration": 2.602,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y establecer redes de solidaridad y cooperación.",
+         "start": 146.406,
+         "duration": 2.803,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este encuentro pretende, asimismo, incentivar y consolidar",
+         "start": 149.709,
+         "duration": 2.703,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "una mayor representatividad y liderazgo de las mujeres sordas",
+         "start": 152.412,
+         "duration": 2.402,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el movimiento asociativo de personas sordas de todo el Estado español,",
+         "start": 154.814,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y concienciarlas de que la mejor manera de luchar por sus derechos,",
+         "start": 157.817,
+         "duration": 2.803,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "es sumando sus fuerzas.",
+         "start": 200.62,
+         "duration": 1.602,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este Año Europeo dedicado al Envejecimiento Activo",
+         "start": 203.924,
+         "duration": 2.202,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la Solidaridad Intergeneracional,",
+         "start": 206.126,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "creemos necesario que se preste especial atención",
+         "start": 207.727,
+         "duration": 2.303,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la situación de las mujeres mayores sordas.",
+         "start": 210.03,
+         "duration": 2.702,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "La edad, es un factor añadido de discriminación,",
+         "start": 213.233,
+         "duration": 1.902,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a menudo, de aislamiento,",
+         "start": 215.135,
+         "duration": 1.501,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "lo que las convierte en un grupo especialmente vulnerable.",
+         "start": 216.636,
+         "duration": 2.202,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ello, con motivo del Día Internacional de las Mujeres,",
+         "start": 221.841,
+         "duration": 2.203,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "la CNSE reclama para las mujeres mayores sordas:",
+         "start": 224.044,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "El establecimiento de ayudas para la creación y mantenimiento",
+         "start": 227.948,
+         "duration": 2.702,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "de residencias adaptadas para las personas mayores sordas,",
+         "start": 230.65,
+         "duration": 2.403,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "con inclusión de personal de atención formado en lengua de signos.",
+         "start": 233.053,
+         "duration": 2.602,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "El desarrollo de programas que faciliten a las personas sordas",
+         "start": 236.056,
+         "duration": 2.202,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "servicios de teleasistencia y acompañamiento",
+         "start": 238.258,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "específicamente diseñados para atender sus necesidades.",
+         "start": 239.859,
+         "duration": 1.502,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "La protección de la autonomía y la autorrealización",
+         "start": 241.661,
+         "duration": 1.802,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las mujeres sordas mayores, facilitando los apoyos necesarios",
+         "start": 243.463,
+         "duration": 2.102,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "para promocionar la vida independiente.",
+         "start": 245.565,
+         "duration": 1.902,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "El diseño, gestión y soporte de actividades culturales, recreativas,",
+         "start": 247.968,
+         "duration": 3.103,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "deportivas y de ocio y tiempo libre dirigidas a este colectivo.",
+         "start": 251.071,
+         "duration": 2.402,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "La promoción de la accesibilidad y atención especializadas",
+         "start": 253.874,
+         "duration": 2.302,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "en todos los servicios sanitarios,",
+         "start": 256.176,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como en los centros de servicios sociales y centros de día.",
+         "start": 257.577,
+         "duration": 5.306,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde el movimiento asociativo de la Confederación Estatal de Personas Sordas",
+         "start": 304.985,
+         "duration": 2.603,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "queremos tender nuestra mano a todas aquellas mujeres sordas",
+         "start": 307.588,
+         "duration": 1.902,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "que nos necesiten.",
+         "start": 309.49,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con ellas compartimos un firme propósito:",
+         "start": 310.39,
+         "duration": 2.203,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "convertir su realidad en una prioridad social.",
+         "start": 312.593,
+         "duration": 2.502,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con americana morada",
+         "screen_position": "center"
+      }
+   ]
+}

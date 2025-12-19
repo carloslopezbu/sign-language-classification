@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "EL SERVICIO SVisual",
+         "start": 9.5,
+         "duration": 35.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "EL SERVICIO SVisual",
+         "start": 51.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Normas para los usuarios",
+         "start": 116.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "CHARLA INFORMATIVA 'SVisual'",
+         "start": 152.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas",
+         "screen_position": "center"
+      }
+   ]
+}

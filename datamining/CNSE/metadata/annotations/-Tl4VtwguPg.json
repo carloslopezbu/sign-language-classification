@@ -1,0 +1,464 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE, Confederación estatal de Personas Sordas,",
+         "start": 1.18,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se suma un año más a la celebración del Día del Orgullo LGTBI",
+         "start": 5.08,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para reclamar los derechos de las personas sordas gais, lesbianas, bisexuales, transexuales, intersexuales y queer.",
+         "start": 10.48,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derechos cuyo cumplimiento pasa por la aplicación de la Ley 27/2007,",
+         "start": 22.88,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y por garantizar nuestro acceso en igualdad de condiciones tanto a la información y a la comunicación como a la formación",
+         "start": 28.58,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en temas de diversidad sexual y género, como a los recursos necesarios en materia de atención.",
+         "start": 36.88,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas LGTBIQ construimos diversidad dentro de la diversidad.",
+         "start": 44.58,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una diversidad interseccional, ineludible, enriquecedora,",
+         "start": 51.88,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "propia de una sociedad democrática que aspira a ser justa, libre e inclusiva con todas las realidades.",
+         "start": 61.58,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una diversidad para muchos temida,",
+         "start": 69.48,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que ni el odio, la incomprensión, o la sinrazón, podrán silenciar jamás.",
+         "start": 72.98,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según el último informe anual elaborado por ILGA Europa,",
+         "start": 81.28,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "entidad internacional referente en materia de derechos LGTBI,",
+         "start": 85.98,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "entre los 10 países europeos más respetuosos con los derechos de este colectivo, España ha dejado de estar.",
+         "start": 90.88,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "FELGTB , Federación Estatal de Lesbianas, Gais, Trans y Bisexuales,",
+         "start": 98.98,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "lo califica como un signo claro del estancamiento en materia de reconocimiento de derechos humanos en nuestro país en los últimos años.",
+         "start": 103.98,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y a ella nos sumamos para exigir al nuevo Gobierno:",
+         "start": 113.78,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La aprobación urgente de la Ley de Igualdad LGTBI,",
+         "start": 120.48,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de tal modo que se implementen medidas que fomenten la visibilidad e igualdad de las minorías sexuales y que garantice la no discriminación",
+         "start": 124.58,
+         "duration": 9.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en todos los ámbitos teniendo en cuenta la diversidad interseccional.",
+         "start": 137.28,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Segundo. La modificación de la Ley de identidad de género,",
+         "start": 146.28,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que no sea necesario un diagnóstico médico para cambiar el género asignado al nacer en todos los registros,",
+         "start": 151.18,
+         "duration": 9.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como tampoco someterse a ningún tipo de tratamiento médico o cirugía de reasignación de sexo.",
+         "start": 163.48,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tercero.",
+         "start": 172.98,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La aprobación de un pacto de Estado por el VIH en el que incluyan medidas de accesibilidad para personas sordas,",
+         "start": 174.38,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "una demanda lógica y exigible tras 30 años de estigma y discriminación.",
+         "start": 185.08,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuarto.",
+         "start": 193.38,
+         "duration": 0.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La implantación de medidas efectivas para introducir en el sistema educativo,",
+         "start": 194.98,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la diversidad sexual y de género",
+         "start": 201.28,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y hacer frente al acoso escolar",
+         "start": 207.98,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "por razón de orientación sexual y/o identidad de género, además de ser personas sordas;",
+         "start": 211.68,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "es la forma de acoso más frecuente y extendida en la mayor parte de los centros educativos españoles.",
+         "start": 217.98,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quinto.",
+         "start": 226.28,
+         "duration": 0.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La aprobación de una Ley Integral Trans para que esta realidad deje de ser considerada una enfermedad,",
+         "start": 228.08,
+         "duration": 10.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se atienda a menores y a personas migrantes, y se otorgue igualdad interseccional en todos los territorios del Estado.",
+         "start": 239.28,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sexto.",
+         "start": 248.18,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La no vulneración de los derechos humanos del colectivo LGTBI,",
+         "start": 249.38,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y el fin de la criminalización y la violencia que sufren gays, lesbianas, bisexuales y transexuales",
+         "start": 257.08,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en más de 75 países del mundo.",
+         "start": 266.28,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En 2019, se cumplen 50 años de los disturbios del Stonewall Inn en Nueva York.",
+         "start": 271.18,
+         "duration": 8.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la década de los 50 y los 60 habían pocos establecimientos acogían a personas abiertamente homosexuales.",
+         "start": 282.38,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las protestas que se desencadenaron a raíz de una redada policial en uno de los establecimientos, resultando con altercados graves.",
+         "start": 293.98,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahí empezaron las movilizaciones por los derechos LGTBI no solo en Estados Unidos sino en todo el mundo.",
+         "start": 301.88,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Su recuerdo, y un merecido homenaje a las personas mayores LGTBI,",
+         "start": 310.38,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "marcarán las manifestaciones que se han convocado en toda España con motivo del Día del Orgullo LGTBI, bajo el lema",
+         "start": 317.58,
+         "duration": 8.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mayores Sin Armarios: ¡Historia, Lucha y Memoria!",
+         "start": 327.48,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es tiempo de avanzar hacia una igualdad plena y real de todas las ciudadanas y ciudadanos independientemente de su identidad, expresión de género y orientación.",
+         "start": 335.28,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiempo de diversidad dentro de la diversidad.",
+         "start": 349.38,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Plantemos cara a la LGTBIfobia.",
+         "start": 354.28,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Ni un paso atrás!",
+         "start": 358.38,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas ¡Nos vemos en las calles!",
+         "start": 361.18,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño claro, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,257 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 2.595,
+         "duration": 0.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy, en Signar por derecho, repasamos algunos de los momentos más destacados del webinario ‘La violencia de género contada por mujeres sordas.",
+         "start": 4.23,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Empoderamiento de los derechos de las mujeres sordas a través de la formación’,",
+         "start": 11.53,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que la CNSE organizó el pasado 27 de noviembre.",
+         "start": 17.53,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Moderado por Alba Prado, coordinadora del área de políticas de igualdad de género de la CNSE, contó con la participación",
+         "start": 24.23,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de tres de las alumnas del curso ‘Mujeres sordas, líderes en sus derechos’:",
+         "start": 32.03,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Andrea Carolina de León, Sara Crespo, e Inmaculada Agenjo,",
+         "start": 38.23,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que hablaron desde diferentes perspectivas acerca de las violencias machistas.",
+         "start": 43.83,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así, Andrea Carolina de León, mujer sorda y migrante, ha denunciado estar expuesta a una enorme invisibilidad que también es violencia, y que le afecta de lleno.",
+         "start": 51.23,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En mi caso, siendo persona sorda y además migrante, sufro una doble invisibilidad porque no prestan atención, ni me ofrecen la ayuda que yo necesito.",
+         "start": 101.501,
+         "duration": 9.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, gafas, blusa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Con el añadido, además, de la multitud de barreras con las que me he encontrado.",
+         "start": 110.801,
+         "duration": 5.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, gafas, blusa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sara Crespo ha enfatizado que, como mujer sordociega, sufre una violencia mayor debido a una sobreprotección y a un",
+         "start": 118.53,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "paternalismo del que a menudo no somos conscientes.",
+         "start": 125.53,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es esa actitud que utilizan habitualmente, sobre todo los hombres más bien mayores que me ven, o incluso hombres que son de mi misma edad.",
+         "start": 132.201,
+         "duration": 7.3,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso, gafas, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pero como que les doy lástima dicen: ‘pobrecita, es que se la tiene que ayudar porque es discapacitada, porque no ve, necesita ayuda… y además siendo mujer, sola, si es que no puede hacer nada’.",
+         "start": 139.501,
+         "duration": 12.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso, gafas, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "Incluso todavía hoy en día me dicen… no sé, es que no piensan que voy a poder vivir de manera independiente y qué voy a poder hacer yo mis cosas, sino todo lo contrario.",
+         "start": 151.501,
+         "duration": 10.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso, gafas, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por su parte, Inmaculada Agenjo, mujer mayor sorda, ha señalado que antes no se hablaba de la violencia.",
+         "start": 163.23,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No teníamos una buena autoestima, teníamos miedo de contar esas cosas, de hablar de estas cosas, de preguntarlas.",
+         "start": 172.501,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso, gafas, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "Incluso negábamos esta situación si se estaba dando.",
+         "start": 178.001,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso, gafas, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "De ahí la importancia de contar con estas formaciones, de construir esta sororidad, de apoyarnos entre las mujeres y no dejarnos solas, sobre todo entre las mujeres mayores, que ya digo que este tema siempre ha sido muy tabú.",
+         "start": 180.501,
+         "duration": 12.3,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso, gafas, blusa azul",
+         "screen_position": "left"
+      },
+      {
+         "text": "De hecho, sororidad ha sido uno de los términos más empleados por estas mujeres que han animado a todas a que no tengan miedo y cuenten su situación.",
+         "start": 194.53,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al respecto, según apuntó Alba Prado,",
+         "start": 205.53,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "es fundamental brindar a las mujeres sordas una comunicación sin barreras, y recurrir a mediadoras sordas debidamente formadas que sigan, acompañen y apoyen a las víctimas durante todo el proceso.",
+         "start": 211.53,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la Confederación Estatal de Personas Sordas, conjuntamente con nuestro movimiento asociativo, nuestras federaciones, nuestras asociaciones, estamos a disposición de todas aquellas personas que necesiten de nuestro trabajo a través de diferentes maneras.",
+         "start": 225.501,
+         "duration": 17.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, gafas, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si queréis informaros, si queréis formaros, si queréis expresaros, el movimiento asociativo de la CNSE puede acompañaros a través del servicio ALBA de atención a personas víctimas de violencia.",
+         "start": 242.501,
+         "duration": 13.3,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, gafas, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Interesante, ¿verdad?",
+         "start": 257.03,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os invitamos a ver el webinario completo en el portal web LEYSIGN.",
+         "start": 259.03,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "www.cnse.es/leysign/",
+         "start": 264.03,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

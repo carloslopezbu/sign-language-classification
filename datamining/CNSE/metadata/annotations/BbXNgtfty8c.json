@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE, gracias a colaboración de FAXPG, ASZA y FASICAN hemos puesto en marcha una red de atención psicológica.",
+         "start": 1.134,
+         "duration": 10.544,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuatro profesionales atenderán online a aquellas personas sordas de cualquier federación y asociación de toda España, que se encuentren afectados directa o indirectamente por el COVID 19.",
+         "start": 12.946,
+         "duration": 22.489,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de una atención puntual, no de un tratamiento duradero.",
+         "start": 38.638,
+         "duration": 6.407,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los requisitos para acceder a este servicio son:",
+         "start": 47.948,
+         "duration": 4.204,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Persona sorda contagiada de coronavirus que esté expuesta al contagio.",
+         "start": 52.953,
+         "duration": 8.281,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Persona sorda con familiares fallecidos.",
+         "start": 62.902,
+         "duration": 6.273,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tener patologías asociadas a la situación del coronavirus.",
+         "start": 70.977,
+         "duration": 15.249,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estar en una situación de aislamiento derivada del coronavirus.",
+         "start": 87.928,
+         "duration": 10.276,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para solicitar este servicio, la persona sorda interesada, deberá ponerse en contacto con la asociación o federación a la que pertenece.",
+         "start": 99.906,
+         "duration": 8.108,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El horario de atención psicológica será de lunes a viernes de 9:00 a 14:00 horas, y los jueves de 16:30 a 18:30 horas.",
+         "start": 108.882,
+         "duration": 11.284,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

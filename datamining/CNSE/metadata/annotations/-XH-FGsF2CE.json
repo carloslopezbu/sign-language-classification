@@ -1,0 +1,149 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El presidente del Gobierno compareció ayer tras el apagón que dejó sin luz a buena parte de España y Portugal.",
+         "start": 1.25,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Explicó que se perdió un 60% de la energía en solo cinco segundos, y responsabilizó a las compañías eléctricas por su falta de información y transparencia.",
+         "start": 8.25,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Anunció la creación de una comisión de investigación, pidió colaboración a la Unión Europea y agradeció a Marruecos por su apoyo en el restablecimiento del suministro en el sur del país.",
+         "start": 20.0,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque se descarta un ciberataque, todavía no se puede asegurar qué fue lo que provocó este incidente.",
+         "start": 35.25,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según la prensa, todo apunta a un fallo técnico muy grave en la red eléctrica, probablemente por una sobrecarga o una desconexión súbita de varias fuentes de energía.",
+         "start": 42.75,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno insiste en que las energías renovables no fueron la causa, aunque algunos sectores lo cuestionan.",
+         "start": 54.25,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo cierto es que se trató de un colapso técnico preocupante y todavía sin una explicación definitiva, con muchas dudas sobre la gestión y responsabilidad de las empresas del sector.",
+         "start": 62.75,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sánchez ha prometido cambios legales y estructurales para evitar que esto vuelva a suceder.",
+         "start": 76.0,
+         "duration": 6.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por el momento, la ciudadanía sigue esperando respuestas claras.",
+         "start": 83.75,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la CNSE, entendemos que fue una situación inédita y excepcional, donde informar con rapidez a toda la población no era fácil.",
+         "start": 91.25,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero también recordamos que, una vez más, las personas sordas nos quedamos sin acceso a información vital en un momento crítico.",
+         "start": 100.25,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La falta de accesibilidad no puede seguir repitiéndose en cada crisis, y así lo hemos transmitido a través de un comunicado a los medios de comunicación.",
+         "start": 108.25,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por eso, insistimos: la accesibilidad no es un añadido, es un derecho.",
+         "start": 118.25,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pedimos medidas reales, protocolos inclusivos y sistemas de alerta accesibles que garanticen que todas las personas, sin excepción, podamos estar informadas y protegidas.",
+         "start": 127.25,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, dado que el apagón afectó de forma muy desigual a las distintas regiones, la CNSE convocará próximamente una reunión con las entidades de su red asociativa para analizar lo ocurrido, compartir experiencias y trabajar de forma conjunta en la prevención de futuras situaciones similares.",
+         "start": 142.25,
+         "duration": 22.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os seguiremos informando a medida que tengamos más noticias.",
+         "start": 165.25,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

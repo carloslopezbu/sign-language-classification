@@ -1,0 +1,140 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Viernes 25 de marzo.",
+         "start": 1.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se cumple un mes desde el inicio de la guerra en Ucrania, donde el ejército ruso continúa su asedio a ciudades claves.",
+         "start": 3.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Kyiv y Járkov se enfrentan a los incesantes bombardeos rusos a sus infraestructuras.",
+         "start": 17.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Irpin y Lugansk han denunciado ataques con bombas de fósforo blanco, un tipo de arma química cuyo uso está prohibido.",
+         "start": 27.5,
+         "duration": 20.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Mariúpol, alrededor de 100.000 civiles permanecen atrapados en condiciones inhumanas.",
+         "start": 49.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las fuerzas ucranianas resisten mientras las conversaciones para un alto al fuego se estancan.",
+         "start": 103.5,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los líderes de la OTAN se han reunido en Bruselas para planificar el emplazamiento de cuatro batallones en Eslovaquia, Hungría, Rumanía y Bulgaria y estudiar posibles nuevas sanciones contra Rusia,",
+         "start": 119.5,
+         "duration": 28.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "donde cerca de 100.000 personas han perdido su trabajo ante el cese de actividad de cientos de empresas extranjeras.",
+         "start": 148.5,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una crisis económica que se ha hecho notar a nivel internacional, más si cabe, en Europa.",
+         "start": 169.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La electricidad, el gas y la gasolina se han disparado, lo que, unido a la escasez de productos procedentes de Ucrania y Rusia, claves para el funcionamiento de la industria, han provocado paros en numerosos sectores, desabastecimiento y millones de euros en pérdidas.",
+         "start": 175.0,
+         "duration": 26.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Angustia, insomnio, pesadillas y estado de hipervigilancia son algunos de los síntomas que se repiten en las personas que han logrado huir de la guerra en Ucrania.",
+         "start": 202.0,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Algunas de ellas ya se encuentran en España, donde en tan solo una semana (del 10 al 17 de marzo) se han concedido 6.000 protecciones temporales.",
+         "start": 219.5,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Comunidad de Madrid, la Comunidad Valenciana, Andalucía y Cataluña son las regiones donde, hasta el momento, se han realizado más acogidas.",
+         "start": 235.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según datos proporcionados por el Ministerio de Inclusión, Seguridad Social y Migraciones, la edad media de las personas atendidas en los centros de recepción es de 26 años.",
+         "start": 245.5,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El 69% son mujeres, el 41% menores, y el 33% se encuentra en situación de vulnerabilidad.",
+         "start": 261.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

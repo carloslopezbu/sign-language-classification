@@ -1,0 +1,77 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "Aprendemos palabras y signos",
+         "start": 20.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con camiseta de rayas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Disfrutamos de los clásicos",
+         "start": 50.0,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con camiseta rosa",
+         "screen_position": "right"
+      },
+      {
+         "text": "Compartimos la magia de los Cuentos",
+         "start": 95.5,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña de piel oscura con camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "El cuento de Navidad",
+         "start": 200.5,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con sombrero de copa y bufanda",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y de personajes inolvidables",
+         "start": 293.8,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con camiseta rosa",
+         "screen_position": "right"
+      },
+      {
+         "text": "Nos comunicamos desde pequeños",
+         "start": 348.5,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña de piel oscura con camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "... y seguimos aprendiendo",
+         "start": 431.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con camiseta rosa",
+         "screen_position": "right"
+      },
+      {
+         "text": "Comprometidos con la infancia",
+         "start": 515.5,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Niño con camiseta azul",
+         "screen_position": "right"
+      }
+   ]
+}

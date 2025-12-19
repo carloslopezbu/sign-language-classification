@@ -1,0 +1,275 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La aplicación Radar Covid",
+         "start": 0.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "es una app oficial para el rastreo de contactos.",
+         "start": 4.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "De descarga gratuita,",
+         "start": 11.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "está disponible para dispositivos Android y iPhone.",
+         "start": 14.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se prevé que se generalice su uso en toda España este mes de septiembre,",
+         "start": 18.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "si bien en algunas comunidades autónomas ya la están utilizando.",
+         "start": 22.8,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se trata de una aplicación con la cual el móvil puede calcular",
+         "start": 28.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "cuál es tu nivel de riesgo de contagio por coronavirus.",
+         "start": 33.8,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Para ello, se tiene en cuenta las personas con las que te has cruzado los 14 días anteriores",
+         "start": 37.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y te notifica si has estado en contacto con una persona contagiada",
+         "start": 45.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "a menos de 2 metros de distancia, por un período de más de 15 minutos.",
+         "start": 50.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Gracias a la app, podrás conocer tu nivel de riesgo de contagio.",
+         "start": 58.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Además de informarte del riesgo de contagio de COVID-19,",
+         "start": 65.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Radar Covid también te permite comunicar que has dado positivo en coronavirus,",
+         "start": 68.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "a través de un código numérico que se facilita,",
+         "start": 73.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y después lo reciben aquellas personas que se hubieran cruzado contigo.",
+         "start": 81.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "El diagnóstico se envía de forma anónima.",
+         "start": 90.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Comunicar que has dado positivo es imprescindible para el funcionamiento del sistema.",
+         "start": 96.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es fácil descargar la app, los pasos son sencillos.",
+         "start": 103.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Entra en el enlace de Android o iPhone, según qué móvil tienes.",
+         "start": 108.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "En cuanto se haya descargado la app, entra en la app.",
+         "start": 114.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay varios pasos. Verás una casilla donde tienes que darle al clic y continuar.",
+         "start": 120.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tienes que activar el Bluetooth.",
+         "start": 129.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Lo siguiente es aceptar que compartan los datos para el uso.",
+         "start": 134.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tienes que permitir las notificaciones para que te avisen.",
+         "start": 142.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La app ya está lista para usarse. Aquí puedes ver tu nivel de riesgo.",
+         "start": 148.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si es alto, te explican qué pasos tienes que seguir.",
+         "start": 152.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si has dado positivo en coronavirus, tienes que darle al botón morado.",
+         "start": 155.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "e insertar el código numérico.",
+         "start": 160.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "De esta forma, se podrá notificar a los contactos que hayas tenido.",
+         "start": 162.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "left"
+      }
+   ]
+}

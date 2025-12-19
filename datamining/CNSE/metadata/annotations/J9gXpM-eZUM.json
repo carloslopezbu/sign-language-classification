@@ -1,0 +1,185 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "Estás contactando con el servicio de videointerpretación SVisual",
+         "start": 30.59,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo canoso y barba, camisa negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "que le ayuda a comunicarse con el Teléfono ANAR",
+         "start": 34.16,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo canoso y barba, camisa negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "de Ayuda a Niños/as y Adolescentes.",
+         "start": 38.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo canoso y barba, camisa negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Bienvenida al servicio SVisual.",
+         "start": 43.84,
+         "duration": 1.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora le pongo en contacto con un profesional de la psicología de la Línea ANAR de ayuda a niños/as y adolescentes. Un momento por favor.",
+         "start": 45.84,
+         "duration": 6.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Teléfono ANAR, buenos días.",
+         "start": 56.09,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hola, buenos días. Soy la intérprete 24 del servicio SVisual.",
+         "start": 57.59,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tengo una persona sorda que ha contactado con el servicio de videointerpretación para ser atendido por el teléfono de ANAR. Le interpreto con ella, ¿de acuerdo?",
+         "start": 61.25,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Gracias.",
+         "start": 68.09,
+         "duration": 0.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Hola, buenos días. Le llamaba porque estoy preocupada.",
+         "start": 71.25,
+         "duration": 2.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, sudadera gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tengo a mi sobrino de 12 años que está sufriendo bullying en el centro escolar.",
+         "start": 73.83,
+         "duration": 5.1,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, sudadera gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Le cuesta muchísimo ir al colegio y no quiere contárselo a sus padres.",
+         "start": 80.58,
+         "duration": 3.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, sudadera gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me lo ha trasladado a mí y no se lo podemos contar a ellos. Entonces, si me podéis ofrecer algún tipo de orientación, os lo agradecería.",
+         "start": 84.25,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, sudadera gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Claro, por supuesto. Ha hecho bien en llamarnos.",
+         "start": 90.25,
+         "duration": 1.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nosotros somos una línea de ayuda especializada en cualquier temática que tenga que ver con un menor de edad.",
+         "start": 92.58,
+         "duration": 5.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Somos un equipo de psicólogos los que atendemos siempre la línea, acompañados por un equipo de trabajadores sociales y de abogados, por lo que le vamos a poder asesorar en esta situación. Lo que nos gustaría es conocer un poco más en qué consiste.",
+         "start": 98.08,
+         "duration": 12.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como hemos hablado un poquito de la situación y de los pasos a seguir, lo que nos gustaría es que la próxima vez que necesite ayuda, o si a lo largo del proceso tiene alguna dificultad nueva o alguna novedad importante que comentarnos, sepa que estamos aquí disponibles para cualquier consulta que pueda tener las 24 horas todos los días de la semana. Estaremos encantados de poder seguir ayudándole.",
+         "start": 113.25,
+         "duration": 21.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De acuerdo. Gracias. Pues nada, voy a hablar con mi sobrino entonces.",
+         "start": 134.83,
+         "duration": 4.1,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, sudadera gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias de nuevo. Hasta luego.",
+         "start": 139.58,
+         "duration": 1.9,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, sudadera gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias por usar el servicio SVisual. Buenos días.",
+         "start": 142.08,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño rizado y gafas, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

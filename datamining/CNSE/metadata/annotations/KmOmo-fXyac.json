@@ -1,0 +1,32 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Aumenta el número de estudiantes universitarios que aprenden lengua de signos",
+         "start": 3.3,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Nuevo logotipo",
+         "start": 121.3,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "https://goo.gl/R9eOBM",
+         "start": 163.3,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa negra",
+         "screen_position": "right"
+      }
+   ]
+}

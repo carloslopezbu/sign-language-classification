@@ -1,0 +1,473 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "MANIFIESTO DE LA CNSE POR EL DÍA DEL ORGULLO LGTBI, Madrid 2017",
+         "start": 1.2,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un año más, la CNSE y su red asociativa se suman a la celebración",
+         "start": 8.2,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "del Día del Orgullo LGTBI que en esta ocasión pone su mirada",
+         "start": 13.2,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "en la defensa de los derechos de este colectivo en todo el mundo.",
+         "start": 19.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "España será por primera vez sede del WorldPride, lugar de encuentro",
+         "start": 25.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "de millones de personas de diferentes nacionalidades",
+         "start": 30.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "unidas en torno a una necesidad humana: la libertad.",
+         "start": 36.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Miremos a nuestro alrededor.",
+         "start": 42.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "La no aceptación de una diversidad que nos permite crecer",
+         "start": 48.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "como personas, es aún motivo de odio",
+         "start": 53.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y persecución en muchos países.",
+         "start": 59.5,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "El miedo a lo diferente sigue construyendo desigualdad",
+         "start": 104.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "e intolerancia, y destruyendo sueños, ilusiones y vidas.",
+         "start": 109.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y no pasa un solo día, ni uno solo, en que el derecho a elegir",
+         "start": 116.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "a quién amamos deje de ser un motivo de discriminación.",
+         "start": 122.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "La LGTBfobia no puede combatirse únicamente con leyes.",
+         "start": 128.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Requiere también de un firme compromiso social y personal",
+         "start": 133.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "hacia la igualdad plena y real de todas las ciudadanas y ciudadanos",
+         "start": 139.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "independientemente de su identidad, expresión de género y orientación.",
+         "start": 144.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CNSE, Confederación Estatal de Personas Sordas ¡SÍ!, ¡SE COMPROMETE!",
+         "start": 150.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestra Confederación apoya las demandas de la Federación",
+         "start": 157.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estatal de lesbianas, gays, transexuales y bisexuales (FELGTB)",
+         "start": 161.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "para garantizar una sociedad libre e inclusiva con todas las realidades,",
+         "start": 166.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y nos sumamos con nuestra participación a la manifestación",
+         "start": 171.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "del WorldPride Madrid 2017 prevista para el próximo 1 de julio.",
+         "start": 176.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Los derechos o son para todas y todos o no son derechos!",
+         "start": 182.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y, por eso, reclamamos:",
+         "start": 188.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "1ª. La aplicación de la Ley 27/2007 para que las personas sordas LGTBI",
+         "start": 192.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "puedan acceder en igualdad de condiciones tanto a la información",
+         "start": 198.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "como a la formación en temas de diversidad sexual y género,",
+         "start": 204.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y cuenten con los recursos necesarios en materia de atención.",
+         "start": 210.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "2ª. La tramitación urgente de la proposición de Ley",
+         "start": 217.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "de Igualdad LGTBI registrada en el Congreso de los Diputados",
+         "start": 222.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "el pasado 4 de mayo, de tal modo que se implementen medidas",
+         "start": 228.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "que fomenten la visibilidad de las minorías sexuales",
+         "start": 234.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que garantice la no discriminación en todos los ámbitos.",
+         "start": 239.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "3ª. La aprobación de un pacto de Estado por el VIH,",
+         "start": 246.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "una demanda lógica y exigible tras 30 años",
+         "start": 252.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "de estigma y discriminación.",
+         "start": 258.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "4ª. La implantación de medidas efectivas para introducir",
+         "start": 264.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "la diversidad sexual y de género en el sistema educativo,",
+         "start": 270.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y hacer frente al acoso escolar por razón de orientación sexual",
+         "start": 276.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y/o identidad de género, la forma de acoso más frecuente y extendida",
+         "start": 281.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "en la mayor parte de los centros educativos españoles.",
+         "start": 287.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "5ª. La aprobación de una Ley Integral Trans para que esta realidad",
+         "start": 293.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "deje de ser considerada una enfermedad, se atienda",
+         "start": 298.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "a menores y a personas migrantes, y se otorgue igualdad",
+         "start": 302.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "en todos los territorios del Estado.",
+         "start": 306.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "6ª. La no vulneración de los derechos humanos del colectivo LGTBI,",
+         "start": 311.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y el fin de la criminalización y la violencia que sufren gays,",
+         "start": 317.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "lesbianas, bisexuales y transexuales en más de 75 países del mundo.",
+         "start": 322.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "PERSONAS SORDAS, ORGULLOSAS Y DIVERSAS.",
+         "start": 328.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta granate",
+         "screen_position": "center"
+      }
+   ]
+}

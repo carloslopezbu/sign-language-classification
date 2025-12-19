@@ -1,0 +1,194 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Cada día, hay niñas que reciben comentarios como...",
+         "start": 0.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "\"No corras como los chicos, sé una niña guapa y buena\".",
+         "start": 7.9,
+         "duration": 5.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer en blanco y negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cada día, encontramos jóvenes que viven acosadas por sus parejas a través de las nuevas tecnologías...",
+         "start": 15.9,
+         "duration": 11.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "\"¿Dónde estás? ¿Con quién estás? ¿Por qué no contestas? Cuando te vea, verás...\"",
+         "start": 29.9,
+         "duration": 7.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer en blanco y negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada día, hay mujeres que reciben comentarios machistas...",
+         "start": 38.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "\"Tú sola no podrías sobrevivir. Tienes que estar con tu marido, él te cuidará. Anda, perdónale, se enfadó pero ya te ha pedido perdón, vuelve con él.",
+         "start": 48.0,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer en blanco y negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sin que su entorno lo sepa, conviven con su maltratador... maquillando sus heridas con una sonrisa.",
+         "start": 62.5,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y con ello, en total son 37 mujeres asesinadas en manos de su pareja o ex pareja.",
+         "start": 78.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada día, hay mujeres sordas que temen por sus vidas, por su integridad.",
+         "start": 89.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que tienen miedo a los reproches de los que le rodean.",
+         "start": 96.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que conviven con la desinformación, propia y de su entorno.",
+         "start": 102.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres sordas que sufren violencia de género y falta de accesibilidad y adecuaciones de los servicios sociales, sanitarios, jurídicos, de seguridad.",
+         "start": 110.0,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ello, la CNSE, Confederación Estatal de Personas Sordas, insistimos y exigimos:",
+         "start": 124.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Que la atención a las víctimas sordas y la accesibilidad de los servicios sociales y sanitarios sean competencia de las administraciones públicas, aplicándose la Ley 27/2007.",
+         "start": 131.8,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Que las casas de acogida que el Estado ponga a disposición de cualquier víctima de violencia de género, se encuentren adaptadas a las necesidades de las mujeres sordas y sus hijos e hijas.",
+         "start": 144.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Que las campañas de sensibilización a nivel social y educativo que realicen las administraciones públicas, sean accesibles no sólo con subtitulado, sino también en lengua de signos.",
+         "start": 159.8,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Que se cuente tanto con intérpretes en lengua de signos como con mediadoras especializadas, en la atención a personas sordas durante todo el proceso de salida de la violencia.",
+         "start": 170.8,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Que la formación a las personas sordas para la erradicación de la violencia de género, esté en manos de personas expertas en este ámbito que cuenten con conocimientos sobre la comunidad sorda.",
+         "start": 185.8,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y aunque el servicio 016 de atención a víctimas de violencia machista, es accesible a través de la plataforma de videointerpretación SVisual, facilitando a cualquier persona sorda informarse sobre la violencia de género, desde la CNSE, deseamos, necesitamos y reivindicamos que se amplíe su horario, para que esté las 24 horas del día a disposición de las personas sordas, el mismo horario que ofrece al resto de la sociedad.",
+         "start": 200.8,
+         "duration": 28.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para que una mujer sorda salga de la violencia de género, la sociedad en su conjunto debe poner los recursos a su disposición.",
+         "start": 229.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "NO MÁS VIOLENCIAS MACHISTAS CONTRA LAS MUJERES",
+         "start": 240.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta roja",
+         "screen_position": "center"
+      }
+   ]
+}

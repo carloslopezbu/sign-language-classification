@@ -1,0 +1,374 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Cada 6 de diciembre celebramos el día de la Constitución Española, fecha en la que conmemoramos el referéndum de 1978 por el que se aprobó la actual Carta Magna.",
+         "start": 1.44,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Constitución Española es la norma suprema de ordenamiento jurídico en nuestro país, es decir, una ley fundamental que prevalece sobre todas las demás leyes.",
+         "start": 11.68,
+         "duration": 7.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias a ella, España se constituye en un Estado social y democrático de derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad, la solidaridad y el pluralismo político.",
+         "start": 20.08,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "LA CONSTITUCIÓN POR DENTRO",
+         "start": 35.2,
+         "duration": 1.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Constitución Española se compone de un preámbulo, seguido de un total de 169 artículos repartidos entre un título preliminar y diez títulos numerados, además de cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una disposición final.",
+         "start": 39.68,
+         "duration": 22.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Título I, con 46 artículos, es el más amplio.",
+         "start": 103.2,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De entre ellos, destacamos el artículo 14:",
+         "start": 110.4,
+         "duration": 2.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las/os españolas/es son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+         "start": 114.0,
+         "duration": 14.08,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A tal fin, la Constitución reconoce y garantiza una serie de derechos fundamentales y libertades públicas de las ciudadanas y ciudadanos: Por ejemplo:",
+         "start": 129.44,
+         "duration": 6.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a la libertad y a la seguridad.",
+         "start": 137.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a la dignidad humana, al honor y a la intimidad.",
+         "start": 139.84,
+         "duration": 2.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a la libre circulación y residencia.",
+         "start": 144.08,
+         "duration": 2.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a la libertad de expresión.",
+         "start": 147.2,
+         "duration": 1.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho de reunión, manifestación y asociación.",
+         "start": 149.84,
+         "duration": 2.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a la participación en asuntos públicos.",
+         "start": 153.68,
+         "duration": 2.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a la reeducación e inserción social.",
+         "start": 157.68,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a un matrimonio igualitario.",
+         "start": 202.48,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a la propiedad privada y a la herencia.",
+         "start": 205.2,
+         "duration": 2.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho al trabajo.",
+         "start": 208.4,
+         "duration": 1.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a la protección a la salud.",
+         "start": 210.8,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a una vivienda digna.",
+         "start": 213.76,
+         "duration": 1.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a la educación libre y gratuita.",
+         "start": 216.48,
+         "duration": 2.16,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estos se complementan con deberes para todas y para todos.",
+         "start": 219.04,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los más importantes son:",
+         "start": 222.4,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Contribuir a los gastos públicos.",
+         "start": 223.92,
+         "duration": 1.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Defensa del país.",
+         "start": 229.04,
+         "duration": 1.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cumplir, defender y velar porque se cumplan la Constitución y las leyes.",
+         "start": 231.44,
+         "duration": 4.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El incumplimiento de estos deberes podría suponer la suspensión de parte de nuestros derechos y libertades constitucionales.",
+         "start": 236.64,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, el Título VIII sobre la Organización Territorial, delimita el reparto de competencias entre el Estado y las Comunidades Autónomas.",
+         "start": 243.68,
+         "duration": 9.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De este modo, se atribuye a las Autonomías la potestad para aprobar leyes en las materias en las que sus Estatutos así lo reconocen, así como realizar tareas ejecutivas que dichos Estatutos les asignan.",
+         "start": 253.6,
+         "duration": 11.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿SABÍAIS QUÉ...?",
+         "start": 307.6,
+         "duration": 1.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestra Constitución es una de las más extensas de Europa.",
+         "start": 309.92,
+         "duration": 3.28,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se compone de 169 artículos frente a los 89 artículos de la francesa, los 146 artículos de la alemana y los 139 de la italiana.",
+         "start": 314.0,
+         "duration": 9.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por el contrario, es la menos reformada de Europa.",
+         "start": 324.64,
+         "duration": 2.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En sus 44 años de vida, solo ha sido reformada en dos ocasiones: La primera de ellas en el año 1992, para conceder el sufragio universal a las y los extranjeros, y la segunda, en 2011, para cumplir con el requerimiento europeo de la estabilidad presupuestaria.",
+         "start": 330.4,
+         "duration": 16.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Frente a estas dos modificaciones, están las más de 50 reformas de la Constitución alemana, las 37 de la italiana y las 7 reformas de la Constitución portuguesa.",
+         "start": 348.08,
+         "duration": 8.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ya son 15 las Constituciones de todo el mundo que hacen referencia explícita a la lengua de signos en su articulado.",
+         "start": 357.6,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En España, la CNSE ha propuesto en reiteradas ocasiones que la lengua de signos española y la lengua de signos catalana estén recogidas en la Constitución.",
+         "start": 404.0,
+         "duration": 7.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestra Carta Magna se ha traducido a cientos de idiomas.",
+         "start": 412.8,
+         "duration": 2.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Entre ellos, a la lengua de signos española y la lengua de signos catalana.",
+         "start": 415.84,
+         "duration": 3.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os invitamos a conocer más de cerca esta norma visitando la página web de la Fundación CNSE.",
+         "start": 420.24,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

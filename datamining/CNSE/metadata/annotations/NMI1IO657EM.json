@@ -1,0 +1,356 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La Comisión de Precios de los Medicamentos ha fijado el importe máximo de venta al público de mascarillas, guantes, y geles hidroalcohólicos.",
+         "start": 1.2,
+         "duration": 11.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo es evitar precios abusivos.",
+         "start": 13.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "De momento, ya se conoce el precio de las mascarillas quirúrgicas, que son las más frecuentes.",
+         "start": 20.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Será de 96 céntimos por unidad.",
+         "start": 27.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez que los precios se publiquen en el BOE, será de obligado cumplimiento en farmacias y establecimientos dedicados a la venta de estos productos sanitarios.",
+         "start": 33.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto a las mascarillas, el Ministerio de Sanidad obliga a los fabricantes a que el etiquetado o las instrucciones que las acompañen para un uso adecuado.",
+         "start": 43.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debe incluir la siguiente información:",
+         "start": 54.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Datos de fabricación y procedencia.",
+         "start": 59.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Número de mascarillas que contiene el envase.",
+         "start": 104.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Composición de las mascarillas.",
+         "start": 109.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Instrucciones sobre su colocación, uso, mantenimiento, manipulación, y eliminación.",
+         "start": 115.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fecha de fabricación y de caducidad.",
+         "start": 124.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Precio final.",
+         "start": 129.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Muy importante, su eficacia para filtrar bacterias y otras partículas, y su respirabilidad.",
+         "start": 130.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las mascarillas sueltas que no estén empaquetadas individualmente, solo podrán venderse en farmacias.",
+         "start": 142.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay tres tipos mascarillas: higiénicas, quirúrgicas y filtrantes.",
+         "start": 172.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las dos primeras son las más sencillas y fáciles de encontrar.",
+         "start": 180.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sirven, sobre todo, para que las personas que las llevan no contagien al resto.",
+         "start": 187.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas mascarillas son, por lo general, de un solo uso, y su eficacia varía entre 4 a 8 horas según el modelo.",
+         "start": 192.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si la notamos humedecida, debemos tirarla.",
+         "start": 203.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Existen algunos tipos de mascarillas higiénicas y quirúrgicas que son reutilizables, y en el caso de que las compremos, consultaremos en las instrucciones el número máximo de lavados que se pueden hacer, así como la forma de limpiarlas, la temperatura y productos a usar.",
+         "start": 209.8,
+         "duration": 20.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las filtrantes se distinguen en 3 tipos con diferentes niveles de filtración de partículas.",
+         "start": 231.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las FFP1 (80%).",
+         "start": 241.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "FFP2 (92%).",
+         "start": 247.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "FFP3 (98%).",
+         "start": 251.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las FFP2 y FFP3 son las que usan el personal sanitario para tratar a pacientes contagiados.",
+         "start": 255.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otra variante son las N95, muy utilizadas en Estados Unidos, con un nivel de filtración de alrededor del 90%.",
+         "start": 264.5,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas mascarillas filtrantes pueden tener una válvula para combatir la humedad, pero podría ser peligroso si la persona que la lleva está contagiada o sospecha estarlo.",
+         "start": 277.5,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por tanto, las autoridades aconsejan utilizar mascarillas sin válvulas.",
+         "start": 292.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según el Consejo General de Enfermería, las mascarillas filtrantes pueden reutilizarse un máximo de 5 jornadas de uso.",
+         "start": 298.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sobre todo en compras por internet, debemos asegurarnos de que las mascarillas que elijamos cumplen las condiciones sanitarias adecuadas.",
+         "start": 314.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando utilizamos las mascarillas, debemos ser muy cuidadosas y cuidadosos.",
+         "start": 327.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lavarnos las manos antes de colocarla y antes de retirarla.",
+         "start": 335.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Colocar la mascarilla de manera que cubra boca, nariz y barbilla.",
+         "start": 344.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "No tocar nunca la parte frontal de la mascarilla y sujetarla siempre por las gomas o tiras de los laterales.",
+         "start": 354.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Evitar tocarnos ojos, nariz y boca cuando la llevemos puesta.",
+         "start": 361.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si llevamos guantes, primero nos quitaremos los guantes, y después nos lavaremos las manos, nos quitaremos la mascarilla con cuidado de no contaminarnos, la tiraremos en un cubo de basura o recipiente cerrado, y nos lavaremos las manos de nuevo.",
+         "start": 368.5,
+         "duration": 19.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recordad que la mascarilla y los guantes son una protección más. No sustituyen al resto de medidas de higiene ni de protección personal.",
+         "start": 388.0,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para evitar contagios, no debemos olvidarnos de lavarnos frecuentemente las manos, mantener la distancia de seguridad entre personas (2 metros), y no tocarnos la cara si no tenemos las manos limpias.",
+         "start": 404.0,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido, blusa negra y chaqueta granate",
+         "screen_position": "center"
+      }
+   ]
+}

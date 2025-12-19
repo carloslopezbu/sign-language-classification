@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La Fundación Vodafone España renueva su compromiso con la formación, el acceso al empleo y la comunicación sin barreras de las personas sordas",
+         "start": 2.802,
+         "duration": 42.751,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa granate",
+         "screen_position": "right"
+      },
+      {
+         "text": "www.fundacionvodafoneconlosmayores.com",
+         "start": 146.463,
+         "duration": 11.845,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa granate",
+         "screen_position": "right"
+      }
+   ]
+}

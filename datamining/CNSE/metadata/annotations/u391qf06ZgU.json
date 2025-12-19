@@ -1,0 +1,518 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "¡Hola! Soy María José.",
+         "start": 5.21,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Yo soy Aleluya.",
+         "start": 7.01,
+         "duration": 0.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Soy Paula.",
+         "start": 9.01,
+         "duration": 0.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Soy Berta.",
+         "start": 10.21,
+         "duration": 0.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "Yo soy Candela.",
+         "start": 11.71,
+         "duration": 1.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Soy Nacho.",
+         "start": 13.31,
+         "duration": 0.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Empieza tú.",
+         "start": 16.01,
+         "duration": 0.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "- ¿Yo?",
+         "start": 16.71,
+         "duration": 0.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mejor tú empiezas.",
+         "start": 18.41,
+         "duration": 1.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Tú empiezas.",
+         "start": 21.01,
+         "duration": 0.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Vale.",
+         "start": 21.71,
+         "duration": 0.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "La sociedad, cuando ve a personas usando audífonos, asume que hablan y oyen perfectamente. No es cierto, una cosa es hablar bien y otra cosa, no oír.",
+         "start": 26.31,
+         "duration": 11.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Uso audífonos, pero necesito igualmente intérprete.",
+         "start": 38.31,
+         "duration": 2.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "En clase, el profesor sabía signar y había intérprete también. No creían que necesitara intérprete como otros compañeros, dado que yo llevaba implante coclear y el profesor el FM.",
+         "start": 42.41,
+         "duration": 10.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "El implante coclear o el audífono no son eficaces al 100%, por eso siempre se debe ofrecer al alumnado poder tener acceso a la lengua de signos.",
+         "start": 54.21,
+         "duration": 9.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "A veces sí.",
+         "start": 104.71,
+         "duration": 1.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Hombreee!",
+         "start": 107.41,
+         "duration": 1.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si los compañeros hablan, yo también puedo.",
+         "start": 109.11,
+         "duration": 1.9,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Incluso los mismos compañeros me decían que atendiese a la intérprete.",
+         "start": 111.71,
+         "duration": 2.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Tus compañeros? A mí eso no me ha pasado.",
+         "start": 114.21,
+         "duration": 1.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Decían “pobre intérprete, trabajando todo el día”.",
+         "start": 116.01,
+         "duration": 1.9,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "En clase, yo quiero distraerme igual que mis compañeros.",
+         "start": 118.61,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "Qué harta estoy de eso... lo odio.",
+         "start": 126.31,
+         "duration": 1.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Al tener que estar atento a la intérprete, no puedo escribir mis propios apuntes. Por eso, pido apuntes a mis compañeros. Algunos me los dan y otros se molestan y me echan en cara que es mi problema y que yo tengo intérprete.",
+         "start": 128.41,
+         "duration": 16.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los centros educativos o las universidades deben buscar alguna forma de compensar el trabajo de los compañeros con los apuntes a través de créditos u otra cosa, para que tengan la motivación de compartirlos. Llevo mucho tiempo harta de este tema.",
+         "start": 146.01,
+         "duration": 14.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "De pequeña, quería estudiar medicina, pero nadie lo veía viable por ser yo una persona sorda. Me decían: “Mejor estudia otra cosa”. Me dejé convencer y al final escogí otra cosa.",
+         "start": 204.21,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "Yo quería estudiar Psicología, pero me decían que optara por otros estudios porque yo no podía comunicarme.",
+         "start": 217.31,
+         "duration": 5.9,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "Recuerdo una vez, en que ya el primer día del curso tenía intérprete. Estaba muy contenta, hasta que me dijeron que sólo tres horas al día, en vez de las 6 horas lectivas de mi horario. El director no le daba importancia, porque era sólo una semana. Pero sí tenía importancia, porque en una semana iba a perderme muchas horas de información.",
+         "start": 227.51,
+         "duration": 17.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si, por ejemplo, le regalo a una persona un libro de 100 páginas, esta persona lo entendería al 100%. Pero, ¿y si yo arrancara algunas páginas del libro antes de dárselo?, ¿aún lo entendería al 100%? Lo dudo, seguro que no.",
+         "start": 246.21,
+         "duration": 15.7,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pues lo mismo se aplica a la situación del alumno sordo cuando tiene horas lectivas sin intérprete: no puede seguir la clase.",
+         "start": 313.01,
+         "duration": 10.3,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Había clases de apoyo aparte de las clases ordinarias. A pesar de tener un buen nivel, me designaron a las clases de apoyo para que así, todos los alumnos sordos coincidiéramos y bastase con una intérprete. Mis compañeros hacían preguntas, mientras yo perdía el tiempo.",
+         "start": 328.81,
+         "duration": 15.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pasé por esta situación en mi instituto muchas veces, porque no eran suficientes los profesores que sabían lengua de signos.",
+         "start": 345.31,
+         "duration": 6.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me cambiaron el inglés por clases de logopedia, que no me interesaban. Yo prefería el inglés porque me iba a ser útil en el futuro, pero no me ponían intérprete porque según ellos, yo tenía que hacer lo mismo que otros estudiantes sordos.",
+         "start": 353.41,
+         "duration": 14.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me hace mucha falta, incluso para trabajos en grupo.",
+         "start": 412.21,
+         "duration": 2.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mis compañeros no lo ven necesario porque a veces me oyen hablar. Es cierto, pero no me siento tan cómoda.",
+         "start": 416.41,
+         "duration": 5.9,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "No tenía intérprete porque la reunión era a última hora. Intenté comunicarme con la profesora y ella se sorprendió de lo bien que hablaba. Me decía: ‘a partir de ahora no te hace falta intérprete’ Por casualidad, ella hablaba de forma muy clara, y tenía paciencia, pero sigo prefiriendo usar intérprete a leer los labios todo el rato.",
+         "start": 423.31,
+         "duration": 25.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "En una exposición en clase, me amenazaron con suspenderme si no utilizaba la lengua oral.",
+         "start": 449.21,
+         "duration": 3.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "-He visto esta situación varias veces.",
+         "start": 453.41,
+         "duration": 1.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Al obligarme a hacerlo, no se respeta que yo elija la lengua de signos para expresarme. Me expreso mejor en lengua de signos que oralmente.",
+         "start": 455.51,
+         "duration": 6.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "Una vez, mi compañero me dijo que si quería llevar una vida mejor, que no signase, que hablase.",
+         "start": 503.41,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si tengo que leer los labios, al menos que la otra persona esté quieta y no se ponga a caminar. La gente no tiene labios en la nuca.",
+         "start": 513.41,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si el profesor habla mirando hacia la pizarra, ¿yo debo ir hasta la pizarra para poder leerle los labios?",
+         "start": 520.81,
+         "duration": 5.7,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Muchas veces!",
+         "start": 528.41,
+         "duration": 1.1,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Te ha pasado varias veces, ¿no? ¡A mí todos los días! ¡Todos los días!",
+         "start": 531.41,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "El profesor nos propuso a los alumnos escoger dos películas. Una tenía subtítulos, la otra no. Mis compañeros escogieron la que no tenía porque era buena. No entiendo por qué el profesor nos dio a elegir, y él sólo me dijo: “Es así, lo siento”.",
+         "start": 537.41,
+         "duration": 11.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "Un día pusieron subtítulos en francés, asumiendo que yo los entendería.",
+         "start": 550.01,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si la intérprete interpreta la película, no es cómodo mirar a una y después a la otra. Es más cómodo leer los subtítulos. Sino al final me distraigo, y hago otras cosas.",
+         "start": 555.61,
+         "duration": 7.9,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Oh, me enfado!",
+         "start": 606.31,
+         "duration": 0.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre pelo castaño, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me da estrés, mucho estrés.",
+         "start": 609.11,
+         "duration": 1.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "NO, NO, y NO.",
+         "start": 611.81,
+         "duration": 1.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mejor ni hablemos sobre eso.",
+         "start": 614.71,
+         "duration": 1.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando le digo a alguien que soy sorda, pero que puedo leer los labios. Me preguntan si soy sordomuda, pero ¡si le estoy hablando!",
+         "start": 617.11,
+         "duration": 6.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta amarilla",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando le hablo, dice “Ah, eres sordomuda”. Vamos a ver, si te estoy hablando.",
+         "start": 624.01,
+         "duration": 4.1,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Un profesor me obligó a comunicarme con él sin intérprete porque no se fiaba de ella. Le expliqué que la intérprete se limita a traducir lo que él dice y lo que yo digo, pero no le convenció. Fue una situación muy incómoda.",
+         "start": 632.51,
+         "duration": 13.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Durante un examen, la intérprete debe estar presente para que yo esté al tanto de todo lo que pasa y de todo lo que el profesor dice.",
+         "start": 647.11,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      },
+      {
+         "text": "- O por si tienes alguna pregunta.",
+         "start": 656.11,
+         "duration": 1.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "-Eso también. Si no, ¿cómo sabría que quedan solo 5 minutos de examen? Yo haciendo el examen y pensando que me sobra tiempo.",
+         "start": 658.11,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio largo, camiseta gris",
+         "screen_position": "right"
+      }
+   ]
+}

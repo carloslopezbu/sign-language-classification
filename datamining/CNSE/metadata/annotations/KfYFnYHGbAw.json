@@ -1,0 +1,203 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Continúa la ofensiva de Rusia en territorio ucraniano.",
+         "start": 1.2,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las dificultades logísticas y militares encontradas por sus tropas en los primeros siete días de batalla",
+         "start": 6.7,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "han obligado a Putin a intensificar el ataque.",
+         "start": 15.7,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el sur, el ejército ruso se ha hecho con el control de varias ciudades de la costa del mar de Azov y continúa su avance hacia Odessa, ciudad a orillas del Mar Negro.",
+         "start": 23.0,
+         "duration": 13.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una operación clave para Rusia ya que bloquearía cualquier posible salida de Ucrania al mar.",
+         "start": 36.8,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el este, prosiguen los bombardeos a Járkov, la segunda ciudad más grande de Ucrania.",
+         "start": 48.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los misiles han destruido el centro urbano y han alcanzado zonas residenciales y enclaves civiles como la sede del gobierno regional y la universidad.",
+         "start": 59.5,
+         "duration": 12.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mientras, a las afueras de Kiev un convoy militar ruso de más de 60 kilómetros de largo se prepara para un asalto inminente",
+         "start": 112.8,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la capital que, en las últimas horas, ha sufrido un duro ataque aéreo contra la torre de telecomunicaciones,",
+         "start": 125.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la estación de tren y distintos barrios de la ciudad, obligando a la evacuación de miles de mujeres y niños ucranianos.",
+         "start": 134.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta tarde las delegaciones rusa y ucraniana tienen previsto mantener la segunda ronda de negociaciones en la frontera entre Bielorrusia y Polonia para intentar alcanzar un alto el fuego,",
+         "start": 149.2,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "mientras la cifra de refugiadas y refugiados ha alcanzado ya el millón de personas.",
+         "start": 164.7,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Crece la condena internacional a Rusia por la invasión de Ucrania.",
+         "start": 173.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A través de una resolución ratificada ayer por 117 de sus países miembros, la ONU exige a Moscú la retirada inmediata y sin condiciones de sus fuerzas militares.",
+         "start": 180.5,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Banco Mundial ha suspendido todos sus programas en Rusia, las sanciones económicas contra el gobierno de Putin se endurecen,",
+         "start": 197.8,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y conocidas multinacionales de todo el mundo han paralizado su actividad en este país.",
+         "start": 212.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Entre otras, Apple, Google y Microsoft en el ámbito de las telecomunicaciones;",
+         "start": 219.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Netflix y Spotify entre las plataformas de streaming;",
+         "start": 226.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ford y Toyota en el mercado de la automoción;",
+         "start": 234.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o la compañía fabricante de aviones Boeing.",
+         "start": 242.5,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, Ucrania ha formalizado su solicitud de adhesión a la Unión Europea",
+         "start": 247.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y ha demandado a Rusia por genocidio y crímenes de guerra ante el Tribunal Internacional de Justicia de la Haya.",
+         "start": 255.5,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,275 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Martes, 3 de mayo.",
+         "start": 1.29,
+         "duration": 2.83,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La guerra en Ucrania cumple 69 días.",
+         "start": 5.09,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pese a las dificultades, continúa la evacuación de civiles en Mariúpol,",
+         "start": 11.02,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "donde unas 100.000 personas están siendo trasladados",
+         "start": 17.52,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a Zaporiyia y otras zonas consideradas seguras.",
+         "start": 21.52,
+         "duration": 5.07,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el frente, el Ejército ruso intenta ganar terreno en la región del Donbás,",
+         "start": 27.85,
+         "duration": 7.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "dejando a los ucranianos el dominio del norte del país.",
+         "start": 35.52,
+         "duration": 5.33,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Jersón continúa hasta ahora como la única",
+         "start": 41.85,
+         "duration": 4.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "gran ciudad ucraniana tomada por las fuerzas rusas,",
+         "start": 46.52,
+         "duration": 8.33,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que tratan de hacerse con el control de todas aquellas",
+         "start": 55.85,
+         "duration": 3.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "regiones limítrofes con la península de Crimea.",
+         "start": 59.52,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estados Unidos sospecha que Rusia planea celebrar un referéndum",
+         "start": 104.52,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para la creación de la República Popular de Jersón,",
+         "start": 109.02,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y otro para anexionar a su territorio las regiones de Donetsk y Lugansk.",
+         "start": 116.52,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Organización para la Seguridad y la Cooperación en Europa ha advertido",
+         "start": 126.52,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que, de producirse, sus resultados no se considerarán legítimos.",
+         "start": 131.02,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, el presidente de Ucrania ha condicionado la neutralidad que",
+         "start": 140.52,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Rusia exige a su país a la liberación de todo el territorio ocupado,",
+         "start": 146.52,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "incluidos el Donbás y la península de Crimea.",
+         "start": 153.52,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Zelenski confía en que las nuevas sanciones a Rusia",
+         "start": 161.85,
+         "duration": 4.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y el bloqueo de sus ingresos por la venta de petróleo",
+         "start": 166.52,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "contribuyan a que el Kremlin se plantee poner fin al conflicto.",
+         "start": 171.52,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por último, en lo que ayuda a Ucrania se refiere,",
+         "start": 181.02,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el Banco Mundial ha otorgado a este país 495 millones de euros.",
+         "start": 184.02,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El principal donante ha sido Estados Unidos,",
+         "start": 190.85,
+         "duration": 4.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "seguido de Noruega y Austria.",
+         "start": 195.52,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Japón también ha contribuido con otro préstamo de 100 millones",
+         "start": 199.85,
+         "duration": 6.17,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de dólares para políticas de recuperación económica de emergencia",
+         "start": 206.02,
+         "duration": 4.83,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y una subvención de 2,3 millones de dólares para",
+         "start": 210.85,
+         "duration": 4.17,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "fortalecer el sistema de atención médica y de salud.",
+         "start": 215.02,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

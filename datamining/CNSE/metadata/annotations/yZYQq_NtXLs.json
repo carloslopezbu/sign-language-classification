@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "SE PRESENTA EL PRIMER ESTUDIO SOBRE PERSONAS MAYORES SORDAS EN ESPAÑA",
+         "start": 0.83,
+         "duration": 4.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Presentación del Estudio Hacia la Autonomía y Participación de las Personas Mayores Sordas en España Madrid, 30 de marzo",
+         "start": 16.12,
+         "duration": 205.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa oscura",
+         "screen_position": "center"
+      }
+   ]
+}

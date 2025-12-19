@@ -1,0 +1,122 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ayer, Pedro Sánchez, el presidente del Gobierno, anunció la prórroga de 15 días del estado de alarma en España.",
+         "start": 0.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La decisión se acordará formalmente mañana martes en Consejo de ministros, y será aprobada por el Congreso de los Diputados esta misma semana.",
+         "start": 8.9,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto supone que se mantendrán las actuales medidas de aislamiento y restricción en la circulación de personas, al menos, hasta el 11 de abril.",
+         "start": 19.2,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El presidente avanzó nuevas medidas para afrontar esta crisis.",
+         "start": 29.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para aliviar la situación que viven algunas residencias públicas, se ponen a disposición las instalaciones y medios materiales y humanos de las residencias de mayores privadas.",
+         "start": 35.5,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se restringen temporalmente las entradas a España, a excepción de las y los españoles que vuelvan al país, y los desplazamientos realizados por transportistas de mercancías, personal de vuelo, o representantes diplomáticos.",
+         "start": 51.8,
+         "duration": 25.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para evitar que las personas mayores tengan que salir de casa, los Ayuntamientos trabajarán en el reparto a domicilio de comida y medicamentos.",
+         "start": 78.5,
+         "duration": 13.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las Fuerzas Armadas apoyarán por vía aérea y terrestre:",
+         "start": 93.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El traslado de pacientes de centros saturados a otros centros",
+         "start": 99.8,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La seguridad de infraestructuras críticas.",
+         "start": 109.8,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El transporte de material y personal clave, como por ejemplo, el sanitario.",
+         "start": 121.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Empresas nacionales fabricarán material sanitario y medicamentos",
+         "start": 129.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno creará una reserva de estos productos para luchar contra futuras pandemias.",
+         "start": 138.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

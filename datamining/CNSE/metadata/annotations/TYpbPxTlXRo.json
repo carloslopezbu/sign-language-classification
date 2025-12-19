@@ -1,0 +1,266 @@
+{
+   "num_signers": 10,
+   "annotations": [
+      {
+         "text": "El 2020 ha sido un año especialmente duro.",
+         "start": 5.3,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La irrupción de la COVID 19 en nuestras vidas, ha transformado nuestra realidad y nos ha dejado escenas terribles de dolor, angustia, desolación, y soledad.",
+         "start": 11.0,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tras la declaración del estado de alarma el 14 marzo, a meses de confinamiento domiciliario,",
+         "start": 20.5,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "que agravaron la falta de accesibilidad a la comunicación, a la información",
+         "start": 28.8,
+         "duration": 5.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "que de por sí afecta a las personas sordas, con todo esto,",
+         "start": 34.5,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y no exentos de incertidumbre, pudimos enfrentarlo con resiliencia.",
+         "start": 37.0,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "La pandemia ha puesto de manifiesto el enorme valor del trabajo en red.",
+         "start": 45.8,
+         "duration": 7.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rojo, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una red que durante un año difícil, ha realizado una ingente labor",
+         "start": 53.8,
+         "duration": 7.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rojo, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de incidencia política, de propuestas normativas a favor de las personas sordas.",
+         "start": 101.8,
+         "duration": 5.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rojo, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos una red asociativa fuerte y solidaria repleta de profesionales que se implican y que lo dan todo.",
+         "start": 108.0,
+         "duration": 9.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una red que ha aportado soluciones y puesto a disposición sus propios recursos",
+         "start": 118.5,
+         "duration": 5.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que ninguna persona sorda se quede atrás.",
+         "start": 124.5,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias a esta red, que a través de servicios como el de atención a mayores sordos VIDASOR",
+         "start": 128.0,
+         "duration": 6.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y los de acompañamiento específico que están ofreciendo federaciones y asociaciones;",
+         "start": 134.5,
+         "duration": 7.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como de la red de voluntariado;",
+         "start": 142.0,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la plataforma ALBA contra la violencia de género;",
+         "start": 146.0,
+         "duration": 4.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la red de atención psicológica a personas sordas;",
+         "start": 150.5,
+         "duration": 3.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "de los servicios de interpretación y videointerpretación en lengua de signos;",
+         "start": 154.5,
+         "duration": 4.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "y de los de mediación social y laboral para asesorar y apoyar a las personas sordas en la gestión de trámites,",
+         "start": 159.0,
+         "duration": 5.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con barba, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "ha demostrado que durante esta crisis que tan duramente nos golpea, estamos juntos.",
+         "start": 164.2,
+         "duration": 5.3,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con barba, chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "El 2020 ha sido un año difícil y atípico.",
+         "start": 170.0,
+         "duration": 4.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto castaño, jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con la satisfacción de una labor bien hecha,",
+         "start": 174.2,
+         "duration": 3.6,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto castaño, jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "desde el Consejo de la CNSE decimos adiós a este año.",
+         "start": 178.0,
+         "duration": 6.5,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto castaño, jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con esperanza, propósitos e ilusión renovados.",
+         "start": 185.5,
+         "duration": 5.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto castaño, jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con compromiso, solidaridad y empatía. Con unidad.",
+         "start": 191.0,
+         "duration": 6.5,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre calvo, camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os deseamos un 2021 cargado de salud, de felicidad y de derechos cumplidos.",
+         "start": 198.0,
+         "duration": 12.0,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre calvo, camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por último, deseamos que en la nueva reconstrucción como sociedad",
+         "start": 211.0,
+         "duration": 3.5,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con rastas, chaqueta de rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "ésta tenga en cuenta a la comunidad sorda,",
+         "start": 214.8,
+         "duration": 1.7,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con rastas, chaqueta de rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "que las propias personas sordas seamos protagonistas de nuestra causa",
+         "start": 216.8,
+         "duration": 2.7,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con rastas, chaqueta de rayas",
+         "screen_position": "center"
+      }
+   ]
+}

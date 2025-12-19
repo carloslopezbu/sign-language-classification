@@ -1,0 +1,185 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "Los derechos humanos son aquellos que tenemos básicamente por el hecho de existir.",
+         "start": 2.92,
+         "duration": 5.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son derechos universales e inherentes a cada persona con independencia de su nacionalidad, género, origen étnico o nacional, color, religión, idioma o cualquier otra condición.",
+         "start": 10.0,
+         "duration": 13.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Varían desde los más fundamentales, como el derecho a la vida, hasta los que le dan valor, como el derecho a la educación, al trabajo, a la salud y a la libertad.",
+         "start": 25.2,
+         "duration": 9.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy en Signar por Derecho, queremos que nos acompañéis a través de la plataforma web LEYSIGN, un espacio dedicado a proporcionar a las personas sordas un acceso integral a los instrumentos fundamentales de derechos humanos.",
+         "start": 36.32,
+         "duration": 15.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "LEYSIGN nos brinda la posibilidad de visualizar en lengua de signos documentos esenciales para el reconocimiento y garantía de estos derechos.",
+         "start": 53.52,
+         "duration": 8.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Comenzamos!",
+         "start": 103.0,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez entramos en la web de LEYSIGN, nos vamos a la sección de Convenciones Internacionales y encontramos la Convención sobre los Derechos de las Personas con Discapacidad y la Declaración Universal de los Derechos Humanos.",
+         "start": 107.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Convención Internacional sobre los Derechos de las Personas con Discapacidad fue aprobada por la ONU el 13 de diciembre de 2006, y ratificada por España el 3 de mayo de 2008.",
+         "start": 122.0,
+         "duration": 11.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de un instrumento jurídico fundamental para la protección de este colectivo, ya que asume el fenómeno de la discapacidad como una cuestión de derechos humanos.",
+         "start": 134.52,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "En su articulado encontramos disposiciones que revisten especial importancia para la comunidad sorda, como el reconocimiento de su identidad lingüística y cultural, la libertad de expresión, opinión y acceso a la información a través de la lengua de signos, o el derecho a su aprendizaje a través de docentes cualificados en esta lengua, entre otras.",
+         "start": 146.0,
+         "duration": 20.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, la Declaración Universal de los Derechos Humanos fue adoptada por la Asamblea General de las Naciones Unidas en 1948.",
+         "start": 134.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata del primer documento legal en establecer la protección universal de los derechos humanos fundamentales.",
+         "start": 143.52,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Junto con el Pacto Internacional de Derechos Civiles y Políticos y el Pacto Internacional de Derechos Económicos, Sociales y Culturales componen la Carta Internacional de Derechos Humanos.",
+         "start": 150.0,
+         "duration": 10.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.",
+         "start": 162.0,
+         "duration": 4.52,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si volvemos a la página principal de LEYSIGN y nos movemos hasta el apartado Legislación en materia de Igualdad entre mujeres y hombres tenemos la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW) en lengua de signos.",
+         "start": 168.0,
+         "duration": 21.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este instrumento legal internacional que exige que los países eliminen la discriminación contra la mujer en todos los ámbitos de la vida y promueve la igualdad de derechos de la mujer, fue aprobado por Naciones Unidas el 18 de diciembre de 1979.",
+         "start": 191.0,
+         "duration": 22.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los países deben tener en cuenta los problemas específicos y el importante papel que desempeñan las mujeres y niñas rurales en la supervivencia",
+         "start": 214.52,
+         "duration": 8.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Interesante ¿verdad?",
+         "start": 224.0,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si necesitáis encontrar información jurídica accesible para el cumplimiento de vuestros derechos os animamos a visitar LEYSIGN.",
+         "start": 227.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "www.cnse.es/leysign/",
+         "start": 234.0,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      }
+   ]
+}

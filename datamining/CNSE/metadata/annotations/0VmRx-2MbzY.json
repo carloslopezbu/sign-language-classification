@@ -1,0 +1,266 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El uso de mascarillas en espacios interiores dejará de ser obligatorio a partir de hoy, 20 de abril.",
+         "start": 1.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así lo ha anunciado el Ministerio de Sanidad dada la buena evolución de los datos epidemiológicos y la elevada cobertura vacunal en España.",
+         "start": 11.8,
+         "duration": 16.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿El fin del uso de las mascarillas en interiores varía en cada comunidad autónoma?",
+         "start": 32.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No. Esta norma se rige por un real decreto que afecta por igual a todas las comunidades autónomas.",
+         "start": 38.1,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Puedo seguir usando mascarilla?",
+         "start": 54.0,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cualquier persona que lo desee podrá seguir usando mascarilla cuando lo considere oportuno.",
+         "start": 100.8,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, el Ministerio de Sanidad aconseja su utilización por parte de la población especialmente vulnerable (mayores de 60 años, embarazadas y personas inmunodeprimidas o con patologías de riesgo) siempre que no puedan mantener la distancia de seguridad,",
+         "start": 106.8,
+         "duration": 19.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y recomienda a la población general hacer un uso responsable en espacios cerrados donde puedan producirse aglomeraciones o vayamos a permanecer mucho tiempo (centros comerciales, supermercados, cines, teatros, museos, bares, restaurantes, locales de ocio nocturno, gimnasios, etc.)",
+         "start": 126.9,
+         "duration": 31.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿En qué lugares seguirá siendo obligatoria?",
+         "start": 204.5,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hospitales (excepto para las personas ingresadas, si están en su habitación sin visitas)",
+         "start": 211.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Centros de salud.",
+         "start": 224.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Consultas privadas (como por ejemplo de psicología o fisioterapia).",
+         "start": 228.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Centros sociosanitarios tales como centros de día, centros de rehabilitación, centros de terapia ocupacional, centros de transfusión o centros de tratamiento ambulatorio.",
+         "start": 234.8,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Residencias (solo para trabajadores/as y visitantes)",
+         "start": 253.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Farmacias.",
+         "start": 300.2,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medios de transporte público (autobús, metro, tranvía, avión, barco).",
+         "start": 301.9,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otros transportes (autobuses escolares, taxis, VTC como Uber o Cabify, y servicios de vehículos compartidos como BlaBlaCar).",
+         "start": 309.8,
+         "duration": 17.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si soy positivo/a por COVID, ¿debo ponérmela?",
+         "start": 330.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque presenten síntomas leves o sean asintomáticas, las personas diagnosticadas de COVID-19 deberán llevar la mascarilla durante al menos diez días a fin de evitar posibles contagios.",
+         "start": 335.8,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Tengo que llevar mascarilla en el trabajo?",
+         "start": 350.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Depende de lo que decida tu empresa.",
+         "start": 355.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Corresponde al servicio de prevención de riesgos laborales determinar si la plantilla debe o no utilizar mascarilla en función de las circunstancias (espacio entre los puestos de trabajo, ventilación, tipo de tarea que realizan, etc).",
+         "start": 357.9,
+         "duration": 18.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Tengo que llevar mascarilla en la clase?",
+         "start": 420.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En colegios, institutos y universidades no será necesario llevar mascarilla, a excepción de la población vulnerable.",
+         "start": 424.2,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para el alumnado o el profesorado en esta situación su uso continuará siendo obligatorio.",
+         "start": 431.5,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de que se den circunstancias excepcionales, como una alta tasa de incidencia en la zona, cada centro educativo podrá solicitar a la Consejería de Educación el restablecimiento de la mascarilla durante el tiempo que sea necesario.",
+         "start": 440.8,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Pueden exigirla en tiendas, supermercados, en el cine o en el teatro?",
+         "start": 503.0,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El fin de la mascarilla obligatoria se aplica a todos los espacios públicos a excepción de los que hemos mencionado anteriormente.",
+         "start": 512.8,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No obstante, cada empresaria o empresario podrá obligar a llevarlas en sus negocios basándose en su derecho de admisión.",
+         "start": 520.8,
+         "duration": 13.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

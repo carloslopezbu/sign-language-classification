@@ -1,0 +1,257 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El próximo domingo 9 de mayo finaliza el estado de alarma en España.",
+         "start": 1.034,
+         "duration": 3.867,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto implica el levantamiento de algunas medidas como",
+         "start": 6.039,
+         "duration": 3.303,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el toque de queda o los cierres perimetrales",
+         "start": 10.613,
+         "duration": 4.969,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que las comunidades autónomas habían impuesto en sus territorios amparadas por esta situación excepcional.",
+         "start": 15.582,
+         "duration": 10.814,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A partir de este día, los gobiernos autonómicos podrán adoptar",
+         "start": 28.665,
+         "duration": 5.172,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las decisiones oportunas para frenar la pandemia amparándose en el actual marco legislativo sanitario.",
+         "start": 35.772,
+         "duration": 7.874,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, cuando se trate de decisiones que afectan a los derechos fundamentales",
+         "start": 44.781,
+         "duration": 5.305,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a las libertades públicas, como por ejemplo limitar la movilidad dentro de sus territorios o restringir la actividad nocturna,",
+         "start": 50.086,
+         "duration": 9.209,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "deberán contar con el respaldo de los Tribunales Superiores de Justicia o de la Audiencia Nacional.",
+         "start": 59.295,
+         "duration": 11.989,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, el consejo de ministros ha aprobado un Real Decreto-ley por el que se adoptan medidas urgentes en el orden sanitario, social",
+         "start": 112.888,
+         "duration": 11.508,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y jurisdiccional para aplicar una vez finalice el estado de alarma.",
+         "start": 124.396,
+         "duration": 7.539,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se reforzará el control sanitario de los pasajeros que llegan a España para detectar de manera rápida la presencia de casos importados",
+         "start": 133.003,
+         "duration": 8.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de COVID-19 que pudieran generar brotes en nuestro país, y localizar a los contactos estrechos de estos casos.",
+         "start": 141.007,
+         "duration": 8.605,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se ampliarán hasta el 9 de agosto medidas extraordinarias de carácter económico y social, como garantizar el suministro de agua, electricidad",
+         "start": 151.482,
+         "duration": 13.843,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y gas natural a colectivos vulnerables, la suspensión de los desahucios;",
+         "start": 205.325,
+         "duration": 9.543,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la moratoria en el pago del alquiler de la vivienda habitual.",
+         "start": 216.736,
+         "duration": 10.107,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los servicios públicos para víctimas de violencia machista tendrán la consideración de servicios esenciales, pudiendo las comunidades autónomas",
+         "start": 228.812,
+         "duration": 9.472,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "destinar los fondos que les corresponden del Pacto de Estado contra la Violencia de Género a estos programas.",
+         "start": 238.284,
+         "duration": 9.874,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se facilitará la contratación de personal sanitario, incluidos profesionales sanitarios jubilados, que podrán incorporarse voluntariamente a los servicios de salud de las comunidades autónomas.",
+         "start": 249.893,
+         "duration": 16.139,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los casos de COVID-19 continúan en descenso en la mayoría de las comunidades autónomas, lo que avala que la campaña de vacunación está obteniendo buenos resultados.",
+         "start": 309.476,
+         "duration": 12.906,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hasta el momento, cinco millones de personas han recibido la pauta completa de vacunación, y a doce millones se les ha administrado la primera dosis.",
+         "start": 324.751,
+         "duration": 12.606,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno mantiene su objetivo de que el 70% de la población esté vacunada en el mes de agosto.",
+         "start": 338.825,
+         "duration": 8.538,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La limitación de vuelos entre Brasil y Sudáfrica y los aeropuertos españoles se prorrogará hasta el 25 de mayo, excepto cuando se trate de vuelos",
+         "start": 352.767,
+         "duration": 14.377,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ocupados por ciudadanos españoles o residentes en España.",
+         "start": 407.144,
+         "duration": 6.74,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de las personas procedentes de la India deberán presentar una PCR negativa realizada en su país de origen, y someterse a una cuarentena obligatoria una vez lleguen a España.",
+         "start": 414.818,
+         "duration": 13.206,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Unión Europea está estudiando la posibilidad de que los ciudadanos que se hayan vacunado con alguna de las vacunas aprobadas por la Agencia Europea del Medicamento (Pfizer, Moderna, Astra Zeneca y Janssen),",
+         "start": 432.895,
+         "duration": 26.377,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "cuenten con un ‘Pasaporte Verde’ o certificado de vacunación digital que les permita circular libremente por todo el territorio.",
+         "start": 459.272,
+         "duration": 9.74,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta línea, España participará en una estrategia conjunta para promover una movilidad segura entre aquellos países con tasas de contagio inferiores a 100 casos por cada 100.000 habitantes.",
+         "start": 510.48,
+         "duration": 19.076,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

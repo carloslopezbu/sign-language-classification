@@ -1,0 +1,320 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Carlos Soroa es un joven sordo de 31 años, que desde que era un crío soñaba con la interpretación.",
+         "start": 5.923,
+         "duration": 6.506,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y aunque inicialmente se decantó por la cocina, su otra pasión, hoy está viviendo su sueño como actor.",
+         "start": 13.263,
+         "duration": 6.506,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cuando las personas me preguntan si a lo largo de mi vida he sufrido barreras, la verdad es que durante mi infancia no.",
+         "start": 23.657,
+         "duration": 5.839,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nací en una familia sorda y además estudié en un colegio con niños y niñas sordas.",
+         "start": 30.23,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me sentía muy integrado.",
+         "start": 35.235,
+         "duration": 1.335,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero en la época de bachillerato la realidad me golpeó.",
+         "start": 37.337,
+         "duration": 2.603,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fue una realidad muy frustrante y dura.",
+         "start": 40.674,
+         "duration": 2.202,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En ese momento empecé a vivir el reto de la inclusión.",
+         "start": 44.144,
+         "duration": 2.703,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Luché y luché por alcanzar mis objetivos.",
+         "start": 49.249,
+         "duration": 2.102,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ya por aquel entonces quería ser actor.",
+         "start": 52.152,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando ves que son pocas las personas sordas que lo consiguen y que hay muchos hándicaps, te planteas abandonar.",
+         "start": 55.155,
+         "duration": 5.205,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Piensas que va a ser imposible.",
+         "start": 100.834,
+         "duration": 1.602,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, no me rendí.",
+         "start": 103.236,
+         "duration": 1.301,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trabajé y luché por mis sueños hasta conseguirlos.",
+         "start": 105.138,
+         "duration": 2.703,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Carlos ha participado en distintos proyectos de cine, teatro y televisión.",
+         "start": 112.813,
+         "duration": 4.504,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "right"
+      },
+      {
+         "text": "De hecho, es el primer actor sordo en protagonizar una ficción de Netflix.",
+         "start": 117.651,
+         "duration": 4.604,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y es que a las personas sordas no hay nada que nos pare.",
+         "start": 128.662,
+         "duration": 2.803,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos capaces.",
+         "start": 132.733,
+         "duration": 0.801,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos, además, unas grandes aliadas en las nuevas tecnologías.",
+         "start": 133.867,
+         "duration": 3.403,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las redes sociales, por ejemplo, nos permiten visibilizar todo nuestro talento.",
+         "start": 138.171,
+         "duration": 4.204,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias a ellas, muchas niñas y niños sordos se han puesto en contacto conmigo para decirme que se sienten muy ilusionados de verme en la pantalla.",
+         "start": 144.745,
+         "duration": 6.907,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y entonces yo también me emociono al ver que soy capaz de motivarles.",
+         "start": 153.854,
+         "duration": 3.503,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy quiero presentaros un proyecto que ayudará a redefinir el futuro de las personas sordas.",
+         "start": 200.334,
+         "duration": 4.805,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata del proyecto Hera.",
+         "start": 205.873,
+         "duration": 2.302,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hera, pone a disposición de las personas sordas los servicios que prestan la CNSE y su movimiento asociativo de una manera accesible.",
+         "start": 209.176,
+         "duration": 8.108,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo?",
+         "start": 218.285,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "A través de una plataforma unificada.",
+         "start": 220.687,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuándo?",
+         "start": 223.357,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez que las y los profesionales de la CNSE y su movimiento asociativo finalicen la formación que están recibiendo.",
+         "start": 225.459,
+         "duration": 6.006,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque serán ellas y ellos los encargados de formar a las personas sordas e introducirnos en esta cultura digital.",
+         "start": 232.563,
+         "duration": 5.806,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El mundo está cambiando y las personas sordas debemos cambiar con él.",
+         "start": 239.069,
+         "duration": 3.403,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CNSE ya ha dado el primer paso.",
+         "start": 243.574,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora nos toca a nosotras tomar el relevo trabajando con compromiso para mejorar la calidad de vida de las personas sordas.",
+         "start": 246.877,
+         "duration": 6.507,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Tienes miedo? ¿Dudas? Déjalas atrás.",
+         "start": 256.283,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es el momento de abrazar la era digital.",
+         "start": 259.886,
+         "duration": 2.202,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo claro",
+         "screen_position": "center"
+      }
+   ]
+}

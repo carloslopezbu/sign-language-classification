@@ -1,0 +1,50 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "OPCIÓN-A DÍA ENTRADA 6 DE MAYO DÍA SALIDA 10 DE MAYO",
+         "start": 104.833,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rubio, blusa estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "OPCIÓN-B DÍA ENTRADA 6 DE MAYO DÍA SALIDA 13 DE MAYO",
+         "start": 136.5,
+         "duration": 9.333,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rubio, blusa estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "OPCIÓN-A",
+         "start": 207.0,
+         "duration": 4.833,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rubio, blusa estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "OPCIÓN-B",
+         "start": 212.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rubio, blusa estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "PLAZO INSCRIPCIÓN 26 ABRIL",
+         "start": 245.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rubio, blusa estampada",
+         "screen_position": "center"
+      }
+   ]
+}

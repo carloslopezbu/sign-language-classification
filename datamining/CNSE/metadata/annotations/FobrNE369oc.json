@@ -1,0 +1,230 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ayer miércoles, 26 de febrero,",
+         "start": 4.3,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fernando Simón, el director del Centro de Coordinación de Alertas y Emergencias Sanitarias del Ministerio de Sanidad,",
+         "start": 7.0,
+         "duration": 11.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "tenía reunión con el Comité de Seguimiento del Coronavirus.",
+         "start": 18.7,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Después dio una rueda de prensa,",
+         "start": 24.9,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que no fue accesible para las personas sordas.",
+         "start": 29.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde CNSE, continuamos informando de las novedades de esta alerta sanitaria a través de lengua de signos y subtitulado.",
+         "start": 33.6,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recogemos las cuestiones más destacadas de la rueda de prensa.",
+         "start": 41.6,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El riesgo de infección en España es moderado.",
+         "start": 48.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El riesgo es nulo en las zonas donde no hay casos identificados.",
+         "start": 55.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los casos de Coronavirus en España están relacionados con importaciones procedentes de Italia y son situaciones controladas.",
+         "start": 103.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No hay que adoptar mecanismos de protección innecesarios, como, por ejemplo, las mascarillas.",
+         "start": 113.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las recomendaciones a seguir son las siguientes.",
+         "start": 120.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lavarse las manos frecuentemente.",
+         "start": 122.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Toser o estornudar tapándose la boca y la nariz con un pañuelo.",
+         "start": 125.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de sufrir una infección respiratoria, evitar el contacto cercano con otras personas.",
+         "start": 131.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Evitar tocarse la boca, la nariz y los ojos.",
+         "start": 139.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de existir síntomas de coronavirus, se debe llamar al 112 y les indicará cómo actuar, si es necesario ir al centro de salud o si el médico irá a tu casa.",
+         "start": 145.5,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CNSE pone a disposición el servicio de videointerpretación para personas sordas SVisual para realizar dichas llamadas.",
+         "start": 157.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay zonas donde el riesgo de infección es más alto.",
+         "start": 167.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son China, Irán, Corea, Japón, Singapur y el Norte de Italia.",
+         "start": 171.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas las personas que llegan a los aeropuertos españoles, desde zonas de riesgo, están siendo bien informadas.",
+         "start": 181.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al llegar de un viaje de una zona de riesgo, puedes hacer vida normal.",
+         "start": 189.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tras 14 días no tienes ningún síntoma, no es necesario tomar medidas especiales.",
+         "start": 193.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si a lo largo de los 14 días posteriores al viaje aparece algún síntoma, es importante contactar telefónicamente con los servicios de salud.",
+         "start": 203.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fernando Simón aseguró que desde el Ministerio de Sanidad se está realizando un seguimiento permanente y diario para adoptar cualquiera medida que sea necesaria.",
+         "start": 213.5,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,356 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "¿Qué por qué hacen falta más docentes sordas/os?",
+         "start": 9.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque la diversidad también educa.",
+         "start": 13.2,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada docente sorda/o aporta un valor único, abre nuevas formas de aprender y demuestra que cada experiencia suma en el aula.",
+         "start": 16.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque la infancia sorda necesita referentes.",
+         "start": 30.8,
+         "duration": 2.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ver a una persona sorda adulta trabajando, liderando una clase... es un mensaje de autoestima y de orgullo para ellas/os, y el ejemplo de que ser una persona sorda no es un límite en sí mismo.",
+         "start": 34.2,
+         "duration": 16.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pues porque enseñamos a nuestras alumnas y alumnos a familiarizarse con otras lenguas, a ser pacientes y a mirar más allá de las palabras.",
+         "start": 51.5,
+         "duration": 15.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprenden empatía, respeto y a valorar la riqueza de ser diferentes...",
+         "start": 107.8,
+         "duration": 10.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y eso es una lección de vida.",
+         "start": 118.5,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Algo de lo que me siento orgullosa es cuando veo que alumnas y alumnos oyentes se animan a signar porque me ven hacerlo a mí.",
+         "start": 129.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso demuestra que están aprendiendo a abrir su mente, a tender puentes y a reconocer que la diversidad enriquece la comunicación.",
+         "start": 139.8,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando en clase las/os más pequeñas/os hacen el signo de 'aprender' con una sonrisa.",
+         "start": 172.2,
+         "duration": 5.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "O cuando te dicen: 'Profe, quiero ser como tú'.",
+         "start": 178.8,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso me emociona porque significa que tienen sueños, aspiraciones...",
+         "start": 182.8,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hubo una vez una alumna que me preguntó si yo podía enseñar igual que un profesor oyente. Y al final del curso, fue ella misma quien dijo que había aprendido más de lo que se imaginaba.",
+         "start": 193.2,
+         "duration": 15.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ese día entendí lo importante de mi ejemplo.",
+         "start": 210.5,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Lo mejor de esta profesión?",
+         "start": 222.5,
+         "duration": 1.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando las familias me cuentan que en casa ya usan algunos signos.",
+         "start": 223.8,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es en ese momento, siento que lo aprendido en el aula trasciende al hogar.",
+         "start": 230.5,
+         "duration": 5.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que la inclusión que empieza en la escuela se multiplica en la vida diaria.",
+         "start": 237.2,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para mí, ver cómo en las aulas donde conviven distintas lenguas, culturas y capacidades, el alumnado descubre que cada persona tiene algo valioso que aportar, no tiene precio.",
+         "start": 243.0,
+         "duration": 22.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En ese entorno, además, aprenden a desarrollar la empatía y a apoyarse mutuamente.",
+         "start": 265.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es muy enriquecedor que un alumno o una alumna descubra otra forma de comunicarse más allá de las palabras.",
+         "start": 275.2,
+         "duration": 7.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que comprenda que existen muchas maneras de explicar el mundo, de aprender y de vivir.",
+         "start": 283.8,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esa experiencia les prepara de verdad para la vida.",
+         "start": 290.2,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Si hay barreras? Muchas.",
+         "start": 299.5,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Creo que, en general, el sistema educativo no está preparado para el profesorado sordo.",
+         "start": 302.8,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los trámites administrativos, las plataformas digitales... todo está pensado para profesionales oyentes.",
+         "start": 310.8,
+         "duration": 8.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí. En las formaciones, en reuniones... no siempre hay intérprete de lengua de signos o recursos accesibles como el subtitulado.",
+         "start": 320.5,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso nos aísla y nos excluye de cuestiones que son importantes.",
+         "start": 330.8,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todavía existen prejuicios sobre nuestras capacidades.",
+         "start": 336.2,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A mucha gente le sorprende que una persona sorda pueda ser profesora...incluso dudan sobre si realmente podremos enseñar.",
+         "start": 341.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y esa desconfianza la tenemos que derribar cada día con nuestro trabajo.",
+         "start": 355.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que ojalá ninguna niña sorda o niño sordo tuviera que pensar jamás que no puede ser maestra/o, médica/o o cualquier otra profesión que le guste.",
+         "start": 373.5,
+         "duration": 11.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque sí puede. Está claro: no hay nada imposible para nosotras cuando tenemos oportunidades y confianza.",
+         "start": 386.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo que necesitamos es más lengua de signos.",
+         "start": 392.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque con ella todas y todos ganamos: el alumnado sordo encuentra un espacio donde crecer con igualdad de oportunidades y el alumnado oyente descubre una nueva forma de convivir en diversidad.",
+         "start": 397.5,
+         "duration": 22.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Creo que es fundamental que la presencia de docentes sordas/os se normalice.",
+         "start": 421.0,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que deje de ser visto como algo excepcional.",
+         "start": 428.5,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque educar con diversidad no solo enriquece las aulas: también cambia el futuro.",
+         "start": 432.5,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "IDIAZABAL",
+         "start": 3.236,
+         "duration": 3.504,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "ORDIZIA",
+         "start": 17.217,
+         "duration": 4.505,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres intérpretes",
+         "screen_position": "center"
+      },
+      {
+         "text": "GETARIA",
+         "start": 39.005,
+         "duration": 4.505,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris, pantalones rosas",
+         "screen_position": "right"
+      },
+      {
+         "text": "MUSEO DEL FERROCARRIL EN AZPEITIA",
+         "start": 106.339,
+         "duration": 8.008,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "CENA DE GALA",
+         "start": 154.053,
+         "duration": 4.004,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de personas en una cena",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "ASOCIACIÓN DE SORDOS DE GUIPÚZCOA",
+         "start": 220.019,
+         "duration": 3.203,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de personas en un restaurante",
+         "screen_position": "multiple"
+      }
+   ]
+}

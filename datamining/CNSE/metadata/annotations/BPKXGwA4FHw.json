@@ -1,0 +1,572 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Es el día de las lenguas de signos, ¡que me encantan!",
+         "start": 6.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Nos encantan porque somos personas sordas.",
+         "start": 10.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es el día de la lengua de signos porque es un idioma.",
+         "start": 16.0,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "También, que no se trata de un día internacional, sino de un día nacional, sólo en España.",
+         "start": 22.8,
+         "duration": 7.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me encanta la lengua de signos para poder aprender más.",
+         "start": 33.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Signo con mis compañeros.",
+         "start": 39.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hablamos y signamos.",
+         "start": 45.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sí, sí, sí.",
+         "start": 51.5,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sí, es importante para mí la lengua de signos.",
+         "start": 54.5,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para poder comunicarnos fácilmente.",
+         "start": 57.5,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con mis amigos, mi familia. Con todos.",
+         "start": 101.5,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Especialmente con personas sordas. Y oyentes. Esto es inclusión.",
+         "start": 105.0,
+         "duration": 4.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me parece muy importante enseñar lengua de signos a personas oyentes.",
+         "start": 110.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me da alegría y felicidad, por poder comunicarnos.",
+         "start": 117.0,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con compañeros y otras personas.",
+         "start": 124.5,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Con la familia.",
+         "start": 127.5,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Además, tenemos signos internacionales, la lengua de signos española y otras lenguas de signos nacionales.",
+         "start": 130.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Siempre podemos aprender lenguas nuevas.",
+         "start": 136.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sé algunos signos internacionales.",
+         "start": 138.8,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sí, me gustaría aprender la lengua de signos inglesa.",
+         "start": 143.8,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "A mí aprender más signos internacionales.",
+         "start": 147.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y la lengua de signos catalana.",
+         "start": 149.0,
+         "duration": 1.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "A mí también.",
+         "start": 151.0,
+         "duration": 1.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Y si nos topamos con alguien y no sabemos su lengua de signos nacional?",
+         "start": 153.5,
+         "duration": 4.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por eso aprendemos lenguas de signos extranjeras,",
+         "start": 159.0,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "para poder comunicarnos.",
+         "start": 202.5,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Nuestros compañeros saben lengua de signos.",
+         "start": 207.8,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sí, muchos la saben.",
+         "start": 210.2,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mis compañeros sordos y oyentes saben lengua de signos.",
+         "start": 213.0,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sí, sí. También jugamos.",
+         "start": 223.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si quieres aprender lengua de signos,",
+         "start": 227.5,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "puedes hacerlo, no te pongas límites.",
+         "start": 230.5,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sé abierto/a, puedes aprender a signar.",
+         "start": 233.5,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "De mayor me gustaría enseñar lengua de signos a niños oyentes.",
+         "start": 237.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con la lengua de signos, aprendo frases, nombres.",
+         "start": 245.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "También me gustan los cuentos en lengua de signos.",
+         "start": 253.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "A mí me encanta el teatro con lengua de signos.",
+         "start": 257.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "A mí me gusta el teatro o la comedia con lengua de signos.",
+         "start": 305.0,
+         "duration": 3.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Yo igual que ella.",
+         "start": 309.5,
+         "duration": 1.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mi signo favorito es...",
+         "start": 313.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "\"Toro\".",
+         "start": 320.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mi signo favorito es...",
+         "start": 323.5,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "\"Unicornio\".",
+         "start": 326.0,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mi signo favorito es...",
+         "start": 328.5,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "\"Acuerdo\".",
+         "start": 333.0,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mi signo favorito es \"familia\".",
+         "start": 336.0,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Porque muchas personas no saben bien cómo signar \"familia\".",
+         "start": 342.0,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Lo hacen de otra forma. Es muy gracioso.",
+         "start": 347.5,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si la lengua de signos no existiera, estaría triste.",
+         "start": 355.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "No quiero estar solo.",
+         "start": 359.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Entre oyentes y sordos pueden signar o hablar",
+         "start": 401.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sería una pena. Estaría triste. Me sentiría frustada.",
+         "start": 408.0,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La necesito para poder comunicarme.",
+         "start": 413.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Yo igual que ella.",
+         "start": 415.0,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me gusta el día 14 de junio.",
+         "start": 420.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me gusta porque jugamos con compañeros.",
+         "start": 425.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Conocemos nuevas personas sordas.",
+         "start": 429.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niña con gafas y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hacemos cosas para celebrar el día.",
+         "start": 436.5,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "También grabamos entrevistas en el colegio.",
+         "start": 440.0,
+         "duration": 3.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "En lengua de signos.",
+         "start": 444.5,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con pelo recogido y camiseta blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡VIVA LA LENGUA DE SIGNOS!",
+         "start": 448.5,
+         "duration": 2.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Niño con gafas y niña con gafas, ambos con camiseta blanca",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "¡Viva la lengua de signos!",
+         "start": 451.0,
+         "duration": 1.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con gafas y sudadera negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con la lengua de signos, somos libres.",
+         "start": 452.5,
+         "duration": 3.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Niña con sudadera negra y niña con camiseta blanca",
+         "screen_position": "multiple"
+      }
+   ]
+}

@@ -1,0 +1,194 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Estamos en el museo de la biblioteca nacional de España,",
+         "start": 3.712,
+         "duration": 3.128,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "hace tiempo que la CNSE nos anima a disfrutar de la exposición “Quinientos años de lengua de signos”.",
+         "start": 7.305,
+         "duration": 6.895,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si alguien está interesado en venir os informamos de que la sala es muy pequeña, por tanto es necesario inscribirse con antelación en la web de la CNSE.",
+         "start": 14.806,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada pase es de 50 personas y contara con visita guiada en lengua de signos española.",
+         "start": 27.0,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una gran experiencia.",
+         "start": 33.2,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para las personas que estén en Madrid el viernes o el domingo de ese fin de semana y no tengan ningún plan, os sugerimos",
+         "start": 38.5,
+         "duration": 4.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "una pequeña escapada a una localidad situada a 50 km de Madrid, San Lorenzo de El Escorial, y disfrutar del maravilloso monasterio",
+         "start": 42.8,
+         "duration": 6.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de Felipe II con la exposición del pintor sordo “Navarrete El Mudo”, pintor de cámara preferido de Felipe II.",
+         "start": 49.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta exposición cuenta con textos y traducción a lengua de signos.",
+         "start": 56.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si deseáis disponer de intérprete de lengua de signos, podéis encontrar más información en la web de la CNSE.",
+         "start": 60.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez visitada la exposición podréis continuar con la visita del monasterio lugar de residencia del monarca y dónde se encuentran sus restos.",
+         "start": 65.5,
+         "duration": 7.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todo ello en lengua de signos española. ¡Animaos!",
+         "start": 73.2,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podréis visitar los distintos museos de Madrid, como el Museo Nacional de El Prado dónde podréis disfrutar de las obras de Goya, Velázquez, y numerosos pintores y artistas de todos los tiempos.",
+         "start": 77.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Museo Nacional Reina Sofía, donde podréis recorrer sus numerosas plantas, y apreciar originales y vanguardistas obras como las de Picasso.",
+         "start": 91.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Casa de la Moneda; encontraremos la historia de la moneda así como la de nuestra lotería.",
+         "start": 100.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Museo Lázaro Galdiano, museo dedicado a la educación.",
+         "start": 109.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Museo Thyssen, encontramos grandes colecciones de artistas antiguos y contemporáneos.",
+         "start": 117.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Palacio Real de Madrid, podremos descubrir donde residían nuestros monarcas.",
+         "start": 127.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fundación MAPFRE, Sala de Exposiciones sobre diseño y arte.",
+         "start": 133.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "En los museos mencionados anteriormente, se podrá acceder de manera gratuita presentando el certificado de discapacidad, estos espacios cuentan con espacios ilimitados.",
+         "start": 141.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es interesante la oportunidad que brindan estos museos, ya que son accesibles para las personas sordas contando con signoguías gratuitas con los contenidos de las exposiciones traducidos a lengua de signos española.",
+         "start": 151.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta morada",
+         "screen_position": "center"
+      }
+   ]
+}

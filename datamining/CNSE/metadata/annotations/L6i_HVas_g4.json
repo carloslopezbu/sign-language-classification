@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Las personas sordas podrán contactar con Iberdrola sin barreras de comunicación",
+         "start": 1.481,
+         "duration": 3.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "http://iberdrola.svisual.org/VideoWeb-iberdrola.aspx",
+         "start": 18.801,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "WWW.IBERDROLA.ES",
+         "start": 139.801,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "CLIENTES DE IBERDROLA",
+         "start": 149.001,
+         "duration": 7.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      }
+   ]
+}

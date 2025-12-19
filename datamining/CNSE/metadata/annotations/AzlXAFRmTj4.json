@@ -1,0 +1,500 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Cada 14 de junio se celebra el Día Nacional de las Lenguas de Signos Españolas,",
+         "start": 3.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "una fecha que sirve para recordar",
+         "start": 12.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y honrar el trabajo, el esfuerzo y el tesón",
+         "start": 14.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "de quienes continuamos velando por nuestra lengua",
+         "start": 18.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y reivindicándola como lengua de cultura,",
+         "start": 24.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "de comunicación,",
+         "start": 29.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "de transmisión de ideas,",
+         "start": 31.3,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y de acceso al conocimiento.",
+         "start": 33.6,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las lenguas de signos son en sí mismas expresiones",
+         "start": 40.8,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "que se han transmitido de generación en generación",
+         "start": 44.2,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el seno de su comunidad lingüística,",
+         "start": 47.3,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que han evolucionado en respuesta a su entorno.",
+         "start": 50.6,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Señas de identidad y continuidad de un colectivo",
+         "start": 53.3,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "para el cual su visión del mundo, sus patrones creativos,",
+         "start": 56.3,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "su comportamiento social, y sus costumbres y valores",
+         "start": 59.8,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "se arraigan en el uso de estas lenguas.",
+         "start": 63.6,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con la lengua de signos, la comunidad sorda y sordociega",
+         "start": 67.2,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "creamos cultura, construimos democracia, hacemos sociedad.",
+         "start": 70.7,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este año, coincidiendo con la celebración del Año Europeo",
+         "start": 78.3,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "del Patrimonio Cultural reivindicamos que nuestras lenguas de signos,",
+         "start": 82.6,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "la lengua de signos española y la lengua de signos catalana",
+         "start": 87.6,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y sus expresiones culturales se declaren como bienes",
+         "start": 92.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "del patrimonio cultural inmaterial.",
+         "start": 95.6,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una cuestión que ya contempla la Convención sobre los Derechos de las Personas con Discapacidad",
+         "start": 98.2,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "que nos permitiría equiparar nuestros derechos lingüísticos",
+         "start": 103.6,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las ciudadanas y ciudadanos usuarios de otras lenguas.",
+         "start": 107.1,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "De igual forma, solicitamos que España lidere,",
+         "start": 115.6,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "fomente y apoye la inclusión de las lenguas de signos",
+         "start": 118.6,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "de los estados europeos en la Carta Europea",
+         "start": 122.6,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las Lenguas Regionales o Minoritarias,",
+         "start": 126.1,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya que una de las principales carencias de la Carta tiene que ver",
+         "start": 129.6,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "con la no inclusión de las lenguas de signos a pesar de ser utilizadas",
+         "start": 134.6,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "por millones de personas, y estar históricamente documentadas",
+         "start": 139.1,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "en todos los estados miembros del Consejo de Europa.",
+         "start": 143.1,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Amar es cuidar, velar, defender.",
+         "start": 146.6,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y para quienes amamos la lengua de signos, asegurar su protección y salvaguarda",
+         "start": 149.1,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "es un paso importante y necesario.",
+         "start": 154.6,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "No podemos olvidar que a pesar de los notables avances en su estatus social y científico,",
+         "start": 157.1,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "estas lenguas siguen siendo minoritarias y minorizadas,",
+         "start": 162.6,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "siguen siendo \"lenguas en peligro\"",
+         "start": 166.1,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "que necesitan disponer de instrumentos legales que propicien su adecuada difusión,",
+         "start": 168.6,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "transmisión, documentación, investigación, preservación,",
+         "start": 173.6,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "promoción, valorización y revitalización.",
+         "start": 178.1,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Amar es respetar.",
+         "start": 183.6,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Respeto a una diversidad cultural y social que nos enriquece",
+         "start": 186.6,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que se enriquece con la lengua de signos.",
+         "start": 193.1,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Amar es compartir.",
+         "start": 196.6,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con generosidad, con ganas,",
+         "start": 199.1,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "con todas y todos, sin excepciones.",
+         "start": 204.1,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "-Yo",
+         "start": 209.1,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "left"
+      },
+      {
+         "text": "-Y yo,",
+         "start": 209.6,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "con la lengua de signos.",
+         "start": 211.1,
+         "duration": 2.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Hombre y mujer",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "- Porque la lengua de signos",
+         "start": 214.1,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "left"
+      },
+      {
+         "text": "SUMA.",
+         "start": 216.1,
+         "duration": 1.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Hombre y mujer",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Feliz Día Nacional de las Lenguas de Signos Españolas.",
+         "start": 218.1,
+         "duration": 4.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Hombre y mujer",
+         "screen_position": "multiple"
+      }
+   ]
+}

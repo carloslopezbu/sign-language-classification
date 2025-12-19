@@ -1,0 +1,203 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El coronavirus es un virus que se detectó en diciembre de 2019, en Wuhan, en China.",
+         "start": 1.2,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También se conoce como COVID-19.",
+         "start": 14.9,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los síntomas del COVID-19 son fiebre, tos, y sensación de falta de aire.",
+         "start": 21.7,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En casos más graves, la infección puede causar neumonía, dificultad para respirar, fallo renal e incluso la muerte.",
+         "start": 29.9,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los casos más graves, generalmente ocurren en personas ancianas o que padecen alguna otra enfermedad como por ejemplo, del corazón, del pulmón o problemas de inmunidad.",
+         "start": 40.1,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La infección no es muy contagiosa, pero es transmisible de persona a persona.",
+         "start": 51.6,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se sabe de forma precisa cómo es la transmisión.",
+         "start": 57.1,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se cree, como otros virus similares, que se necesitaría un contacto directo de una persona infectada con las mucosas de otra persona.",
+         "start": 100.0,
+         "duration": 15.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si la distancia es más de dos metros, parece poco probable la transmisión por el aire.",
+         "start": 116.1,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué se puede hacer para protegerme?",
+         "start": 124.6,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lavarse las manos frecuentemente con agua y jabón o soluciones alcohólicas, sobre todo después de contacto directo con personas enfermas o su entorno.",
+         "start": 128.1,
+         "duration": 18.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con personas que muestren signos de afección respiratoria, como tos o estornudos, evitar el contacto estrecho.",
+         "start": 148.1,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cubrirse la boca y la nariz con pañuelos al toser o estornudar, y después, lavarse las manos.",
+         "start": 161.6,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En España, no hay que tomar precauciones especiales con los animales, ni con los alimentos.",
+         "start": 171.1,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Comisión Europea tampoco ha ordenado ninguna restricción sobre las diferentes mercancías procedentes de China.",
+         "start": 178.1,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No existe un tratamiento específico para el nuevo coronavirus, pero están trabajando con algunos antivirales que han demostrado cierta eficacia en estudios recientes.",
+         "start": 186.1,
+         "duration": 13.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí existen tratamientos para el control de sus síntomas, por lo que la asistencia sanitaria mejora el pronóstico.",
+         "start": 200.6,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Se ha dado algún caso en España?",
+         "start": 209.1,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí, el día 31 de enero se detectó el primer caso confirmado correspondiente a un ciudadano alemán que estuvo en contacto con una persona infectada en Alemania.",
+         "start": 212.6,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El día 9 de febrero fue diagnosticada otra persona con el coronavirus.",
+         "start": 226.1,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Era una persona residente en Mallorca, que previamente había tenido contacto con otro caso detectado en Reino Unido.",
+         "start": 230.1,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El 25 de febrero se ha confirmado el tercer caso en España, perteneciente a un hombre de nacionalidad italiana que se encuentra de turismo en España.",
+         "start": 237.1,
+         "duration": 8.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

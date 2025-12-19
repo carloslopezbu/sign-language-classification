@@ -1,0 +1,329 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 2.299,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy es el Día Mundial de la Infancia. Y en Signar por Derecho queremos",
+         "start": 4.431,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "celebrarlo haciendo un recorrido por la Convención",
+         "start": 9.831,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sobre los Derechos del Niño de Naciones Unidas.",
+         "start": 15.031,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Nos acompañáis? ¡Vamos!",
+         "start": 19.231,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Convención sobre los Derechos del Niño fue aprobada en 1959 por la Asamblea",
+         "start": 23.358,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "General de Naciones Unidas.",
+         "start": 30.558,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es la primera que contempla el derecho de la infancia",
+         "start": 34.791,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la educación, al juego, a la atención de la salud y a tener un entorno",
+         "start": 38.591,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que los proteja, además de reconocer a las niñas y niños",
+         "start": 42.891,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como titulares activos de sus propios derechos.",
+         "start": 47.591,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hasta hace muy poco, esta norma no era accesible para las personas sordas.",
+         "start": 53.224,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias a la Fundación CNSE ahora contamos con la Guía",
+         "start": 58.524,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de los derechos de las niñas y los niños,",
+         "start": 102.024,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "una página web en la que se agrupa y explica de manera didáctica y amena,",
+         "start": 106.024,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el texto de la Convención de los Derechos",
+         "start": 111.524,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "del Niño en lengua de signos española.",
+         "start": 115.024,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Mirad!",
+         "start": 118.224,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ART. 1 DEFINICIÓN DE NIÑA Y NIÑO Estos derechos se aplican a todos los niños y todas las niñas desde que nacen hasta que cumplen 18 años.",
+         "start": 120.5,
+         "duration": 17.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta guía es todo un espacio de referencia",
+         "start": 140.456,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en materia de accesibilidad a la información",
+         "start": 143.456,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que las niñas sordas y los niños sordos y sus familias",
+         "start": 146.256,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "puedan conocer qué representa este tratado internacional.",
+         "start": 150.056,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ello, la Fundación CNSE ha elaborado dos versiones adaptadas",
+         "start": 155.789,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a distintos grupos de edad: una para menores de entre 9 y 11 años,",
+         "start": 159.889,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y otra dirigida a chicas y chicos de 12 a 16 años.",
+         "start": 166.589,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A cada tramo de edad, le corresponden unos contenidos",
+         "start": 133.222,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "adaptados que traducen el articulado de la Convención",
+         "start": 137.022,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a fin de hacerlo comprensible.",
+         "start": 140.522,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, se trata de una página web bilingüe cuyos contenidos",
+         "start": 143.222,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "están disponibles tanto en lengua de signos",
+         "start": 146.822,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como a través de texto escrito.",
+         "start": 149.522,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Guía de los Derechos de las niñas y los niños",
+         "start": 152.255,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "es fruto de la colaboración de la Fundación CNSE con Save",
+         "start": 155.855,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "the Children y cuenta con la financiación de la Fundación ONCE.",
+         "start": 159.855,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podéis visitarla en este enlace:",
+         "start": 163.855,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

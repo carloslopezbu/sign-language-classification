@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Qué es la corresponsabilidad? Es el reparto de las tareas domésticas y cuidados familiares entre hombres y mujeres de forma igualitaria.",
+         "start": 1.4,
+         "duration": 19.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño claro y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Y qué es el Plan Corresponsables? El Ministerio de Igualdad crea el plan, que trabajará por el derecho a los cuidados desde la igualdad entre mujeres y hombres.",
+         "start": 22.4,
+         "duration": 18.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño claro y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sus objetivos son: crear bolsas de cuidado profesional para familias con menores de hasta 16 años.",
+         "start": 42.8,
+         "duration": 18.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño claro y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Crear empleo de calidad en el cuidado de menores.",
+         "start": 62.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño claro y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sensibilizar en materia de corresponsabilidad entre hombres y mujeres.",
+         "start": 74.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño claro y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Dignificar el trabajo de cuidados gracias a la certificación de experiencia informal.",
+         "start": 82.5,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño claro y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Crear un mapa estatal de cuidados en la Administración General del Estado y en las comunidades autónomas.",
+         "start": 98.5,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño claro y camiseta negra",
+         "screen_position": "left"
+      }
+   ]
+}

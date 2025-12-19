@@ -1,0 +1,383 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, soy Carla Díaz, psicóloga en ACCEM.",
+         "start": 9.8,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En este vídeo vamos a trabajar la memoria inmediata con varios ejercicios.",
+         "start": 11.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "A continuación va a aparecer una fotografía con varios objetos durante 15 segundos.",
+         "start": 16.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Procura retener cada detalle que aparece durante el tiempo que se presenta.",
+         "start": 22.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Después intentaremos recordarlo.",
+         "start": 27.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Allá vamos.",
+         "start": 30.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Allá vamos.",
+         "start": 35.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora intenta responder a las siguientes preguntas.",
+         "start": 50.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Cuántos objetos aparecen en la fotografía?",
+         "start": 59.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Qué objetos son?",
+         "start": 70.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿De qué material es el mango del martillo?",
+         "start": 79.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Qué dos colores tiene el destornillador?",
+         "start": 89.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El tornillo, ¿es de color dorado? ¿O es de color plateado?",
+         "start": 100.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos con el siguiente ejercicio.",
+         "start": 107.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Va a aparecer otra fotografía, esta vez de una estancia de una casa.",
+         "start": 109.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Durante los 25 segundos que va a aparecer la imagen, debes retener cada detalle para después intentar recordarlos.",
+         "start": 113.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Allá vamos.",
+         "start": 124.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora intenta responder a las siguientes preguntas.",
+         "start": 153.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Cuántas estanterías había?",
+         "start": 161.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿De qué color es la maceta de la planta?",
+         "start": 171.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Qué tenía representado el cuadro?",
+         "start": 182.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Intenta recordar uno de los objetos que había encima del mueble central.",
+         "start": 191.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿De qué color estaba pintada la pared?",
+         "start": 201.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En el suelo, junto al pie de la lámpara había un juguete infantil.",
+         "start": 211.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿De qué se trataba? ¿De qué color era?",
+         "start": 215.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una vez más. Esta vez, va a aparecer una fotografía de un escenario al aire libre.",
+         "start": 218.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Al igual que en los ejercicios anteriores, debes centrarte en cada detalle para intentar recordarlos más tarde.",
+         "start": 224.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tienes 25 segundos. ¿Listo/a?",
+         "start": 235.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Quién aparece en el centro de la imagen?",
+         "start": 268.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Dónde se encuentra?",
+         "start": 278.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿De qué color tiene el pelo?",
+         "start": 287.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Qué calzado lleva? ¿De qué color?",
+         "start": 298.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Están sucias o limpias?",
+         "start": 308.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Es de día o de noche?",
+         "start": 318.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Tiene algo con lo que jugar? ¿El qué?",
+         "start": 328.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para terminar, van a aparecer 3 preguntas más, una por cada fotografía que has visto.",
+         "start": 333.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Allá va.",
+         "start": 343.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En la fotografía de los objetos. Había uno de ellos apoyado sobre otro.",
+         "start": 347.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Puedes decir cómo estaban?",
+         "start": 351.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En la fotografía de la habitación, la lámpara ¿estaba encendida o apagada?",
+         "start": 357.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En la fotografía del exterior, ¿de qué es el suelo que pisa la niña?",
+         "start": 367.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Aquí tienes de nuevo las 3 fotografías para que compruebes cada detalle.",
+         "start": 378.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

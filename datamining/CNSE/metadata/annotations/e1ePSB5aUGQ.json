@@ -1,0 +1,140 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Vino la ambulancia a casa a recogerme para llevarme al hospital donde me hicieron una radiografía.",
+         "start": 6.256,
+         "duration": 12.012,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Para comunicarme con el médico, como llevaba mi móvil, lo hice a través de una videollamada con intérprete.",
+         "start": 18.885,
+         "duration": 8.692,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "El médico me notificó que tenía coronavirus y neumonía.",
+         "start": 27.827,
+         "duration": 3.754,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me quedé paralizada. Me dejaron ingresada en el hospital durante 11 días.",
+         "start": 31.831,
+         "duration": 6.757,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Durante los 11 días que estuve ingresada en el hospital, ni mi familia, ni mi marido, ni mis hijos pudieron ir a visitarme, ya que estaba prohibido para evitar contagiarse por coronavirus.",
+         "start": 39.549,
+         "duration": 21.268,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los intérpretes no podían acudir al hospital físicamente, ya que se podían contagiar de coronavirus fácilmente.",
+         "start": 61.818,
+         "duration": 6.006,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Gracias al móvil, por videollamada o SVisual pude comunicarme.",
+         "start": 68.074,
+         "duration": 5.456,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Para mí, es muy importante poder comunicarme en lengua de signos.",
+         "start": 74.03,
+         "duration": 3.504,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "El doctor y la enfermera llevaban mascarilla, yo también tenía mascarilla y permanecía enferma, tumbada en la cama.",
+         "start": 77.834,
+         "duration": 9.71,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando pasaban para ofrecerme comida, o necesitaba comunicarme con el médico, era imposible. Yo no entendía nada, y él a mí tampoco.",
+         "start": 87.844,
+         "duration": 9.009,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando me sentía muy cansada para hacer una videollamada, me comunicaba con él escribiendo en un papel.",
+         "start": 97.063,
+         "duration": 8.509,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Así respondía a sus preguntas si estaba cansada, sólo escribiendo nada más.",
+         "start": 106.072,
+         "duration": 4.755,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "De cara al futuro es necesario y muy importante la existencia de intérpretes en los centros de salud, hospitales, administración, servicios jurídicos, etc.",
+         "start": 111.578,
+         "duration": 21.982,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Siempre debería haber interpretes para facilitar la comunicación.",
+         "start": 134.06,
+         "duration": 6.507,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Porque sin intérpretes, sin videollamadas, sin SVisual, las personas sordas se encuentran con muchos obstáculos para acceder a la información y se sienten muy angustiadas.",
+         "start": 140.817,
+         "duration": 9.009,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris y gafas",
+         "screen_position": "left"
+      }
+   ]
+}

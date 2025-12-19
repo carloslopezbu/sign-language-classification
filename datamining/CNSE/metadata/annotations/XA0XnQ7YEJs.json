@@ -1,0 +1,266 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ante la situación meteorológica en la que nos encontramos,",
+         "start": 1.25,
+         "duration": 3.33,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "es conveniente tener en cuenta algunas recomendaciones que faciliten el buen funcionamiento de nuestros hogares, y garanticen nuestra seguridad.",
+         "start": 4.58,
+         "duration": 9.63,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recordemos que es preferible evitar la salida a la calle salvo que sea imprescindible.",
+         "start": 14.88,
+         "duration": 7.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si lo hacemos, es importante ir bien abrigados y correctamente equipados de un calzado con buen agarre, así como llevar el teléfono móvil cargado en todo momento.",
+         "start": 22.52,
+         "duration": 13.13,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En zonas interiores se aconseja:",
+         "start": 40.14,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Disponer de algún recipiente de reserva de agua por si las tuberías se hielan o tienen que cortar el suministro.",
+         "start": 43.84,
+         "duration": 14.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Conservar la temperatura interior de las viviendas, mediante la bajada de persianas u otros elementos aislantes durante la noche.",
+         "start": 100.83,
+         "duration": 12.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "De esta forma, la perdida de temperatura será menor.",
+         "start": 113.53,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mientras se mantengan las temperaturas por debajo de 0 grados, se aconseja mantener la calefacción encendida de forma permanente, sin apagarla en horario nocturno, regulándola por la noche en régimen reducido o de mantenimiento.",
+         "start": 119.73,
+         "duration": 15.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de nevada, retiraremos la nieve almacenada en toldos, aparatos de aire acondicionado o similar,",
+         "start": 136.16,
+         "duration": 12.34,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "siempre que pueda hacerse de manera segura y con cuidado de no generar daños",
+         "start": 148.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "a viandantes o viviendas inferiores a la nuestra si vivimos en un edificio.",
+         "start": 153.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tenemos terraza o patio, intentaremos retirar la nieve de desagües y sumideros para evitar que se hiele.",
+         "start": 204.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En zonas exteriores se aconseja:",
+         "start": 222.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Evitar el uso del ascensor por si se produjeran cortes de luz.",
+         "start": 227.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mantener la entrada de nuestra casa o edificio limpios y realizar caminos de acceso en caso necesario para evitar resbalones.",
+         "start": 237.8,
+         "duration": 14.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Limpiar el acceso a los garajes con especial atención a las rampas y a la zona de rodadura de los vehículos, e ir equipado con cadenas por si fuera necesario utilizarlas.",
+         "start": 253.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comprobar que el armario de contadores se encuentra bien aislado y con la puerta correctamente cerrada",
+         "start": 310.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de no ser así, conviene proteger el mismo con elementos que eviten que el frio,",
+         "start": 319.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "como son tejidos de lana, fibra de vidrio o papel de periódico en gran cantidad,",
+         "start": 324.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "que cubra la totalidad del contador, así como las tuberías de entrada y salida del mismo.",
+         "start": 332.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto a los jardines, evitaremos caminar por las zonas con arbolado,",
+         "start": 337.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya que la acumulación de nieve y hielo en las ramas puede originar la caída de fragmentos de gran envergadura.",
+         "start": 344.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, es importante retirar las ramas con peligro de caída",
+         "start": 352.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en caso de no ser posible, tratar de señalizarlas.",
+         "start": 358.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas las recomendaciones expuestas anteriormente deberán ser efectuadas con las medidas de seguridad oportunas,",
+         "start": 405.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y siempre y cuando no supongan un riesgo.",
+         "start": 412.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las actuaciones en fachadas, tejados y azoteas se reservarán a empresas especializadas.",
+         "start": 415.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de emergencias extremas, contactaremos con el 112, con las fuerzas de seguridad, o con los servicios de atención de nuestro ayuntamiento.",
+         "start": 426.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      }
+   ]
+}

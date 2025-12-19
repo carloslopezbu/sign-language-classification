@@ -1,0 +1,311 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 2.3,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy dedicamos Signar por Derecho a visibilizar la realidad",
+         "start": 4.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las docentes y los docentes sordos y a exigir que",
+         "start": 7.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sus condiciones laborales se equiparen a las del resto de educadoras y educadores.",
+         "start": 11.2,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La presencia de maestras y maestros sordos",
+         "start": 20.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en los centros educativos constituye una extraordinaria",
+         "start": 23.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "oportunidad para la comunidad educativa.",
+         "start": 27.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, su plena inclusión en el ámbito escolar",
+         "start": 32.5,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sigue siendo una asignatura pendiente.",
+         "start": 36.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son muchas y muchos las/os profesionales",
+         "start": 41.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que, tras aprobar la oposición, no pueden ejercer de docentes",
+         "start": 43.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "porque no se les facilita intérpretes de lengua de signos",
+         "start": 47.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para comunicarse con el alumnado.",
+         "start": 51.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos el derecho de las/os maestras y maestros sordos",
+         "start": 56.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a contar con las adaptaciones necesarias tanto dentro",
+         "start": 60.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como fuera del aula y a optar a puestos de responsabilidad",
+         "start": 64.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en igualdad de condiciones que el resto.",
+         "start": 68.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de las/os especialistas en lengua de signos española",
+         "start": 76.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y lengua de signos catalana sus competencias son organizar,",
+         "start": 79.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "desarrollar, programar y evaluar el proceso de enseñanza-",
+         "start": 84.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "aprendizaje de la lengua de signos como primera",
+         "start": 88.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y segunda lengua en distintos ámbitos, y asesorar sobre la comunidad sorda.",
+         "start": 92.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas/os profesionales constituyen un modelo de identificación lingüística",
+         "start": 98.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para los niños y niñas sordos, favoreciendo su desarrollo global.",
+         "start": 104.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, actúan como expertas/os y modelos lingüísticos",
+         "start": 112.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en materiales informativos, culturales o educativos elaborados en lengua",
+         "start": 116.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de signos española y lengua de signos catalana, así",
+         "start": 122.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como en el desarrollo de estudios e investigaciones sobre estas lenguas.",
+         "start": 126.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos que se tenga en cuenta este perfil profesional",
+         "start": 134.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para los puestos de trabajo que impliquen la docencia",
+         "start": 137.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las lenguas de signos, y que su reconocimiento y regulación",
+         "start": 140.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "administrativa y académica se garantice cuanto antes.",
+         "start": 145.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La docencia es la única profesión que hace posible el resto de profesiones.",
+         "start": 152.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Feliz Día Mundial de las Docentes y los Docentes.",
+         "start": 161.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño con chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

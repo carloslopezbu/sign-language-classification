@@ -1,0 +1,176 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Las personas sordas somos diversas. Diferentes entre sí. Valiosas.",
+         "start": 4.4,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Capaces. Libres para elegir. Y elegimos que se nos mire desde una perspectiva enriquecedora y alejada de limitaciones y discapacidad.",
+         "start": 10.0,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Elegimos que nadie decida por nosotras.",
+         "start": 26.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que nadie nos aparte. Elegimos ser protagonistas de nuestras propias vidas.",
+         "start": 31.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta Semana Internacional de las Personas Sordas, la CNSE (Confederación Estatal de Personas Sordas) y sus federaciones y asociaciones reafirmamos nuestro compromiso con la construcción de una sociedad en la que prevalezcan la igualdad de oportunidades y la no discriminación.",
+         "start": 40.5,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una sociedad en la que todas y todos tengamos las mismas oportunidades, sin distinción.",
+         "start": 59.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la que nuestros derechos ciudadanos prevalezcan sobre el desconocimiento, la falta de voluntad o los prejuicios sobre las personas sordas.",
+         "start": 67.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la que se nos permita acceder a un empleo digno en el que se nos trate como a iguales.",
+         "start": 78.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la que no se escatime en recursos para la adquisición y mantenimiento de ayudas técnicas y prótesis auditivas.",
+         "start": 90.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la que se respeten los derechos lingüísticos de la comunidad usuaria de la lengua de signos española y la lengua de signos catalana, lenguas ambas, largo tiempo minorizadas e incluso maltratadas.",
+         "start": 101.0,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, pedimos su incorporación en la Constitución y en la Carta Europea de las Lenguas Regionales o Minoritarias, y que asimismo, se declaren bienes del patrimonio cultural inmaterial de nuestro país.",
+         "start": 119.0,
+         "duration": 25.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que estén presentes en condiciones de calidad en la escuela, el instituto y la universidad,",
+         "start": 147.5,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en los centros de trabajo, en la sanidad,",
+         "start": 153.0,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en los servicios de atención públicos y privados y en los de emergencias,",
+         "start": 155.5,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en actividades artísticas, culturales y de ocio,",
+         "start": 161.5,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en los medios de comunicación, en la vida política y social,",
+         "start": 165.5,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en comisarías, juzgados y casas de acogida,",
+         "start": 169.5,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en definitiva, en cada rincón en que se necesiten, sin importar que seamos uno o un millón.",
+         "start": 175.5,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque todo aquello que favorezca el empoderamiento y la inclusión de cualquier persona sorda en la sociedad, no solo SUMA, sino que enriquece. Y la lengua de signos, NOS incluye.",
+         "start": 191.5,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta roja y pelo recogido",
+         "screen_position": "center"
+      }
+   ]
+}

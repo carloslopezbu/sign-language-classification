@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Comunicado Comité Especial gestión por ébola Día 17 de octubre de 2014",
+         "start": 4.2,
+         "duration": 134.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con perilla y camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

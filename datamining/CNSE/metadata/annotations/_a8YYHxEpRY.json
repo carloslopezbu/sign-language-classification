@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La lengua de signos se tiñe de verde",
+         "start": 0.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,392 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Servicio de video-asistencia y acompañamiento para personas mayores sordas.",
+         "start": 8.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuál es su signo?",
+         "start": 15.2,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿El objetivo de vidAsor? Dar a las personas mayores accesibilidad a través de la televisión para poder hablar y comunicarse perfectamente.",
+         "start": 18.9,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Sólo comunicarse? No. También la gestión de papeles, el seguimiento del día a día..., todo ello evita el aislamiento para conseguir la inclusión. Es muy importante.",
+         "start": 29.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuáles son los pasos para utilizar vidAsor?",
+         "start": 42.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mira...",
+         "start": 48.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "-Hola. Buenos días. ¿Qué tal?",
+         "start": 105.2,
+         "duration": 1.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Bien.",
+         "start": 107.0,
+         "duration": 1.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro con gafas, jersey azul, en salón",
+         "screen_position": "left"
+      },
+      {
+         "text": "-Hola, bien.",
+         "start": 108.6,
+         "duration": 1.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro con gafas, jersey azul, en salón",
+         "screen_position": "left"
+      },
+      {
+         "text": "-¿Cuál es tu signo?",
+         "start": 112.4,
+         "duration": 1.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Mi signo es éste...",
+         "start": 115.6,
+         "duration": 1.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro con gafas, jersey azul, en salón",
+         "screen_position": "left"
+      },
+      {
+         "text": "-¿Tu nombre?",
+         "start": 118.4,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Nati.",
+         "start": 119.6,
+         "duration": 1.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro con gafas, jersey azul, en salón",
+         "screen_position": "left"
+      },
+      {
+         "text": "-Mi signos es..., mi nombre es Susana.",
+         "start": 124.2,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Es la primera vez que nos encontramos para hablar.",
+         "start": 132.9,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Me gustaría decidir un día y una hora fija a la semana para vernos.",
+         "start": 139.2,
+         "duration": 3.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Dime cuándo te viene mejor... ¿por la mañana?",
+         "start": 144.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-¿Lunes? ¿Jueves? ¿O viernes?",
+         "start": 151.5,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-El jueves, ¿sobre las 11.00 h?",
+         "start": 154.8,
+         "duration": 2.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-De acuerdo.",
+         "start": 158.9,
+         "duration": 1.1,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro con gafas, jersey azul, en salón",
+         "screen_position": "left"
+      },
+      {
+         "text": "-Entiendo, la tensión, la revisión de la medicación...",
+         "start": 203.4,
+         "duration": 3.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Además, hay un problema con el médico porque tiene mucho bigote... ... y no le puedo entender bien, le pido que por favor me escriba y lo entiendo.",
+         "start": 207.8,
+         "duration": 8.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro con gafas, jersey azul, en salón",
+         "screen_position": "left"
+      },
+      {
+         "text": "-Sí, a FESORCAM.",
+         "start": 217.2,
+         "duration": 1.3,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro con gafas, jersey azul, en salón",
+         "screen_position": "left"
+      },
+      {
+         "text": "-Puedes llamar a FESORCAM para solicitar un servicio de intérprete... ...que te acompañe y así la comunicación con el médico sea mejor.",
+         "start": 220.0,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Por las tardes, ¿andas? ¿Haces deporte? ¿Talleres? ¿Alguna actividad?",
+         "start": 234.8,
+         "duration": 5.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Sí. También voy a museos.",
+         "start": 242.8,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro con gafas, jersey azul, en salón",
+         "screen_position": "left"
+      },
+      {
+         "text": "-...¿alguna guía? ¿ayuda? ¿información?...",
+         "start": 247.2,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Cuando sales a la calle, ¿necesitas alguna ayuda? ¿Puedes comprar sola? -¿Tienes hijos? ¿Los ves?",
+         "start": 250.8,
+         "duration": 6.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Claro, tengo nietos. Son muy guapos.",
+         "start": 258.6,
+         "duration": 2.9,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro con gafas, jersey azul, en salón",
+         "screen_position": "left"
+      },
+      {
+         "text": "-Sí tienes dudas, te falta información o algo,... ...me puedes llamar y me preguntas. ¿De acuerdo?",
+         "start": 303.8,
+         "duration": 5.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "-Adiós. Cúidate. Nos vemos y mucho ánimo.",
+         "start": 312.6,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta oscura, en videollamada",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Qué es vidAsor? Sirve, por ejemplo, para recordar la medicación, para comunicarse con otros, y para gestionar documentos como los de la luz, el agua u otro tipo de facturas.",
+         "start": 339.2,
+         "duration": 17.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo los reviso y explico a las personas mayores.",
+         "start": 357.2,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También es importante el papel del ADECOSOR en las asociaciones para ofrecer las actividades de ocio y tiempo libre para las personas mayores, que es importante.",
+         "start": 360.8,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además gestiona el voluntariado. Cómo quedar, si acompañar para ir al médico, para comprar, hacer gestiones, etcétera.",
+         "start": 372.6,
+         "duration": 7.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo de vidAsor es conseguir la inclusión de las personas mayores sordas, evitar el aislamiento mediante estas tres vías: La video-asistencia, las actividades y el voluntariado. Todas coordinadas.",
+         "start": 381.2,
+         "duration": 12.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para las personas mayores sordas, vidAsor es estupendo porque pueden elegir varias formas de comunicación.",
+         "start": 395.2,
+         "duration": 5.3,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta morada, chaleco negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puede aprovechar los canales de la televisión para contactar con otras personas, entre ellas al profesional de vidAsor",
+         "start": 401.2,
+         "duration": 6.6,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta morada, chaleco negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "pero hay más posibilidades. Por ejemplo, se puede descargar la aplicación del programa para móvil, tablet y ordenador y hablar con amigos, familiares como nietos, hijos...",
+         "start": 408.8,
+         "duration": 13.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta morada, chaleco negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Más? Claro. Si otra persona tiene el mismo dispositivo adaptado a la televisión, se puede poner en contacto con ella y hablar.",
+         "start": 426.5,
+         "duration": 5.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta morada, chaleco negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es maravilloso contar con tantas posibilidades de comunicarse con otros.",
+         "start": 432.6,
+         "duration": 2.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta morada, chaleco negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En conclusión, lo más importante, la idea principal de este vídeo de vidAsor es fomentar la comunicación, el contacto.",
+         "start": 435.8,
+         "duration": 8.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta morada, chaleco negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así, evitar el aislamiento y favorecer la inclusión.",
+         "start": 446.8,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta morada, chaleco negro",
+         "screen_position": "center"
+      }
+   ]
+}

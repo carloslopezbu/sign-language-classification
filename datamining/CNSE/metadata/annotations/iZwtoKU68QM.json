@@ -1,0 +1,149 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "A partir de este domingo 26 de abril,",
+         "start": 1.12,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "los niños y niñas menores de 14 años podrán salir a dar paseos y a jugar en la calle",
+         "start": 4.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "una vez al día, durante una hora, en el entorno de un kilómetro como máximo alrededor de su domicilio.",
+         "start": 8.2,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "También podrán pasear por las zonas comunes de su urbanización, siguiendo las normas que acuerden en la comunidad de vecinos.",
+         "start": 16.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El horario para estas salidas será entre las 9 y las 21 horas, intentando siempre evitar horas punta en las que se vea mayor cantidad de gente.",
+         "start": 26.8,
+         "duration": 13.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los niños deben estar acompañados por un adulto responsable que conviva con ellos, por ejemplo, la madre, el padre, o el/la hermano/a mayor de 18 años.",
+         "start": 41.8,
+         "duration": 9.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podrán salir un máximo de 3 niños a la vez.",
+         "start": 52.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La persona adulta se mantendrá siempre a una distancia cercana para poder controlarlos.",
+         "start": 59.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante estas salidas, está permitido que las niñas y niños corran, jueguen y hagan ejercicio, siempre manteniendo las medidas de distanciamiento de 2 metros con otras personas que no pertenezcan a su unidad familiar.",
+         "start": 67.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Está prohibida la entrada a parques e instalaciones deportivas, así como la utilización de columpios, toboganes, o juegos infantiles que haya en zonas comunes y en las que pudieran montarse otros niños.",
+         "start": 80.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podrán salir con sus propios juguetes, pelotas, patinetes, etc, pero no compartirlos con otros niños.",
+         "start": 89.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "También están autorizados los carritos y las sillas de bebé.",
+         "start": 97.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las niñas y niños que vivan en un entorno rural, podrán pasear acompañados de un adulto por el bosque o el campo, cuidando siempre la distancia de 2 metros con las personas que se encuentren durante su salida.",
+         "start": 101.0,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Niñas y niños como adultos realizarán un lavado frecuente de manos y mantendrán la higiene en espacios públicos y privados.",
+         "start": 113.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La mascarilla no será obligatoria, aunque se recomienda su uso.",
+         "start": 122.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de que los niños tengan fiebre y síntomas compatibles con el COVID-19, o estén en cuarentena debido a contagios cercanos, no podrán salir de casa, bajo ningún concepto.",
+         "start": 128.8,
+         "duration": 15.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      }
+   ]
+}

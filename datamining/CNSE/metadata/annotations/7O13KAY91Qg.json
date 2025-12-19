@@ -1,0 +1,374 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Hola, hoy tenemos a Amaia, tiene mucha experiencia",
+         "start": 1.83,
+         "duration": 2.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "y lleva muchos años trabajando dentro de la Federación de Personas Sordas de Castilla y León, FAPSCL.",
+         "start": 5.83,
+         "duration": 5.71,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "En toda su trayectoria ha atendido a muchas personas usuarias diferentes, cuya situación es, como bien sabéis, que suelen vivir en entornos rurales.",
+         "start": 12.51,
+         "duration": 10.01,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Con lo que has visto, ahora pregunto, ¿cómo trabajas con las mujeres sordas que viven en entornos rurales de Castilla y León?",
+         "start": 24.25,
+         "duration": 6.78,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- ¿Cómo? Si las personas sordas conocen la FAPSCL o su familia encuentra la página web,",
+         "start": 32.03,
+         "duration": 7.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "nos contactan e intentamos dar soluciones,",
+         "start": 39.84,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "porque muchas veces las personas sordas",
+         "start": 43.54,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "viven en pueblos y si son mujeres peor,",
+         "start": 48.54,
+         "duration": 3.31,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "lo que significa doble vulnerabilidad.",
+         "start": 52.01,
+         "duration": 2.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ser persona sorda y mujer significa discriminación.",
+         "start": 55.55,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "La FAPSCL, por ejemplo, yo, intento desplazarme o hacer videollamadas,",
+         "start": 101.86,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "que es mucho mejor porque a veces con los pueblos es muy difícil por el desplazamiento,",
+         "start": 106.83,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "están muy lejos u otras cosas, lo que resulta más complicado.",
+         "start": 113.53,
+         "duration": 5.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Quieres decir que las mujeres sordas que se encuentran en pueblos dependen de otras personas como sus familiares para poder acceder a servicios en lengua de signos.",
+         "start": 120.28,
+         "duration": 8.57,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Qué situación tan dura.",
+         "start": 129.55,
+         "duration": 1.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Entonces pienso, sabemos por investigaciones de la sociedad,",
+         "start": 131.82,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "que las mujeres tienen una vida más larga y si además viven en pueblos y son sordas,",
+         "start": 135.26,
+         "duration": 5.57,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿cómo ves su situación?",
+         "start": 143.03,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Ahora gracias a las tecnologías, el móvil es fundamental para las videollamadas,",
+         "start": 146.83,
+         "duration": 7.21,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "y les cuesta aprender pero a la fuerza lo han hecho desde que surgió el COVID,",
+         "start": 154.84,
+         "duration": 6.21,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Esto es similar a los smartphones que las personas oyentes usan para hablar,",
+         "start": 203.55,
+         "duration": 5.27,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "pues a las personas sordas también les encantan las videollamadas que duran horas y así sienten mucho menos el impacto de la soledad.",
+         "start": 210.56,
+         "duration": 7.27,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Entonces, el problema es que las mujeres viven más y tienen mucha ansiedad por la falta de comunicación;",
+         "start": 219.56,
+         "duration": 6.28,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "desde FAPSCL intentamos ponerle solución.",
+         "start": 226.27,
+         "duration": 2.77,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por ejemplo, cada año, intentamos hacer actividades en ciudades diferentes para dar la oportunidad a las personas de los pueblos a participar en ellas,",
+         "start": 230.04,
+         "duration": 12.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "pero muchas veces no pueden porque dependen de familiares, no tienen coche, viven muy lejos,",
+         "start": 242.85,
+         "duration": 6.21,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "u otras cosas que se suman.",
+         "start": 250.06,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es difícil pero intentamos solucionarlo.",
+         "start": 252.06,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Es verdad. El tema de la soledad y el aislamiento al final repercute en la salud mental.",
+         "start": 256.06,
+         "duration": 5.51,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Mucho.",
+         "start": 302.07,
+         "duration": 0.73,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Si además la vida se alarga...",
+         "start": 303.07,
+         "duration": 1.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Peor.",
+         "start": 304.87,
+         "duration": 0.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Algún mensaje que quieras mandar a la sociedad o a las mujeres sordas que nos ven, algo que quieras decir.",
+         "start": 307.07,
+         "duration": 6.81,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si la sociedad sabe lengua de signos, estupendo.",
+         "start": 315.58,
+         "duration": 4.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pero si no sabe, pido, por favor, un mínimo de cariño a las personas, sean jóvenes o mayores.",
+         "start": 321.59,
+         "duration": 7.97,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Para sentir que no se nos discrimina, que nos den un tiempo para acompañarnos,",
+         "start": 330.83,
+         "duration": 6.21,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "intentar comunicarse por señas, dibujos, todo vale, porque lo que más necesitan es cariño.",
+         "start": 337.24,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si la comunicación no es posible, se pueden aprender otras formas, hay soluciones para todo.",
+         "start": 347.25,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Cierto, muchísimas gracias por tu mensaje tan emocionante.",
+         "start": 355.55,
+         "duration": 3.31,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Gracias a vosotras, abrazos.",
+         "start": 400.56,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño largo y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Abrazos, adiós.",
+         "start": 402.26,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas",
+         "screen_position": "right"
+      }
+   ]
+}

@@ -1,0 +1,554 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Consejo de Ministros ha aprobado un Real Decreto Ley por el que",
+         "start": 1.25,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se adoptan medidas urgentes para hacer frente a la subida",
+         "start": 6.25,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "generalizada de los precios y brindar una mayor protección",
+         "start": 9.75,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a los sectores sociales más vulnerables.",
+         "start": 13.25,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas medidas anticrisis estarán vigentes, al menos,",
+         "start": 19.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "hasta el 31 de diciembre de 2022 con un objetivo: amortiguar",
+         "start": 23.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el efecto del alza de la inflación que ha desencadenado la guerra en Ucrania.",
+         "start": 28.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los/as trabajadores/as, autónomos/as y desempleados/as inscritos/as",
+         "start": 42.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en las oficinas de empleo podrán percibir un pago único de 200 euros,",
+         "start": 48.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "siempre y cuando residan en hogares en los que la suma de las rentas",
+         "start": 53.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de los convivientes sea inferior a 14.000 euros en 2021,",
+         "start": 60.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y el patrimonio de la unidad familiar no supere",
+         "start": 69.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "los 43.196,4 euros (vivienda aparte).",
+         "start": 77.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La ayuda ha de solicitarse durante el mes de julio en oficinas",
+         "start": 89.75,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la Agencia Estatal de Administración Tributaria (AEAT).",
+         "start": 94.75,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quedan excluidos de este pago aquellas personas que perciban",
+         "start": 102.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el Ingreso Mínimo Vital o sean pensionistas (ya sea por jubilación o por invalidez).",
+         "start": 107.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las nóminas de Ingreso Mínimo Vital y las de las pensiones no contributivas",
+         "start": 117.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "antes mencionadas (jubilación e invalidez) se incrementarán",
+         "start": 123.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en un 15% durante los próximos seis meses.",
+         "start": 128.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso del Ingreso Mínimo Vital, el incremento se efectuará sobre",
+         "start": 134.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el conjunto de la nómina, es decir, incluyendo el complemento",
+         "start": 138.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de ayuda a la infancia en aquellos hogares que lo perciban.",
+         "start": 143.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, se prohíbe la subida de los alquileres por encima del 2%,",
+         "start": 150.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "los desahucios, y el corte de suministros de energía eléctrica, gas natural",
+         "start": 158.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y agua a los/as consumidores/as en situación de vulnerabilidad.",
+         "start": 166.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El IVA de la luz se reduce hasta el 5% tanto en contratos domésticos",
+         "start": 185.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como en negocios con una potencia contratada inferior",
+         "start": 191.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o igual a 10 kW (un hogar consume entre 5 y 7 kW aproximadamente).",
+         "start": 199.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, se mantienen el resto de las medidas relacionadas con la electricidad,",
+         "start": 211.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como la ampliación del descuento del bono social,",
+         "start": 218.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la suspensión del impuesto sobre el valor de la producción",
+         "start": 223.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la rebaja del impuesto especial sobre la electricidad.",
+         "start": 231.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También se prorroga la rebaja del IVA del 4% en la compra",
+         "start": 242.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de mascarillas quirúrgicas, ya que su uso sigue siendo",
+         "start": 246.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "obligatorio en ciertos ámbitos públicos.",
+         "start": 250.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La bonificación extraordinaria de 20 céntimos por litro de combustible",
+         "start": 259.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que empezó a funcionar el 1 de abril seguirá vigente.",
+         "start": 264.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El precio de la bombona de butano se fijará en 19,55 euros,",
+         "start": 277.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y se mantendrá sin modificaciones hasta finales de año.",
+         "start": 284.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De cara a fomentar el uso del trasporte público,",
+         "start": 291.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se reduce a la mitad el precio de todos los abonos mensuales",
+         "start": 295.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y cualquier título de trasporte de titularidad estatal,",
+         "start": 300.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como es el caso de Renfe.",
+         "start": 304.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de los abonos trasporte y títulos multiviajes de las comunidades",
+         "start": 307.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "autónomas y organismos locales la rebaja será de un 30%",
+         "start": 314.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a partir del 1 de septiembre.",
+         "start": 319.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para afrontar la reconstrucción de La Palma tras la erupción",
+         "start": 326.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "del volcán Cumbre Vieja, se prorroga hasta agosto",
+         "start": 332.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el aplazamiento del pago de las cuotas a Seguridad Social",
+         "start": 337.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el caso de las empresas, y hasta septiembre",
+         "start": 341.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para los/as autónomos/as.",
+         "start": 344.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, se extienden durante seis meses más los ERTE",
+         "start": 348.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de fuerza mayor temporal y las prestaciones para autónomos/as",
+         "start": 355.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de los daños ocasionados.",
+         "start": 363.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Real Decreto Ley aprobado por el Gobierno contempla ayudas",
+         "start": 370.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "directas a la industria del gas, así como medidas de apoyo",
+         "start": 375.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "al sector agrícola, ganadero, pesquero y acuícola.",
+         "start": 378.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, anuncia para 2023 un nuevo impuesto sobre los ingresos",
+         "start": 387.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "extraordinarios de las empresas energéticas que obtengan",
+         "start": 392.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "beneficios por el alza de los precios.",
+         "start": 397.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo oscuro recogido en un moño, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

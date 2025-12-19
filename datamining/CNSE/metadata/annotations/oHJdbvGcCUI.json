@@ -1,0 +1,158 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Buena parte de las niñas sordas y los niños sordos se forman en centros ordinarios donde el hecho de ser una persona sorda no es algo normalizado.",
+         "start": 0.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una cuestión que no solo incrementa el riesgo de sufrir acoso escolar, sino también la posibilidad de no reconocerlo.",
+         "start": 10.4,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y es que, todavía son escasos los recursos adaptados y los estudios sobre la casuística del bullying entre el alumnado sordo.",
+         "start": 17.2,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ser diferente no es nada malo. De hecho, todas y todos lo somos. Así que,",
+         "start": 29.4,
+         "duration": 5.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con pañuelo negro en la cabeza",
+         "screen_position": "center"
+      },
+      {
+         "text": "si te insultan, te agreden o te rechazan por ser sorda/o, no lo aceptes.",
+         "start": 35.8,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con pañuelo negro en la cabeza",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuéntaselo a tu familia y a tus profesoras/es para que puedan ayudarte.",
+         "start": 42.8,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con pañuelo negro en la cabeza",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero el acoso no es el único problema al que se enfrenta la infancia sorda.",
+         "start": 49.4,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La dificultad para acceder a los recursos técnicos y humanos en las escuelas,",
+         "start": 54.8,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la soledad no deseada o la falta de accesibilidad son situaciones que también soportan.",
+         "start": 61.2,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En clase contamos con especialista en lengua de signos, pero en otros coles no lo tienen.",
+         "start": 73.4,
+         "duration": 6.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con uniforme escolar",
+         "screen_position": "center"
+      },
+      {
+         "text": "Necesitamos referentes sordos/as adultos/as que nos enseñen nuestra lengua y también la cultura sorda. Y compañeras y compañeros tanto sordas/os como oyentes.",
+         "start": 81.2,
+         "duration": 13.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña con uniforme escolar",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Mundial de la Infancia, reivindicamos que el futuro de las niñas sordas y los niños sordos no esté condicionado por su discapacidad, sino por sus aptitudes.",
+         "start": 96.2,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos tener todas las opciones abiertas. Tener todo un mundo por delante para elegir ser lo que queramos ser. Sin prejuicios y sin imposiciones.",
+         "start": 112.0,
+         "duration": 13.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña con jersey de conejo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos igualdad de condiciones en el acceso a una educación bilingüe en lengua de signos y lengua oral para el conjunto de la población sorda infantil sin importar de donde sean.",
+         "start": 129.2,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las niñas y niños sordas/os que no viven en ciudades deben tener los mismos derechos que el resto. Y las mismas oportunidades. Para que ellas/os y sus familias puedan elegir cómo quieren que sea su educación.",
+         "start": 141.8,
+         "duration": 17.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Niño con sudadera azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos que las niñas sordas y los niños sordos sean, ni más ni menos, que niñas y niños felices.",
+         "start": 160.4,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Feliz Día Mundial de la Infancia!",
+         "start": 168.0,
+         "duration": 3.6,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Niño con camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

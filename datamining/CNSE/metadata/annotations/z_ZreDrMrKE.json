@@ -1,0 +1,455 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El ministro de Sanidad anunció anoche qué territorios pasarán el próximo lunes 11 de mayo a la Fase 1,",
+         "start": 1.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y cuáles permanecerán en la Fase 0.",
+         "start": 8.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para tomar esta decisión, el Gobierno ha valorado criterios como",
+         "start": 13.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "la tasa de contagios, el número de camas en hospitales y en UCI,",
+         "start": 18.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la capacidad que tiene cada región para detectar precozmente nuevos casos de coronavirus y para aislar a las personas enfermas y sus contactos.",
+         "start": 30.8,
+         "duration": 18.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo es controlar posibles rebrotes de la epidemia.",
+         "start": 49.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El ministro ha destacado que ahora más que nunca,",
+         "start": 55.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "es fundamental que todas y todos seamos prudentes,",
+         "start": 100.5,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "que moderemos nuestras salidas a la calle, y",
+         "start": 104.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "que cumplamos con las medidas de higiene y distancia física entre personas, con el fin de evitar contagios.",
+         "start": 107.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasan a la Fase 1 todo el territorio de:",
+         "start": 115.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Galicia.",
+         "start": 121.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Principado de Asturias.",
+         "start": 123.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "País Vasco.",
+         "start": 125.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Navarra.",
+         "start": 127.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Rioja.",
+         "start": 128.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aragón.",
+         "start": 130.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Extremadura.",
+         "start": 131.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Región de Murcia.",
+         "start": 133.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Islas Baleares.",
+         "start": 135.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Islas Canarias.",
+         "start": 137.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ceuta.",
+         "start": 139.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Melilla.",
+         "start": 141.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Andalucía pasan a la Fase 1 todas las provincias",
+         "start": 144.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "excepto Granada y Málaga, que continúan en la Fase 0.",
+         "start": 148.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Castilla La Mancha sólo pasan a la Fase 1 Cuenca y Guadalajara.",
+         "start": 155.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El resto continuará en la Fase 0.",
+         "start": 200.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la Comunidad Valenciana sólo pasan a la Fase 1, las siguientes zonas sanitarias y sus municipios,",
+         "start": 203.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "mientras el resto continuará en la Fase 0.",
+         "start": 210.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Castilla y León sólo pasan a la Fase 1,",
+         "start": 222.5,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "un total de 26 zonas básicas de salud que se corresponden sobre todo con zonas rurales.",
+         "start": 225.0,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El resto continuará en la Fase 0.",
+         "start": 231.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Cataluña sólo pasan a la Fase 1 estas 3 regiones sanitarias.",
+         "start": 241.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El resto continuará en la Fase 0.",
+         "start": 247.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Comunidad de Madrid continúa en la Fase 0.",
+         "start": 250.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los territorios que han pasado a la Fase 1,",
+         "start": 255.8,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "deberán esperar al menos dos semanas para pasar a una nueva o permanecer en la Fase 1.",
+         "start": 258.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las que permanecen en Fase 0, podrán intentarlo nuevamente la semana que viene.",
+         "start": 306.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En todos los casos, es posible que se decida retroceder",
+         "start": 311.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "de fase a cualquier provincia si hubiera riesgo de rebrote.",
+         "start": 316.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os recordamos que está prohibido viajar a otras provincias o islas.",
+         "start": 322.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "También se prohíbe el desplazamiento entre zonas o localidades de una misma provincia,",
+         "start": 330.0,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "si están en distintas fases.",
+         "start": 336.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En transporte público, taxi y VTC (Cabify, Uber...),",
+         "start": 342.8,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "será obligatorio el uso de mascarilla.",
+         "start": 350.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se mantendrán las franjas horarias por edades para hacer deporte y salir a pasear,",
+         "start": 355.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "si bien cada comunidad autónoma podrá adaptarlas en función del clima.",
+         "start": 401.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Ministerio de Sanidad publicará este fin de semana una orden en la que",
+         "start": 408.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "detallará las nuevas medidas previstas para la Fase 1.",
+         "start": 413.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os informaremos de ello en próximos vídeos.",
+         "start": 418.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      }
+   ]
+}

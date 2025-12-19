@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "A través de Facebook:",
+         "start": 156.316,
+         "duration": 24.034,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "https://www.facebook.com/Horizonte.Accesibilidad.4.12.2017/",
+         "start": 180.35,
+         "duration": 44.304,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "A través de Twitter:",
+         "start": 224.654,
+         "duration": 14.671,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "https://twitter.com/H_Accesibilidad",
+         "start": 239.325,
+         "duration": 17.975,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "#HAccesibilidad",
+         "start": 257.3,
+         "duration": 18.652,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por correo electrónico:",
+         "start": 275.952,
+         "duration": 5.085,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "horizonteaccesibilidad2017@cermi.es",
+         "start": 281.037,
+         "duration": 42.963,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "center"
+      }
+   ]
+}

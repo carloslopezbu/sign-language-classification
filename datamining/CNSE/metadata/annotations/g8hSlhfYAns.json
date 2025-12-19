@@ -1,0 +1,176 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "En el menú de la aplicación encontramos diferentes apartados.",
+         "start": 3.3,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Al seleccionar \"Nuevo cuento\" crearemos nuestro propio relato.",
+         "start": 6.9,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "En la parte izquierda podremos elegir una imagen, sacando una foto o seleccionando una imagen de nuestra galería, para ponerla de portada.",
+         "start": 12.9,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "En la parte inferior podremos escribir el título, pudiendo dar un nombre único a cada relato.",
+         "start": 24.4,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "En la zona central podemos hacer una grabación de vídeo de nuestro cuento en lengua de signos, y elegir con libertad si queremos usar la cámara frontal o la trasera.",
+         "start": 33.3,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Además podremos añadir también el texto correspondiente al vídeo, escribiéndolo o copiando y pegando.",
+         "start": 48.2,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si hemos cometido algún error podremos desplegar todas las páginas del cuento y borrar la que queramos.",
+         "start": 57.8,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Puede tener cuantas páginas deseemos.",
+         "start": 109.4,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "En el apartado \"Biblioteca\" se almacenarán los cuentos que hayamos creado anteriormente con la aplicación.",
+         "start": 115.5,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Además, encontraremos todos los títulos que la Fundación CNSE elabora.",
+         "start": 126.2,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Todos ellos son en lengua de signos, con locución en castellano y subtítulos.",
+         "start": 132.4,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Todos los nuevos cuentos que se realicen desde la Fundación CNSE, se irán añadiendo a la biblioteca junto a los creados por los propios usuarios.",
+         "start": 139.5,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "En el apartado \"Editar\" puedes hacer los cambios que desees sobre cualquier cuento creado por ti, por si quieres mejorar el relato añadiendo más vídeos signados, ampliar el texto, etc.",
+         "start": 152.4,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Los cuentos elaborados por la Fundación CNSE no podrán ser modificados.",
+         "start": 124.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "En la edición de un cuento que hayamos realizado, podremos modificar el título, cambiar una imagen, repetir una grabación para mejorarla, ordenar las páginas, etc.",
+         "start": 128.8,
+         "duration": 11.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "En el apartado \"Área de descarga\" encontraremos todos los títulos elaborados por la Fundación CNSE.",
+         "start": 142.4,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Al seleccionar uno de ellos se verá una pequeña demostración de cada relato para ver si nos gusta y, entonces, descargarlo.",
+         "start": 151.2,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Podremos ver cuentos para niñas y niños de diferentes edades y características.",
+         "start": 164.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      },
+      {
+         "text": "Una vez elegidos, los cuentos que descarguemos aparecerán en nuestra biblioteca.",
+         "start": 168.4,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y barba",
+         "screen_position": "right"
+      }
+   ]
+}

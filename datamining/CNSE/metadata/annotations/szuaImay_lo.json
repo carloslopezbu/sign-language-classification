@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "comunicacion@cnse.es",
+         "start": 107.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "https://goo.gl/iMLmji",
+         "start": 144.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

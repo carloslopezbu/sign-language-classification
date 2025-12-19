@@ -1,0 +1,122 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¿Cómo han vivido mis padres sordos el confinamiento?",
+         "start": 6.72,
+         "duration": 2.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "El primer día del confinamiento por el coronavirus, mis padres estaban un poco desconcertados.",
+         "start": 10.24,
+         "duration": 8.08,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi hermano y yo les manteníamos informados todos los días a través de videollamada, pero mis padres se sentían preocupados y angustiados,",
+         "start": 18.72,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿por qué no vienen mis hijos? Yo le expliqué que las personas mayores podían contraer el virus con mayor facilidad y mis padres se sintieron más aliviados.",
+         "start": 28.72,
+         "duration": 11.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo importante era que mis padres se quedaran en casa, ésa era nuestra mayor preocupación.",
+         "start": 40.64,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "También nos preocupaba que tuvieran la información clara y segura, ya que por su edad a veces se les olvidan las cosas,",
+         "start": 46.04,
+         "duration": 10.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "todos los días contactábamos con ellos para explicarles la situación, ya que estaban angustiados por el virus y nosotros preocupados porque mi madre se contagiara.",
+         "start": 57.12,
+         "duration": 15.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mis padres nunca han usado el móvil y no saben muy bien cómo funciona.",
+         "start": 73.64,
+         "duration": 5.88,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias al servicio VIdAsor difundido por la Fesord CV, mi hermano y yo nos dimos cuenta de que sería un servicio fundamental para comunicarnos con mis padres, ya que ellos el móvil no saben manejarlo.",
+         "start": 80.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al principio mis padres no querían, pero les explicamos que poco a poco fueran probando, era necesario acostumbrarse.",
+         "start": 93.4,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Finalmente aceptaron y les pusieron el dispositivo.",
+         "start": 102.12,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me gustaría dar las gracias a la CNSE y gracias a la Fesord porque hemos podido estar en contacto con mis padres todos los días, tanto durante el confinamiento como después.",
+         "start": 132.9,
+         "duration": 10.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo beige",
+         "screen_position": "center"
+      },
+      {
+         "text": "No tengo más que palabras de agradecimiento, hasta me emociono al hablar del Servicio VIdAsor.",
+         "start": 144.0,
+         "duration": 6.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo cano y barba, polo beige",
+         "screen_position": "center"
+      }
+   ]
+}

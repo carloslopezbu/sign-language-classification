@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Éste es un ejercicio de gimnasia cerebral.",
+         "start": 9.6,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Puede parecer que el trabajo lo estamos haciendo con las manos, pero no es así, el ejercicio lo está desempeñando nuestro cerebro.",
+         "start": 15.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Fíjate en cada gesto e intenta replicarlo.",
+         "start": 28.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si lo necesitas, para el vídeo para practicarlo. ¿Preparado/a?",
+         "start": 36.2,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

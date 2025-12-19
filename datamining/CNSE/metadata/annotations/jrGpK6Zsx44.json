@@ -1,0 +1,122 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El pasado sábado, el Gobierno anunció la prórroga del estado de alarma hasta el 9 de mayo.",
+         "start": 1.039,
+         "duration": 5.09,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se acordará en Consejo de Ministros y se trasladará al Congreso de los Diputados para su aprobación.",
+         "start": 8.009,
+         "duration": 4.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque el confinamiento continuará como hasta ahora, se plantea una excepción: a partir del 27 de abril, las niñas y niños de hasta 12 años, podrán salir a la calle, siempre siguiendo estrictas medidas de control y seguridad para evitar contagios.",
+         "start": 13.929,
+         "duration": 14.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno informará de las condiciones en los próximos días.",
+         "start": 29.689,
+         "duration": 3.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Respecto a la evolución de la pandemia, el presidente del Gobierno ha informado que cerca del 42% de los diagnosticados ya han superado el Covid-19, una de las tasas más elevadas a nivel mundial.",
+         "start": 34.689,
+         "duration": 18.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "También ha señalado que el promedio de contagios ha bajado notablemente, de 3 a estar por debajo de 1.",
+         "start": 53.809,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pedro Sánchez reconoce que los momentos más extremos de la pandemia ya han quedado atrás, si bien los avances todavía son insuficientes y frágiles.",
+         "start": 72.849,
+         "duration": 9.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando estos avances se consoliden, pasaremos a una nueva fase que permita salir del confinamiento y suavizar las medidas.",
+         "start": 82.849,
+         "duration": 8.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno confía en que la fase de tránsito hacia la normalidad pueda comenzar a finales del mes de mayo, y avanza que no será igual en todo el país, ya que la incidencia de la epidemia es diferente en cada territorio.",
+         "start": 92.649,
+         "duration": 14.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, ha advertido que cuando llegue ese momento, si los contagios se disparasen, tendrían que volver a medidas más estrictas.",
+         "start": 108.489,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "También ha anunciado la publicación de una orden del Ministerio de Sanidad para controlar la venta de mascarillas a precios asequibles.",
+         "start": 116.929,
+         "duration": 11.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, se está trabajando en mantener el número de camas en hospitales, reforzar las UCI, desarrollar tests, etc, para fortalecer nuestro sistema de salud.",
+         "start": 129.489,
+         "duration": 14.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para finalizar, ha pedido la unidad de todos los partidos políticos, comunidades autónomas y estados europeos para trabajar en la reconstrucción social y económica.",
+         "start": 144.649,
+         "duration": 13.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      }
+   ]
+}

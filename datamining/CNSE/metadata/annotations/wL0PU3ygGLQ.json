@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Desde el mes de octubre, hemos realizado 17 webinarios",
+         "start": 1.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "dirigidos a profesionales de la red asociativa.",
+         "start": 7.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Impartidos por compañeras y compañeros de la CNSE",
+         "start": 16.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con la colaboración de expertas y expertos de otras entidades,",
+         "start": 21.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "han permitido profundizar en ámbitos como el jurídico, la violencia machista,",
+         "start": 28.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las redes sociales, la videoasistencia a personas mayores sordas,",
+         "start": 35.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o la gestión de calidad, entre otros.",
+         "start": 41.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los recordamos en este vídeo.",
+         "start": 47.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

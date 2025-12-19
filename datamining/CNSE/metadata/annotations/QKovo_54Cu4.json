@@ -1,0 +1,914 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Buenos días, soy David, fisioterapeuta de ACCEM y vamos a continuar con un nuevo vídeo tutorial con ejercicios de movilidad articular.",
+         "start": 9.2,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El principal objetivo de estos ejercicios va a ser mantener la movilidad en nuestras articulaciones.",
+         "start": 18.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello vamos a necesitar el palo de una fregona o de una escoba que tengamos por casa.",
+         "start": 24.6,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Primer ejercicio.",
+         "start": 32.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a coger el palo de manera horizontal y lo ponemos a lo largo del cuerpo.",
+         "start": 34.4,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cogemos aire, y al soltarlo por la boca, elevamos todo lo que podamos el palo hacia arriba, con los dos brazos subiendo y bajamos, y hacemos 10 repeticiones.",
+         "start": 40.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cojo aire, suelto por la boca y bajo.",
+         "start": 52.8,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno.",
+         "start": 61.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos.",
+         "start": 63.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos.",
+         "start": 65.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres.",
+         "start": 67.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 69.2,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 71.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 73.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 78.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ocho.",
+         "start": 81.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nueve.",
+         "start": 83.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Diez.",
+         "start": 86.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Descanso aproximadamente 30 segundos y realizo 5 repeticiones.",
+         "start": 87.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Continuamos con el segundo ejercicio.",
+         "start": 94.2,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Partimos con los brazos estirados y el palo de manera horizontal.",
+         "start": 96.5,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cojo aire por la nariz llevando el palo hacia el pecho y lo suelto por la boca, llevándolo adelante, realizando un movimiento de flexo extensión de codos.",
+         "start": 100.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos.",
+         "start": 118.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres.",
+         "start": 121.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 124.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 129.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seis.",
+         "start": 131.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 133.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ocho.",
+         "start": 136.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nueve.",
+         "start": 137.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Diez.",
+         "start": 138.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Descanso entre serie y serie 30 segundos y vuelvo a realizar cinco series.",
+         "start": 138.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para terminar de movilizar los brazos vamos a hacer un tercer ejercicio, combinando los dos anteriores.",
+         "start": 144.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello, parto con el palo delante con los brazos estirados.",
+         "start": 150.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Voy a llevar el palo hacia el pecho, subiré recto hacia arriba y bajaré con los codos estirados.",
+         "start": 155.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pecho, subo, bajo.",
+         "start": 164.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 175.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Voy combinando inspiración y espiración.",
+         "start": 177.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 182.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seis.",
+         "start": 184.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 186.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pecho, subo, bajo, recto ocho.",
+         "start": 186.8,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nueve.",
+         "start": 191.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y diez.",
+         "start": 194.2,
+         "duration": 0.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vuelvo a descansar 30 segundos y realizo cinco series.",
+         "start": 195.2,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para el siguiente ejercicio vamos a movilizar el tronco.",
+         "start": 201.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Volvemos a coger el palo de manera horizontal cerca del pecho, y vamos a realizar rotaciones de tronco, girando hacia un lado y al otro.",
+         "start": 203.8,
+         "duration": 9.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pudiendo coger aire en un sentido y sentido en el otro.",
+         "start": 213.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres.",
+         "start": 226.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 229.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 232.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seis.",
+         "start": 235.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 238.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ocho.",
+         "start": 241.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nueve.",
+         "start": 244.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Diez.",
+         "start": 246.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En el ejercicio veréis como las piernas se quedan fijas y lo que se mueve es el tronco, hacia un lado y hacia el otro.",
+         "start": 248.2,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Descanso igual que antes unos treinta segundos y realizo cinco repeticiones, siendo una repetición, giro a un lado y al otro.",
+         "start": 255.8,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Continuamos movilizando las piernas.",
+         "start": 267.8,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello vamos a colocar ahora el palo de manera vertical que me servirá para mantener el equilibrio y como punto de apoyo.",
+         "start": 270.2,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una vez colocado de manera vertical, movilizamos la cadera, subiendo una cadera y otra.",
+         "start": 278.5,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos.",
+         "start": 290.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres.",
+         "start": 291.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 293.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 295.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seis.",
+         "start": 298.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 300.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ocho.",
+         "start": 302.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nueve.",
+         "start": 304.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Diez.",
+         "start": 306.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una repetición corresponde a la subida de las dos caderas.",
+         "start": 307.5,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Hacemos cinco series de diez repeticiones cada una.",
+         "start": 312.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Entre serie y serie, treinta segundos de descanso.",
+         "start": 316.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para el siguiente ejercicio seguimos en la misma posición.",
+         "start": 321.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Lo que tenemos que hacer será separar una cadera y volver al punto de partida.",
+         "start": 325.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "A continuación, separamos la otra y volvemos al punto de partida.",
+         "start": 331.2,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esto corresponde a una repetición.",
+         "start": 341.5,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno.",
+         "start": 348.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos.",
+         "start": 349.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Con cuidado siempre del equilibrio.",
+         "start": 350.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 357.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 362.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ocho.",
+         "start": 365.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Intento mantener las rodillas estiradas al separar.",
+         "start": 367.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Diez.",
+         "start": 371.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Descanso treinta segundos y vuelvo a realizar cinco series.",
+         "start": 372.5,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En el último ejercicio vamos a realizar sentadillas, con el palo como punto de apoyo.",
+         "start": 376.5,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello colocamos el palo cerca y manteniendo espalda recta y las piernas un poco separadas, bajo y subo, cojo aire bajando y lo suelto al subir por la boca.",
+         "start": 381.8,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Bajo cogiendo aire, suelto.",
+         "start": 396.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres.",
+         "start": 400.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 410.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 412.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seis.",
+         "start": 415.2,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 417.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ocho.",
+         "start": 420.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nueve.",
+         "start": 423.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Diez.",
+         "start": 425.8,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Descanso treinta segundos, cinco series.",
+         "start": 426.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Con estos ejercicios habremos trabajado la movilidad de nuestras articulaciones, tanto del miembro superior como del tronco, como de miembros inferiores.",
+         "start": 431.5,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Será recomendable hacerlo dos, tres veces al día siempre en ausencia de dolor y si en cualquier momento notara fatiga, paro y valoro la situación.",
+         "start": 441.2,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Gracias por vuestra atención.",
+         "start": 452.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

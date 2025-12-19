@@ -1,0 +1,50 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "MANIFIESTO DE LA CNSE EN EL DÍA DE INTERNET",
+         "start": 8.216,
+         "duration": 29.513,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo teñido de rubio y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tú, yo, todas las personas, gracias a Internet, podemos acceder a la información y a la comunicación sin límites. Podemos comprar, vender, aprender, trabajar, disfrutar de nuestro ocio, relacionarnos… En definitiva, participar en la sociedad.",
+         "start": 40.799,
+         "duration": 29.83,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo teñido de rubio y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero para las personas sordas, la comunicación y la información sin barreras en la Red todavía no es una realidad. Aún existen muchas páginas web que no son accesibles, y que nos impiden ejercer nuestra ciudadanía en igualdad de condiciones.",
+         "start": 71.511,
+         "duration": 29.112,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo teñido de rubio y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la CNSE y su red asociativa, queremos animar a las empresas, a las entidades, a las administraciones públicas y a la sociedad en general, a que apuesten por el diseño para todas las personas, y a que incorporen la lengua de signos en sus páginas web. Porque una web accesible, es la que cuenta con la lengua de signos.",
+         "start": 101.506,
+         "duration": 55.509,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo teñido de rubio y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "www.quierounawebaccesible.com",
+         "start": 157.023,
+         "duration": 7.424,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo teñido de rubio y camisa morada",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Universidad de Alicante, 26 y 27 de Marzo de 2015",
+         "start": 297.33,
+         "duration": 6.51,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Plazo: 17 de Marzo",
+         "start": 310.21,
+         "duration": 4.63,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "renfe Autorización de Descuento 30%",
+         "start": 332.51,
+         "duration": 9.51,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "http://blog.cnse.es/abierto-el-plazo-de-inscripcion-para-el-seminario-sobre-alumnado-sordo-y-universidad/",
+         "start": 402.83,
+         "duration": 5.71,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "seminario.universidad@cnse.es",
+         "start": 409.21,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      }
+   ]
+}

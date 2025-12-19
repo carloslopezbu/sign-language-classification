@@ -1,0 +1,266 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Estas vacaciones más que nunca, asegúrate de viajar seguro y con responsabilidad.",
+         "start": 0.23,
+         "duration": 6.78,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si presentas algún síntoma compatible con la COVID 19 tanto a la ida como a la vuelta, abstente de viajar y ponte en contacto con un centro sanitario.",
+         "start": 8.01,
+         "duration": 12.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No olvides incluir en tu equipaje mascarillas y gel hidroalcohólico.",
+         "start": 21.82,
+         "duration": 6.71,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pon atención a las siguientes recomendaciones.",
+         "start": 30.53,
+         "duration": 5.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si te quedas en España, ten en cuenta que, aunque la mayoría de las normas sanitarias son iguales en todo el territorio, algunas pueden variar según la comunidad autónoma que visites.",
+         "start": 41.04,
+         "duration": 13.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Consúltalas antes de llegar a tu destino.",
+         "start": 55.06,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si vas a la playa, puedes encontrar restricciones en el aforo, por lo que es aconsejable elegir las horas menos concurridas.",
+         "start": 61.56,
+         "duration": 10.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mantén la distancia entre sombrillas de al menos 4 metros.",
+         "start": 73.07,
+         "duration": 6.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Solo puedes quitarte la mascarilla mientras permanezcas sentado en la arena, o quieras darte un baño.",
+         "start": 81.58,
+         "duration": 6.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debes llevarla tanto para dar un paseo por la orilla, como para ir al chiringuito.",
+         "start": 88.09,
+         "duration": 11.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En las piscinas, las normas son similares.",
+         "start": 101.1,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aforo limitado, separación de varios metros entre personas, y obligación de llevar mascarilla en cualquier zona común que no sea el agua o la zona en la que estés sentado.",
+         "start": 105.61,
+         "duration": 15.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando vayas a tomar algo o a comer fuera de casa, opta por espacios abiertos como terrazas al aire libre.",
+         "start": 123.12,
+         "duration": 10.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda que puedes retirarte la mascarilla para comer y beber.",
+         "start": 136.64,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mientras lo haces, guardarla en una bolsa de tela o papel.",
+         "start": 142.14,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No la dejes encima de la mesa, ni la utilices como posavasos.",
+         "start": 147.15,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Evita comer del mismo plato que tus acompañantes, y no compartas vasos ni cubiertos.",
+         "start": 155.16,
+         "duration": 10.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si decides viajar al extranjero evita aquellos países en los que la situación epidemiológica sea más desfavorable.",
+         "start": 171.17,
+         "duration": 9.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda que algunos países pueden exigir a los viajeros guardar cuarentena a su llegada, o incluso imponerles limitaciones en la movilidad.",
+         "start": 181.18,
+         "duration": 11.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es recomendable que contrates un seguro de viaje por si surge cualquier imprevisto o cancelación.",
+         "start": 194.19,
+         "duration": 8.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asegúrate de que incorpora cobertura médica.",
+         "start": 202.7,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No todos los países tienen el mismo sistema de salud.",
+         "start": 206.21,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Inscríbete en el registro de viajeros del Ministerio de Asuntos Exteriores.",
+         "start": 213.21,
+         "duration": 4.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de una aplicación disponible en las plataformas iOS y Android que te permite estar localizado, y te informa en caso de posible alertas y emergencias.",
+         "start": 218.22,
+         "duration": 14.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cumple siempre las recomendaciones sanitarias, aunque sean distintas a las de tu país de origen.",
+         "start": 234.23,
+         "duration": 10.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ten a mano los datos de contacto de la embajada y consulado.",
+         "start": 246.75,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda que, aunque estés de vacaciones, no puedes confiarte.",
+         "start": 255.26,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ponte mascarilla, cuida la higiene de manos, y mantén la distancia de seguridad.",
+         "start": 260.26,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si te cuidas, nos cuidas.",
+         "start": 265.77,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

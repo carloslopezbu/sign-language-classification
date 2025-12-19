@@ -1,0 +1,122 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Hoy, en Signar por Derecho, exigimos que se garantice la igualdad de trato y oportunidades del alumnado sordo tanto dentro como fuera del aula.",
+         "start": 3.2,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A través del siguiente decálogo reivindicamos:",
+         "start": 16.9,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. Su derecho a elegir la lengua en la que quieren educarse sin que les hagan optar entre lengua de signos o lengua oral.",
+         "start": 23.2,
+         "duration": 9.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. Su derecho a disponer de recursos como especialistas de lengua de signos, profesores sordos/as, intérpretes de lengua de signos o ayudas técnicas según requieran, desde el inicio del curso todas las horas lectivas.",
+         "start": 36.5,
+         "duration": 15.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "3. Su derecho a contar con asignaturas que les acerquen a la cultura sorda y a su lengua propia: la lengua de signos.",
+         "start": 59.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "4. Su derecho a no sentirse aislados/as, excluidos/as o acosados/as por ser personas sordas, por comunicarse en la lengua de signos o por utilizar prótesis auditivas.",
+         "start": 109.0,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "5. Su derecho a aprender un idioma extranjero sin barreras de ningún tipo.",
+         "start": 122.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "6. Su derecho a que en clase haya compañeros/as sordos/as y oyentes con los que puedan comunicarse sin barreras.",
+         "start": 134.5,
+         "duration": 7.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "7. Su derecho a poder escoger libremente sus estudios sin preocuparse de las carencias de accesibilidad que puedan surgir.",
+         "start": 147.8,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "8. Su derecho a cursar las optativas que quieran, y no solo aquellas que dispongan intérprete porque las hayan elegido otras compañeras/os sordas/os.",
+         "start": 159.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "9. Su derecho a tener tutorías o clases extraescolares totalmente accesibles.",
+         "start": 217.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "10. Su derecho a ser tratadas/os como iguales que son, sin que ningún prejuicio ni estereotipo afecten a su trayectoria personal y académica.",
+         "start": 232.0,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Por una escuela inclusiva para todas y para todos!",
+         "start": 248.5,
+         "duration": 3.3,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres, una con chaqueta negra y otra con camiseta negra",
+         "screen_position": "multiple"
+      }
+   ]
+}

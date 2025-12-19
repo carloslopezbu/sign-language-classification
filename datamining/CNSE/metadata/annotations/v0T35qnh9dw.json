@@ -1,0 +1,302 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Bienvenido a nuestra nueva página web, \"Esto no es magia\".",
+         "start": 1.034,
+         "duration": 2.602,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Estamos encantados de presentar el nuevo sitio web \"Esto no es magia\".",
+         "start": 11.011,
+         "duration": 3.47,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Trata de una maravillosa aventura educativa que hemos hecho",
+         "start": 18.151,
+         "duration": 4.505,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "posible gracias a la financiación del programa Erasmus+.",
+         "start": 22.656,
+         "duration": 4.504,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Imagina un proyecto educativo que trasciende fronteras,",
+         "start": 28.161,
+         "duration": 11.812,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "reuniendo a alumnos sordos de Bélgica y de España",
+         "start": 40.707,
+         "duration": 5.339,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "con un objetivo común: explorar la ciencia de forma divertida",
+         "start": 47.781,
+         "duration": 4.771,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "e instructiva. Esa es la misión que se ha propuesto \"C'est pas magique\".",
+         "start": 53.052,
+         "duration": 4.505,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Como parte de este proyecto, hemos creado 20 vídeos sobre ciencias",
+         "start": 58.191,
+         "duration": 2.436,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "naturales en lengua de signos francobelga (LSFB)",
+         "start": 101.127,
+         "duration": 4.071,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "y lengua de signos española (LSE).",
+         "start": 106.065,
+         "duration": 2.102,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si no dominas estas lenguas de signos,",
+         "start": 108.167,
+         "duration": 1.568,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "no te preocupes, nuestros vídeos también están subtitulados en ambos idiomas,",
+         "start": 110.169,
+         "duration": 8.009,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "lo que garantiza la accesibilidad para todos. Estos vídeos,",
+         "start": 118.678,
+         "duration": 6.607,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "son auténticas píldoras de conocimiento y ya están disponibles",
+         "start": 126.019,
+         "duration": 8.275,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "en este sitio, listos para ser explorados",
+         "start": 135.028,
+         "duration": 3.136,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "por los más curiosos en busca de aprendizaje.",
+         "start": 138.664,
+         "duration": 4.938,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Nuestro objetivo es que este espacio se convierta en un valioso recurso",
+         "start": 144.102,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "para profesores, alumnos y todo aquel que quiera",
+         "start": 149.607,
+         "duration": 4.438,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "saber más sobre nuestra iniciativa.",
+         "start": 154.045,
+         "duration": 3.237,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Encontrarás herramientas didácticas adecuadas para alumnos de 5º y 6º",
+         "start": 158.215,
+         "duration": 4.938,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "de primaria, pero además, también pueden utilizarse",
+         "start": 163.653,
+         "duration": 5.572,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "en otros niveles de primaria o secundaria.",
+         "start": 169.725,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para facilitar la navegación, el sitio presenta dos banderas:",
+         "start": 173.729,
+         "duration": 3.337,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "la bandera de Bélgica y la bandera de España.",
+         "start": 177.066,
+         "duration": 2.569,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Puede hacer clic en la bandera belga para acceder al contenido",
+         "start": 180.135,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "de la Bélgica francófona o en la bandera española",
+         "start": 183.138,
+         "duration": 3.37,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "para explorar la versión en español.",
+         "start": 186.508,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Os invitamos cordialmente a explorar",
+         "start": 188.51,
+         "duration": 5.672,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "nuestros vídeos, sumergíos en inspiradoras historias y seguir",
+         "start": 195.183,
+         "duration": 12.543,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "nuestro camino hacia una educación inclusiva, enriquecedora.",
+         "start": 208.226,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muchas gracias por vuestro interés y apoyo.",
+         "start": 214.065,
+         "duration": 4.07,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más información: www.lsfb.be/thisisnotmagic/espanol/espanol.php",
+         "start": 219.236,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con camisa negra y perilla",
+         "screen_position": "right"
+      }
+   ]
+}

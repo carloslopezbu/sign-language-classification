@@ -1,0 +1,545 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE ha advertido que",
+         "start": 1.38,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la falta de accesibilidad a la información",
+         "start": 2.88,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a la comunicación a las que se enfrentan las personas sordas,",
+         "start": 5.38,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "no lo solucionan unas mascarillas transparentes.",
+         "start": 8.88,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así lo han manifestado numerosas personas sordas que se han dirigido",
+         "start": 12.88,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la entidad para pedir que no se obvien sus necesidades reales.",
+         "start": 16.08,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, la entidad ha aclarado que,",
+         "start": 19.88,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "aunque aprecian las iniciativas solidarias de la ciudadanía,",
+         "start": 21.88,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la lectura labial no es una habilidad al alcance de todos,",
+         "start": 26.88,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y ha manifestado su preocupación acerca",
+         "start": 32.08,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la seguridad sanitaria de estas mascarillas.",
+         "start": 35.08,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Concha Díaz, presidenta de la CNSE,",
+         "start": 38.88,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "aclara que el colectivo de personas sordas es heterogéneo,",
+         "start": 42.08,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "al igual que lo son sus necesidades.",
+         "start": 45.08,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay personas sordas con restos auditivos para los",
+         "start": 47.38,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que el acompañamiento de la lectura labial puede serles útil, mientras que otras,",
+         "start": 50.08,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "más allá de entender alguna palabra suelta,",
+         "start": 52.88,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "no pueden seguir una conversación por esta vía.",
+         "start": 55.08,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al respecto, Díaz recuerda que no hay una persona sorda igual a otra,",
+         "start": 58.08,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y alude al respeto a la diversidad de la población sorda como",
+         "start": 62.88,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "primer paso para el cumplimiento de sus derechos.",
+         "start": 68.08,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tal es caso de las personas sordas para los",
+         "start": 72.08,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que la lengua de signos es su principal forma de comunicación,",
+         "start": 74.08,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y por tanto, condición necesaria para acceder a la información y a la comunicación.",
+         "start": 76.08,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Díaz denuncia la continua falta de accesibilidad de los recursos",
+         "start": 80.08,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y servicios surgidos a raíz de la pandemia.",
+         "start": 82.58,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La comunicación telefónica no les sirve, y la escrita no es suficiente.",
+         "start": 88.08,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si en estos momentos las personas sordas están",
+         "start": 93.08,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "teniendo servicios adaptados a nuestras necesidades",
+         "start": 95.08,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "es porque nuestra red CNSE de atención a personas sordas COVID19",
+         "start": 98.08,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "está velando por ello, aportando soluciones, y poniendo a disposición recursos",
+         "start": 102.08,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como la interpretación en lengua de signos o la videointerpretación, entre otros.",
+         "start": 106.08,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En lo que respecta a los interrogantes surgidos",
+         "start": 111.08,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "acerca de la homologación de las mascarillas transparentes,",
+         "start": 113.08,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la CNSE califica la misma de condición sine qua non.",
+         "start": 116.08,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es el Ministerio de Sanidad el que debe garantizar",
+         "start": 123.08,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la idoneidad de este producto sanitario.",
+         "start": 125.58,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En tiempos en que las mascarillas higiénicas",
+         "start": 129.08,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y las distancias entre personas",
+         "start": 132.08,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "son la nueva normalidad tanto en las gestiones de la vida diaria",
+         "start": 135.08,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como en los puestos de trabajo,",
+         "start": 137.58,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "debemos como sociedad, ser respetuosos con las personas sordas y asegurar que",
+         "start": 140.08,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la comunicación tiene lugar sin poner en riesgo la seguridad propia y ni la de estas personas.",
+         "start": 144.08,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta línea, la presidenta de la CNSE",
+         "start": 149.08,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "insta a las empresas públicas y privadas que tienen",
+         "start": 151.08,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en su plantilla a personas sordas, a que pongan a su disposición",
+         "start": 153.58,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "toda la información necesaria, ya sea en lengua de signos o con textos escritos,",
+         "start": 156.08,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y aseguren la comunicación con sus empleados.",
+         "start": 162.08,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ha señalado que sus capacidades son las mismas de siempre",
+         "start": 166.08,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y pide que no se incurra en comportamientos discriminatorios.",
+         "start": 170.08,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con voluntad y recursos es posible minimizar las dificultades",
+         "start": 174.08,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que pudieran derivarse de estas medidas sanitarias.",
+         "start": 180.08,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por último, la Confederación recuerda a las administraciones públicas",
+         "start": 187.08,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "su obligación de hacer accesibles la comunicación y la información teniendo",
+         "start": 191.08,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en cuenta la diversidad comunicativa del colectivo de personas sordas,",
+         "start": 197.08,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y pone en valor la lengua de signos en tanto",
+         "start": 201.08,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en cuanto lengua natural de las personas sordas.",
+         "start": 203.08,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante esta pandemia que nos golpea,",
+         "start": 209.08,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la lengua de signos está siendo una herramienta práctica y útil",
+         "start": 211.08,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para evitar la incomunicación y la consiguiente ansiedad que eso produce.",
+         "start": 216.08,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

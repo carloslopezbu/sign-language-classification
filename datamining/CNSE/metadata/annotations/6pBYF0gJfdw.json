@@ -1,0 +1,203 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Ser mujer, sorda y diversa en una sociedad inclusiva, es posible.",
+         "start": 1.48,
+         "duration": 3.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso y ropa verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero solo es posible si convivimos en una sociedad en la que nuestros derechos se vean garantizados y protegidos.",
+         "start": 4.9,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso y ropa verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestra participación en la sociedad tiene que ser real y no utópica.",
+         "start": 13.4,
+         "duration": 5.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque el acceso a los recursos y servicios públicos también es un derecho. Nuestro derecho.",
+         "start": 21.0,
+         "duration": 4.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ser una mujer sorda en una sociedad inclusiva es, ahora y siempre, una lucha continua por apartar los estigmas,",
+         "start": 27.4,
+         "duration": 9.1,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "por vernos reconocidas y empoderadas, por tener una vida digna y de calidad.",
+         "start": 37.4,
+         "duration": 5.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Internacional de la Mujer, desde la CNSE, exigimos que las demandas de las mujeres sordas se recojan en todas las políticas públicas específicas o transversales que incidan y sean inclusivas en el ejercicio de sus derechos, en el que la realidad de todas las mujeres tenga cabida:",
+         "start": 46.4,
+         "duration": 14.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rubio y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos el fomento de una educación no sexista y bilingüe en lengua de signos para la infancia y la adolescencia sorda, de modo que se les permita interiorizar los mismos valores de equidad,",
+         "start": 61.4,
+         "duration": 11.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "respeto a la diversidad y solidaridad que aprenden sus compañeras y compañeros.",
+         "start": 73.9,
+         "duration": 5.2,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos la puesta en marcha de actuaciones que contribuyan a la cualificación e inclusión laboral de las mujeres sordas, y aseguren la equidad profesional y salarial con respecto a los hombres.",
+         "start": 80.9,
+         "duration": 17.4,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo largo y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos la incorporación y permanencia de una lengua de signos y un subtitulado de calidad en aquellas campañas informativas y acciones dirigidas a promover la corresponsabilidad, la coeducación y los derechos sexuales y reproductivos de las mujeres, y a erradicar cualquier sesgo sexista en todos los ámbitos de la vida.",
+         "start": 101.4,
+         "duration": 20.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso y ropa verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos el impulso de buenas prácticas que favorezcan que las mujeres sordas podamos conciliar nuestra vida personal, familiar, asociativa y laboral.",
+         "start": 125.4,
+         "duration": 11.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos el cuidado de hijos, hijas, o familiares ha de ser una tarea reconocida y apoyada por el Estado, y compartida por todos los miembros del hogar.",
+         "start": 138.0,
+         "duration": 13.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos la presencia de profesionales en lengua de signos, española y catalana, en el ámbito sociosanitario, de mediadoras sordas e intérpretes de lengua de signos en centros de salud, hospitales, comisarías, juzgados, casas de acogida, o servicios de urgencia, especialmente en lo que a la atención a mujeres víctimas de violencia de género y mujeres migrantes, refugiadas y solicitantes de asilo se refiere.",
+         "start": 154.4,
+         "duration": 31.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos el desarrollo de servicios de teleasistencia y acompañamiento específicamente diseñados para atender las necesidades de las mujeres mayores sordas.",
+         "start": 187.9,
+         "duration": 6.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rubio y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La edad, es un factor añadido de discriminación, y a menudo, de aislamiento.",
+         "start": 195.0,
+         "duration": 4.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rubio y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La promoción de un cuidado sanitario y una atención especializada accesibles tanto en sus domicilios, como en centros de día y residencias, debe ser una prioridad.",
+         "start": 200.0,
+         "duration": 11.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rubio y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es tiempo de desterrar los prejuicios y estereotipos que nos quieren relegar a un segundo plano.",
+         "start": 212.9,
+         "duration": 5.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiempo de poner fin a aquellas conductas discriminatorias que dificultan nuestro acceso al empleo, a la educación, al autocuidado, a la información, a la sanidad.",
+         "start": 219.9,
+         "duration": 9.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rojizo y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiempo de soluciones, de erradicar la ignorancia, de reconocer nuestros derechos y nuestra plena participación social.",
+         "start": 231.9,
+         "duration": 11.4,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo largo y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es tiempo de sumar fuerzas.",
+         "start": 246.9,
+         "duration": 3.4,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo largo y ropa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "SOMOS MUJERES SORDAS.",
+         "start": 253.4,
+         "duration": 1.8,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Varias mujeres",
+         "screen_position": "multiple"
+      }
+   ]
+}

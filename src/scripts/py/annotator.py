@@ -6,8 +6,8 @@ from typing import List, Literal
 
 import click
 import dotenv
+import logger
 from google import genai
-from logger import logger
 from pydantic import BaseModel, Field
 
 dotenv.load_dotenv()
@@ -46,9 +46,9 @@ class ApiKeyProvider:
 
 
 class Models(StrEnum):
-    Gemini2dot5Pro = "gemini-2.5-pro"
-    Gemini2dot5Flash = "gemini-2.5-flash"
     Gemini2dot0Flash = "gemini-2.0-flash"
+    Gemini2dot5Flash = "gemini-2.5-flash"
+    Gemini2dot5Pro = "gemini-2.5-pro"
     Gemini3dot0Pro = "gemini-3-pro"
 
 
@@ -68,7 +68,7 @@ class Annotator:
         logger.info(f"Processing video: {video_name}")
 
         # 1. Subida
-        logger.debug("Uploading video to Gemini Api...")
+        logger.debug("Uploading video to Gemini API...")
         try:
             file = self.client.files.upload(file=video)
             logger.success("Video uploaded successfully")
@@ -106,10 +106,10 @@ class Annotator:
 
             id_str: str = video.split(".mp4")[0].split("/")[-1]
 
-            if response.parsed:
+            if response.parsed and isinstance(response.parsed, VideoAnalysis):
                 if response.parsed.num_signers == 0:
                     out_path = os.path.join(self.failed_dir, f"{id_str}.json")
-                    logger.warn(f"N signers detected → {out_path}")
+                    logger.warn(f"No signers detected → {out_path}")
                 else:
                     out_path = os.path.join(self.out_dir, f"{id_str}.json")
                     logger.success(
@@ -117,8 +117,8 @@ class Annotator:
                     )
 
                 with open(out_path, "w", encoding="utf-8") as f:
-                    if isinstance(response.parsed, BaseModel):
-                        f.write(response.parsed.model_dump_json(indent=3))
+                    response.parsed.model_dump()
+                    f.write(response.parsed.model_dump_json(indent=3))
 
                 logger.info(f"Saved: {out_path}")
             else:
@@ -197,34 +197,27 @@ def cli(metadata_file: str, out_dir: str, id: int, rest: bool, stats: bool):
 
     with open(metadata_file, "r") as f:
         info: list[dict] = json.load(f)["info"]
-        mdata = info[split(id=id, rest=rest)]
+        info.sort(key=lambda entry: entry["duration"])
+        mdata: list[dict] = info[split(id=id, rest=rest)]
 
-        processed = set()
-        if os.path.exists(out_dir):
-            processed.update(
-                os.path.splitext(f)[0]
-                for f in os.listdir(out_dir)
-                if f.endswith(".json")
-            )
+        batch_size: int = len(mdata)
+        whole: set[str] = set([entry["filename"].split(".mp4")[0] for entry in mdata])
+        processed: set[str] = set(
+            os.path.basename(file).split(".json")[0]
+            for file in os.listdir(out_dir)
+            if os.path.basename(file).endswith(".json")
+        )
 
-        failed_dir = os.path.join(out_dir, "failed")
-        if os.path.exists(failed_dir):
-            processed.update(
-                os.path.splitext(f)[0]
-                for f in os.listdir(failed_dir)
-                if f.endswith(".json")
-            )
+        failed: set[str] = set(
+            os.path.basename(file).split(".json")[0]
+            for file in os.listdir(os.path.join(out_dir, "failed"))
+            if os.path.basename(file).endswith(".json")
+        )
 
-        whole_batch = len(mdata)
-        mdata = [
-            entry
-            for entry in mdata
-            if os.path.splitext(entry["filename"])[0] not in processed
-        ]
+        f2p: set[str] = whole.difference(processed | failed)
+        mdata = [entry for entry in mdata if entry["filename"].split(".mp4")[0] in f2p]
 
-        skipped = whole_batch - len(mdata)
-        if skipped > 0:
-            logger.info(f"Ommiting {skipped} already processed videos")
+        logger.info(f"Skipping {batch_size - len(f2p)}, of {batch_size}")
 
     logger.info(f"Bacth {id}: {len(mdata)} waiting to be processed")
 
@@ -244,24 +237,25 @@ def cli(metadata_file: str, out_dir: str, id: int, rest: bool, stats: bool):
                 for ann in anns:
                     total_duration += ann["duration"]
 
-        print(total_anns)
-        print(total_duration)
+        logger.info(f"{total_anns}")
+        logger.info(f"{total_duration}")
 
-    # ann = Annotator(
-    #     model=Models.Gemini2dot5Flash,
-    #     api_key=ApiKeyProvider.api_key(id=1),
-    #     out_dir=out_dir,
-    # )
+    ann = Annotator(
+        model=Models.Gemini2dot5Pro,
+        api_key=ApiKeyProvider.api_key(id=1),
+        out_dir=out_dir,
+    )
 
-    # for idx, d in enumerate(mdata, 1):
-    #     logger.info(f"[{idx}/{len(mdata)}] Starting the procedure")
-    #     ann.annotate(
-    #         video=os.path.join("./datamining/CNSE/videos/", d["filename"]),
-    #         prompt=prompt.format(d["duration"], d["frames"]),
-    #     )
-    #     logger.info("-" * 80)
+    for idx, d in enumerate(mdata, 1):
+        logger.info(f"[{idx}/{len(mdata)}] Starting the procedure")
+        logger.info(f"Video duration in minutes {d['duration'] / 60}")
+        ann.annotate(
+            video=os.path.join("./datamining/CNSE/videos/", d["filename"]),
+            prompt=prompt.format(d["duration"], d["frames"]),
+        )
+        logger.info("-" * 80)
 
-    # logger.success(f"Batch {id} completed. {len(mdata)} processed videos")
+    logger.success(f"Batch {id} completed. {len(mdata)} processed videos")
 
 
 if __name__ == "__main__":

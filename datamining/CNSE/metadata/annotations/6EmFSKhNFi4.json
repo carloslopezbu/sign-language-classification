@@ -1,0 +1,689 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Durante estos días de confinamiento, hemos intensificado el uso de Internet.",
+         "start": 1.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una situación de la que los ciberdelincuentes intentan beneficiarse a través de estafas, fraudes o robos de identidad.",
+         "start": 5.8,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ante cualquier duda, lo mejor es consultar las fuentes oficiales.",
+         "start": 16.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Oficina de Seguridad del Internauta (OSI), nos alerta de los diez riesgos más habituales en la Red.",
+         "start": 22.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Circulan cientos de mensajes, sobre todo por WhatsApp, con consejos para frenar el coronavirus,",
+         "start": 36.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con enlaces a páginas web donde supuestos “expertos” ofrecen",
+         "start": 43.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sus recomendaciones y soluciones milagrosas ante el virus.",
+         "start": 50.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden intentar estafarnos y robar nuestros datos.",
+         "start": 56.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por seguridad, y por salud, no hagamos caso a estos mensajes.",
+         "start": 60.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Circulan en las redes sociales campañas de donación para para frenar el coronavirus.",
+         "start": 68.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, mandar “Ayuda” al teléfono/email XXXX.",
+         "start": 74.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Algunas iniciativas solidarias son reales, algunas son falsas.",
+         "start": 81.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si quieres donar, primerp comprueba la información.",
+         "start": 85.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si dudas si es real o no, no lo hagas.",
+         "start": 89.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Phishing es el fraude en forma de email",
+         "start": 97.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que parece enviado por instituciones como la OMS,",
+         "start": 101.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "laboratorios, un hospital, etc.",
+         "start": 105.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Incluyen un enlace para ofrecernos un test de coronavirus.",
+         "start": 108.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden robar nuestros datos personales y bancarios.",
+         "start": 115.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son suplantadores de identidad e incluso infectarán nuestro ordenador.",
+         "start": 121.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Smishing es un fraude a través de un SMS, por ejemplo,",
+         "start": 132.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "del Ministerio de Trabajo, del Gobierno de nuestra",
+         "start": 138.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comunidad Autónoma, o del Ayuntamiento,",
+         "start": 142.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para tramitar una solicitud de baja temporal en relación con el coronavirus.",
+         "start": 146.5,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos que dar nuestros datos personales en un enlace.",
+         "start": 151.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es muy posible que sea una trampa. No lo hagas.",
+         "start": 156.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay tiendas que venden en internet mascarillas y guantes,",
+         "start": 165.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "pero se han identificado varias estafas.",
+         "start": 171.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Rechazad este tipo de venta en sitios online que no conozcáis.",
+         "start": 173.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo más probable es que nunca llegue el producto,",
+         "start": 176.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o que envíen algo muy distinto a lo que habéis comprado.",
+         "start": 182.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Coronaware es un virus informático",
+         "start": 192.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que llega a nuestro móvil, tablet u ordenador en forma de archivo",
+         "start": 197.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de vídeo o documento, donde se incluyen instrucciones y alertas",
+         "start": 201.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sobre cómo protegernos contra el COVID-19.",
+         "start": 206.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Abrir cualquier enlace o archivo adjunto que le acompañe,",
+         "start": 209.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "puede infectar y tomar el control de nuestros equipos.",
+         "start": 212.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Circula mensajes que dicen que el Gobierno reparte dinero,",
+         "start": 223.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en cheques con una cantidad de euros para sobrellevar mejor la actual crisis.",
+         "start": 227.8,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para recibir ese dinero, nos piden que hagamos clic en el enlace que viene adjunto.",
+         "start": 235.8,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estos mensajes son falsos.",
+         "start": 241.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Consultad las fuentes oficiales para comprobarlo.",
+         "start": 244.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si recibes una oferta de empleo para elaborar material sanitario, desconfía.",
+         "start": 253.8,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sobre todo, cuando te piden datos personales",
+         "start": 266.8,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o te piden hacer un pago por adelantado en concepto de envío del material.",
+         "start": 268.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os recomendamos que comprobéis la información,",
+         "start": 273.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y si véis algo raro, ignora la oferta.",
+         "start": 276.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son varias las personas que han recibido llamadas",
+         "start": 284.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de un supuesto servicio de soporte técnico para teletrabajo,",
+         "start": 288.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que les atenderá mientras duren estas semanas.",
+         "start": 293.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden robarte datos personales o",
+         "start": 297.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "instalar en tu ordenador algún software malicioso.",
+         "start": 302.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recházalo.",
+         "start": 307.8,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A veces recibimos cupones de descuento y servicios gratuitos.",
+         "start": 314.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, “disfruta de todos nuestros servicios",
+         "start": 321.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de streaming de películas y series de forma totalmente gratuita”.",
+         "start": 323.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo cual es falso. Si hay dudas, consulta la información oficial.",
+         "start": 327.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si piden datos personales y bancarios,",
+         "start": 335.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o piden alguna cantidad para disfrutarlos, desconfía.",
+         "start": 338.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además de las estafas a través de Internet, también se han detectado otras presenciales en casa.",
+         "start": 346.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Policía Nacional alerta de estas visitas a casa, sobre todo a las personas mayores.",
+         "start": 351.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas que vienen a arreglar alguno de los suministros del hogar",
+         "start": 361.5,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como el agua, la luz o internet.",
+         "start": 364.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no has solicitado previamente su servicio, no les dejes entrar.",
+         "start": 368.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Falso personal como médicos o enfermeras",
+         "start": 374.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que dicen que quieren hacerte la prueba del coronavirus, o desinfectar tu hogar.",
+         "start": 378.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desconfía y no les dejes entrar.",
+         "start": 386.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Distribuidores de mascarillas y guantes, que dicen ser de la Administración.",
+         "start": 390.8,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es muy posible que te engañen y no les dejes entrar.",
+         "start": 400.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Repartidores de supermercados u otras tiendas online, si no hemos hecha una compra en ellas.",
+         "start": 404.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por seguridad, las empresas de reparto están dejando los productos en la puerta, y no es necesario abrirles.",
+         "start": 412.8,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por motivos de seguridad.",
+         "start": 420.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No nos dejemos engañar.",
+         "start": 424.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nada de dar datos personales y bancarios a desconocidos.",
+         "start": 428.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ante la duda, consultemos siempre las fuentes oficiales.",
+         "start": 436.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ante cualquier fraude o estafa, podéis llamar a la policía 091 a través de SVisual.",
+         "start": 442.8,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

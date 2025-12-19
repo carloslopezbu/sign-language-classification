@@ -1,0 +1,113 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "SVisual es el primer servicio de videointerpretación para personas sordas de nuestro país. Permite la comunicación telefónica a distancia y en tiempo real entre un interlocutor",
+         "start": 2.4,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "sordo y un oyente, lo que facilita la realización de trámites y gestiones de manera autónoma. Además, SVisual es un servicio gratuito que funciona las 24 horas del día, los 365 días del año,",
+         "start": 6.9,
+         "duration": 11.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "gracias al apoyo de Fundación Vodafone España y el Ministerio de Sanidad, Servicios Sociales e Igualdad. ¿Pero qué supone para sus usuarios? ¿Por qué les resulta tan útil?",
+         "start": 28.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Araceli Hervías: Estoy muy satisfecha con el servicio Svisual, lo veo muy útil. Desde tu casa con tu portátil puedes hacer todo tipo de gestiones y llamadas o incluso en la calle, si pasa cualquier cosa",
+         "start": 36.5,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta de tirantes gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "o encuentras alguna barrera, puedes utilizar el servicio Svisual. Es realmente muy cómodo. A veces, se dan situaciones en las que tienes que hacer una llamada o pedir un intérprete presencial pero están ocupados, no puede atenderte, y",
+         "start": 48.8,
+         "duration": 15.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta de tirantes gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "no pueden atenderte, y a través de Svisual de forma directa e instantánea, sin necesidad de esperar ni pedir citas, puedes utilizar un servicio de interpretación. No tienes que depender de nadie, ni de tu familia,",
+         "start": 104.5,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta de tirantes gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "resumida. Eres tú directamente la que puedes lanzar tus preguntas, tus comentarios o tus reflexiones. Quiero que el servicio Svisual siga funcionando en toda España",
+         "start": 114.8,
+         "duration": 12.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta de tirantes gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mónica Castrillejo: Es muy importante utilizar Svisual, porque nos facilita la independencia y la autonomía a las personas sordas para que, en caso de que pase algo, podamos utilizarlo con total confidencialidad",
+         "start": 128.0,
+         "duration": 11.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sin que necesites la ayuda de un familiar o de otra persona, y respetando tu privacidad. También es un recurso más para acceder a otros servicios, como el servicio de atención a mujeres víctimas de la violencia de género",
+         "start": 139.5,
+         "duration": 8.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la Policía, a servicios de emergencia... Es vital para atender a las personas sordas en todos los ámbitos en general.",
+         "start": 148.2,
+         "duration": 8.3,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mónica Rodríguez: Svisual da una autonomía integral: puedes gestionar tus viajes, gestionar un alquiler de coches, pedir información de hoteles, de vuelos",
+         "start": 158.0,
+         "duration": 10.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "contactar con cualquier sitio al que quieras asistir para poder gestionarlo. .. Te da total autonomía.",
+         "start": 209.0,
+         "duration": 7.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

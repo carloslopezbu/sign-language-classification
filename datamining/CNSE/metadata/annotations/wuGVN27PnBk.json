@@ -1,0 +1,203 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Salvador Illa, el ministro de Sanidad, compareció ayer para informar sobre la alerta sanitaria del coronavirus.",
+         "start": 1.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Resumimos la información más destacada.",
+         "start": 9.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los casos de coronavirus en España superan los 160, siendo la Comunidad de Madrid la que cuenta con más afectados.",
+         "start": 12.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Actualmente, España está en un escenario 1 o de contención.",
+         "start": 22.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Preocupan especialmente zonas como la localidad madrileña de Torrejón de Ardoz y la ciudad de Vitoria,",
+         "start": 28.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "porque no se ha logrado saber el origen de algunos focos de contagio,",
+         "start": 37.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y si tienen o no relación con las países de riesgo, que son China, Irán, Japón, Singapur, Corea y norte de Italia.",
+         "start": 42.8,
+         "duration": 12.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Actualmente, España está en un escenario 1 o de contención.",
+         "start": 56.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasar a un escenario 2 o de mitigación, significaría aplicar nuevas medidas como trabajar desde casa, suprimir las clases, cancelar actos, etc",
+         "start": 100.0,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se aplicarían sólo en zonas muy concretas.",
+         "start": 114.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Actualmente, toda España está en el escenario 1.",
+         "start": 123.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sólo se pasaría al escenario si es estrictamente necesario.",
+         "start": 127.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque supondría un importante impacto socioeconómico para la comunidad.",
+         "start": 133.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuáles son las medidas anunciadas?",
+         "start": 140.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los eventos deportivos que supongan la afluencia de muchas personas procedentes de países de riesgo, se realizarán a puerta cerrada.",
+         "start": 142.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se cancelan los encuentros y congresos médicos para evitar posibles contagios entre personal sanitario.",
+         "start": 155.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Evitar viajes a países de riesgo en la medida de lo posible.",
+         "start": 167.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si se viaja, cuidado a la hora de tratar con personas que tengan síntomas o que pudieran tenerlos.",
+         "start": 172.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para la prevención del coronavirus, debemos extremar las medidas de protección e higiene personal.",
+         "start": 182.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "El teléfono 112 debe utilizarse sólo para informar de posibles casos de contagio.",
+         "start": 190.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para resolver dudas, es mejor dirigirse a los teléfonos gratuitos que tiene cada comunidad autónoma.",
+         "start": 198.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas pueden realizar llamadas al teléfono 112 a través del servicio SVisual.",
+         "start": 205.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y jersey granate",
+         "screen_position": "center"
+      }
+   ]
+}

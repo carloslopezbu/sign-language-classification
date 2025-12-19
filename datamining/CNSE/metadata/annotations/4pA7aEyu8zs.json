@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Os gustaría aprender sobre la igualdad entre mujeres y hombres?",
+         "start": 21.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camisa morada y pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Cómo participo en el curso a distancia?",
+         "start": 109.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camisa morada y pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Hay algún horario para hacer el curso?",
+         "start": 136.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camisa morada y pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Hay que pagar matrícula para la inscripción?",
+         "start": 209.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camisa morada y pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Hay límite en el número de plazas?",
+         "start": 216.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camisa morada y pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Qué documentación hay que mandar para inscribirse?",
+         "start": 230.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camisa morada y pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Una vez inscrita, ¿cómo accedo a la plataforma de formación?",
+         "start": 331.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camisa morada y pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Si tengo dudas del curso a quién pregunto?",
+         "start": 430.2,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con camisa morada y pelo recogido",
+         "screen_position": "left"
+      }
+   ]
+}

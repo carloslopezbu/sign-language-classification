@@ -1,0 +1,392 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Las mascarillas dejarán de ser obligatorias en los espacios al aire libre",
+         "start": 1.21,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "a partir del sábado 26 de junio, siempre que haya una distancia de seguridad",
+         "start": 4.71,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "con otras personas de al menos 1,5 metros.",
+         "start": 11.71,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "No será necesario mantener esta distancia cuando se trate de grupos de convivientes.",
+         "start": 15.01,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta medida viene motivada por la evolución de la pandemia en nuestro país,",
+         "start": 20.81,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como por el creciente número de ciudadanas y ciudadanos vacunados:",
+         "start": 28.51,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "más del 32% de la población, tiene la pauta completa,",
+         "start": 33.81,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y el 50% cuenta, al menos, con una dosis.",
+         "start": 40.51,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, deberemos llevar la mascarilla siempre a mano ya que,",
+         "start": 46.81,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en muchas circunstancias, su uso seguirá siendo obligatorio.",
+         "start": 50.81,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tendremos que llevar mascarilla en cualquier espacio cerrado de uso público",
+         "start": 58.81,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "como comercios, supermercados, oficinas, farmacias, bares, bibliotecas, iglesias,",
+         "start": 61.81,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "cines, teatros, hospitales, gimnasios, centros comerciales, etc.",
+         "start": 69.81,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "También en los espacios al aire libre en los que",
+         "start": 78.81,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "no se pueda mantener la distancia de seguridad.",
+         "start": 81.81,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, si estamos en grupo, si esperamos una cola,",
+         "start": 84.81,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en aglomeraciones de gente, en una terraza con no convivientes,",
+         "start": 91.51,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "o en eventos multitudinarios al aire libre cuando los asistentes estén de pie o",
+         "start": 101.51,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "estando sentados, no se puede mantener un mínimo de 1,5 metros de distancia entre ellos.",
+         "start": 108.51,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En playas y piscinas deberán utilizarse si no podemos mantener",
+         "start": 114.81,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "dicha distancia de seguridad, y al acceder a zonas",
+         "start": 119.81,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "comunes como vestuarios y otras zonas cerradas",
+         "start": 124.51,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En los estadios de futbol y baloncesto, cada comunidad autónoma",
+         "start": 129.81,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "será la encargada de regular la presencia de público y los aforos.",
+         "start": 137.51,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las mascarillas serán obligatorias en medios de transporte por carretera,",
+         "start": 148.81,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "aéreo y marítimo, tren y teleférico, así como en los andenes",
+         "start": 153.51,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y estaciones de viajeros, y en los aeropuertos.",
+         "start": 160.51,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si viajamos en transporte público deberemos llevarla puesta, y",
+         "start": 165.81,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en vehículos privados, si los ocupantes no conviven en el mismo domicilio.",
+         "start": 169.81,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de los pasajeros de barcos y embarcaciones,",
+         "start": 180.81,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "dentro de su camarote, o en espacios exteriores en los que se pueda mantener",
+         "start": 185.51,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "la distancia de seguridad de al menos 1,5 metros.",
+         "start": 193.51,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En las residencias de personas mayores y personas dependientes,",
+         "start": 201.81,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "las y los residentes estarán exentos del uso de mascarillas siempre",
+         "start": 206.51,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y cuando el 80% de los que allí viven, y sus cuidadoras y cuidadores,",
+         "start": 214.51,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "estén vacunados con la pauta completa.",
+         "start": 222.51,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta excepción no será de aplicación ni a los visitantes externos",
+         "start": 228.81,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "ni a los trabajadores de dichos centros.",
+         "start": 233.81,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "La flexibilización en el uso de las mascarillas pretende ser prudente,",
+         "start": 241.51,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "progresiva y gradual y adaptarse a la actual situación epidemiológica en España,",
+         "start": 247.51,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "al igual que están haciendo otros países con situaciones similares de nuestro entorno.",
+         "start": 252.51,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "El no llevar la mascarilla en los sitios correspondientes",
+         "start": 258.81,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "puede suponer una multa de hasta 100 euros.",
+         "start": 264.51,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      }
+   ]
+}

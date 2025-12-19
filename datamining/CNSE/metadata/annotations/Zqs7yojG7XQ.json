@@ -1,0 +1,167 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "El Día Internacional de la Lengua Materna se celebra cada 21 de febrero,",
+         "start": 1.501,
+         "duration": 5.338,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "a iniciativa de la UNESCO, con el objetivo de promover",
+         "start": 7.34,
+         "duration": 3.904,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "la diversidad lingüística y la educación multilingüe.",
+         "start": 11.744,
+         "duration": 3.567,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La educación en la lengua materna es un factor clave para un aprendizaje eficaz,",
+         "start": 17.52,
+         "duration": 4.735,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "especialmente durante la educación infantil y primaria.",
+         "start": 22.255,
+         "duration": 4.838,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según demuestran las investigaciones, agiliza la adquisición de conocimientos,",
+         "start": 28.294,
+         "duration": 9.213,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "mejora los resultados y el rendimiento escolar,",
+         "start": 38.508,
+         "duration": 5.669,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y nos brinda los recursos necesarios para construir una identidad sólida.",
+         "start": 45.011,
+         "duration": 7.508,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, el 40% de la población mundial sigue sin tener acceso",
+         "start": 54.856,
+         "duration": 3.568,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "a una educación en la lengua que habla o comprende, obligándoles con ello,",
+         "start": 58.424,
+         "duration": 5.175,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "a renunciar a una herramienta natural de pensamiento y comunicación que",
+         "start": 63.599,
+         "duration": 5.175,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "lleva consigo todo el patrimonio cultural y la memoria colectiva que en ella se arraiga.",
+         "start": 68.774,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo canoso corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Internacional de la Lengua Materna, reivindicamos el derecho de las personas sordas a educarse en su lengua materna.",
+         "start": 74.346,
+         "duration": 9.674,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos una escuela inclusiva y saludable donde todas las alumnas y alumnos",
+         "start": 85.021,
+         "duration": 8.509,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "tengan idénticas oportunidades e idénticas condiciones.",
+         "start": 93.53,
+         "duration": 11.334,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos la comprensión, el respeto mutuo, la convivencia.",
+         "start": 105.865,
+         "duration": 5.373,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos el uso de las lenguas de signos, nuestras lenguas propias.",
+         "start": 111.238,
+         "duration": 5.805,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Feliz día internacional de la Lengua Materna!",
+         "start": 118.044,
+         "duration": 2.502,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      }
+   ]
+}

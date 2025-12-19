@@ -1,0 +1,131 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La nueva normalidad inaugurada el 21 de junio en toda España, ha puesto fin al estado de alarma decretado para hacer frente a la pandemia.",
+         "start": 1.24,
+         "duration": 12.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las ciudadanas y ciudadanos hemos recuperado la libertad de movimientos, y la actividad se ha intensificado en todos los ámbitos,",
+         "start": 14.84,
+         "duration": 13.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "lo que ha supuesto numerosos rebrotes de coronavirus en todo el territorio.",
+         "start": 28.64,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según datos del Ministerio de Sanidad, España acumula 70 brotes de coronavirus desde el inicio de la desescalada,",
+         "start": 39.84,
+         "duration": 11.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de los que al menos 45 están todavía activos.",
+         "start": 51.84,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Más de un millar de personas han resultado contagiadas en los últimos días, y al menos 900 continúan con la enfermedad.",
+         "start": 58.64,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los focos más preocupantes en este momento son los de las comarcas de Segrià (Lleida) y A Mariña (Lugo) que han obligado a confinar de nuevo a miles de personas.",
+         "start": 71.84,
+         "duration": 24.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También son numerosos los contagiados en Aragón, que ha tenido que retroceder a la fase 2 en algunas zonas, y el rebrote de un centro de acogida de Cruz Roja en Málaga.",
+         "start": 97.64,
+         "duration": 16.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todos ellos superan el centenar de contagios.",
+         "start": 115.64,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ante un escenario así resulta clave detectar, aislar y controlar los posibles brotes, y actuar con prudencia y responsabilidad.",
+         "start": 125.64,
+         "duration": 11.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora más que nunca es importante que no nos relajemos.",
+         "start": 138.04,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debemos cumplir las medidas sanitarias de higiene, distanciamiento y uso de mascarillas, y ante cualquier síntoma, avisar a nuestro centro de salud y permanecer aislados en casa para no contagiar a otras personas.",
+         "start": 141.84,
+         "duration": 14.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El virus sigue ahí.",
+         "start": 157.04,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Frenarlo es cosa de todos.",
+         "start": 160.84,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,221 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La ministra de Sanidad, Carolina Darias, ha anunciado que el precio máximo de los test de antígenos para el autodiagnóstico de COVID-19",
+         "start": 1.042,
+         "duration": 11.804,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "será de 2,94€.",
+         "start": 19.853,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La medida entrará en vigor el sábado 15 de enero en todos los establecimientos farmacéuticos de nuestro país.",
+         "start": 23.857,
+         "duration": 9.009,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿En qué se diferencia un test de antígenos de una PCR?",
+         "start": 37.037,
+         "duration": 10.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tanto los test de antígenos como las PCR son pruebas que sirven para detectar una infección activa por COVID-19.",
+         "start": 48.048,
+         "duration": 7.007,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los primeros detectan las proteínas del virus mientras la infección está teniendo lugar.",
+         "start": 56.556,
+         "duration": 12.012,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una prueba rápida y sencilla que puede realizar el personal sanitario o utilizarse para el autodiagnóstico en casa, ya que no requiere el análisis de las muestras por parte de un laboratorio.",
+         "start": 109.569,
+         "duration": 21.021,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se adquieren en farmacias y su resultado se conoce en aproximadamente 15 minutos.",
+         "start": 131.091,
+         "duration": 9.91,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, las pruebas PCR detectan la presencia de material genético del virus mediante una muestra biológica.",
+         "start": 142.002,
+         "duration": 9.009,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de una prueba que debe realizarse en centros sanitarios para su traslado al laboratorio, y que precisa de varias horas para tener un resultado.",
+         "start": 151.511,
+         "duration": 10.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay dos tipos de test de antígenos en función del tipo de muestra que se analiza: los test de saliva y los test nasales.",
+         "start": 205.025,
+         "duration": 12.012,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En ambos casos, el funcionamiento es muy sencillo.",
+         "start": 218.038,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo primero sería coger el hisopo o bastoncillo y tomar una muestra de la nariz o la garganta, mezclarla con un reactivo que libera proteínas específicas del virus, y ponerla en una tira de papel que contiene un anticuerpo.",
+         "start": 221.041,
+         "duration": 32.032,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de que dichas proteínas estén presentes en la muestra el resultado será positivo, lo que significaría que estamos infectados.",
+         "start": 254.074,
+         "duration": 10.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Sus resultados son fiables?",
+         "start": 308.588,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La fiabilidad de los test de antígenos se sitúa entre el 80% y el 99%, según el modelo utilizado.",
+         "start": 313.593,
+         "duration": 9.91,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sus resultados son más precisos en los primeros días de infección, es decir, cuando han pasado menos de 5 días desde la aparición de los primeros síntomas.",
+         "start": 324.004,
+         "duration": 12.012,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es por ello, que pueden darse falsos negativos en personas asintomáticas o con poca carga viral,",
+         "start": 337.017,
+         "duration": 11.011,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "algo que, sin embargo, no sucede con una PCR dada su mayor sensibilidad.",
+         "start": 348.528,
+         "duration": 7.508,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, en muchas ocasiones, las PCR siguen dando positivo incluso cuando la carga vírica es mínima y ya no existe posibilidad de contagio.",
+         "start": 357.037,
+         "duration": 12.012,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué debo hacer tras conocer el resultado?",
+         "start": 413.053,
+         "duration": 4.504,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si el resultado del test de antígenos es positivo, el/la paciente debe autoaislarse y comunicarlo al centro sanitario para confirmarlo con otra prueba, y tener un seguimiento médico.",
+         "start": 418.558,
+         "duration": 17.017,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si el resultado es negativo no se precisa de aislamiento, si bien no hay que relajar las medidas de protección como mantener la higiene, tomar distancia, y usar la mascarilla.",
+         "start": 436.576,
+         "duration": 13.013,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de presentar síntomas compatibles con la COVID, aun teniendo un resultado negativo, el/la paciente debe autoaislarse y contactar con su centro sanitario.",
+         "start": 450.59,
+         "duration": 12.513,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,203 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Tras la declaración del estado de alarma en España,",
+         "start": 0.0,
+         "duration": 3.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "los ministros de Sanidad, Transporte e Interior, y la ministra de Defensa, comparecieron ayer en rueda de prensa.",
+         "start": 3.12,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os contamos las cuestiones más destacadas.",
+         "start": 12.12,
+         "duration": 3.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los cuerpos de seguridad controlarán:",
+         "start": 16.72,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El buen funcionamiento de los centros sanitarios, y el apoyo en los desplazamientos de emergencia de pacientes y personal o material sanitario.",
+         "start": 22.12,
+         "duration": 13.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El correcto suministro de alimentos y bienes y servicios de primera necesidad",
+         "start": 36.52,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El cumplimiento de no salir de casa si no es dentro de lo permitido, y siempre de manera individual y no en grupo.",
+         "start": 45.4,
+         "duration": 13.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que no haya aglomeraciones en el transporte público",
+         "start": 59.6,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ello, contarán con el apoyo de las Fuerzas Armadas, y de la Unidad Militar de Emergencias, que además realizará labores de desinfección donde sea necesario.",
+         "start": 106.6,
+         "duration": 15.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los hospitales privados y militares pasarán a manos del Estado.",
+         "start": 122.8,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También se podrán espacios públicos o privados, como por ejemplo, hoteles, habilitar para uso sanitario.",
+         "start": 131.0,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, personal médico y de enfermería pertenecientes al Ejército, serán llamados para apoyar la labor en hospitales y centros sanitarios.",
+         "start": 139.8,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se da un plazo de 48 horas para que las personas y empresas que dispongan de productos de protección y diagnóstico como mascarillas o guantes, que no sean el de uso propio, lo pongan en conocimiento del Ministerio de Sanidad.",
+         "start": 150.8,
+         "duration": 18.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, se ordena a las empresas que tengan capacidad de producción de estos productos,",
+         "start": 209.8,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se apoyará económicamente a los centros de investigación, con el objetivo de avanzar en tratamientos eficaces contra esta pandemia.",
+         "start": 224.6,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas dos semanas del Estado de Alarma, se consideran días no hábiles a efectos administrativos.",
+         "start": 237.4,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tienes un plazo máximo para presentar algún papel a la administración o cualquier otro trámite, estos 15 días no cuentan.",
+         "start": 245.8,
+         "duration": 14.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Instituciones Penitenciarias ha aislado todas las cárceles españolas prohibiendo las visitas presenciales, y también los permisos de salida.",
+         "start": 303.8,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero se potenciarán las telefónicas.",
+         "start": 316.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todo esto fue anunciado ayer por la noche",
+         "start": 321.0,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy, Fernando Simón, el director del Centro de Emergencias Sanitarias, ha estimado que los casos de coronavirus pueden seguir en incremento entre 4 a 7 días, para después comenzar a disminuir.",
+         "start": 324.0,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto dependerá de que las medidas impuestas se sigan a rajatabla, y pide la colaboración de todas y todos para lograrlo.",
+         "start": 342.6,
+         "duration": 12.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

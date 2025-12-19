@@ -1,0 +1,635 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Mi signo es Nerea.",
+         "start": 0.21,
+         "duration": 1.11,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy sorda.",
+         "start": 2.9,
+         "duration": 1.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiene 29 años y vive en Cuenca. La enfermería es su vocación.",
+         "start": 10.2,
+         "duration": 4.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acabó la carrera en 2021 y ahora ha dado el salto al Doctorado.",
+         "start": 16.2,
+         "duration": 5.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ha trabajado en hospitales, residencias, centros de salud ... y aunque afirma",
+         "start": 22.9,
+         "duration": 5.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "haber sentido barreras tanto en el entorno académico como en el laboral,",
+         "start": 31.2,
+         "duration": 3.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "también reconoce haber encontrado apoyos.",
+         "start": 35.8,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Internacional de la Salud, hoy nos acompaña",
+         "start": 38.8,
+         "duration": 3.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "en Signar Por Derecho, Nerea Moreno, enfermera sorda.",
+         "start": 42.1,
+         "duration": 4.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo ha sido tu experiencia trabajando en distintos ámbitos de la enfermería?",
+         "start": 48.2,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te has enfrentado a muchos hándicaps?",
+         "start": 55.2,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo único, tal vez, la comunicación con mis colegas y con las/os pacientes.",
+         "start": 58.8,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso sí que me ha costado un poco... pero en general, todo ha ido bien.",
+         "start": 105.9,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo siempre me presento diciendo que soy enfermera y que soy sorda",
+         "start": 111.1,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que lo tengan en cuenta cuando se comuniquen conmigo.",
+         "start": 117.3,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero no me puedo quejar. Trabajar en el hospital ha sido una experiencia",
+         "start": 122.4,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "positiva. En la residencia fue más difícil porque los recursos eran privados",
+         "start": 127.2,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y el entorno más complejo y estresante, pero bueno...",
+         "start": 132.5,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo te comunicas con pacientes y compañeros/as en situaciones de urgencia?",
+         "start": 137.5,
+         "duration": 4.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "En una situación de urgencia lo importante es mantener la cabeza fría, la concentración y la seriedad.",
+         "start": 143.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mantener la calma y la organización hasta que termine la situación de urgencia, y listo.",
+         "start": 152.4,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es cierto que, una vez que acaba todo, te relajas, porque has vivido con tensión",
+         "start": 203.6,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "la urgencia dado que el paciente o la paciente en cuestión estaba fatal... y eso preocupa.",
+         "start": 210.4,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, en mi caso, se añade la tensión de ser una persona sorda.",
+         "start": 217.6,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En una situación así, a menudo he pensado: ‘no voy a poder’, o ‘no me voy a enterar de nada’...",
+         "start": 221.7,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero sí, he entendido todo a la perfección. También porque mis compañeras/os se",
+         "start": 225.9,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "adaptan a mí muy bien, y va todo sobre ruedas y sin problemas.",
+         "start": 229.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como digo, lo importante es mantener la calma y comunicarse sin presiones.",
+         "start": 233.9,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "De esa forma, se consiguen más cosas.",
+         "start": 239.5,
+         "duration": 2.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Por qué decidiste dar el salto al doctorado?",
+         "start": 243.5,
+         "duration": 2.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "En un principio tenía mis reservas porque en la carrera sufrí mucho debido a todas",
+         "start": 248.0,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "las barreras que había. No me enteraba de nada en las clases, no tenía apuntes, ...",
+         "start": 253.1,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fue una época que viví con depresión y ansiedad. Recuerdo pensar que, una vez",
+         "start": 259.8,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "terminada la carrera, no querría estudiar nada más porque eso supondría más sufrimiento.",
+         "start": 304.8,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi idea era ir a trabajar a un hospital o a un centro de salud una vez terminados mis estudios y seguir ese camino.",
+         "start": 310.8,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero mi profesora me dijo que yo tenía la capacidad, la valía y la habilidad investigadora para afrontar el Doctorado y me animó a iniciarlo.",
+         "start": 319.6,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Decidí darle una oportunidad y aquí estoy.",
+         "start": 332.6,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuáles han sido los mayores desafíos a los que te has enfrentado durante tu trayectoria profesional?",
+         "start": 338.3,
+         "duration": 4.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para mí la pandemia supuso un reto muy duro que sufrí mucho.",
+         "start": 343.9,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Llegué a pensar que no podría desempeñar mi trabajo como enfermera siendo sorda, que tendría que dejarlo, y muchos otros pensamientos negativos.",
+         "start": 350.1,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Finalmente, la situación de pandemia fue mejorando con el paso del tiempo,",
+         "start": 358.6,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "sí, pero en el ámbito sanitario el uso de la mascarilla seguía siendo obligatorio",
+         "start": 403.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y daba la sensación de que nunca iba a terminar.",
+         "start": 408.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que en 2023 anunciaran el fin del uso obligatorio de mascarillas, fue la mejor noticia para mí.",
+         "start": 413.4,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Volvía a sentirme una enfermera como yo podía ser, animada, con mayor rendimiento, comunicándome con compañeras/os y pacientes... y eso me hizo sentirme independiente.",
+         "start": 425.6,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Has encontrado más barreras que apoyos en tu entorno académico y laboral?",
+         "start": 443.5,
+         "duration": 5.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "He sentido barreras tanto en el entorno académico como en el laboral, aunque también apoyos.",
+         "start": 451.7,
+         "duration": 7.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Especialmente en el primero, es donde he sentido más las barreras.",
+         "start": 500.0,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Teníamos 6 horas de clase al día y para mí, eran demasiadas horas prestando atención,",
+         "start": 505.7,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "concentrada, leyendo los labios del profesorado...me costaba mucho.",
+         "start": 512.4,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acababa mentalmente agotada y no conseguía entenderlo todo.",
+         "start": 518.2,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Era demasiada carga formativa, muchas veces no contaba con apuntes, y todo se hacía muy difícil.",
+         "start": 522.9,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, sentía que algunas/os compañeras/os de clase eran muy competitivas/os y querían sacar las mejores notas.",
+         "start": 533.7,
+         "duration": 9.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y esa competitividad que se respiraba me afectaba, porque yo estaba en desventaja.",
+         "start": 544.6,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el ámbito laboral también he enfrentado barreras, pero menos...",
+         "start": 551.0,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "nada que ver con el ámbito académico.",
+         "start": 555.7,
+         "duration": 1.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el trabajo cada cual tiene su rol y debemos adaptarnos para conseguir",
+         "start": 557.9,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "avanzar: yo a las personas oyentes y las personas oyentes a mí.",
+         "start": 603.8,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué les dirías a otras personas sordas que quieren dedicarse a la enfermería o a la investigación?",
+         "start": 611.4,
+         "duration": 6.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si queréis dedicaros a la enfermería, os animo a hacerlo porque es una profesión maravillosa.",
+         "start": 619.1,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No importa que seáis personas sordas: sois capaces.",
+         "start": 626.1,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La experiencia será buena.",
+         "start": 631.4,
+         "duration": 2.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así que, si queréis ser profesionales de la enfermería, podéis. Debéis ser muy persistentes, eso sí, pero podéis conseguirlo.",
+         "start": 635.1,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto a la investigación podéis hacerlo, desde luego, aunque es cierto",
+         "start": 643.1,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "que es diferente a la enfermería, donde tienes que hablar con el paciente y",
+         "start": 647.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "relacionarte, mientras que en la investigación vas a estar en la universidad con otros",
+         "start": 652.9,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "compañeros en aulas con ordenadores, como estoy yo aquí,",
+         "start": 658.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la interacción con pacientes es menor, prácticamente nula.",
+         "start": 702.9,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es cierto que es un trabajo duro donde necesitas mucha paciencia,",
+         "start": 707.2,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "pero cuando lo consigues, es muy emocionante.",
+         "start": 712.4,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, gafas, jersey verde claro",
+         "screen_position": "center"
+      }
+   ]
+}

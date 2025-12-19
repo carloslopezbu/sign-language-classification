@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Presentación",
+         "start": 9.409,
+         "duration": 12.413,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Objetivos",
+         "start": 22.322,
+         "duration": 15.182,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fechas del curso",
+         "start": 38.338,
+         "duration": 5.873,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Participantes",
+         "start": 44.644,
+         "duration": 3.971,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Temario del curso",
+         "start": 49.216,
+         "duration": 18.285,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Inscripción",
+         "start": 68.034,
+         "duration": 5.172,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      },
+      {
+         "text": "CNSE - Área Igualdad de Género. C/ Montesa 38 c/v Pasaje Martí. 28006 Madrid Fax: 91 355 43 36. E-mail: igualdad.genero@cnse.es",
+         "start": 73.807,
+         "duration": 8.675,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Metodología",
+         "start": 83.316,
+         "duration": 17.484,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Contacto",
+         "start": 101.234,
+         "duration": 4.171,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Teléfono: 91 356 58 32 E-mail: igualdad.genero@cnse.es",
+         "start": 105.839,
+         "duration": 2.669,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido en trenzas",
+         "screen_position": "center"
+      }
+   ]
+}

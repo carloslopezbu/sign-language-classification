@@ -1,0 +1,194 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hay 2 gráficas que son interesantes o importantes para entender cómo evolucionan las epidemias.",
+         "start": 0.6,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "está relacionada con la detección precoz y el control de los brotes.",
+         "start": 6.2,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nosotros normalmente cuando tenemos una epidemia",
+         "start": 14.1,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "esperamos que empiecen los casos y progresivamente vayan afectando población y cuando la masa crítica de población desaparece, vaya bajando.",
+         "start": 16.1,
+         "duration": 11.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nosotros podemos implementar las medidas de control en diferentes momentos.",
+         "start": 27.8,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si esperamos a que a este momento, nosotros podríamos evitar quizás, si hay suerte, toda esta parte.",
+         "start": 30.3,
+         "duration": 12.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El objetivo de la detección precoz que es siempre la parte importante al inicio de las epidemias es actuar aquí,",
+         "start": 43.0,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "detectar cuanto antes el problema de forma que nuestra curva en lugar de seguir ese patrón siga este.",
+         "start": 51.0,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ese es el objetivo inicial y por lo tanto, lo que eliminamos de epidemia es también todo esto.",
+         "start": 59.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esa es una de las curvas que tenemos que entender.",
+         "start": 106.4,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Hasta ahora nuestro objetivo ha sido esta actuación.",
+         "start": 109.7,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora, cuando hay transmisión más diseminada en algunas zonas tenemos que plantearnos otro aspecto y ese aspecto está relacionado con cómo se transmiten las enfermedades.",
+         "start": 112.6,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Yo creo que la población ya conoce un número El número de reproducción lo llamamos normalmente \"R 0\".",
+         "start": 125.2,
+         "duration": 9.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ese número es el número de casos secundarios que produce cada caso primario.",
+         "start": 134.8,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si nosotros tenemos una enfermedad que cada caso transmite a muchas personas, en muy poco tiempo, tendremos toda la población afectada y la epidemia sin que hagamos nada va a tener esta forma, muy aguda, muy picuda.",
+         "start": 138.9,
+         "duration": 17.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si la enfermedad se transmite a poca gente, por ejemplo, el sarampión transmite cada caso alrededor de 15 personas, otras enfermedades transmiten solamente a dos.",
+         "start": 156.4,
+         "duration": 9.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si estamos en la situación en la que sólo se transmiten a dos, tendremos una epidemia que será mucho más lenta, que si no hacemos nada puede llegar a afectar al mismo número de personas, pero mucho más dilatado en el tiempo.",
+         "start": 206.3,
+         "duration": 13.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si yo tardó dos días en implementar las medidas de control en esta epidemia, los dos días puede ser ya aquí y por lo tanto no me da tiempo a gestionarla bien. En una lenta que se transmite menos, esa acción, va a ser mucho más larga en el tiempo y por lo tanto, este mismo momento de implementación de medidas, me permite controlar mucha más parte de la enfermedad.",
+         "start": 222.1,
+         "duration": 23.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En este caso cuando ya hay transmisión comunitaria, lo que nos interesa es que ese número de casos secundarios se reduzca lo más posible para alargar ese periodo en el que puede haber casos y que podamos reaccionar antes de llegar a este momento.",
+         "start": 246.8,
+         "duration": 15.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y eso se basa todo en ese número.",
+         "start": 303.1,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si yo sé que una enfermedad transmite a dos personas a partir de cada caso original, lo que tengo que conseguir es que ese número 2 se convierta en un 1 o menor. De forma que cada caso no incremente la curva, sino que la mantenga en una línea horizontal o en caso de que bajemos de 1 desaparezca.",
+         "start": 305.2,
+         "duration": 24.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta oscura",
+         "screen_position": "news-corner"
+      }
+   ]
+}

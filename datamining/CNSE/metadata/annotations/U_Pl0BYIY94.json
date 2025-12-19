@@ -1,0 +1,149 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Lunes 4 de abril.",
+         "start": 1.12,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Rusia ha anunciado que reducirá sus operaciones militares contra las ciudades de Kyyiv y Chernígov",
+         "start": 4.12,
+         "duration": 11.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "tras la renuncia del gobierno ucraniano a entrar en la OTAN.",
+         "start": 16.08,
+         "duration": 8.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tras varios días de conversaciones en Turquía, las delegaciones de ambos países se han comprometido a la redacción de un acuerdo por el que Ucrania aceptaría ser neutral, lo que supondría no tener armas nucleares",
+         "start": 26.88,
+         "duration": 21.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ni permitir bases militares extranjeras en su territorio.",
+         "start": 48.8,
+         "duration": 9.08,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un avance en las negociaciones que la resistencia ucraniana observa con una actitud vigilante.",
+         "start": 59.68,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así lo manifestó ayer mismo Zelenski tras conocer que las tropas rusas se están trasladando a la zona del Dombás acompañadas de mercenarios del grupo Wagner, una fuerza paramilitar privada que ha participado en guerras como la de Siria, Libia",
+         "start": 110.88,
+         "duration": 28.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o la República Centroafricana.",
+         "start": 141.2,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "“No reduciremos nuestros esfuerzos en defensa mientras los ataques rusos no se detengan”.",
+         "start": 147.96,
+         "duration": 9.08,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mientras, continúa el asedio a la ciudad de Mariúpol, un enclave estratégico al que Putin se niega a renunciar dada su cercanía al mar Negro.",
+         "start": 158.08,
+         "duration": 15.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A ello se suma la masacre provocada por el ejército del Kremlin en dos localidades cercanas a Kyyiv durante las últimas horas.",
+         "start": 214.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Más concretamente en Bucha, donde se han hallado más de 400 muertos en calles y fosas comunes,",
+         "start": 221.08,
+         "duration": 14.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en Irpin, donde decenas de mujeres y niñas han sido tiroteadas y posteriormente arrolladas por los tanques rusos.",
+         "start": 236.6,
+         "duration": 11.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Crueles crímenes de guerra que, si bien Rusia niega, han llevado a Estados Unidos y la Unión Europea a aprobar un quinto paquete de sanciones contra este país con el objetivo de poner fin al conflicto.",
+         "start": 249.68,
+         "duration": 22.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un conflicto que, según datos de la ONU, ha causado ya 3.455 bajas civiles (1.417 muertos y 2.038 heridos).",
+         "start": 313.6,
+         "duration": 17.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, se prevé que el presidente ucraniano comparezca por videoconferencia en el Congreso de los Diputados mañana martes, como parte de la campaña para reafirmar el apoyo de la comunidad internacional contra la invasión rusa en Ucrania.",
+         "start": 332.88,
+         "duration": 19.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

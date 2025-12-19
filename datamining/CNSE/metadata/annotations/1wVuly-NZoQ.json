@@ -1,0 +1,167 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Ministerio de Asuntos Exteriores recomienda a las ciudadanas y ciudadanos españoles residentes en España que están en el extranjero temporalmente,",
+         "start": 1.4,
+         "duration": 8.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya sea por vacaciones, estudios o trabajo, que regresen lo antes posible.",
+         "start": 9.9,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ante el cierre de fronteras y las restricciones de transportes aéreos, terrestres y marítimos,",
+         "start": 17.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el Ministerio ha activado los mecanismos para garantizar la vuelta a España.",
+         "start": 24.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si estás en el extranjero y quieres regresar a España, contacta con la Embajada o Consulado español del país en el que estés,",
+         "start": 28.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que puedan conocer la situación y orientarte.",
+         "start": 37.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué debo hacer si no encuentro vuelos para regresar a España?",
+         "start": 44.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Contacta con la Embajada o Consulado para que estudien el caso.",
+         "start": 49.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ellos están en contacto con líneas aéreas, hoteles, y autoridades de cada país para resolver estos casos.",
+         "start": 54.8,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué debo hacer si mi vuelo a España ha sido cancelado?",
+         "start": 65.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En primer lugar, gestionar el regreso con la línea área o agencia de viajes, para que te den una alternativa.",
+         "start": 72.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no fuera posible, recurre a la Embajada o Consulado.",
+         "start": 79.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la web del Ministerio de Asuntos Exteriores. puedes consultar la relación completa de las Embajadas y de los Consulados",
+         "start": 84.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También puedes contactar con la División de Emergencia Consular del Ministerio, a través del teléfono +34 91 394 8900, activo las 24 horas del día.",
+         "start": 92.5,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aquellas españolas y españoles que residen permanentemente en el extranjero, no es necesario que regresen a España.",
+         "start": 104.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es mejor que permanezcan en su país de residencia y limiten cualquier desplazamiento que no sea imprescindible.",
+         "start": 110.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los extranjeros residentes en España no tienen obligación de abandonar el país.",
+         "start": 121.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden quedarse, siguiendo siempre las medidas dictadas por las autoridades españolas.",
+         "start": 125.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

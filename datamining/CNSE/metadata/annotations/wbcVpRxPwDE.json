@@ -1,0 +1,257 @@
+{
+   "num_signers": 27,
+   "annotations": [
+      {
+         "text": "Agrupación de Personas Sordas de Granada y Provincia",
+         "start": 0.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Oviedo",
+         "start": 6.9,
+         "duration": 3.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre mayor con pelo canoso y camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas \"Villa de Jovellanos\"",
+         "start": 10.8,
+         "duration": 5.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Avilés y Comarca",
+         "start": 17.8,
+         "duration": 5.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con pelo largo y gafas redondas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas del Valle del Nalón",
+         "start": 23.5,
+         "duration": 4.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre mayor con barba, gafas y jersey oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Sordos de Santander y Cantabria",
+         "start": 28.8,
+         "duration": 6.7,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer mayor con pelo corto canoso y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Sordos del Besaya",
+         "start": 36.8,
+         "duration": 5.4,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación Cultural de Personas Sordas de Cuenca",
+         "start": 42.8,
+         "duration": 5.2,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con pelo canoso y jersey oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Agrupación de Personas Sordas de Ciudad Real",
+         "start": 48.7,
+         "duration": 3.3,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación Cultural de Personas Sordas de Guadalajara",
+         "start": 52.8,
+         "duration": 4.2,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre con sudadera gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Illescas",
+         "start": 57.8,
+         "duration": 3.2,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Hombre con barba, gafas y jersey a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Almansa",
+         "start": 101.8,
+         "duration": 5.9,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación Provincial de Sordos de Toledo",
+         "start": 108.8,
+         "duration": 4.2,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Talavera de la Reina",
+         "start": 113.8,
+         "duration": 4.2,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de la Comarca del Bierzo",
+         "start": 118.5,
+         "duration": 7.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de personas en un evento",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Mérida",
+         "start": 126.8,
+         "duration": 5.2,
+         "signer_id": 14,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Badajoz",
+         "start": 132.8,
+         "duration": 4.2,
+         "signer_id": 15,
+         "aligned": true,
+         "signer_description": "Hombre con polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Cáceres",
+         "start": 137.8,
+         "duration": 3.2,
+         "signer_id": 16,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de A Coruña",
+         "start": 141.8,
+         "duration": 4.7,
+         "signer_id": 17,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Persoas Xordas de Ferrolterra",
+         "start": 147.8,
+         "duration": 4.2,
+         "signer_id": 18,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Ourense",
+         "start": 152.8,
+         "duration": 6.2,
+         "signer_id": 19,
+         "aligned": true,
+         "signer_description": "Hombre con camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Tenerife",
+         "start": 159.8,
+         "duration": 5.2,
+         "signer_id": 20,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto rubio y camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Cartagena",
+         "start": 185.8,
+         "duration": 5.7,
+         "signer_id": 21,
+         "aligned": true,
+         "signer_description": "Mujer mayor con pelo canoso y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Murcia",
+         "start": 191.8,
+         "duration": 5.2,
+         "signer_id": 22,
+         "aligned": true,
+         "signer_description": "Hombre mayor con bigote y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Álava",
+         "start": 197.8,
+         "duration": 4.7,
+         "signer_id": 23,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Basauri",
+         "start": 202.8,
+         "duration": 4.7,
+         "signer_id": 24,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación de Personas Sordas de Guipúzcoa",
+         "start": 207.8,
+         "duration": 5.7,
+         "signer_id": 25,
+         "aligned": true,
+         "signer_description": "Hombre con polo verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociación Bilbaína de Personas Sordas \"El Botxo\"",
+         "start": 214.0,
+         "duration": 5.5,
+         "signer_id": 26,
+         "aligned": true,
+         "signer_description": "Mujer con mechas rubias",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,239 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¡Hola! Bienvenida, Camino.",
+         "start": 1.551,
+         "duration": 2.084,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño claro, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Camino es una mujer sorda que lleva ya tiempo trabajando en el movimiento asociativo con personas jóvenes y adultas y además ahora trabaja como psicóloga sorda dentro de la Federación de Personas Sordas de Galicia, ¿verdad?",
+         "start": 4.719,
+         "duration": 12.934,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño claro, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Bienvenida y gracias por aceptar esta entrevista.",
+         "start": 18.437,
+         "duration": 2.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño claro, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Una pregunta referente a tu trabajo. Hablando de la salud mental, con tu experiencia en la atención a mujeres sordas ¿cómo describirías su situación?",
+         "start": 22.004,
+         "duration": 12.15,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño claro, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- En relación con las mujeres sordas, su situación es muy distinta con respecto a la de las mujeres oyentes.",
+         "start": 37.337,
+         "duration": 5.17,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las mujeres oyentes tienen muchas facilidades de acceso a las cosas, si tienen alguna necesidad se dirigen donde necesitan y el proceso ya se pone en marcha.",
+         "start": 43.007,
+         "duration": 6.584,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Además, en el caso de las mujeres sordas hay triple discriminación:",
+         "start": 50.174,
+         "duration": 4.25,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "la primera por ser sordas, la segunda por ser mujeres y la tercera por ser signantes.",
+         "start": 56.174,
+         "duration": 4.834,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Sordas por qué? Por las barreras, a todas nos pasa igual.",
+         "start": 61.758,
+         "duration": 2.917,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Barreras en el acceso a la información, a los lugares a los que acudimos, es imposible.",
+         "start": 65.258,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Signantes porque la sociedad ve la lengua de signos sin fundamento, no la conoce, al igual que nuestra identidad y cultura que son diferentes y la sociedad está un poco confusa.",
+         "start": 70.508,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por ser mujeres también tenemos barreras lo que nos da más estrés en las situaciones cotidianas como la responsabilidad de la casa, diferentes actividades, etc.",
+         "start": 82.342,
+         "duration": 8.917,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Al final estas tres situaciones nos afectan y causan impacto en la salud mental.",
+         "start": 91.759,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Entiendo, esas situaciones que suelen ser delicadas y sensibles ¿cómo se solucionarían?",
+         "start": 97.592,
+         "duration": 6.667,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño claro, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Como soluciones, por ejemplo, hay herramientas diversas dependiendo de las necesidades de cada persona para adaptarlas a cada una, no es para todas igual.",
+         "start": 105.842,
+         "duration": 9.667,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Lo fundamental y más importante que yo veo es la accesibilidad, por ejemplo a la información, participación en charlas o entender la información interesante de la TV o muchas otras cosas.",
+         "start": 116.592,
+         "duration": 12.417,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "No hay accesibilidad, falta el subtitulado, falta la lengua de signos, no hay profesionales signantes. Esto es lo más importante.",
+         "start": 130.092,
+         "duration": 9.417,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "También falta atención psicológica adecuada para las mujeres sordas, que sea accesible en lengua de signos, que de por sí es ya una herramienta para profundizar y avanzar en el proceso de mejora de la salud mental.",
+         "start": 140.009,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si no, con las barreras mencionadas antes ¿cómo va a mejorar su salud mental? Esto es fundamental.",
+         "start": 151.593,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "- La calidad de vida y la dignidad se consiguen con una adecuada salud mental, cierto.",
+         "start": 158.51,
+         "duration": 5.583,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño claro, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Deseas expresar algún mensaje sea a la sociedad que nos ve, o a las mujeres sordas?",
+         "start": 165.327,
+         "duration": 6.917,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño claro, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Para mí, lo más importante es la comunicación, es decir, el acceso a la comunicación e información garantiza el éxito para seguir adelante en nuestras vidas, empoderarnos, reafirmarnos, adquirir conocimientos, participar en la vida social, conocer los recursos y de esta manera, poder afrontar los problemas del día a día de forma más fácil.",
+         "start": 173.91,
+         "duration": 23.167,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "También es importante que nosotras, como mujeres, no sólo cuidemos a las personas de nuestro entorno, que está bien, pero tenemos que cuidarnos a nosotras mismas también, tener amor propio, etc. porque nos proporciona bienestar mental.",
+         "start": 197.577,
+         "duration": 12.334,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Totalmente de acuerdo. Muchísimas gracias.",
+         "start": 211.427,
+         "duration": 2.917,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño claro, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Nos vemos pronto.",
+         "start": 215.344,
+         "duration": 2.584,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño claro, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Gracias a ti.",
+         "start": 215.344,
+         "duration": 2.584,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño oscuro, chaqueta gris",
+         "screen_position": "left"
+      }
+   ]
+}

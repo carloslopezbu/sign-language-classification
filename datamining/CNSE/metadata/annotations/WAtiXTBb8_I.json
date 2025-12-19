@@ -1,0 +1,473 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La Fundación La Caixa, en colaboración con el Ministerio de Inclusión,",
+         "start": 0.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "ha puesto en marcha el servicio ‘Familia necesita familia’",
+         "start": 4.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "en las provincias de Madrid, Barcelona, Murcia y Málaga",
+         "start": 12.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "para conectar a familias acogedoras con familias refugiadas.",
+         "start": 17.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "A continuación, damos respuesta a las preguntas más frecuentes.",
+         "start": 25.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Recibiremos algún pago por acoger a una familia ucraniana?",
+         "start": 34.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No. Se trata de una iniciativa solidaria en la que",
+         "start": 42.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "no está prevista ninguna contraprestación económica.",
+         "start": 46.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuánto tiempo estará la familia ucraniana en nuestra casa?",
+         "start": 53.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un mínimo de 6 meses seguidos,",
+         "start": 100.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "incluidos los períodos vacacionales (Semana Santa, verano, Navidad...).",
+         "start": 103.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si la familia acogedora está interesada en prorrogar el acogimiento,",
+         "start": 110.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "puede solicitarlo para 6 meses más, pero es opcional.",
+         "start": 115.3,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Podemos acoger a una familia en una vivienda en la que no vivimos habitualmente?",
+         "start": 127.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No. Es fundamental la convivencia entre las dos familias",
+         "start": 137.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "a fin de hacer un seguimiento.",
+         "start": 145.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En casos excepcionales, si la familia acogedora dispone de una vivienda",
+         "start": 147.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "justo al lado de la vivienda habitual, se podría valorar.",
+         "start": 152.3,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo y dónde puede la familia acogedora presentar una solicitud?",
+         "start": 203.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden presentar una solicitud para acoger a una familia ucraniana",
+         "start": 210.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "todas aquellas familias que residan en Madrid, Barcelona, Murcia y Málaga.",
+         "start": 215.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ello, pueden llamar al teléfono gratuito (de lunes a domingo, de 9 a 22 h)",
+         "start": 221.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "O puede ser a través del formulario escrito que encontraréis en la web de la Fundación La Caixa.",
+         "start": 234.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez registrada dicha solicitud, la Oficina Técnica de Acogida",
+         "start": 248.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "se pondrá en contacto con vosotros para emplazaros a una primera sesión informativa (online o presencial).",
+         "start": 255.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si después de la sesión informativa seguís estando interesados en acoger a una familia, se os volverá a contactar",
+         "start": 302.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "para realizar una entrevista y valorar vuestra idoneidad.",
+         "start": 310.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿La entrevista de valoración será en nuestro domicilio?",
+         "start": 319.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La valoración consta de una entrevista a la familia y de una visita en el domicilio donde se reside.",
+         "start": 325.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es recomendable que estén presentes todas las personas adultas de la familia que convivirán con la familia ucraniana.",
+         "start": 335.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Puedo elegir qué tipo de familia quiero acoger?",
+         "start": 350.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la entrevista con la Oficina Técnica de Acogida podéis solicitar",
+         "start": 358.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "vuestras preferencias, para poderlas trasladar al Ministerio.",
+         "start": 405.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Es necesario el conocimiento de idiomas extranjeros para ser familia acogedora?",
+         "start": 418.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No lo es, aunque es recomendable que alguien de la familia acogedora domine algún idioma extranjero para facilitar",
+         "start": 424.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "la comunicación diaria con la familia ucraniana.",
+         "start": 432.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo sabremos si finalmente obtenemos la idoneidad para acoger a una familia ucraniana en casa?",
+         "start": 443.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Después de la entrevista y de la visita al domicilio,",
+         "start": 452.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "la Oficina Técnica de Acogida os comunicará si la valoración final ha sido positiva.",
+         "start": 457.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de ser aceptados, desde el Ministerio se os asignará una familia ucraniana y se organizará el primer encuentro entre ambas familias.",
+         "start": 505.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, se os facilitará una guía de familias con información y recomendaciones para el período de acogida y dispondréis de un técnico de la Oficina Técnica de Acogida que",
+         "start": 515.5,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "hará un seguimiento periódico y estará a vuestra disposición para solventar cualquier duda.",
+         "start": 526.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Tendremos que escolarizar a las niñas y niños ucranianos que tengamos en acogida?",
+         "start": 537.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La escolarización de los menores ucranianos es competencia de la Administración correspondiente.",
+         "start": 548.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "De todas formas, recibiréis información al respecto y la Oficina Técnica de Acogida os dará el apoyo que necesitéis en estos aspectos.",
+         "start": 555.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué pasaría si hay problemas de convivencia o no funciona el encaje entre las dos familias?",
+         "start": 608.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En todo momento dispondréis de apoyo por parte de la Oficina Técnica de Acogida.",
+         "start": 618.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de que los desajustes en la convivencia no se puedan solventar,",
+         "start": 626.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "se buscará un alojamiento alternativo para la familia ucraniana.",
+         "start": 630.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con urgencia, si fuera necesario.",
+         "start": 635.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Una vez finalizado el período de acogimiento, puedo continuar manteniendo el contacto con la familia que he acogido?",
+         "start": 644.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por supuesto que sí, es posible mantener el conatcto con la familia ucraniana.",
+         "start": 658.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño, viste de negro",
+         "screen_position": "center"
+      }
+   ]
+}

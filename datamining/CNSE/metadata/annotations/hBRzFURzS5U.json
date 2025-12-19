@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "VOTA PARA QUE VOTEMOS",
+         "start": 1.38,
+         "duration": 15.2,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer de pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "#Votaparaquevotemos",
+         "start": 138.28,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo corto y camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

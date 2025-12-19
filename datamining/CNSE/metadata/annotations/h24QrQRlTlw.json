@@ -1,0 +1,302 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Las personas mayores sordas hemos recorrido un camino lleno de",
+         "start": 0.7,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "lucha y perseverancia. Hemos derribado barreras que parecían imposibles.",
+         "start": 5.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hemos abierto puertas a las nuevas generaciones. Hemos creado comunidad.",
+         "start": 8.8,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y hoy, con esa experiencia a nuestras espaldas, seguimos siendo parte activa",
+         "start": 16.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "y valiosa de la sociedad.",
+         "start": 21.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero también enfrentamos desafíos propios de nuestra edad y de nuestra",
+         "start": 24.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "condición como personas sordas. Dignidad, autonomía y compañía:",
+         "start": 29.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "así queremos vivir nuestra vejez.",
+         "start": 36.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Internacional de las Personas Mayores reivindicamos",
+         "start": 39.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "entornos residenciales inclusivos, con profesionales preparadas/os que",
+         "start": 45.8,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "entiendan nuestra forma de comunicarnos.",
+         "start": 52.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos vivir en lugares donde haya más personas sordas para",
+         "start": 56.5,
+         "duration": 5.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo",
+         "screen_position": "center"
+      },
+      {
+         "text": "no sentirnos aisladas, para apoyarnos, para compartir momentos y sentir",
+         "start": 102.3,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo",
+         "screen_position": "center"
+      },
+      {
+         "text": "compañía de verdad.",
+         "start": 108.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos que el personal de las residencias conozca la lengua de signos.",
+         "start": 111.8,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque sin lengua de signos no hay comunicación. Y sin comunicación,",
+         "start": 116.2,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo",
+         "screen_position": "center"
+      },
+      {
+         "text": "no puede haber información ni una atención de calidad.",
+         "start": 121.2,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos que nuestras residencias sean verdaderos hogares: espacios donde",
+         "start": 127.2,
+         "duration": 6.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo",
+         "screen_position": "center"
+      },
+      {
+         "text": "sentirnos seguras, respetadas, plenas.",
+         "start": 134.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y polo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otra cuestión que nos preocupa son las pensiones. Después de",
+         "start": 138.2,
+         "duration": 4.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas, exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "toda una vida de trabajo, cuando llega la jubilación, muchas personas mayores",
+         "start": 143.0,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas, exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "sordas recibimos pensiones muy bajas.",
+         "start": 149.0,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas, exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y lo más injusto: a veces cobramos menos que las personas oyentes.",
+         "start": 152.2,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas, exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Por qué? Porque durante décadas hemos sufrido desigualdades:",
+         "start": 160.0,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas, exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "empleos más precarios, falta de intérpretes en la etapa formativa y",
+         "start": 166.2,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas, exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "laboral, discriminación histórica y menos oportunidades.",
+         "start": 172.8,
+         "duration": 4.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas, exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos que se reconozca nuestro esfuerzo y que podamos vivir la",
+         "start": 179.0,
+         "duration": 6.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "vejez con tranquilidad y seguridad. Reclamamos una pensión digna, justa y",
+         "start": 186.0,
+         "duration": 8.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "en igualdad de condiciones.",
+         "start": 195.0,
+         "duration": 4.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "La inclusión, la dignidad y la igualdad no caducan con la edad. Son derechos para",
+         "start": 200.0,
+         "duration": 8.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "toda la vida. Las personas mayores sordas merecemos ser escuchadas,",
+         "start": 209.0,
+         "duration": 7.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "comprendidas y valoradas.",
+         "start": 217.0,
+         "duration": 5.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Feliz Día Internacional de las Personas Mayores.",
+         "start": 226.0,
+         "duration": 4.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples personas",
+         "screen_position": "multiple"
+      }
+   ]
+}

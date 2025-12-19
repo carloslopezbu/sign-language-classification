@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "REAL DECRETO 228/2014, DE 4 DE ABRIL, POR EL QUE SE APRUEBA LA OFERTA DE EMPLEO PÚBLICO PARA EL AÑO 2014",
+         "start": 1.334,
+         "duration": 15.516,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y traje oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acceso y promoción para personas con discapacidad",
+         "start": 35.502,
+         "duration": 23.023,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y traje oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

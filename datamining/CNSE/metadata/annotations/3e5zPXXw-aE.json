@@ -1,0 +1,266 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "El Servicio Alba contra la violencia de género es un proyecto de la CNSE,",
+         "start": 0.3,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "para atender e informar sobre la Violencia hacia la mujer de forma totalmente accesible para personas sordas.",
+         "start": 5.2,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se puede contactar de tres formas.",
+         "start": 16.2,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una, por video llamada en lengua de signos o chat,",
+         "start": 19.5,
+         "duration": 4.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de 8 de la mañana a las 8 de la tarde.",
+         "start": 24.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "O por correo electrónico: alba@cnse.es",
+         "start": 29.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si se necesita contactar fuera del horario de video llamada,",
+         "start": 38.8,
+         "duration": 4.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "pulse el 016 para realizar la llamada a través de Svisual.",
+         "start": 45.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El servicio ALBA está dirigido principalmente a:",
+         "start": 52.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres sordas que son o han sido víctimas de violencia,",
+         "start": 59.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "o que creen que pueden estar sufriéndola.",
+         "start": 102.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas como familiares, amigos, vecinos, etc.,",
+         "start": 107.2,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "que quieren ayudar a una mujer y no saben cómo hacerlo.",
+         "start": 114.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Entidades públicas o privadas, como centros de acogida,",
+         "start": 121.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "comisarías u hospitales, que necesitan atender",
+         "start": 126.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "de forma adecuada a mujeres en esta situación.",
+         "start": 130.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Federaciones, asociaciones de personas sordas",
+         "start": 134.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "que reciben a mujeres en esta situación",
+         "start": 139.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "que necesitan asesoramiento y quieren ofrecerles una atención completa.",
+         "start": 142.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es violencia si se dan las siguientes situaciones:",
+         "start": 148.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tú te lo gastas en tonterías. El dinero lo guardo yo.",
+         "start": 152.8,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Te he pegado porque no me gusta lo que has hecho.",
+         "start": 157.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no tienes sexo conmigo, es que no me quieres.",
+         "start": 161.8,
+         "duration": 3.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Elige a tu familia, amigas o a mí.",
+         "start": 166.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Fea, no sabes hacer nada!",
+         "start": 170.8,
+         "duration": 2.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Con esa ropa vas provocando!",
+         "start": 174.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta situación, no estás sola.",
+         "start": 179.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rubio",
+         "screen_position": "right"
+      },
+      {
+         "text": "Estamos contigo.",
+         "start": 184.0,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Contáctanos en la web: www.cnse.es/proyectoalba",
+         "start": 186.2,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro",
+         "screen_position": "left"
+      }
+   ]
+}

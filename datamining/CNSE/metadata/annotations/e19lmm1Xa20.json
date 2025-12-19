@@ -1,0 +1,653 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Un año más, celebramos el Día Nacional de las Lenguas de Signos Españolas.",
+         "start": 1.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una fecha que se adoptó en 2014 en Consejo de Ministros porque",
+         "start": 5.8,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ese mismo día de 1936 se constituyó la CNSE, entidad que",
+         "start": 17.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "junto a su movimiento asociativo han hecho posible que estas lenguas,",
+         "start": 23.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la lengua de signos española y la catalana, sean valoradas en sociedad.",
+         "start": 28.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La lengua de signos es un derecho humano y fundamental.",
+         "start": 34.9,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una lengua que una niña o niño sordo puede adquirir de manera natural.",
+         "start": 39.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que le permite entender el mundo,",
+         "start": 47.9,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "relacionarse consigo mismos y con su entorno,",
+         "start": 52.9,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y aprender a comprenderse, valorarse y conformar su identidad.",
+         "start": 56.8,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Día Nacional de las Lenguas de Signos Españolas,",
+         "start": 102.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la CNSE y su red asociativa exigimos que se garanticen",
+         "start": 106.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "los derechos lingüísticos de las niñas y de los niños sordos.",
+         "start": 109.2,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que vivan de forma libre y plena.",
+         "start": 115.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin imposiciones. Sin controversias.",
+         "start": 120.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin que les hagan elegir entre lengua de signos y lengua oral.",
+         "start": 124.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque como sociedad, tenemos la obligación de educar",
+         "start": 129.9,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a una infancia sorda feliz, sumando recursos y apoyos y no restando,",
+         "start": 134.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y siempre, valorando a cada niña y cada niño sordo tal y como es.",
+         "start": 143.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos:",
+         "start": 150.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se proporcione a la infancia sorda una atención temprana y una educación",
+         "start": 152.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "integral de calidad que incluya la lengua de signos.",
+         "start": 158.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La exposición de las y los menores sordos desde edades tempranas",
+         "start": 204.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a esta lengua favorece su óptimo desarrollo lingüístico,",
+         "start": 208.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "cognitivo y psicosocial.",
+         "start": 212.9,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, evita las consecuencias del Síndrome de Privación Lingüística,",
+         "start": 216.9,
+         "duration": 10.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "una cuestión a la que se alude el artículo 25 de la Convención",
+         "start": 228.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la ONU sobre los Derechos de las Personas con Discapacidad,",
+         "start": 233.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que su Comité hace propia, al recomendar a los gobiernos",
+         "start": 238.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que apoyen la prestación de servicios de lengua de signos",
+         "start": 243.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a todos las niñas y niños sordos y a sus familias,",
+         "start": 247.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y así, prevenir y reducir la aparición de situaciones discapacitantes.",
+         "start": 250.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se garantice la presencia de la lengua de signos en",
+         "start": 257.9,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en cualquier política sanitaria.",
+         "start": 301.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las niñas y niños sordos son mucho más que un oído que rehabilitar y,",
+         "start": 304.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como tal, el uso de la lengua de signos ha de responder",
+         "start": 311.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a una opción libre e individual.",
+         "start": 314.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así lo establece la Ley 27/2007 por la que se reconocen",
+         "start": 318.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las lenguas de signos españolas.",
+         "start": 323.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, instamos a que médicos, logopedas y especialistas",
+         "start": 327.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la rehabilitación auditiva colaboren con profesionales sordas y sordos,",
+         "start": 333.2,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "profesorado sordo especialista en lengua de signos",
+         "start": 338.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y organizaciones representativas de personas sordas,",
+         "start": 342.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para normalizar el aprendizaje y el uso de la lengua de signos",
+         "start": 347.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "entre la infancia sorda y sus familias,",
+         "start": 351.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "potenciar las capacidades de estos menores,",
+         "start": 356.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y dotar de estrategias a sus familias para sentirse seguras",
+         "start": 400.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el proceso de crianza y educación de sus hijos e hijas.",
+         "start": 406.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que la escolarización de las niñas y los niños sordos",
+         "start": 410.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en escuelas ordinarias no impida la enseñanza",
+         "start": 413.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la lengua de signos y en la lengua signos,",
+         "start": 416.2,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "reconocen y garantizan la ley 27/2007",
+         "start": 424.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la LOMLOE y la Constitución Española.",
+         "start": 431.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La promoción de la identidad lingüística y cultural de las personas sordas",
+         "start": 439.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la que apunta el artículo 24 de la Convención de la ONU",
+         "start": 444.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sobre los Derechos de las Personas con Discapacidad,",
+         "start": 448.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "requiere que estos menores puedan educarse en su lengua natural",
+         "start": 451.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y ser partícipes de espacios agrupados, que no segregados,",
+         "start": 502.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "junto a iguales sordos y referentes adultos sordos",
+         "start": 507.2,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que contribuyan a la construcción de una imagen positiva de sí mismos.",
+         "start": 512.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se brinde a la infancia sorda entornos saludables, accesibles e inclusivos",
+         "start": 517.2,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "donde, de ser persona sorda, poder usar la lengua de signos",
+         "start": 524.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sin que esto siga dependiendo del lugar donde vivas",
+         "start": 528.2,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ni suponga aislamiento, discriminación, acoso escolar",
+         "start": 534.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ni la imposición de no aprenderla.",
+         "start": 540.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las niñas y los niños sordos tienen derecho a educarse",
+         "start": 544.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en las mismas condiciones y con las mismas oportunidades que el resto",
+         "start": 548.2,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para alcanzar su máximo desarrollo potencial",
+         "start": 553.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como seres humanos y llegar a ser lo que quieran ser.",
+         "start": 557.2,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La libertad es el reconocimiento de nuestra dignidad.",
+         "start": 602.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las lenguas son el vehículo de nuestros pensamientos. Nos hacen libres.",
+         "start": 606.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas libres para elegir. Personas sordas libres para signar.",
+         "start": 614.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en un moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

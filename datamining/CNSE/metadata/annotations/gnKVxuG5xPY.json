@@ -1,0 +1,248 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "Las personas sordas LGTBI+ nos enfrentamos a una discriminación",
+         "start": 2.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "múltiple por motivo de discapacidad, orientación sexual, género y uso de la lengua de signos.",
+         "start": 8.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos enfrentamos a la falta de entornos seguros y plurales en los que reconocernos como somos y reafirmarnos en lo que somos, y en los que ocultar lo que somos no acabe siendo una necesidad.",
+         "start": 20.5,
+         "duration": 17.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos enfrentamos a un capacitismo, un audismo, una misoginia y una LGTBIfobia feroces que atentan contra nuestra dignidad y nuestra libertad.",
+         "start": 39.5,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy, 28 de junio, la Confederación Estatal de Personas Sordas",
+         "start": 56.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se suma a la conmemoración del Día Internacional del",
+         "start": 61.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Orgullo LGTBI+ y hace propias las demandas de la",
+         "start": 64.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "FELGTB sobre el fomento de una educación en",
+         "start": 70.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "diversidad y el desarrollo de la Ley LGTBI.",
+         "start": 76.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy una persona sorda LGTBI y reivindico la puesta en marcha de campañas informativas y contra la LGTBIfobia accesibles en lengua de signos y con subtitulado.",
+         "start": 85.0,
+         "duration": 14.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Contribuir a que las personas sordas LGTBI+ de todas las edades sepamos que somos iguales ante la ley, es el primer paso para acabar con cualquier posible amenaza de discriminación.",
+         "start": 100.0,
+         "duration": 15.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy una persona sorda LGTBI y reivindico la",
+         "start": 117.5,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "promoción de una educación bilingüe y bicultural que",
+         "start": 122.5,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "propicie el respeto por la diversidad y el desarrollo,",
+         "start": 128.0,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "crecimiento y construcción personal de la infancia,",
+         "start": 134.0,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "la adolescencia y la juventud sorda LGTBI+.",
+         "start": 139.5,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy una persona sorda LGTBI y reivindico una atención",
+         "start": 147.5,
+         "duration": 6.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro con mecha morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "accesible para las víctimas sordas de acoso LGTBIfóbico",
+         "start": 154.0,
+         "duration": 10.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro con mecha morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "en todos los ámbitos: empleo, familias, escuelas, etc.",
+         "start": 164.5,
+         "duration": 8.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro con mecha morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las agresiones y el bullying a las personas sordas LGTBI+",
+         "start": 174.5,
+         "duration": 11.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro con mecha morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "deben ser consideradas delitos de odio y juzgarse como tal.",
+         "start": 186.0,
+         "duration": 8.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo oscuro con mecha morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy una persona sorda LGTBI y reivindico que la Administración",
+         "start": 197.5,
+         "duration": 5.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y mechas azules",
+         "screen_position": "center"
+      },
+      {
+         "text": "conciencie y legisle a nuestro favor. Contamos con leyes",
+         "start": 203.5,
+         "duration": 5.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y mechas azules",
+         "screen_position": "center"
+      },
+      {
+         "text": "que nos protegen, leyes que nos visibilizan, leyes que nos",
+         "start": 209.5,
+         "duration": 7.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y mechas azules",
+         "screen_position": "center"
+      },
+      {
+         "text": "respetan. Leyes que exigimos que se",
+         "start": 217.5,
+         "duration": 5.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y mechas azules",
+         "screen_position": "center"
+      },
+      {
+         "text": "lleven a la práctica.",
+         "start": 222.5,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo corto y mechas azules",
+         "screen_position": "center"
+      },
+      {
+         "text": "EDUCACIÓN, DERECHOS Y PAZ: ORGULLO QUE TRANSFORMA",
+         "start": 228.5,
+         "duration": 11.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples personas",
+         "screen_position": "multiple"
+      }
+   ]
+}

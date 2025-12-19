@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE aplaude la iniciativa del Gobierno de favorecer la inclusión de las personas mayores sordas",
+         "start": 2.093,
+         "duration": 4.505,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "right"
+      },
+      {
+         "text": "HACIA LA AUTONOMÍA Y PARTICIPACIÓN DE LAS PERSONAS MAYORES SORDAS EN ESPAÑA",
+         "start": 128.595,
+         "duration": 6.506,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "right"
+      }
+   ]
+}

@@ -1,0 +1,131 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "Combarro es un pueblo pequeño y muy bonito.",
+         "start": 30.849,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas de sol y chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy hace buen día, fresquito. Nos han hablado de los crucifijos, y es super interesante. Muy bonito.",
+         "start": 34.849,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas de sol y chaqueta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estamos en una zona muy bonita, en Ourense.",
+         "start": 55.949,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas de sol y chaqueta vaquera",
+         "screen_position": "left"
+      },
+      {
+         "text": "En lo alto de las montañas se ven grandes precipicios, y no quería mirar mucho porque me daba un poco de miedo.",
+         "start": 58.949,
+         "duration": 5.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas de sol y chaqueta vaquera",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pero, a medida que íbamos bajando todo resultó bien.",
+         "start": 104.849,
+         "duration": 2.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas de sol y chaqueta vaquera",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ahora estamos en este lugar, que es precioso. Esto es muy bonito. Las montañas son preciosas.",
+         "start": 108.149,
+         "duration": 4.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas de sol y chaqueta vaquera",
+         "screen_position": "left"
+      },
+      {
+         "text": "Estamos esperando para irnos en barco.",
+         "start": 112.949,
+         "duration": 2.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con pelo canoso y polo azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Estamos de visita guiada aquí, en Ribadavia,",
+         "start": 154.349,
+         "duration": 4.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "y nos han contado una historia sobre 3 hermanas brujas judías.",
+         "start": 158.849,
+         "duration": 4.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "En nuestro grupo hay personas de Burgos, Valencia, Navarra, Toledo y de más lugares.",
+         "start": 204.049,
+         "duration": 10.3,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "La comida está muy bien y todos/as estamos disfrutando muchísimo.",
+         "start": 214.849,
+         "duration": 4.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta piedra me encanta, es preciosa y muy antigua.",
+         "start": 267.049,
+         "duration": 8.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y sudadera rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mirad, otra muy bonita también... tiene formas.",
+         "start": 276.949,
+         "duration": 4.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y sudadera rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Habéis visto qué bonita?",
+         "start": 283.949,
+         "duration": 1.7,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y sudadera rosa",
+         "screen_position": "center"
+      }
+   ]
+}

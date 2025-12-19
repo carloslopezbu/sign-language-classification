@@ -1,0 +1,248 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "La diversidad en el empleo enriquece a las organizaciones y fortalece a la sociedad en su conjunto.",
+         "start": 1.12,
+         "duration": 6.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Incluir a las personas sordas en este ámbito no solo promueve la equidad, sino que también aporta nuevas perspectivas, formas de comunicación y capacidades.",
+         "start": 9.48,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y si bien la ley reconoce el derecho de toda persona a participar plenamente en el mercado laboral, en la práctica seguimos encontrando barreras que dificultan nuestro acceso, desarrollo y crecimiento profesional.",
+         "start": 19.68,
+         "duration": 13.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es hora de derribar estos obstáculos y garantizar una verdadera igualdad de oportunidades en materia de empleo para nuestro colectivo.",
+         "start": 34.48,
+         "duration": 8.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Internacional del Trabajo, la CNSE y su red asociativa reivindicamos:",
+         "start": 43.6,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acceso sin barreras a los servicios públicos de empleo",
+         "start": 51.0,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las oficinas de empleo deben ser espacios inclusivos. Es esencial proporcionar a las personas sordas servicios de interpretación en lengua de signos y ayudas técnicas para que podamos acceder a las ofertas laborales en igualdad de condiciones.",
+         "start": 55.2,
+         "duration": 17.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Formación profesional accesible",
+         "start": 74.6,
+         "duration": 1.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La capacitación es clave para el desarrollo profesional. Los cursos de formación deben contar con las adaptaciones necesarias, como intérpretes de lengua de signos y materiales accesibles, para que las personas sordas podamos informarnos, formarnos, encontrar un empleo y promocionar en el mismo.",
+         "start": 77.8,
+         "duration": 20.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Adaptaciones en el puesto de trabajo",
+         "start": 99.6,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las empresas deben implementar ajustes razonables en el entorno laboral. Sistemas de alerta visuales y tecnologías accesibles como la videointerpretación, contribuyen a que las personas sordas desempeñemos nuestras funciones en condiciones de igualdad.",
+         "start": 103.2,
+         "duration": 19.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Prevención de riesgos laborales justa",
+         "start": 124.6,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las medidas de prevención de riesgos laborales que restringen la ocupación de puestos de trabajo ocupados por personas sordas, no son medidas equitativas. La verdadera prevención no excluye: integra, forma y transforma. Negarnos el acceso a determinados empleos con el pretexto de protegernos, es perpetuar la discriminación estructural que ya enfrentamos.",
+         "start": 128.2,
+         "duration": 24.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Eliminación de la discriminación en procesos selectivos",
+         "start": 155.2,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los procesos de selección deben ser ecuánimes y estar libres de prejuicios. Es inaceptable que se excluya a candidatas/os sordas/os por la falta de recursos accesibles en las pruebas de selección. Como también lo es, que en una entrevista de trabajo se interesen por aspectos relacionados con la discapacidad o los ajustes que requerimos para nuestro desempeño, más que por nuestras competencias y formación.",
+         "start": 159.2,
+         "duration": 24.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Acceso al empleo público",
+         "start": 185.6,
+         "duration": 1.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "El sector público debe ser un ejemplo de inclusión. Es clave que las oposiciones sean accesibles sin que, para ello, se requiera un informe médico preceptivo; que una vez superadas, las personas sordas tengan garantizada su plaza sin verse sometidas a un nuevo filtro médico; y que desde un primer momento, cuenten con las adaptaciones que requieran para el desempeño de su trabajo.",
+         "start": 188.6,
+         "duration": 26.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "De igual modo, proponemos que se valore el conocimiento de la lengua de signos como mérito en los puestos de atención al público, dado que favorece la inclusión, la calidad y la equidad de estos servicios.",
+         "start": 217.6,
+         "duration": 14.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Regulación del perfil profesional del especialista en lengua de signos",
+         "start": 233.8,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La profesión de especialista en lengua de signos constituye un importante yacimiento de empleo para las personas sordas, que se debe proteger e incentivar. Es vital reconocer la participación de profesionales sordas/os en la promoción de su propia lengua, posicionarles como referentes en su enseñanza y traducción, y garantizar para ellas/os condiciones laborales justas y equitativas.",
+         "start": 239.0,
+         "duration": 26.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Igualdad para las trabajadoras sordas",
+         "start": 266.8,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La persistencia de la brecha salarial y del techo de cristal siguen limitando el desarrollo laboral de las mujeres sordas. Es fundamental que las políticas públicas de empleo incorporen un enfoque interseccional para avanzar hacia entornos de trabajo seguros, representativos y libres de discriminación, donde se reconozca el valor de las trabajadoras sordas y se promueva su participación.",
+         "start": 270.2,
+         "duration": 31.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y chaqueta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hoy, 1 de mayo, instamos a entidades públicas y privadas a tomar medidas concretas para garantizar la igualdad de trato de la ciudadanía sorda en materia laboral.",
+         "start": 304.2,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque generar espacios accesibles y abiertos a la diferencia fomenta el respeto y construye una cultura organizacional más justa y humana.",
+         "start": 316.2,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque el talento no tiene género, edad, origen, ni condición.",
+         "start": 326.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque el acceso a un empleo digno es un derecho.",
+         "start": 332.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "NUESTRO DERECHO.",
+         "start": 337.2,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa verde oscura",
+         "screen_position": "center"
+      }
+   ]
+}

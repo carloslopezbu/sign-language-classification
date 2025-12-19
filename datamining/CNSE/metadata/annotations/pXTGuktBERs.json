@@ -1,0 +1,212 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Cuál es el plazo de inscripción?",
+         "start": 8.42,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay dos plazos. El primer plazo es del 1 de febrero al 23 de marzo.",
+         "start": 10.55,
+         "duration": 5.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El precio es 200 euros.",
+         "start": 16.97,
+         "duration": 2.46,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El segundo plazo es del 24 de marzo al 11 de mayo.",
+         "start": 20.01,
+         "duration": 5.42,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El precio es 225 euros.",
+         "start": 25.93,
+         "duration": 2.33,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo se hace el pago?",
+         "start": 32.28,
+         "duration": 2.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mediante transferencia bancaria al número de cuenta:",
+         "start": 35.86,
+         "duration": 2.67,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ES12 0128 0080 1105 0002 0293 (Bankinter)",
+         "start": 39.03,
+         "duration": 2.46,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué incluye la inscripción?",
+         "start": 45.25,
+         "duration": 4.71,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estancia en el hotel los días 9 y 10 de junio, con los desayunos de los días 10 y 11 incluidos.",
+         "start": 50.84,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Materiales del Congresista y certificado de asistencia.",
+         "start": 102.52,
+         "duration": 7.63,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cóctel de bienvenida el viernes 9 de junio.",
+         "start": 111.26,
+         "duration": 6.71,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comida el sábado 10 de junio.",
+         "start": 119.54,
+         "duration": 4.42,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cena de Gala el sábado 10 de junio.",
+         "start": 125.25,
+         "duration": 5.21,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué documentación necesitas?",
+         "start": 134.88,
+         "duration": 1.88,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Certificado firmado por la Presidencia y la Secretaria General de la Federación o Asociación Territorial en donde conste que ha sido elegida como Persona Delegada.",
+         "start": 138.56,
+         "duration": 13.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Copia de la transferencia bancaria efectuada, indicando en el concepto tu nombre, apellidos y Federación o Asociación Territorial.",
+         "start": 153.27,
+         "duration": 14.18,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La inscripción sólo será efectiva cuando se envíe toda la documentación solicitada a través de esta web.",
+         "start": 168.57,
+         "duration": 5.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se aceptará ninguna inscripción recibida por otra vía que no sea a través de la web.",
+         "start": 175.08,
+         "duration": 8.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo se hace la selección?",
+         "start": 188.05,
+         "duration": 1.71,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez recibido el pago correspondiente y comprobar que toda la documentación es correcta, recibirás la confirmación por email automáticamente desde la web.",
+         "start": 190.24,
+         "duration": 10.22,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando recibamos el número de Personas Delegadas como se indica en el Reglamento del VIII Congreso, en el apartado VI: “En caso de que desde alguna Federación o Asociación no se cubra el número máximo de Personas Delegadas, se dará la posibilidad a otras Federaciones y Asociaciones de que envíen más Personas Delegadas de las asignadas inicialmente”.",
+         "start": 201.84,
+         "duration": 25.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las condiciones de cancelación de la inscripción y reembolso se explican en otro vídeo.",
+         "start": 228.89,
+         "duration": 9.09,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,131 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Lunes 14 de marzo. Continúa la invasión rusa a Ucrania.",
+         "start": 1.2,
+         "duration": 5.47,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Representantes de ambos gobiernos volverá a dialogar este lunes para intentar llegar a un acuerdo tras 19 días de guerra.",
+         "start": 7.2,
+         "duration": 9.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta nueva ronda de negociaciones se produce tras el lanzamiento de 30 misiles rusos a una base militar a 25 kilómetros de la frontera con Polonia, que ha causado 35 muertos y 134 heridos.",
+         "start": 16.88,
+         "duration": 22.19,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estados Unidos ha advertido a Rusia que, si las bombas alcanzan el territorio de la OTAN, la Alianza responderá con toda su fuerza.",
+         "start": 39.84,
+         "duration": 12.81,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El avance de las tropas rusas también se ha hecho notar en otras regiones del país.",
+         "start": 53.58,
+         "duration": 4.94,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una de las ciudades más castigadas es Mariúpol, donde las fuerzas enemigas destruyeron un hospital materno infantil.",
+         "start": 58.99,
+         "duration": 10.05,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las autoridades locales llevan días denunciando la falta de suministros y alimentos, y el ataque indiscriminado a la población civil que intenta ponerse a salvo.",
+         "start": 69.84,
+         "duration": 11.21,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La cifra de muertos asciende ya a 2.500 en esta zona.",
+         "start": 81.85,
+         "duration": 4.97,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Kyiv, la ofensiva de Putin se ha saldado con el bombardeo del aeropuerto de Antonov y de un barrio residencial en el noroeste de la capital.",
+         "start": 89.86,
+         "duration": 12.18,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mientras, en Odessa, el ejército ucraniano se prepara para una inminente entrada de militares rusos tras el bloqueo de la costa ucraniana del mar Negro.",
+         "start": 103.04,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una operación que impide al país el comercio marítimo internacional y facilita el desembarco de nuevas tropas del Kremlin.",
+         "start": 118.84,
+         "duration": 11.71,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Comisión Europea y el Reino Unido han anunciado un nuevo paquete de sanciones comerciales contra Rusia, que perjudican especialmentea las élites rusas que mantienen vínculos con el régimen de Putin y son una fuente de ingresos para su gobierno.",
+         "start": 131.88,
+         "duration": 19.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas sanciones incluyen su suspensión como miembro de FMI (Fondo Monetario Internacional) y del Banco Mundial, además de suponer la retirada de sus beneficios en la Organización Mundial del Comercio.",
+         "start": 152.56,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También se ha sumado a estas medidas Estados Unidos, que esta misma tarde se reúne con China tras conocerse que Rusia ha pedido ayuda económica y material militar al país asiático, lo que supondría un paso más en la internacionalización del conflicto.",
+         "start": 170.06,
+         "duration": 26.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

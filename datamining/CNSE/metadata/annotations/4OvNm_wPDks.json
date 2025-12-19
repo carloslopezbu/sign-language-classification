@@ -1,0 +1,248 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "Una vez más y como cada año, a finales de septiembre, celebramos el Día Internacional de las Personas Sordas.",
+         "start": 21.221,
+         "duration": 8.342,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una celebración ideada por la Federación Mundial de Personas Sordas (WFD) en la década de los años 50 y organizada, desde entonces, por las asociaciones de personas sordas de todo el mundo.",
+         "start": 31.831,
+         "duration": 15.015,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La comunidad sorda constituye un importante grupo de personas de toda clase y condición que afrontamos situaciones muy diversas pero marcadas, todas ellas, por la necesidad de acceder a la comunicación y la información.",
+         "start": 49.85,
+         "duration": 13.413,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los servicios de intérpretes de lengua de signos deben ser universales y gratuitos.",
+         "start": 104.871,
+         "duration": 4.705,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por mucho que la crisis imponga la necesidad de ajustes en los servicios públicos no podemos renunciar a los servicios de intérpretes de lengua de signos para entender al médico, para seguir las clases en el instituto, para hacer una llamada telefónica, para realizar una entrevista de trabajo, o para las diversas gestiones de la vida diaria.",
+         "start": 111.545,
+         "duration": 21.321,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin comunicación, sin información, nos roban el presente y el futuro.",
+         "start": 138.572,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Del mismo modo, suprimiendo o mermando los servicios de intérpretes se nos impide ser ciudadanos y ciudadanas con derechos.",
+         "start": 149.583,
+         "duration": 6.707,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me gustaría contar con intérprete en clase durante todo el horario lectivo, que el profesorado se adaptase a mí y viceversa, y que el número de profesores sordos dentro del aula aumentase.",
+         "start": 158.592,
+         "duration": 11.311,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo largo y camiseta blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ningún proyecto de vida se puede construir sin acceso al empleo. Ningún empleo es posible sin una formación adecuada. Y, para las personas sordas, la formación sólo es posible cuando es accesible. No tener intérpretes en los cursos de formación para la inserción laboral, o en los de formación continua y de reciclaje profesional nos limita y nos excluye del mercado laboral.",
+         "start": 213.046,
+         "duration": 19.219,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Llevo en paro cuatro meses. Desde que el servicio laboral de la FESOCA cerró, no se dónde acudir para que me guíen, orienten y asesoren en la búsqueda de empleo y mejorar así mi calidad de vida a través del trabajo.",
+         "start": 234.067,
+         "duration": 11.812,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas con otras discapacidades pueden asistir a cursos de formación pero las personas sordas no pueden participar en cualquier curso por la falta de intérpretes, lo que provoca riesgo de exclusión.",
+         "start": 246.88,
+         "duration": 9.209,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "El acceso a la educación es una garantía de futuro para las personas sordas.",
+         "start": 258.292,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La infancia, la juventud sorda debe estar bien preparada, y tener las mismas posibilidades de formación y de proyección profesional que los demás.",
+         "start": 304.838,
+         "duration": 9.41,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La nueva ley de educación debe recoger lo establecido en la Ley 27/2007 por la que se reconocen las lenguas de signos, y garantizar el derecho de las personas sordas y sus familias a elegir una educación bilingüe en lengua de signos.",
+         "start": 317.017,
+         "duration": 15.515,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hola, me llamo Eugenia.",
+         "start": 335.268,
+         "duration": 2.603,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camiseta rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tengo un hijo sordo de un año y medio.",
+         "start": 340.273,
+         "duration": 2.603,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camiseta rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "Vivimos en Sagunto. Allí no hay colegios adaptados, por eso me traslado a Valencia, que está a 25 kilómetros, a un colegio de integración.",
+         "start": 344.878,
+         "duration": 10.21,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camiseta rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pero el colegio de integración no tiene una adaptación adecuada, y para completarla, acudo a la Federación de Personas Sordas de Valencia que cuenta con logopeda.",
+         "start": 358.091,
+         "duration": 10.01,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camiseta rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "Lo que me gustaría es que en Valencia hubiera una educación bilingüe.",
+         "start": 408.875,
+         "duration": 3.404,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camiseta rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por supuesto, seguimos reclamando una especial atención a las personas mayores sordas.",
+         "start": 417.084,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son ellas quienes se han dejado la piel durante todos estos años luchando por la igualdad de oportunidades;",
+         "start": 422.089,
+         "duration": 5.806,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "son ellas quienes han ido eliminando barreras, prejuicios sobre nuestras capacidades, sobre nuestra forma de comunicación en aquellas épocas en que la sordera era motivo de estigma social.",
+         "start": 429.597,
+         "duration": 12.712,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todos los logros sociales de los que hoy disfrutamos se los debemos a ellas.",
+         "start": 447.277,
+         "duration": 4.304,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde aquí, todo nuestro reconocimiento y respeto para las personas mayores sordas.",
+         "start": 452.282,
+         "duration": 5.806,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas mayores sordas estamos preocupadas porque no contamos con residencias para nuestro colectivo,",
+         "start": 503.066,
+         "duration": 7.508,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer mayor con pelo gris y camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "los viajes del IMSERSO no están adaptados ni tampoco los servicios de teleasistencia.",
+         "start": 511.878,
+         "duration": 6.707,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer mayor con pelo gris y camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque la incertidumbre, la preocupación por el presente y el futuro marquen, este año, el Día Internacional de las Personas Sordas en nuestro país, las asociaciones y federaciones de personas sordas que conforman la CNSE, Confederación Estatal de Personas Sordas, proseguiremos nuestra lucha diaria, constante y persistente por los derechos de las personas sordas porque somos ciudadanos y ciudadanas con deberes... y con derechos.",
+         "start": 525.292,
+         "duration": 24.024,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre joven con camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,131 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Martes 12 de abril.",
+         "start": 1.23,
+         "duration": 2.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Rusia ha completado su retirada del norte de Ucrania y dirige su ofensiva hacia el este del país.",
+         "start": 5.23,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En las últimas horas, los combates más intensos se han localizado en Járkov, donde decenas de tanques y vehículos militares rusos preparan el asalto a la ciudad,",
+         "start": 14.79,
+         "duration": 16.16,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en la región del Dombás, donde los bombardeos a la estación de tren de Kramatorsk y al aeropuerto de Dnipro están dificultando las labores de evacuación de civiles.",
+         "start": 31.83,
+         "duration": 21.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el sur, el ejército del Kremlin se rearma para el asedio final a Mariúpol, donde más de 100.000 personas permanecen atrapadas en condiciones infrahumanas.",
+         "start": 54.71,
+         "duration": 21.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estados Unidos ha anunciado nuevas sanciones contra Rusia como consecuencia de la masacre perpetrada en las localidades de Bucha e Irpin.",
+         "start": 77.71,
+         "duration": 14.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Entre los afectados por este paquete de medidas se encuentran algunos de los principales bancos rusos, dos de las hijas del presidente Vladímir Putin, y la esposa del ministro de exteriores ruso.",
+         "start": 93.31,
+         "duration": 14.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Zelenski solicita ir más allá y pide la paralización total de la compra de petróleo y gas a Rusia, una cuestión que la Unión Europea descarta por el momento, si bien, ha decidido expulsar a este país del Consejo de Europa.",
+         "start": 108.91,
+         "duration": 26.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, el primer ministro británico viajó el pasado sábado a Kyiv, donde mantuvo un encuentro con el presidente de Ucrania.",
+         "start": 136.79,
+         "duration": 11.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tras finalizar la reunión, Boris Johnson anunció que Reino Unido entregará a las fuerzas armadas ucranianas 120 vehículos blindados y sistemas de misiles antibuque para apoyar su lucha.",
+         "start": 149.03,
+         "duration": 24.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La guerra en Ucrania ha obligado a más de 4,5 millones de personas a salir del país, según los últimos datos difundidos por ACNUR.",
+         "start": 175.71,
+         "duration": 13.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A ello se suma más de 7,1 millones de desplazados internos, es decir, personas que han abandonado sus hogares y que ahora viven en otros puntos de Ucrania.",
+         "start": 189.95,
+         "duration": 12.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde que Rusia comenzó la invasión el pasado 24 de febrero han llegado a España algo más de 100.000 ucranianos.",
+         "start": 205.31,
+         "duration": 12.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hasta el momento, España ha concedido 40.000 protecciones temporales y otros 45.000 ucranianos",
+         "start": 218.79,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

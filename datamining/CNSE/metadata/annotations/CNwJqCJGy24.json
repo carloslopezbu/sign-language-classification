@@ -1,0 +1,122 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Si eres titular de una tarjeta dorada de RENFE, a partir de ahora podrás renovarla a través de su página web www.renfe.com",
+         "start": 1.121,
+         "duration": 9.409,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, no tendrás que esperar hasta el último día.",
+         "start": 16.536,
+         "duration": 4.605,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podrás renovarla a partir de los 60 días (2 meses) anteriores a su fecha de caducidad.",
+         "start": 21.741,
+         "duration": 6.607,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podrá renovarse a través de la web cualquier Tarjeta Dorada, excepto las emitidas por entidades bancarias que deberán renovarse en el propio banco.",
+         "start": 29.449,
+         "duration": 11.111,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez completado el proceso, obtendrás tu nueva Tarjeta Dorada para su descarga en soporte PDF para guardarlo en el ordenador o móvil o imprimirlo o puedes descargarla en la aplicación Passbook.",
+         "start": 42.963,
+         "duration": 24.327,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Te llegará una confirmación de dicha renovación por email.",
+         "start": 67.991,
+         "duration": 4.404,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los precios de la renovación son:",
+         "start": 74.097,
+         "duration": 2.402,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Renovación por 1 año: 6 euros.",
+         "start": 77.5,
+         "duration": 2.503,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Renovación por 2 años: 12 euros.",
+         "start": 80.703,
+         "duration": 2.603,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Renovación por 3 años: 15 euros (ahorro del 16%).",
+         "start": 83.606,
+         "duration": 5.306,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los medios de pago admitidos para la renovación web son tarjeta de crédito o débito y Bizum.",
+         "start": 89.612,
+         "duration": 3.604,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de que nunca la hayas solicitado, o de que no quieras renovar tu tarjeta por Internet, puedes hacerlo de forma presencial en estaciones de tren, oficinas de venta y agencias de viaje autorizadas.",
+         "start": 94.718,
+         "duration": 14.113,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden beneficiarse de la Tarjeta Dorada de RENFE personas con discapacidad igual o superior al 33%, personas mayores de 60 años, y pensionistas mayores de 18 años en situación de incapacidad permanente, y así disfrutar de descuentos en sus viajes en tren.",
+         "start": 109.832,
+         "duration": 16.518,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

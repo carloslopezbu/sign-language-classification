@@ -1,0 +1,104 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Ahora estamos en San Sebastian, en una famosa quesería.",
+         "start": 42.942,
+         "duration": 5.606,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el encuentro de personas mayores sordas, hemos venido aquí en dos grupos.",
+         "start": 48.948,
+         "duration": 4.105,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aquí nos han explicado cómo hacen el queso y hemos podido probar un poco.",
+         "start": 53.553,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora las tarjetas son electrónicas, pero en el pasado eran de papel.",
+         "start": 250.049,
+         "duration": 4.505,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Qué bonito conoce la historia.",
+         "start": 255.054,
+         "duration": 1.502,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Buenos días. El encuentro de personas mayores sordas fue organizado por Euskal Gorrak con la colaboración de CNSE.",
+         "start": 305.071,
+         "duration": 5.505,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "La organización del encuentro es muy buena, con visitas como el Museo del Ferrocarril.",
+         "start": 310.877,
+         "duration": 4.204,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Felicidades a la organización.",
+         "start": 315.582,
+         "duration": 1.301,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estamos en San Sebastián, todo muy bien y con el aire fresco.",
+         "start": 332.098,
+         "duration": 5.005,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa de cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me ha gustado mucho el puerto. Es mi sueño tener mi pequeño barco para luego invitar a personas sordas. Me gustaría mucho.",
+         "start": 337.504,
+         "duration": 7.507,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa de cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estamos en el encuentro de personas mayores ¡sordas! CNSE.",
+         "start": 506.572,
+         "duration": 16.517,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Hombre y mujer bailando y signando",
+         "screen_position": "multiple"
+      }
+   ]
+}

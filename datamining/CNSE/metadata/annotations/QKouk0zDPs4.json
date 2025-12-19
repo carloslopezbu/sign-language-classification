@@ -1,0 +1,185 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El pasado 24 de febrero, Rusia puso en marcha una operación militar para invadir Ucrania.",
+         "start": 1.08,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta acción sin precedentes que la ONU ha calificado como atentado a los derechos humanos y a las libertades, ha dado lugar a una alarmante crisis de seguridad.",
+         "start": 10.88,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La ofensiva se iniciaba la madrugada del pasado jueves con ataques a las principales ciudades de Ucrania y el asedio a la capital de Kiev, con el objetivo de provocar la caída de su gobierno.",
+         "start": 23.28,
+         "duration": 19.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde entonces, la guerra entre Rusia y Ucrania se ha cobrado la vida de al menos 5.000 personas, tanto militares como civiles, y ha dejado a su paso cientos de heridos.",
+         "start": 43.88,
+         "duration": 15.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medio millón de ucranianas y ucranianos han huido de sus hogares para refugiarse en países vecinos según ha informado Naciones Unidas, que pronóstica que esta cifra pueda superar los cinco millones.",
+         "start": 60.88,
+         "duration": 20.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sótanos y estaciones de metro se han convertido en refugios improvisados contra los bombardeos aéreos.",
+         "start": 83.28,
+         "duration": 13.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Crecen los saqueos a la población.",
+         "start": 97.08,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La comida escasea.",
+         "start": 104.08,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Miles de ciudadanos rusos han sido detenidos por manifestarse en favor de la paz.",
+         "start": 107.88,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tras la negativa de Putin de cesar el conflicto en Ucrania, se ha intensificado el envío internacional de ayuda humanitaria, material médico y armamento a este país.",
+         "start": 118.08,
+         "duration": 19.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, la Unión Europea, Reino Unido, Estados Unidos y Canadá han anunciado un paquete de sanciones económicas y comerciales que pretenden aislar a Rusia del sistema financiero internacional y de las economías occidentales, y frenar su capacidad de financiar la guerra.",
+         "start": 138.88,
+         "duration": 23.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una medida a la que se ha unido Suiza, al bloquear los activos del presidente ruso, su canciller y varios de sus ministros.",
+         "start": 163.68,
+         "duration": 19.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Miles de soldados de la OTAN se han desplazado a la zona ante la posibilidad de que el conflicto pudiera ir más allá de las fronteras de Ucrania.",
+         "start": 185.88,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un avance el de Rusia, al que Australia y Japón también se oponen.",
+         "start": 199.88,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En represalia, Putin ha cerrado su espacio aéreo a aerolíneas de 36 países, y ha puesto a las fuerzas de disuasión nuclear de Rusia en alerta máxima",
+         "start": 207.88,
+         "duration": 20.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para defenderse de lo que ha calificado como ‘declaraciones agresivas contra su país’ por parte de altos funcionarios de esta organización.",
+         "start": 236.88,
+         "duration": 14.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En las últimas horas, Rusia y Ucrania han manifestado su intención de pactar un alto al fuego.",
+         "start": 252.08,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Delegaciones de ambos países se reunieron ayer en la frontera ucranio-bielorrusa, si bien, no lograron llegar a ningún acuerdo.",
+         "start": 259.88,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se prevé que en los próximos días se retomen las negociaciones.",
+         "start": 272.88,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mientras tanto, la guerra continúa en suelo ucraniano.",
+         "start": 278.88,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

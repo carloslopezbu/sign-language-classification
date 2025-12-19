@@ -1,0 +1,104 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Consejo de Ministros ha decretado un nuevo estado de alama en España, a petición de las comunidades autónomas.",
+         "start": 0.0,
+         "duration": 9.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Inicialmente, su duración será de 15 días hasta el 9 de noviembre, si bien se solicitará al Congreso de los Diputados su extensión por un período de 6 meses.",
+         "start": 9.9,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así lo manifestó el presidente del Gobierno, Pedro Sánchez, durante su comparecencia de ayer, en la que pidió disciplina, responsabilidad, fuerza y unidad frente al virus.",
+         "start": 24.4,
+         "duration": 14.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno recomienda quedarse en casa siempre que se pueda, ya que eso ayudaría a frenar los contagios.",
+         "start": 40.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La declaración del estado de alarma es el marco legal necesario para la aplicación de distintas medidas que contribuyan al control de la pandemia.",
+         "start": 48.5,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La primera de ellas ha sido prohibir la circulación nocturna de ciudadanas y ciudadanos, excepto en las Islas Canarias, donde la transmisión del coronavirus es más baja.",
+         "start": 56.8,
+         "duration": 15.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si bien este toque de queda se ha establecido desde las 23 horas hasta las 6 horas, cada comunidad autónoma podrá modular esta franja horaria y variar la hora de inicio y finalización.",
+         "start": 72.9,
+         "duration": 13.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto al número de personas que pueden reunirse, que se ha limitado a 6 tanto en espacios públicos como privados.",
+         "start": 87.7,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También quedará en manos de cada gobierno autonómico adoptar otras limitaciones en la movilidad como puedan ser prohibir la entrada o salida a determinadas poblaciones, imponer confinamientos domiciliarios, regular los horarios de apertura de establecimientos, etc.",
+         "start": 99.8,
+         "duration": 20.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las medidas adoptadas dependerán de la situación epidemiológica de cada región.",
+         "start": 120.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El no cumplimiento de las restricciones impuestas en cada territorio será sancionado por la autoridad competente, salvo que se acrediten excepciones como asistencia a centros sanitarios, centros educativos, obligaciones laborales, cuidado de personas, y otras situaciones de urgencia.",
+         "start": 128.5,
+         "duration": 22.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

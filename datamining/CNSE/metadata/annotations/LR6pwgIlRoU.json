@@ -1,0 +1,86 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "En el Día Mundial de la audición, la WFD dice “¡Recordemos Signar!”.",
+         "start": 12.1,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y traje",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el día mundial de la audición, recuerda usar la lengua de señas!",
+         "start": 22.2,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas rojas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡La WFD trabaja con éxito hacia la inclusion de las lenguas de signos",
+         "start": 30.2,
+         "duration": 6.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con traje y corbata a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el primer informe de la OMS sobre audición!",
+         "start": 37.9,
+         "duration": 10.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con traje y corbata a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos cuatro mensajes importantes.",
+         "start": 50.1,
+         "duration": 3.9,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con traje y corbata a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. El acceso a la lengua de signos desde el nacimiento es un derecho humano fundamental.",
+         "start": 63.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y traje",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. ¡Las comunidades sordas empoderan a la infancia y a la juventud!",
+         "start": 84.5,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con traje y corbata a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "3. Las lenguas de signos deberían estar reconocidas e integradas en todos los ámbitos de la vida.",
+         "start": 102.2,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y traje",
+         "screen_position": "center"
+      },
+      {
+         "text": "4. Todas las niñas y niños sordos y sus familias deben contar con acceso a la lengua de signos.",
+         "start": 121.2,
+         "duration": 6.3,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con traje y corbata a rayas",
+         "screen_position": "center"
+      }
+   ]
+}

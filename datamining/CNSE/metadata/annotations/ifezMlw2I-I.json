@@ -1,0 +1,329 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "Las personas sordas implantadas nos cuentan...",
+         "start": 2.5,
+         "duration": 3.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Tres personas en ventanas",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Me implanté en Pamplona cuando tenía 6 años, es decir, hace 27 años.",
+         "start": 12.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Después de unos meses, fui para que me activaran el implante y me quedé una semana para realizar la rehabilitación.",
+         "start": 19.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Regresé a mi casa y me desplazaba a Pamplona cada seis meses para las sesiones.",
+         "start": 32.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me implanté cuando tenía 11 años, es decir, hace 22 años.",
+         "start": 38.0,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Mereció la pena? Desde luego, aunque la rehabilitación fue dura.",
+         "start": 45.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Duró tres años a partir de la operación.",
+         "start": 50.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez finalizada la rehabilitación es importante que sigas practicando por tu cuenta, porque no llegas a oír perfectamente.",
+         "start": 57.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me implantaron a los 4 años y medio, es decir, hace 23 años.",
+         "start": 65.5,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando nací, ya sabían que era sorda, así que me llevaron a un servicio de atención temprana y pasé por un proceso de rehabilitación logopédica.",
+         "start": 73.0,
+         "duration": 11.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La lengua de signos es mi lengua materna.",
+         "start": 92.5,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nací sorda, mis padres son personas sordas, y desde que tenía 6 meses de edad ya me comunicaba en lengua de signos expresando qué quería y entendiendo lo que me decían.",
+         "start": 96.5,
+         "duration": 11.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando me comunicaba con una sola persona podía entender hasta el 90% de la conversación sin problema, pero en grupos me perdía completamente y me resultaba imposible seguir la conversación.",
+         "start": 108.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vivía con muchas limitaciones. Cuando empecé a aprender lengua de signos con 21 años, mi vida dio un cambio drástico, ya que la lengua de signos me permitía entender absolutamente todo de manera ágil y sin el esfuerzo mental que me exigían los otros recursos.",
+         "start": 117.5,
+         "duration": 20.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La lengua de signos me resultó muy útil, sí.",
+         "start": 138.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En clase siempre he exigido contar con intérprete de lengua de signos porque, como persona sorda que soy, no tengo memoria auditiva; es decir, que me resulta casi imposible recordar la conversación que he mantenido con una persona oyente aunque la entienda cuando habla gracias al implante.",
+         "start": 143.5,
+         "duration": 17.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí, es muy caro y conlleva muchos gastos.",
+         "start": 169.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque ahora hay subvenciones que ayudan a sobrellevar el desembolso que supone un implante, todavía falta mucho que conseguir.",
+         "start": 174.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Siempre estás preocupada por si lo pierdes o se rompe porque, en cualquier caso, tienes que pagarlo tú y muchas veces resulta un gasto importante.",
+         "start": 181.5,
+         "duration": 11.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las pilas también suponen un gasto mensual, igual que el cargador del implante, que corre por tu cuenta.",
+         "start": 193.5,
+         "duration": 10.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo primero que deberá hacer la persona sorda que quiera implantarse será acudir a un médico para ver si cumple los requisitos y características para ser una buena candidata, ver dónde se encuentra el problema auditivo, etc. Al igual que pasa con otras intervenciones quirúrgicas, se deben cumplir una serie de requisitos.",
+         "start": 211.5,
+         "duration": 20.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo primero es que la persona esté segura de querer implantarse y que cuente previamente con toda la información.",
+         "start": 234.0,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "En ese caso, bienvenido al mundo de los sonidos.",
+         "start": 244.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es fundamental tener seguridad para dar el paso; si se tienen dudas, mi consejo es que no se haga.",
+         "start": 248.5,
+         "duration": 12.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nunca me han dicho que no utilizase la lengua de signos o me han negado una intérprete por el hecho de usar implante, aunque en mi etapa educativa se decidió que no necesitaba la lengua de signos porque usaba la lectura labial y el aprovechamiento auditivo. Hoy se vive una situación diferente ya que la educación es bilingüe y esta metodología es fundamental, ya que conviven dos lenguas, lo que siempre suma y enriquece.",
+         "start": 268.5,
+         "duration": 23.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "A veces me han dicho: “léeme los labios, no mires a la intérprete”",
+         "start": 292.9,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "o “no necesitas intérprete: tienes implante y puedes oír y hablar bien”,",
+         "start": 299.2,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "a lo que yo siempre respondo que nada tiene que ver el hecho de que pueda oír con el implante o que hable bien, sigo siendo sorda.",
+         "start": 305.5,
+         "duration": 8.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "También porque, como he comentado no tengo memoria auditiva y, para mí, la lengua de signos supone acceder a la comprensión y asimilación de conceptos de manera ágil y sin esfuerzo, entender qué significa el mundo.",
+         "start": 314.5,
+         "duration": 10.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si hay intérprete de lengua de signos estoy segura de comprender y asimilar lo que se me está diciendo sin necesidad de un sobreesfuerzo por mi parte para entender.",
+         "start": 324.9,
+         "duration": 10.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con la lengua de signos comprendo, asimilo y recuerdo.",
+         "start": 335.5,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si una persona está hablando y hay una palabra que no termino de entender recurro a la intérprete,",
+         "start": 335.5,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "que me da la información con un par de segundos de demora y me permite unir los conceptos y entenderlos.",
+         "start": 345.0,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto me facilita usar estas palabras y saber en qué ámbitos resultan más adecuadas.",
+         "start": 356.0,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, puedo asociar signos con palabras o ver qué signado es el más apropiado en función de dónde me encuentre.",
+         "start": 370.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso hace que me sienta más tranquilo y que vea la riqueza de contar con las dos lenguas.",
+         "start": 380.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas",
+         "screen_position": "center"
+      }
+   ]
+}

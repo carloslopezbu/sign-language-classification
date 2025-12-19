@@ -1,0 +1,230 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Toda persona tiene derecho al empleo,",
+         "start": 0.991,
+         "duration": 2.586,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la libre elección de su trabajo,",
+         "start": 4.344,
+         "duration": 1.885,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "a condiciones laborales equitativas y satisfactorias,",
+         "start": 7.23,
+         "duration": 3.888,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "a igual salario por el mismo trabajo y a la protección contra el desempleo.",
+         "start": 11.901,
+         "duration": 5.008,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para las personas sordas el ejercicio de este derecho sigue siendo una asignatura pendiente ya que los prejuicios acerca de nuestras capacidades dificultan seriamente el acceso al mercado de trabajo y la consecución de un empleo digno y cualificado.",
+         "start": 20.232,
+         "duration": 16.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tampoco está exenta de obstáculos nuestra práctica profesional.",
+         "start": 40.435,
+         "duration": 4.007,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Existe una carencia generalizada en lo que a adaptaciones de los puestos de trabajo se refiere, y una patente falta de oportunidades en materia de promoción laboral.",
+         "start": 45.443,
+         "duration": 9.179,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La evidencia de no encontrar puestos adaptados dentro de las empresas ordinarias nos obliga a autoexcluirnos de muchas ofertas y a optar por centros especiales de empleo que,",
+         "start": 55.956,
+         "duration": 10.376,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "aunque representen una salida laboral, no resultan idóneos para el desarrollo profesional y para la construcción de un proyecto vital.",
+         "start": 107.016,
+         "duration": 11.792,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por lo expuesto, con motivo del Día Internacional del Trabajo,",
+         "start": 120.242,
+         "duration": 3.653,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "desde la CNSE instamos al tejido empresarial a un mayor compromiso social para con las personas sordas, y apresuramos a las Administraciones a garantizar con medidas efectivas el derecho al empleo que se contempla en la Constitución Española.",
+         "start": 124.312,
+         "duration": 17.603,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos lo siguiente:",
+         "start": 143.166,
+         "duration": 1.501,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La presencia de la lengua de signos y de cualquier otra medida de accesibilidad en los cursos de formación del Servicio Público de Empleo Estatal (SEPE), así como en la formación continua ofertada en las empresas.",
+         "start": 145.418,
+         "duration": 12.859,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La adaptación del puesto de trabajo a cada persona, garantizando la comunicación y el acceso a la información a través de la lengua de signos española y la lengua de signos catalana, y de aquellos medios de comunicación que precise.",
+         "start": 201.28,
+         "duration": 13.106,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se ponga a disposición de las opositoras y los opositores sordos los recursos que sean necesarios sin que, para ello, se requiera un informe médico preceptivo, y que no se les discrimine por llevar o no audífonos o implantes cocleares, ni por utilizar la lengua de signos.",
+         "start": 216.088,
+         "duration": 14.811,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se bareme el conocimiento de la lengua de signos española y a lengua de signos catalana en el acceso al empleo público de este colectivo y en la provisión de puestos de trabajo con tareas de atención directa al público.",
+         "start": 232.232,
+         "duration": 14.02,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se valore y bareme el conocimiento de idiomas de forma acorde a las necesidades de cada puesto de trabajo, terminando con la discriminación de facto a las personas sordas en el acceso y promoción en el empleo público en las comunidades autónomas con lenguas cooficiales.",
+         "start": 248.254,
+         "duration": 17.191,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "El fomento del empleo de las personas sordas jóvenes, las mujeres sordas, las personas sordas mayores de 50 años, las personas sordas que residen en zonas rurales y las personas sordas inmigrantes, colectivos especialmente afectados por la inestabilidad, la precariedad laboral y por el desempleo.",
+         "start": 307.363,
+         "duration": 19.503,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "El ajuste de la normativa de prevención de riesgos laborales a la realidad de este colectivo, eliminando aquellas limitaciones injustificadas que imposibilitan su acceso a determinadas ocupaciones.",
+         "start": 328.117,
+         "duration": 13.813,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La modificación del Reglamento General de Conductores para que se incluya la accesibilidad en lengua de signos en las pruebas para la obtención de los permisos de conducción, y se posibilite a las personas sordas trabajar como conductores/as de camiones y furgones.",
+         "start": 344.266,
+         "duration": 18.096,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "El reconocimiento y regulación del perfil de las y los especialistas en lengua de signos y la mejora de sus condiciones laborales.",
+         "start": 403.28,
+         "duration": 7.357,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta profesión constituye un importante yacimiento de empleo para la población sorda y, como tal, se debe proteger e incentivar.",
+         "start": 412.138,
+         "duration": 8.859,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas estamos cansadas de que se nos juzgue por cualquier aspecto relacionado con nuestra discapacidad y no por nuestra formación o nuestras competencias.",
+         "start": 423.165,
+         "duration": 10.257,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas estamos cansadas de que no se nos trate como al resto.",
+         "start": 435.924,
+         "duration": 3.888,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por eso exigimos un mercado de trabajo en el que los derechos de todas y todos valgan lo mismo.",
+         "start": 441.145,
+         "duration": 6.008,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba, pelo corto y chaqueta de punto gris",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,509 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Han pasado casi siete meses desde que se hizo obligatorio el uso de la mascarilla",
+         "start": 1.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "para frenar la pandemia y hemos comprobado que uno de los efectos es que resulta más difícil entenderse porque no podemos leer los labios de la persona con la que hablamos.",
+         "start": 5.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esa situación también ha hecho que surjan y se hagan evidentes los problemas auditivos que algunos padecían sin saberlo.",
+         "start": 14.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres de cada diez españoles tienen más dificultades de audición desde que usamos las mascarillas.",
+         "start": 24.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "- ¿Qué?",
+         "start": 28.0,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "- No he entendido nada.",
+         "start": 28.8,
+         "duration": 0.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "- Que no le he escuchado bien.",
+         "start": 30.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "- Parece que su uso nos deja sordos.",
+         "start": 32.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "- ¿Vamos a tomar algo?",
+         "start": 34.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "- ¿Qué?",
+         "start": 35.3,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "- ¡Que si vamos a tomar algo!",
+         "start": 36.5,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pero en realidad es que se ha perdido la capacidad de interpretar los gestos de otro.",
+         "start": 38.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Obviamente por el uso de la mascarilla no empeora la audición porque no estamos cerrando el conducto, ni tiene que empeorar.",
+         "start": 42.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pero si que es verdad que casi todo el mundo se fija en la lectura labial.",
+         "start": 48.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Alguna vez sí que me he bajado la mascarilla para poder entender a alguien.",
+         "start": 52.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Entre que llevas esto, no lees los labios y no escuchas la voz, es muy complicado entender a las personas",
+         "start": 56.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Además, la intensidad del habla puede perderse entre cuatro y doce decibelios dependiendo de la mascarilla que usemos.",
+         "start": 102.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Sumado a la distancia interpersonal o al ruido ambiente, hace que muchas personas no capten bien los mensajes.",
+         "start": 107.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esperanza lleva meses sin entender bien las conversaciones y ahora ha decidido hacerse pruebas auditivas.",
+         "start": 113.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Veo que manifiesta dificultades de audición, ¿verdad?",
+         "start": 120.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Sí. En el mercado no escucho nada. Entonces les tengo pedir... siempre parezco como muy cómica: ¿Dime? ¿Qué?",
+         "start": 122.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "La conclusión de esta y de otras cadenas de centros auditivos es que el uso de la mascarilla ha sacado a la luz problemas de audición que ya padecían muchas personas sin saberlo.",
+         "start": 130.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El uso generalizado de la mascarilla ha puesto en evidencia ciertas perdidas incipientes, lo que ha hecho que tengamos mucha más demanda de este tipo de consultas.",
+         "start": 141.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pero además el coronavirus también puede dejar secuelas.",
+         "start": 152.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Igual que hay perdidas bruscas de audición de origen viral, la puede haber debido al coronavirus.",
+         "start": 155.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Obviamente como es algo nuevo, no tenemos muchos datos.",
+         "start": 162.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pero lo que sí que está claro es que están llegando pacientes que sí que podemos constatar que presentan pérdida de audición, porque ya teníamos evidencias previas y han empeorado a raíz del coronavirus.",
+         "start": 165.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Incluso hay una docena de casos a nivel mundial que se han quedado sordas con el coronavirus.",
+         "start": 172.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Por eso los expertos recomiendan hacerse revisiones para no perder los sentidos.",
+         "start": 178.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esas dificultades para comunicarse con la mascarilla se agudizan en el caso de las personas sordas.",
+         "start": 183.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Está con nosotros Marta Muñoz, asesora jurídica de la Confederación Estatal de Personas Sordas.",
+         "start": 189.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Está también, ya que ella se expresa a través de la lengua de signos, Anuska Caneda, que va a ser la intérprete entre las dos. Marta, muchas gracias y buenas tardes.",
+         "start": 195.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Muchas gracias a vosotros.",
+         "start": 204.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Bueno. Hemos visto los problemas que tienen las personas sordas que no son sordas, pero en el caso de quienes sí lo son, ¿esa dificultad para leer los labios en qué se traduce?",
+         "start": 206.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Realmente la comunidad sorda es muy diversa, así como lo son también nuestras necesidades.",
+         "start": 217.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y el uso de la mascarilla nos afecta de manera diversa a cada una de nosotras, aunque, evidentemente, la comunicación se ha visto afectada.",
+         "start": 223.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "No es el único problema, si bien es una barrera que ha quedado constatada a raíz de la pandemia.",
+         "start": 228.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para las personas sordas que tienen restos auditivos también.",
+         "start": 236.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero nos hemos adaptado siempre a la comunicación con la sociedad utilizando la lectura labial, que se ve privada ahora con el uso de las mascarillas.",
+         "start": 245.5,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cómo lo hemos superado a lo largo de casi un año de pandemia?",
+         "start": 255.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En nuestro caso, ha sido fundamental la lengua de signos, ya que las personas signantes podemos comunicarnos a pesar del uso de las mascarillas.",
+         "start": 260.5,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por otro lado, están las tecnologías, que nos han ayudado tremendamente gracias a servicios tan importantes como el de videointerpretación SVisual, o a las apps que convierten la voz en texto.",
+         "start": 268.0,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y, sobre todo, la actitud. Mantener siempre una actitud abierta por parte de las personas oyentes hacia la comunicación con nosotras, las personas sordas.",
+         "start": 276.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Has mencionado la tecnología. Pero seguramente entre ese público también hay personas mayores que no pueden utilizarla. ¿Hay alguna solución para ellas?",
+         "start": 281.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Cuándo no pueden incluso ni comunicarse en lengua de signos?",
+         "start": 287.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El coronavirus ha dejado patente que las personas sordas mayores, tanto aquellas que usan la lengua de signos como las que no, son las que más sufren las barreras. Aquellas que conocen la lengua de signos pueden utilizar la videoconferencia, o también el servicio de videointerpretación SVisual.",
+         "start": 293.5,
+         "duration": 16.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "En la Confederación Estatal de Personas sordas tenemos un programa de acompañamiento a personas sordas mayores que se llama Vidasor que además forma en habilidades digitales y ayuda en la comprensión lectora a este colectivo. Siempre nos ha preocupado mucho este colectivo de personas sordas mayores y más ahora, de cara a buscar una solución a su situación.",
+         "start": 310.0,
+         "duration": 19.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Marta, muchísimas gracias por acercarnos el problema.",
+         "start": 335.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Me pedíais que comentara las dificultades que tienen las personas mayores sordas cuando reciben una llamada de teléfono, y que precisamente en estos momentos están esperando el aviso para vacunarse. Estáis también muy pendientes de ellas y quería recordarlo.",
+         "start": 337.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Sí. De hecho, es conocido que a la Confederación Estatal de Personas Sordas y a nuestro movimiento asociativo en todo el país, nos preocupa el tema de la atención telefónica.",
+         "start": 349.5,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se ha producido un cambio muy importante respecto a antes de la pandemia, ya que todos los servicios de atención han pasado a ser servicios telefónicos, lo cual supone una barrera añadida. En cuanto al tema de las vacunas, por supuesto,",
+         "start": 356.5,
+         "duration": 14.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "desde la red asociativa CNSE estamos reivindicando a las comunidades autónomas que no contacten a través de servicios telefónicos con las personas sordas.",
+         "start": 371.0,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Que busquen otras vías de comunicación como los SMS o el e mail que se adapten a las necesidades de las personas sordas, pero que no lo hagan por teléfono,",
+         "start": 378.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "La información y la comunicación son derechos humanos para todos y para todas.",
+         "start": 385.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Queda dicho. Muchísimas gracias, Marta Muñoz, por estar con nosotros en el Telediario.",
+         "start": 391.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Gracias a vosotros.",
+         "start": 394.5,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo oscuro suelto, chaqueta verde",
+         "screen_position": "right"
+      }
+   ]
+}

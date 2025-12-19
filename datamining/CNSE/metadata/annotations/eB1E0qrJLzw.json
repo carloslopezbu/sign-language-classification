@@ -1,0 +1,248 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Apasionada del futbol desde que tiene memoria, comenzó su andadura deportiva en un equipo de fútbol sala.",
+         "start": 5.2,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "En 2006, entró a formar parte del Lagunak hasta fichar por el Athletic de Bilbao en 2012.",
+         "start": 12.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con este club jugó la Liga de Campeones Femenina de la UEFA en la temporada 2016-2017, para tan solo un año después, debutar con la Selección Española absoluta.",
+         "start": 20.8,
+         "duration": 12.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy en Signar por Derecho, entrevistamos a Eunate Arraiza, futbolista profesional.",
+         "start": 36.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hola, ¿qué tal? Me llamo Eunate y este es mi signo.",
+         "start": 44.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El fútbol empezó a interesarme desde pequeña. Jugaba con la pelota dentro de casa y fuera, en la calle, con mis amigos y mi familia.",
+         "start": 51.5,
+         "duration": 9.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Jugaba con mis dos hermanas y también con mis amigos en el pueblo.",
+         "start": 101.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me interesó desde muy temprana edad, hasta que con 8 años me apunté a un equipo de fútbol sala donde aprendí y me desarrollé como jugadora.",
+         "start": 108.5,
+         "duration": 12.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eunate reconoce que su camino como futbolista no ha sido fácil y que ha tenido que superar numerosos desafíos. Muchos de ellos relacionados con el hecho de ser mujer y de ser una persona sorda.",
+         "start": 147.5,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "He tenido que trabajar mucho y he superado los obstáculos a base de mucho esfuerzo.",
+         "start": 164.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Poco a poco, cada día, he ido adaptándome para eliminar las barreras a mi paso.",
+         "start": 171.5,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No ha sido fácil, pero quiero dejar un camino mejor para las generaciones futuras en el deporte en general y para las personas con discapacidad, y eso pasa por trabajar el triple.",
+         "start": 178.5,
+         "duration": 17.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto a mi participación en la Selección Española, la primera vez que me convocaron estaba muy nerviosa y con muchas ganas.",
+         "start": 197.0,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La experiencia fue muy positiva y me hizo muy feliz. Conocí a compañeras que me ayudaron mucho y aprendí un montón.",
+         "start": 210.5,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Usuaria de implante coclear, aprendió lengua de signos en Euskal Gorrak. Y aunque afirma que habitualmente no utiliza la lengua signos en el campo, sí que reconoce haber enseñado algunos signos a sus compañeras.",
+         "start": 223.5,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora quiero estudiar la estructura de la lengua de signos porque creo que es importante y pienso que me va a ayudar bastante relacionar el deporte y la lengua de signos.",
+         "start": 238.0,
+         "duration": 13.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprenderla fue una elección personal. Considero que la lengua de signos es una lengua gestual preciosa, además de fundamental.",
+         "start": 253.0,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Actualmente, Eunate compagina su carrera deportiva con las prácticas del Ciclo de Mediación Comunicativa. Sus proyectos a corto y medio plazo pasan por continuar en el Athletic, y como no, ir a las Sordolimpiadas de Turquía. Al preguntarle sobre su futuro en el fútbol, la futbolista lo tiene muy claro: seguirá vinculada al deporte.",
+         "start": 268.0,
+         "duration": 25.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo veo mi futuro en el fútbol? Sé que no será fácil, pero quiero unir lengua de signos y fútbol.",
+         "start": 296.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También me gustaría entrenar a niñas/os sordas/os u oyentes, aunque va a ser un reto conseguirlo.",
+         "start": 306.0,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y si bien de momento, mi idea es continuar en el fútbol, me encantaría enseñar lengua de signos en el deporte en un futuro.",
+         "start": 314.0,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eunate Arraiza, un ejemplo de superación y constancia, anima a todas las personas sordas a seguir sus pasiones y no rendirse.",
+         "start": 326.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias por acompañarnos y compartir con nosotras tu experiencia.",
+         "start": 337.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, gafas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi consejo es que trabajéis, que luchéis, que os esforcéis, porque no es fácil. Es posible, pero el camino es duro.",
+         "start": 343.5,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Bajo mi experiencia personal, no ha sido un camino fácil. Lo que quiero es que las futuras generaciones se encuentren con un mejor camino, sin tantos problemas y obstáculos.",
+         "start": 355.5,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por eso os animo a que trabajéis el triple y a que estudiéis, porque la formación es lo más importante.",
+         "start": 366.0,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias y abrazos. I love you!",
+         "start": 382.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, sudadera negra",
+         "screen_position": "center"
+      }
+   ]
+}

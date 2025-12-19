@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "INTÉRPRETE DE LENGUA DE SIGNOS Y GUÍA - INTÉRPRETE",
+         "start": 104.4,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "MEDIADOR COMUNICATIVO",
+         "start": 109.0,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "INTÉRPRETE DE LENGUA DE SIGNOS Y GUÍA - INTÉRPRETE",
+         "start": 129.8,
+         "duration": 31.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "MEDIADOR COMUNICATIVO",
+         "start": 201.4,
+         "duration": 47.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "INTÉRPRETE DE LENGUA DE SIGNOS Y GUÍA - INTÉRPRETE",
+         "start": 251.0,
+         "duration": 32.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "MEDIADOR COMUNICATIVO",
+         "start": 324.4,
+         "duration": 35.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "INTÉRPRETE DE LENGUA DE SIGNOS Y GUÍA - INTÉRPRETE",
+         "start": 403.2,
+         "duration": 40.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "MEDIADOR COMUNICATIVO",
+         "start": 444.0,
+         "duration": 25.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa granate",
+         "screen_position": "center"
+      }
+   ]
+}

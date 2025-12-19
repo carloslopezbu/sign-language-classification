@@ -1,0 +1,347 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Actualmente en España estamos en un estado de Alarma,",
+         "start": 1.0,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "debido a la pandemia del coronavirus, motivo por el cual el Gobierno",
+         "start": 5.6,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "nos obliga a permanecer en nuestras casas.",
+         "start": 10.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta situación de permanencia en el hogar,",
+         "start": 14.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "CNSE y su red asociativa no olvida que hay situaciones de vulnerabilidad.",
+         "start": 17.2,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una de ellas, son las mujeres sordas que están encerradas",
+         "start": 23.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con sus agresores lo que agrava su situación.",
+         "start": 28.2,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por este motivo, si estás sufriendo violencia de género,",
+         "start": 35.8,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sospechas que la estás sufriendo o eres testigo de violencia de género",
+         "start": 39.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y no sabes cómo dar apoyo.",
+         "start": 45.2,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tranquila, hay dos servicios que se están ofreciendo.",
+         "start": 47.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Primero, CNSE ofrece el servicio ALBA a cuya web puedes acceder",
+         "start": 52.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "pinchando en el siguiente enlace: http://www.cnse.es/proyectoalba/",
+         "start": 56.2,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si eres una persona sorda y eres testigo de una situación",
+         "start": 103.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de violencia de género o lo sospechas,",
+         "start": 107.2,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "si eres una mujer sorda y estás sufriendo violencia de género",
+         "start": 109.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o sospechas que la estás sufriendo, contacta con el servicio ALBA.",
+         "start": 113.5,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El horario es de las 8 de la mañana a las 20 de la tarde,",
+         "start": 117.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a través de vídeollamada, chat, email, etc. Nosotras nos adaptamos a tus necesidades.",
+         "start": 121.2,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Segundo, el Gobierno ofrece el número de teléfono 016 accesible",
+         "start": 128.8,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a través de Svisual, con una atención 24 horas al día los 365 días.",
+         "start": 136.8,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo es atender a las mujeres víctimas de violencia de género",
+         "start": 145.8,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y ofrecerles orientación sobre qué pasos seguir en esta situación.",
+         "start": 150.8,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para poder llamar al 016, hay que entrar en la página web de SVisual",
+         "start": 154.8,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y insertar tu contraseña si ya estás registrada.",
+         "start": 160.8,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no estás registrada, debes hacerlo previamente introduciendo",
+         "start": 166.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "tus datos personales y contraseña, y ya podrás acceder.",
+         "start": 170.2,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez dentro de la plataforma SVisual, verás tres iconos, uno morado con el número 016;",
+         "start": 177.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "si pulsas en él, directamente harás una vídeollamada",
+         "start": 185.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con el equipo de profesionales que atienden a mujeres víctimas",
+         "start": 189.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de violencia de género a través de una intérprete de lengua de signos.",
+         "start": 193.2,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no sabes lengua de signos, puedes usar el chat también.",
+         "start": 197.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno no se olvida de las mujeres víctimas de violencia de género y",
+         "start": 202.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la CNSE y su red asociativa no se olvida de las mujeres sordas",
+         "start": 206.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "víctimas de violencia de género.",
+         "start": 210.2,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda, si tienes sospechas tienes estos dos servicios a tu disposición.",
+         "start": 212.8,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No olvidéis que la violencia de género es un virus que tenemos desde",
+         "start": 218.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "hace muchos años y podemos evitarlo.",
+         "start": 223.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño claro con blusa negra",
+         "screen_position": "center"
+      }
+   ]
+}

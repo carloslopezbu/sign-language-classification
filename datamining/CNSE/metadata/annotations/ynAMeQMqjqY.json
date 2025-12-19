@@ -1,0 +1,122 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "LA VIOLENCIA EN INTERNET CONTRA LAS MUJERES SE MANIFIESTA DE LAS SIGUIENTES FORMAS",
+         "start": 3.2,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. ACOSAR O CONTROLAR A TU PAREJA USANDO EL MÓVIL.",
+         "start": 9.8,
+         "duration": 8.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. ESPIAR EL MÓVIL DE TU PAREJA.",
+         "start": 19.5,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "3. METERTE EN LAS RELACIONES QUE TIENE TU PAREJA CON OTRAS PERSONAS EN INTERNET.",
+         "start": 33.5,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "4. CRITICAR O ELIMINAR FOTOS QUE TU PAREJA COMPARTE EN REDES SOCIALES.",
+         "start": 44.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "5. CONTROLAR LO QUE HACE TU PAREJA EN REDES SOCIALES.",
+         "start": 55.0,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "6. EXIGIR A TU PAREJA QUE DEMUESTRE DÓNDE ESTÁ CON EL GPS.",
+         "start": 67.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "7. OBLIGARLA A QUE TE ENVÍE FOTOS ÍNTIMAS.",
+         "start": 73.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "8. PEDIRLE A TU PAREJA QUE TE DÉ SUS CONTRASEÑAS PERSONALES.",
+         "start": 82.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "9. OBLIGARLA A QUE TE ENSEÑE UN CHAT CON OTRA PERSONA.",
+         "start": 91.0,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "10. ENFADARSE SI TU PAREJA NO TE RESPONDE INMEDIATAMENTE ON LINE.",
+         "start": 99.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "TODAS ESTAS ACITUDES Y COMPORTAMIENTOS SON VIOLENCIA.",
+         "start": 108.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "SI TIENES DUDAS O QUIERES INFORMARTE MÁS, CONTACTA CON EL SERVICIO ALBA.",
+         "start": 114.0,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

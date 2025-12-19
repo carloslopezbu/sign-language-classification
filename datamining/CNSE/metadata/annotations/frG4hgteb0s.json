@@ -1,0 +1,707 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Ley 27/2007,",
+         "start": 0.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "de 23 de octubre,",
+         "start": 2.8,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "por la que se reconocen las lenguas de signos españolas",
+         "start": 5.0,
+         "duration": 3.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Coro de cuatro mujeres",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "y se regulan los medios de apoyo a la comunicación oral",
+         "start": 8.2,
+         "duration": 2.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las personas sordas,",
+         "start": 11.2,
+         "duration": 2.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con camisa azul oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "con discapacidad auditiva y sordociegas.",
+         "start": 13.8,
+         "duration": 2.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La promulgación de la Ley 27/2007 ha supuesto un gran avance en los derechos",
+         "start": 17.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las personas sordas que se han ido consolidando y fortaleciendo",
+         "start": 22.5,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "a lo largo de sus 15 años de vigencia.",
+         "start": 26.5,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así pues, además de los derechos reconocidos en la propia ley,",
+         "start": 30.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "como el eje central de la misma que es el derecho la libre opción",
+         "start": 35.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las personas sordas al aprendizaje, conocimiento y uso de las lenguas de signos españolas,",
+         "start": 41.2,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "celebramos el impacto positivo que esta ley ha tenido en la legislación posterior,",
+         "start": 45.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "lo que ha revertido en una gran conquista de derechos",
+         "start": 52.2,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "para las personas sordas.",
+         "start": 58.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Destacamos los siguientes derechos:",
+         "start": 104.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. Derecho a acceder a la información a la comunicación",
+         "start": 108.0,
+         "duration": 2.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en lengua de signos en el ámbito notarial.",
+         "start": 110.8,
+         "duration": 2.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Reglamento de organización y régimen del Notariado 2007).",
+         "start": 113.5,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. Derecho a contar con información en lengua de signos y subtitulado",
+         "start": 118.0,
+         "duration": 4.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en las estaciones de transporte marítimo, aéreo, ferroviario, urbano y suburbano.",
+         "start": 122.5,
+         "duration": 7.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Real sobre las condiciones básicas de accesibilidad y no discriminación",
+         "start": 130.5,
+         "duration": 7.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para el acceso y utilización de los modos de transporte para personas con discapacidad 2007).",
+         "start": 138.5,
+         "duration": 9.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "3. Derecho a acceder a la información a la comunicación en lengua de signos",
+         "start": 149.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "en los servicios de atención al ciudadano de la Administración General del Estado.",
+         "start": 154.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Especificaciones y características técnicas de las condiciones y criterios",
+         "start": 159.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "de accesibilidad y no discriminación 2008)",
+         "start": 204.2,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "4. Derecho a ser miembro de mesa electoral.",
+         "start": 209.0,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Reglamento sobre las condiciones básicas para la participación",
+         "start": 212.5,
+         "duration": 3.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las personas con discapacidad en la vida política y en los procesos electorales 2011).",
+         "start": 216.5,
+         "duration": 4.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "5. Derecho a utilizar la lengua de signos y los medios de apoyo",
+         "start": 222.0,
+         "duration": 5.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la comunicación oral en los procedimientos de mediación en asuntos civiles y mercantiles.",
+         "start": 227.5,
+         "duration": 10.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Ley de mediación en asuntos civiles y mercantiles 2012)",
+         "start": 238.5,
+         "duration": 6.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "6. Derecho a acceder a la información a la comunicación en lengua de signos",
+         "start": 246.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "durante todo el proceso penal, incluyendo las conversaciones con el abogado,",
+         "start": 251.8,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "el interrogatorio policial y con el ministerio fiscal y el juicio.",
+         "start": 257.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "También derecho a la traducción de documentos esenciales en el proceso.",
+         "start": 303.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Ley Enjuiciamiento Criminal 2015).",
+         "start": 310.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "7. Toda víctima tiene el derecho a entender y ser entendida",
+         "start": 318.0,
+         "duration": 4.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en cualquier actuación que deba llevarse a cabo desde la interposición",
+         "start": 322.5,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de una denuncia y durante el proceso penal, incluida la información previa a la interposición de una denuncia.",
+         "start": 326.2,
+         "duration": 4.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Estatuto de la Víctima del Delito 2015).",
+         "start": 330.5,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "8. Derecho a contar con Intérpretes de lengua de signos, mediadoras",
+         "start": 335.5,
+         "duration": 5.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "especializadas en la atención a personas sordas durante todas las fases",
+         "start": 341.5,
+         "duration": 6.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "del proceso de salida de la violencia.",
+         "start": 348.2,
+         "duration": 3.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Pacto de Estado contra la violencia de género 2017).",
+         "start": 352.5,
+         "duration": 7.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "9. Derecho a acceder a la información a la comunicación en lengua de signos",
+         "start": 401.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "en todos los procesos judiciales incluyendo todas las fases y actuaciones procesales en las que resulte necesario.",
+         "start": 408.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "También contar con profesional experto que a modo de facilitador",
+         "start": 413.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "realice tareas de adaptación y ajuste como es el caso del mediador",
+         "start": 420.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Ley por la que se reforma la legislación civil y procesal 2021).",
+         "start": 429.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "10. Derecho a contar con una interpretación en lengua de signos",
+         "start": 439.5,
+         "duration": 3.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de calidad en los medios de comunicación audiovisual.",
+         "start": 443.5,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Ley de comunicación audiovisual 2022).",
+         "start": 446.8,
+         "duration": 2.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "11. Derecho a no ser discriminado por el uso de la lengua",
+         "start": 451.0,
+         "duration": 5.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "(Ley de igualdad de trato 2022).",
+         "start": 456.5,
+         "duration": 6.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es importante señalar también la creación del Centro de Normalización",
+         "start": 504.5,
+         "duration": 5.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lingüística de la Lengua de Signos Española (CNLSE) en el 2010",
+         "start": 510.2,
+         "duration": 4.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y su consolidación durante todos estos años de vigencia de la ley como",
+         "start": 514.5,
+         "duration": 4.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "centro de referencia en la investigación, fomento y difusión de la lengua de signos española,",
+         "start": 519.2,
+         "duration": 6.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como en la defensa de su buen uso.",
+         "start": 525.5,
+         "duration": 4.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Celebramos también el desarrollo de esta Ley a través del Reglamento",
+         "start": 531.0,
+         "duration": 6.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que se encuentra justo ahora en trámite de audiencia e información pública, del cual destacamos:",
+         "start": 537.5,
+         "duration": 9.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que desarrolla fuertes medidas de protección y promoción de la lengua de signos",
+         "start": 548.5,
+         "duration": 4.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en todos los ámbitos fundamentales de la vida de las personas sordas.",
+         "start": 553.5,
+         "duration": 5.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que es un reglamento donde las opciones de la lengua de signos y",
+         "start": 600.0,
+         "duration": 4.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "los medios de apoyo a la comunicación oral no son opciones excluyentes entre sí,",
+         "start": 604.2,
+         "duration": 4.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sino que la persona sorda es quien decide qué necesita en cada momento,",
+         "start": 608.5,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "si una cosa, si la otra o si lo necesita todo.",
+         "start": 612.2,
+         "duration": 1.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El reconocimiento a la identidad lingüística vinculada a la lengua de signos.",
+         "start": 614.0,
+         "duration": 4.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aplaudimos el reconocimiento en el texto de la figura profesional del especialista de lengua de signos.",
+         "start": 618.5,
+         "duration": 4.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Insistimos en que pasado el trámite de audiencia pública",
+         "start": 624.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "siga siendo un reglamento garantista y que por eso es importante",
+         "start": 629.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "tenga una memoria económica suficiente para ello.",
+         "start": 634.5,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Insistimos que la lengua de signos catalana también tenga protagonismo en este reglamento.",
+         "start": 640.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Insistimos también en señalar que la figura profesional del especialista",
+         "start": 645.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "sea el de una persona sorda como referente en la educación de la lengua de signos.",
+         "start": 651.2,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La figura del ADECOSOR también debe especificar que se trata de profesionales sordos.",
+         "start": 656.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa gris",
+         "screen_position": "center"
+      }
+   ]
+}

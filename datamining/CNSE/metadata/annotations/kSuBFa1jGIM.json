@@ -1,0 +1,302 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "Me pega porque me lo merezco.",
+         "start": 8.4,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, suéter gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Seguro que he hecho algo mal.",
+         "start": 12.3,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, trenza, blusa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "No valgo para nada.",
+         "start": 15.8,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer mayor, gafas, camisa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todo esto es culpa mía.",
+         "start": 19.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, suéter gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Él me quiere. Sé que cambiará.",
+         "start": 23.9,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, trenza, blusa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin él no puedo vivir.",
+         "start": 29.8,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer mayor, gafas, camisa",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 36.0,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo rizado, suéter negro con gato",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la última década 750 mujeres han muerto en España por violencia de género.",
+         "start": 38.2,
+         "duration": 7.9,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuarenta y tres en el último año.",
+         "start": 47.3,
+         "duration": 3.7,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Solo una cuarta parte había denunciado a su agresor.",
+         "start": 52.0,
+         "duration": 7.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 101.5,
+         "duration": 1.3,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo rizado, suéter negro con gato",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al menos 850.000 niños y niñas han padecido esta violencia que se ejerce sobre sus madres.",
+         "start": 104.2,
+         "duration": 7.3,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y más de medio millón también fueron maltratados.",
+         "start": 112.0,
+         "duration": 4.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 118.0,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo rizado, suéter negro con gato",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada año se registran 140.000 denuncias por delitos o faltas de violencia machista.",
+         "start": 121.8,
+         "duration": 7.2,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un 36% de las denunciantes se niega a declarar contra el maltratador.",
+         "start": 129.5,
+         "duration": 5.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 136.5,
+         "duration": 3.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo rizado, suéter negro con gato",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Día Internacional de la Eliminación de la Violencia contra las Mujeres, la CNSE quiere trasladar a la sociedad la situación que atraviesan las mujeres sordas maltratadas.",
+         "start": 140.8,
+         "duration": 11.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un colectivo especialmente vulnerable debido a la falta de accesibilidad de los recursos disponibles para el resto de mujeres que también sufren la violencia de género.",
+         "start": 152.5,
+         "duration": 6.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recursos que en muchas ocasiones, ni siquiera saben que existen, ya que las campañas y materiales informativos no siempre están traducidos a la lengua de signos.",
+         "start": 159.5,
+         "duration": 7.7,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si para cualquier mujer es difícil pedir ayuda, para las mujeres sordas lo es aún más.",
+         "start": 208.0,
+         "duration": 7.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque el teléfono 016 es accesible a través de la plataforma de videointerpretación SVisual, estas mujeres no disponen de centros de asesoramiento especializados en personas sordas.",
+         "start": 216.5,
+         "duration": 8.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "No pueden acceder a los servicios para mujeres con orden de protección.",
+         "start": 225.8,
+         "duration": 4.7,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "No cuentan con intérpretes de lengua de signos en comisarías centros de urgencias, juzgados, servicios de atención a las víctimas, o casas de acogida.",
+         "start": 231.5,
+         "duration": 9.3,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ninguna mujer merece vivir con miedo.",
+         "start": 242.8,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer mayor, gafas, camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "No protejas al maltratador.",
+         "start": 248.2,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, suéter gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Di no a la violencia de género.",
+         "start": 253.8,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, trenza, blusa rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ser tú misma.",
+         "start": 257.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, suéter gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para opinar, decidir, sentir, vivir.",
+         "start": 301.0,
+         "duration": 5.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer mayor, gafas, camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para quererte.",
+         "start": 307.8,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, trenza, blusa rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ser feliz.",
+         "start": 310.8,
+         "duration": 2.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo rizado, suéter negro con gato",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda: 016 SVisual – Teléfono de información y asesoramiento jurídico en materia de violencia de género accesible a las personas sordas.",
+         "start": 314.0,
+         "duration": 13.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo claro, vestido azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque la violencia no es una opción.",
+         "start": 328.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, trenza, blusa rosa",
+         "screen_position": "center"
+      }
+   ]
+}

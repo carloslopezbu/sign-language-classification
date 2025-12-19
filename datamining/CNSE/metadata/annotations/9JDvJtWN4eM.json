@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "FORMACIÓN",
+         "start": 34.33,
+         "duration": 82.89,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "COMPETENCIA PROFESIONAL",
+         "start": 117.52,
+         "duration": 83.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba",
+         "screen_position": "center"
+      }
+   ]
+}

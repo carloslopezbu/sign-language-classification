@@ -1,0 +1,779 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 4.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy en Signar por Derecho hablaremos de la Red Estatal de",
+         "start": 6.4,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Enseñanza de las Lenguas de Signos Españolas de la CNSE",
+         "start": 11.2,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "con su coordinadora, Mª Jesús Serna.",
+         "start": 16.2,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta Red que cuenta con 50 años de trayectoria está integrada por centros asociados",
+         "start": 27.2,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "distribuidos por toda la geografía española, que no son otros",
+         "start": 33.2,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "que las entidades que conforman nuestro movimiento asociativo.",
+         "start": 37.8,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo la definirías?",
+         "start": 44.4,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hola",
+         "start": 49.5,
+         "duration": 0.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Red Estatal de Enseñanza de las Lenguas de Signos Españolas,",
+         "start": 51.2,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "LSE y LSC, es una red de trabajo conjunto y colaborativo",
+         "start": 54.4,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "entre las federaciones territoriales y las asociaciones locales",
+         "start": 58.6,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "para impartir una formación de calidad en lengua de signos",
+         "start": 102.2,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "a través de su seguimiento, salvaguarda y control de calidad.",
+         "start": 105.4,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto se lleva a cabo gracias a la creación",
+         "start": 109.2,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de materiales didácticos en constante actualización y adecuación.",
+         "start": 111.4,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta red provee de formación continua a los y las Especialistas",
+         "start": 115.2,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "en Lengua de Signos y desarrollo satisfactorio y amigable",
+         "start": 117.8,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "para el alumnado que quiere aprender lengua de signos.",
+         "start": 120.6,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestros cursos se rigen por la filosofía del Marco",
+         "start": 123.4,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Común Europeo de Referencia para las Lenguas en su organización",
+         "start": 126.2,
+         "duration": 3.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "metodológica y control de calidad en la enseñanza de la lengua de signos.",
+         "start": 130.0,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ante la falta de material específico, la Red ha sido capaz de crearlo",
+         "start": 134.2,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "para impartir los niveles de enseñanza A1y A2, enseñanza de la lengua de",
+         "start": 138.4,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "signos a la niñas y niños, en institutos, universidades, etc.",
+         "start": 141.8,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Formamos a los y las futuras Especialistas",
+         "start": 148.0,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "en lengua de signos y ofrecemos formación",
+         "start": 150.8,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "continua a los profesionales ya titulados,",
+         "start": 153.2,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "además de crear herramientas como la plataforma",
+         "start": 156.0,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Signocampus para ofrecer formación online.",
+         "start": 158.8,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El perfil de nuestro alumnado es muy heterogéneo:",
+         "start": 203.8,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "jóvenes, mayores, mujeres, hombres,",
+         "start": 207.0,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "personas en paro, trabajadoras y trabajadores,",
+         "start": 210.8,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "como lo son los cursos que ofrecemos para familias, profesionales, etc.",
+         "start": 214.2,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Red nace de los encuentros anuales que reunían a Especialistas",
+         "start": 219.0,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de todo el país y que tomaban forma de reuniones de coordinación,",
+         "start": 222.6,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "foros y talleres en los que se debatía sobre cómo mejorar",
+         "start": 226.2,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "la metodología de enseñanza.",
+         "start": 229.8,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde ahí se construye una red que hoy en día",
+         "start": 233.2,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "es fuerte, consolidada, única y líder en la enseñanza",
+         "start": 236.0,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la lengua de signos, lo que nos enorgullece enormemente.",
+         "start": 239.6,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si por algo se caracteriza esta Red es por saber adaptarse",
+         "start": 244.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las necesidades de su alumnado.",
+         "start": 248.4,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Prueba de ello la tenemos en la plataforma virtual",
+         "start": 252.4,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Signocampus de la Fundación CNSE.",
+         "start": 256.4,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿A qué se debe su éxito?",
+         "start": 300.2,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Antes de la pandemia, nuestros cursos eran mayoritariamente presenciales.",
+         "start": 307.2,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con la irrupción de la COVID 19, nos encontramos, de manera repentina,",
+         "start": 310.8,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "sin poder salir de nuestras casas, lo que obliga a la Red",
+         "start": 314.6,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "a buscar una solución que permita continuar impartiendo las clases.",
+         "start": 318.0,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestra Red adopta una estrategia de formación online",
+         "start": 321.6,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "que permite finalizar los cursos, lo que demuestra",
+         "start": 325.0,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "la herramienta tan positiva que es Signocampus.",
+         "start": 328.2,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy en día la modalidad de la formación online",
+         "start": 331.6,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "se ha extendido a nuestras federaciones y asociaciones",
+         "start": 334.2,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y al resto de entidades con esta formación.",
+         "start": 336.8,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Signocampus es una herramienta muy útil no solo para impartir",
+         "start": 339.2,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "formación a distancia, sino también para reuniones",
+         "start": 342.8,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de coordinación y la impartición de otros cursos.",
+         "start": 346.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Red Estatal de Enseñanza de las Lenguas de Signos Españolas",
+         "start": 351.4,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la CNSE cuenta entre su profesorado con más de 500 profesionales",
+         "start": 355.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "nativos signantes especialistas en lengua de signos",
+         "start": 400.4,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "con acreditada experiencia docente.",
+         "start": 405.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuál es su cometido?",
+         "start": 410.4,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "El perfil más adecuado para la enseñanza",
+         "start": 415.6,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la lengua de signos es el de una persona sorda signante",
+         "start": 418.2,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "nativa, conocedora en profundidad de la lengua,",
+         "start": 421.4,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "la cultura y la experiencia en primera persona",
+         "start": 424.4,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de lo que supone, a nivel real y emocional,",
+         "start": 427.4,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "tener la lengua de signos como primera lengua",
+         "start": 430.6,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y poder transmitirlo al alumnado desde ese prisma",
+         "start": 433.4,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y con la mejor calidad.",
+         "start": 436.0,
+         "duration": 1.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En marzo de este mismo año 2023 la WFD ha trasladado",
+         "start": 439.2,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "su posicionamiento sobre la enseñanza de las lenguas de signos",
+         "start": 442.2,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "instando a que se priorice a las y los profesionales sordos",
+         "start": 444.8,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "como los perfiles más adecuados para desempeñar esta labor.",
+         "start": 448.4,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son estos profesionales, nativos en las lenguas de signos,",
+         "start": 450.6,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "los que pueden transmitir la lengua con el nivel más alto de calidad.",
+         "start": 453.6,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestra Red cuenta en la actualidad con más de 500 Especialistas",
+         "start": 457.0,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "en Lengua de Signos.",
+         "start": 459.8,
+         "duration": 1.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo canoso y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las cifras lo dicen todo.",
+         "start": 502.8,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tan solo durante la última década, la Red Estatal de Enseñanza",
+         "start": 505.2,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la Lenguas de Signos Españolas de la CNSE ha matriculado",
+         "start": 509.0,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "a 70.000 alumnas y alumnos en cerca de 5.000 cursos.",
+         "start": 513.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Quieres aprender lengua de signos?",
+         "start": 519.0,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pues visita las siguientes páginas web.",
+         "start": 522.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde",
+         "screen_position": "center"
+      }
+   ]
+}

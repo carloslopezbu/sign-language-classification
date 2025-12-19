@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Gas Natural Fenosa",
+         "start": 7.3,
+         "duration": 2.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "www.gasnaturalfenosa.es",
+         "start": 58.0,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa negra",
+         "screen_position": "right"
+      }
+   ]
+}

@@ -1,0 +1,572 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Día Internacional del Acceso Universal a la Información.",
+         "start": 1.1,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El derecho a la información es un derecho humano.",
+         "start": 5.0,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es el derecho a buscar, recibir y difundir información.",
+         "start": 8.3,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando el derecho a la información se vulnera,",
+         "start": 13.6,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "también se están vulnerando otros derechos,",
+         "start": 16.8,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como el derecho a la libertad de pensamiento",
+         "start": 20.3,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o el derecho a la libertad de expresión.",
+         "start": 22.8,
+         "duration": 2.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas queremos depender de nosotras mismas,",
+         "start": 25.8,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "decidir por nosotras mismas, y ser nosotras mismas.",
+         "start": 29.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y para ello, necesitamos entornos accesibles en los que estén presentes",
+         "start": 33.8,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la lengua de signos, el subtitulado, las TICS, y cualquier otro recurso visual",
+         "start": 38.3,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que garantice la disponibilidad y asequibilidad de la información.",
+         "start": 43.5,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Día Internacional del Acceso Universal a la Información, reivindicamos:",
+         "start": 49.1,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Información accesible.",
+         "start": 58.7,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La información institucional debe tener en cuenta a las personas sordas.",
+         "start": 100.9,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debe adelantarse a sus necesidades.",
+         "start": 106.9,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y como tal, su accesibilidad ha de partir de las propias Administraciones",
+         "start": 110.7,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y asegurarse siempre, sin excepciones.",
+         "start": 115.1,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Servicios de emergencias accesibles y estandarizados.",
+         "start": 121.9,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El 112 debe incorporar atención directa en lengua de signos",
+         "start": 125.8,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a través de chat o SMS en todo el territorio nacional.",
+         "start": 130.4,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque cada minuto que se retrasa la aplicación de estas medidas,",
+         "start": 135.5,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se compromete la seguridad e integridad de las personas sordas.",
+         "start": 138.7,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medios de comunicación accesibles.",
+         "start": 148.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Televisiones, plataformas digitales, redes sociales...",
+         "start": 151.7,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si los medios de comunicación no incorporan lengua de signos y subtitulado,",
+         "start": 156.6,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o si lo hacen sin ajustarse a los criterios de calidad lingüística y técnica, que deben caracterizar a estas medidas,",
+         "start": 160.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las personas sordas seguiremos desinformadas.",
+         "start": 166.5,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Bienes y servicios públicos accesibles.",
+         "start": 174.1,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tanto en la atención telefónica como en la presencial, las personas sordas",
+         "start": 177.9,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "tenemos derecho a entender y a ser entendidos.",
+         "start": 182.0,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A contar con servicios de interpretación y de videointerpretación en lengua de signos,",
+         "start": 185.6,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "textos escritos, e información visual en detrimento de la sonora.",
+         "start": 191.3,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Páginas web accesibles.",
+         "start": 202.1,
+         "duration": 2.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La información escrita no llega de la misma manera a todas las personas sordas.",
+         "start": 204.8,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para garantizar la plena accesibilidad de las páginas web,",
+         "start": 211.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sus contenidos deben traducirse también a la lengua de signos.",
+         "start": 215.3,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Información y servicios sanitarios accesibles.",
+         "start": 223.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para garantizar un acceso óptimo a la prevención y al cuidado de la salud,",
+         "start": 227.9,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "es fundamental promover servicios de salud accesibles en lengua de signos",
+         "start": 232.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en otros sistemas de comunicación visuales",
+         "start": 236.2,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "tanto en escenarios de atención presencial, como de telemedicina y de urgencia sanitaria.",
+         "start": 239.3,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Información laboral accesible.",
+         "start": 251.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los portales de búsqueda de empleo no son accesibles para las personas sordas,",
+         "start": 253.9,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como tampoco lo son, los cursos de formación para el empleo,",
+         "start": 259.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "los procesos de selección de personal,",
+         "start": 263.2,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ni las reuniones de trabajadores y trabajadoras.",
+         "start": 265.9,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos que se aseguren las adaptaciones precisas en nuestro puesto de trabajo,",
+         "start": 272.7,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "incluyendo la formación continua en lengua de signos,",
+         "start": 277.3,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que se nos brinden las mismas oportunidades que al resto.",
+         "start": 280.4,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Contenidos culturales accesibles.",
+         "start": 289.9,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La escasez de subtitulado y la ausencia de lengua de signos en cines y teatros",
+         "start": 292.8,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "revela que la oferta cultural no está al alcance de todas/os.",
+         "start": 298.9,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tan solo se contemplan iniciativas accesibles para las personas sordas",
+         "start": 305.5,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el ámbito de la lectura y en algunos museos.",
+         "start": 309.7,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Disfrutar del patrimonio cultural de nuestro país sigue siendo un privilegio.",
+         "start": 313.0,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Educación accesible.",
+         "start": 322.9,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tanto en la educación presencial como en la educación online,",
+         "start": 325.3,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el acceso a los contenidos educativos por parte del alumnado sordo requiere",
+         "start": 328.7,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de todos los recursos humanos y técnicos que estén a su alcance:",
+         "start": 333.3,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "especialistas de lengua signos, intérpretes de lengua de signos,",
+         "start": 337.1,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ayudas técnicas, y materiales adaptados.",
+         "start": 341.2,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque sin accesibilidad a la información y a la comunicación no hay inclusión.",
+         "start": 348.2,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo castaño, blusa negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,293 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Hoy, 28 de junio, celebramos el día del Orgullo LGTB.",
+         "start": 6.2,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una fecha para compartir nuestros derechos, construir nuestro presente,",
+         "start": 11.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "y luchar por nuestro futuro.",
+         "start": 16.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ese que a las personas sordas gays, lesbianas, transexuales y bisexuales",
+         "start": 20.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "también nos pertenece.",
+         "start": 26.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "El colectivo de personas sordas LGTB es muy heterogéneo.",
+         "start": 29.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos comunicamos en lengua de signos, en lengua oral;",
+         "start": 34.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "algunas usamos prótesis auditivas y otras no;",
+         "start": 39.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "somos jóvenes, mayores, hombres, mujeres.",
+         "start": 44.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos diversos pero iguales en derechos.",
+         "start": 50.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "La lengua de signos nos permite comunicarnos,",
+         "start": 56.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "relacionarnos con el mundo que nos rodea,",
+         "start": 59.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "e intercambiar conocimientos.",
+         "start": 62.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "De ella depende nuestro acceso a la información.",
+         "start": 65.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sin lengua de signos, los programas y servicios de atención a personas sordas LGTB, dejan de ser programas y servicios para todos.",
+         "start": 69.0,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Una persona sorda LGTB es solo eso, una persona más,",
+         "start": 77.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "con los mismos deberes y los mismos derechos que el resto.",
+         "start": 81.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Apostemos por políticas inclusivas que faciliten nuestra participación",
+         "start": 86.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "en todos los ámbitos, y nos permitan expresar nuestra forma de sentir y vivir el mundo.",
+         "start": 91.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Que nada nos detenga.",
+         "start": 98.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tenemos mucho que ofrecer.",
+         "start": 102.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las personas sordas LGTB decimos NO a la LGTBfobia.",
+         "start": 108.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "NO a los delitos de odio por orientación sexual e identidad de género",
+         "start": 113.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "tanto dentro como fuera de nuestro movimiento asociativo.",
+         "start": 118.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "NO a la discriminación de las personas sordas LGTB en los centros de trabajo y en los ámbitos sociosanitario y educativo.",
+         "start": 123.0,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eduquemos en la diversidad,",
+         "start": 132.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "porque solo así se consiguen los cambios.",
+         "start": 136.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro, gafas, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sin libertad no hay mañana, no hay ganas, no hay ilusión.",
+         "start": 142.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "No viviremos con miedo ni dejaremos que las personas sordas LGTB más vulnerables, como por ejemplo jóvenes, mujeres, mayores,",
+         "start": 147.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "o inmigrantes, lo tengan.",
+         "start": 155.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "Necesitamos contar con soluciones eficaces que garanticen su protección,",
+         "start": 159.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      },
+      {
+         "text": "para que nadie, nunca más, tenga que esconder lo que es.",
+         "start": 167.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo con mechas, camiseta roja",
+         "screen_position": "left"
+      }
+   ]
+}

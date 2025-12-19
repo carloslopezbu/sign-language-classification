@@ -1,0 +1,338 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Bono Cultural Joven es una ayuda directa de 400 euros",
+         "start": 1.12,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "dirigida a quienes cumplan 18 años a lo largo del año 2023.",
+         "start": 7.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puede utilizarse para adquirir y disfrutar de productos y actividades culturales en cualquiera de las entidades",
+         "start": 14.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y establecimientos que se encuentran adheridas al programa.",
+         "start": 23.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Quiénes pueden solicitarlo?",
+         "start": 38.2,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Jóvenes que hayan nacido en 2005",
+         "start": 41.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y posean la nacionalidad española, o bien residencia legal en España.",
+         "start": 45.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También pueden beneficiarse solicitantes de asilo y desplazados temporales.",
+         "start": 55.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo solicitarlo?",
+         "start": 106.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes hacer la solicitud en la página web del Bono Cultural Joven",
+         "start": 109.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "hasta el 30 de septiembre de 2023.",
+         "start": 114.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "https://bonoculturajoven.gob.es/",
+         "start": 118.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para su tramitación es imprescindible que cuentes con DNI electrónico, certificado electrónico, o sistema de acceso Cl@ve.",
+         "start": 122.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo primero es crear una cuenta en la página web del Bono Cultural Joven.",
+         "start": 133.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No te olvides de verificarla a través de tu correo electrónico.",
+         "start": 139.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Permanece atento a tu correo porque tras registrarte en la página web, recibirás un mensaje para verificar la cuenta.",
+         "start": 144.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no lo haces, no podrás continuar ni presentar correctamente la solicitud.",
+         "start": 156.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez verificada, podrás completar tu solicitud y activar tu bono, que tendrá un período un período de validez de 1 año.",
+         "start": 202.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo puedo gastarlo?",
+         "start": 216.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se divide en varias categorías:",
+         "start": 221.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "-200 euros para artes en vivo, patrimonio cultural y artes audiovisuales.",
+         "start": 223.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, entradas y abonos para cine, teatro, música en directo, museos, bibliotecas, exposiciones y festivales escénicos, literarios, musicales o audiovisuales.",
+         "start": 230.5,
+         "duration": 18.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "-100 euros para productos culturales en soporte físico.",
+         "start": 250.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, libros, revistas, prensa, u otras publicaciones periódicas; videojuegos, partituras, discos, CD, DVD o Blu-ray.",
+         "start": 257.0,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "-100 euros para consumo digital o en línea.",
+         "start": 317.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, suscripciones y alquileres a plataformas musicales, de lectura o audiolectura, o audiovisuales, compra de audiolibros, compra de libros digitales (e-books), suscripción para descarga de archivos multimedia (podcasts), suscripciones a videojuegos en línea, suscripciones digitales a prensa, revistas u otras publicaciones periódicas.",
+         "start": 322.0,
+         "duration": 34.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, recuerda las siguientes normas:",
+         "start": 357.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La compra online con envío a domicilio no está permitida.",
+         "start": 401.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los libros, discos o videojuegos deberás comprarlos en la tienda física, o bien online con recogida en tienda.",
+         "start": 408.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La única excepción son las suscripciones a periódicos o revistas.",
+         "start": 420.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las suscripciones a plataformas de audio o vídeo están limitadas a cuatro meses por cada una de ellas.",
+         "start": 427.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasados esos cuatro meses, se cancelará la suscripción.",
+         "start": 434.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los productos podrán ser cambiados por otros de igual o superior precio, si la entidad adherida lo autoriza.",
+         "start": 441.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No podrá solicitarse la devolución del importe, salvo excepciones.",
+         "start": 453.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El uso indebido, en establecimientos no adheridos o no culturales, puede activar el bloqueo antifraude de la tarjeta.",
+         "start": 502.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El desbloqueo nunca es automático.",
+         "start": 519.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Más información en: https://bonoculturajoven.gob.es/",
+         "start": 526.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

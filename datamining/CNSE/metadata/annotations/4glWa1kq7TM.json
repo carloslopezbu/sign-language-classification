@@ -1,0 +1,311 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola a todas y todos.",
+         "start": 1.001,
+         "duration": 0.834,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tras las medidas adoptadas por el Gobierno,",
+         "start": 2.235,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la Comunidad de Madrid y el Ayuntamiento de Madrid",
+         "start": 5.002,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para la contención del coronavirus,",
+         "start": 8.735,
+         "duration": 2.767,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la CNSE y su Fundación se ven obligadas",
+         "start": 15.036,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a tomar las siguientes medidas de prevención.",
+         "start": 19.436,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quedan canceladas o pospuestas todas las reuniones o visitas externas.",
+         "start": 23.903,
+         "duration": 6.334,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si queréis realizar alguna gestión o consulta,",
+         "start": 30.804,
+         "duration": 4.133,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "podéis hacerlo por las líneas habituales de comunicación,",
+         "start": 35.437,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "pero no presencialmente.",
+         "start": 40.838,
+         "duration": 1.866,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los dos viajes de Vacaciones IMSERSO para personas sordas se han pospuesto.",
+         "start": 43.571,
+         "duration": 5.234,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un alto porcentaje de la plantilla de la CNSE y su Fundación estará en modo teletrabajo.",
+         "start": 49.638,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hemos puesto a su disposición las herramientas informáticas y de telefonía necesarios para continuar su labor como siempre.",
+         "start": 58.705,
+         "duration": 6.734,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la sede estarán únicamente aquellos profesionales",
+         "start": 106.572,
+         "duration": 3.467,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "cuyo trabajo solo pueda ser realizado en la misma.",
+         "start": 110.473,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Servicios como VIDASOR para personas mayores sordas,",
+         "start": 119.074,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el Servicio ALBA para información sobre violencia de género,",
+         "start": 123.941,
+         "duration": 4.633,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y SVISUAL de videointerpretación,",
+         "start": 128.908,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "seguirá prestándose con total normalidad.",
+         "start": 131.741,
+         "duration": 2.667,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En lo que respecta a SVisual, hemos dado trato prioritario al acceso",
+         "start": 135.208,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las personas sordas a los teléfonos públicos de información sobre el coronavirus en las Comunidades Autónomas.",
+         "start": 143.008,
+         "duration": 8.934,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si hay una persona sorda infectada, desde su casa o el hospital podrá utilizar el servicio de SVisual.",
+         "start": 152.575,
+         "duration": 10.667,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para que sea accesible la información ofrecida por las autoridades públicas del gobierno de España la CNSE está haciendo todo lo que puede.",
+         "start": 165.276,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A través de intérpretes de lengua de signos española presentes en las ruedas de prensa siempre que el Gobierno nos avisa.",
+         "start": 179.81,
+         "duration": 8.533,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vídeos signados y subtitulados elaborados por la Confederación",
+         "start": 189.177,
+         "duration": 7.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con información estrictamente oficial.",
+         "start": 197.077,
+         "duration": 8.333,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A pesar de que CNSE siempre lo ha propuesto, no existe un protocolo específico para la accesibilidad.",
+         "start": 205.911,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero seguimos ofreciendo nuestros recursos",
+         "start": 211.711,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este momento, la CNSE se siente responsable de colaborar,",
+         "start": 215.578,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para garantizar la información a las personas sordas.",
+         "start": 221.378,
+         "duration": 7.533,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os agradecemos vuestra comprensión y esperamos esta situación que estamos viviendo se resuelva pronto para el bien de todas y de todos.",
+         "start": 232.112,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recordad que es importante seguir todas las indicaciones del Ministerio de Sanidad y de vuestros Gobiernos Autonómicos y locales.",
+         "start": 242.579,
+         "duration": 15.267,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todos y todas debemos ser responsables y cumplir las indicaciones.",
+         "start": 259.346,
+         "duration": 5.567,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuidarte tú es cuidar a los demás. Gracias por vuestra atención.",
+         "start": 266.78,
+         "duration": 10.233,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

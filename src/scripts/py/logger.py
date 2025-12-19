@@ -1,45 +1,23 @@
-import sys
-from datetime import datetime
+from rich.console import Console
+
+console = Console(log_time=True, log_time_format="%Y-%m-%d %H:%M:%S", log_path=False)
 
 
-class Colors:
-    RESET = "\033[0m"
-    GRAY = "\033[90m"
-    RED = "\033[91m"
-    GREEN = "\033[92m"
-    YELLOW = "\033[93m"
-    BLUE = "\033[94m"
-    MAGENTA = "\033[95m"
-    CYAN = "\033[96m"
-    WHITE = "\033[97m"
-    BOLD = "\033[1m"
+def info(msg: str) -> None:
+    console.log(f"[blue](info)[/] {msg}")
 
 
-class logger:
-    @staticmethod
-    def _timestamp():
-        ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")[:-3]
-        return f"{Colors.GRAY}{ts}{Colors.RESET}"
+def warn(msg: str) -> None:
+    console.log(f"[yellow](warn)[/] {msg}")
 
-    @staticmethod
-    def info(msg: str):
-        print(f"{logger._timestamp()} {Colors.CYAN}[info]{Colors.RESET} {msg}")
 
-    @staticmethod
-    def warn(msg: str):
-        print(f"{logger._timestamp()} {Colors.YELLOW}[warn]{Colors.RESET} {msg}")
+def debug(msg: str) -> None:
+    console.log(f"[magenta](debug)[/] {msg}")
 
-    @staticmethod
-    def error(msg: str):
-        print(
-            f"{logger._timestamp()} {Colors.RED}[error]{Colors.RESET} {msg}",
-            file=sys.stderr,
-        )
 
-    @staticmethod
-    def success(msg: str):
-        print(f"{logger._timestamp()} {Colors.GREEN}[success]{Colors.RESET} {msg}")
+def error(msg: str) -> None:
+    console.log(f"[red](error)[/] {msg}")
 
-    @staticmethod
-    def debug(msg: str):
-        print(f"{logger._timestamp()} {Colors.MAGENTA}[debug]{Colors.RESET} {msg}")
+
+def success(msg: str) -> None:
+    console.log(f"[green](success)[/] {msg}")

@@ -1,0 +1,284 @@
+{
+   "num_signers": 9,
+   "annotations": [
+      {
+         "text": "¿Nos ves?",
+         "start": 5.6,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas. Personas sordas LGTBI+.",
+         "start": 7.1,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No somos invisibles. Existimos.",
+         "start": 12.8,
+         "duration": 3.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo canoso con camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestros derechos no son negociables.",
+         "start": 17.0,
+         "duration": 5.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camiseta blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a que nos amen tal y como somos.",
+         "start": 22.8,
+         "duration": 5.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con barba, gafas y gorra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho a casarnos y a formar una familia.",
+         "start": 28.8,
+         "duration": 5.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "La diversidad no divide. Nos une y enriquece.",
+         "start": 34.5,
+         "duration": 4.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Persona con pelo rizado y camiseta estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestro Orgullo se muestra, no se esconde.",
+         "start": 39.8,
+         "duration": 5.5,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestro Orgullo se signa, no nos silencies.",
+         "start": 45.8,
+         "duration": 7.5,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y top de flores",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mismos derechos. Mismo respeto. Mismo Orgullo.",
+         "start": 53.8,
+         "duration": 7.7,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta negra de Nirvana",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante dos décadas, el colectivo LGTBI+ ha conquistado derechos fundamentales",
+         "start": 102.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que han transformado nuestras vidas y nuestras sociedades.",
+         "start": 110.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estos logros, fruto de años de lucha colectiva, no son concesiones:",
+         "start": 116.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "son derechos humanos.",
+         "start": 124.5,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y no permitiremos que la actual regresión normativa e ideológica que amenaza con borrar estos avances pueda con nosotras.",
+         "start": 128.8,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos respeto, protección y políticas públicas inclusivas que garanticen vidas",
+         "start": 139.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "dignas y libres de violencia para todas las personas del colectivo LGTBI+",
+         "start": 148.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sin excepciones.",
+         "start": 156.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos el reconocimiento y apoyo a la diversidad dentro del colectivo LGTBI+.",
+         "start": 161.8,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos accesibilidad universal, servicios de atención adaptados en lengua de signos,",
+         "start": 173.8,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y espacios seguros donde podamos ejercer nuestros derechos sin barreras ni discriminación.",
+         "start": 181.8,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos igualdad.",
+         "start": 191.3,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque las personas sordas LGTBI+ también contamos,",
+         "start": 196.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "también luchamos,",
+         "start": 201.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y también merecemos ser visibilizadas y protegidas.",
+         "start": 203.5,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque nuestras vidas, también importan.",
+         "start": 209.3,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Frente a la intolerancia, más visibilidad.",
+         "start": 214.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Frente al odio, más comunidad.",
+         "start": 219.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Frente al retroceso, más unidad.",
+         "start": 224.3,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Orgullo!",
+         "start": 228.8,
+         "duration": 2.2,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mosaico de varias personas",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "¡Orgullo!",
+         "start": 231.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

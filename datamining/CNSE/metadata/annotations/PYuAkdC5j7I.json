@@ -1,0 +1,68 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "CONFEDERACIÓN ESTATAL DE PERSONAS SORDAS (CNSE) ÁREA DE IGUALDAD DE GÉNERO Y POLÍTICAS SECTORIALES C/ MONTESA, 38 C/V PASAJE MARTÍ 28006 MADRID FAX: 91 355 43 36. E-MAIL: IGUALDAD.GENERO@CNSE.ES",
+         "start": 445.445,
+         "duration": 6.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "HTTP://CONGRESOMUJERESSORDAS.BLOGSPOT.COM.ES/",
+         "start": 529.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, top gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "HTTP://CONGRESOMUJERESSORDAS.BLOGSPOT.COM.ES/",
+         "start": 555.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, top gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "HTTP://CONGRESOMUJERESSORDAS.BLOGSPOT.COM.ES",
+         "start": 612.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALDAD.GENERO@CNSE.ES",
+         "start": 641.0,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "C/ SEBASTIÁN HERRERA, Nº 15 CP: 28012. MADRID",
+         "start": 293.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, top gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "2038 1150 90 6000436661",
+         "start": 345.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, top gris",
+         "screen_position": "center"
+      }
+   ]
+}

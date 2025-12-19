@@ -1,0 +1,554 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "En el Día Internacional de las Personas Sordas",
+         "start": 0.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "queremos decirle al mundo quiénes somos y cómo somos",
+         "start": 4.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que nuestra realidad deje de ser invisible,",
+         "start": 7.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que se respeten nuestros derechos,",
+         "start": 11.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "y para combatir el desconocimiento,",
+         "start": 14.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "la falta de voluntad o los prejuicios sobre",
+         "start": 18.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "nuestro colectivo en general y, sobre las lenguas de signos",
+         "start": 21.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "y quienes las utilizamos.",
+         "start": 25.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "SOMOS PERSONAS SORDAS, así nos identificamos",
+         "start": 29.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y así queremos que la sociedad nos reconozca.",
+         "start": 32.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tarea difícil cuando la sordera aún se concibe",
+         "start": 36.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "como una limitación.",
+         "start": 39.8,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ni sordomudos ni deficientes auditivos:",
+         "start": 42.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "PERSONAS SORDAS.",
+         "start": 45.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Reivindicamos nuestra DIVERSIDAD porque la diversidad,",
+         "start": 48.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "lejos de ser una amenaza, es un factor de progreso.",
+         "start": 52.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La diferencia no nos limita; no nos da miedo;",
+         "start": 56.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "NOS ENRIQUECE.",
+         "start": 59.5,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los derechos humanos no son cuestión",
+         "start": 103.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "de números o de porcentajes.",
+         "start": 105.5,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "SOMOS PERSONAS SORDAS que merecemos tener",
+         "start": 108.5,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "las mismas oportunidades, sin distinción.",
+         "start": 111.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "SOMOS PERSONAS SORDAS, una comunidad",
+         "start": 115.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "con identidad lingüística y cultural propia que forjamos",
+         "start": 118.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "para responder a una situación de exclusión histórica",
+         "start": 121.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "en el plano educativo, lingüístico, político, económico y cultural.",
+         "start": 124.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Identidad que, sin duda, ha servido para que tanto",
+         "start": 128.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "en la dimensión individual como en la colectiva,",
+         "start": 131.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "adquiriésemos plena conciencia de nuestras capacidades,",
+         "start": 134.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "superando así la minoría de edad social,",
+         "start": 137.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "y asumiendo plenamente nuestra representatividad",
+         "start": 141.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "como ciudadanas y ciudadanos.",
+         "start": 144.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "SOMOS PERSONAS SORDAS que unidas en torno a la CNSE,",
+         "start": 149.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y sus federaciones y asociaciones, hemos contribuido",
+         "start": 152.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "a combatir la incomprensión, a conquistar y hacer valer",
+         "start": 155.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "nuestros derechos, y a forjar una trayectoria",
+         "start": 158.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "que alcanza ya los 80 años.",
+         "start": 200.5,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con valentía, coraje y dedicación.",
+         "start": 202.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Porque así somos las PERSONAS SORDAS.",
+         "start": 205.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Exigimos que se garantice nuestra LIBERTAD",
+         "start": 209.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "en el uso de la lengua de signos, porque además de ser la seña",
+         "start": 212.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "que configura nuestros valores culturales e identitarios,",
+         "start": 215.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "es una lengua de vida que permite el ejercicio",
+         "start": 218.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "de nuestros derechos en IGUALDAD de condiciones.",
+         "start": 221.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Una lengua que a lo largo de generaciones hemos sacado",
+         "start": 224.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "del ostracismo para convertirla en una lengua de CONVIVENCIA,",
+         "start": 227.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y no lo olvidemos, en una lengua LEGAL.",
+         "start": 231.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño con blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "SOMOS PERSONAS SORDAS.",
+         "start": 236.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y no nos asusta, ni nos avergüenza, ni nos incapacita.",
+         "start": 238.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "No nos exime de nuestros deberes",
+         "start": 243.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "ni resta valor a nuestros derechos.",
+         "start": 246.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "PERSONAS SORDAS CAPACES de ser lo que queramos ser.",
+         "start": 250.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Nosotras decidimos!",
+         "start": 254.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con audífonos, con implantes cocleares, o sin ellos.",
+         "start": 258.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "PERSONAS SORDAS que utilizamos la lengua de signos o no.",
+         "start": 301.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y no, no nos escondemos.",
+         "start": 304.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y sí, lo queremos todo.",
+         "start": 307.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sin barreras de ningún tipo.",
+         "start": 310.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con polo rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "SOMOS PERSONAS SORDAS.",
+         "start": 313.5,
+         "duration": 2.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de personas",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Conócenos.",
+         "start": 317.5,
+         "duration": 1.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de personas",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Escúchanos.",
+         "start": 319.5,
+         "duration": 1.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de personas",
+         "screen_position": "multiple"
+      }
+   ]
+}

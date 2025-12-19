@@ -1,0 +1,113 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Décimo cuarto día de guerra.",
+         "start": 1.3,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las tropas rusas continúan su avance hacia Kyiv, donde se espera un ataque en los próximos días.",
+         "start": 5.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El ejército ucraniano ha dinamitado los puentes que rodean la capital en un intento desesperado de frenar el asedio ruso.",
+         "start": 12.8,
+         "duration": 12.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante la tercera ronda de negociaciones que tuvo lugar el pasado lunes, Rusia propuso un alto al fuego a Ucrania si reconocen Crimea como territorio ruso, aceptan la independencia de la región de Dombás, y renuncian a ingresar en la Unión Europea y en la OTAN.",
+         "start": 27.8,
+         "duration": 38.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Unas condiciones que el gobierno de Zelenski ha calificado como inadmisibles para una nación soberana y civilizada como Ucrania.",
+         "start": 66.8,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Donde si se han producido ciertos avances es en la apertura de corredores humanitarios.",
+         "start": 79.8,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En los últimos días, Ucrania ha podido evacuar a civiles atrapados en Irpin, ciudad vecina de Kyiv, y en Sumi, localidad en la frontera con Rusia.",
+         "start": 88.8,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todo lo contrario a lo sucedido en Mariúpol, donde los militares rusos han bloqueado la entrada de ayuda humanitaria pese a haber bombardeado hospitales, escuelas y zonas residenciales.",
+         "start": 101.8,
+         "duration": 21.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde el inicio del conflicto, ya son más de dos millones de personas las que han huido hacia Polonia, Hungría, Rumanía, Eslovaquia y Moldavia, en lo que se considera el mayor éxodo de refugiados desde la II Guerra Mundial.",
+         "start": 126.8,
+         "duration": 24.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, Moscú ha amenazado con cortar el suministro de gas natural a Europa y Estados Unidos en respuesta al anuncio de Reino Unido de prohibir la importación de petróleo ruso, una de sus principales fuentes de ingresos.",
+         "start": 152.8,
+         "duration": 18.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medios de comunicación internacionales como TVE, la agencia Efe, BBC, CNN, Bloomberg o la Rai italiana han abandonado territorio ruso ante la amenaza de Putin de castigar con penas de hasta 15 años a aquellos que emitan informaciones contrarias a los intereses de su gobierno.",
+         "start": 172.8,
+         "duration": 39.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las protestas de ciudadanas y ciudadanos rusos contrarios a la invasión de Ucrania se han saldado con miles de detenidos entre los que se encuentran niños y ancianos.",
+         "start": 213.8,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

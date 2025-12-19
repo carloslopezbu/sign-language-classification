@@ -1,0 +1,419 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy la CNSE quiere informar de manera oficial y pública",
+         "start": 1.3,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "acerca de un tema pendiente, de un tema histórico",
+         "start": 6.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "por el cual llevamos luchando cerca de 16 años.",
+         "start": 10.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Consejo de Ministros celebrado en el día de hoy",
+         "start": 14.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "se ha aprobado el Real Decreto en relación",
+         "start": 17.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "con el Reglamento que ratifica las condiciones de utilización",
+         "start": 20.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la lengua de signos y de los medios de apoyo",
+         "start": 24.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la comunicación oral para las personas sordas,",
+         "start": 26.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "personas con discapacidad auditiva y personas sordociegas.",
+         "start": 30.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Ley 27/2007 supuso un paso previo fundamental",
+         "start": 35.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "para conseguir el éxito en la aprobación de dicho Reglamento.",
+         "start": 40.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la CNSE queremos transmitiros",
+         "start": 44.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "el enorme trabajo de incidencia política",
+         "start": 47.2,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "que hemos realizado en este último tiempo, realizando una labor de",
+         "start": 49.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "presión a los diferentes grupos políticos, así",
+         "start": 54.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "como a diferentes entidades e instituciones,",
+         "start": 57.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "con el fin de que fueran reconocidos nuestros derechos",
+         "start": 61.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "a través de este documento.",
+         "start": 64.5,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trasladaros que no hemos podido acceder",
+         "start": 66.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las últimas modificaciones del documento final del reglamento;",
+         "start": 68.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "pero tenemos fe y confiamos en el Ministerio de",
+         "start": 72.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derechos Sociales y Agenda 2030",
+         "start": 75.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en que nuestras aportaciones y filosofía se verán reflejadas",
+         "start": 78.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el documento final.",
+         "start": 82.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando este sea publicado en el BOE,",
+         "start": 84.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "desde la CNSE os daremos más detalles al respecto.",
+         "start": 86.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde la CNSE, queremos agradecer",
+         "start": 92.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "a nuestras diferentes entidades afiliadas,",
+         "start": 94.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como a sus presidencias, por la labor conjunta",
+         "start": 97.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "de colaboración y presión, y por su constancia en este asunto.",
+         "start": 100.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quiero trasladar mi gratitud a Luis Cañón, ex presidente de la CNSE",
+         "start": 104.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "porque en momentos muy complicados consiguió la aprobación",
+         "start": 108.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la ley propia de las personas sordas, la Ley 27/2007.",
+         "start": 111.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "También a Concha Díaz, porque desde que se aprobó la ley",
+         "start": 116.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "ha luchado de forma incansable y tenaz para el reconocimiento",
+         "start": 119.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "de un Reglamento cuyo texto recogiese las aportaciones",
+         "start": 123.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "e ideas de la CNSE.",
+         "start": 126.5,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tampoco quiero olvidarme de dar las gracias",
+         "start": 128.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las diferentes personas sordas que conforman",
+         "start": 130.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "nuestro movimiento asociativo, ya que sin su colaboración,",
+         "start": 133.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "hubiese sido imposible conseguir este logro.",
+         "start": 137.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para finalizar, desde la CNSE",
+         "start": 140.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "os animamos a seguir trabajando conjuntamente",
+         "start": 143.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "y con mayor fuerza si cabe, para que a través",
+         "start": 146.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "de nuestra lucha conjunta logremos la accesibilidad universal",
+         "start": 148.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la inclusión real de todas las personas sordas.",
+         "start": 152.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa clara",
+         "screen_position": "center"
+      }
+   ]
+}

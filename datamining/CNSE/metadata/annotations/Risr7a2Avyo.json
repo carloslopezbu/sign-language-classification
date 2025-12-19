@@ -1,0 +1,131 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE y su Fundación están colaborando con la Fesord CV para dar apoyo en la atención a las personas sordas afectadas por la DANA.",
+         "start": 4.304,
+         "duration": 10.01,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para las personas sordas que lo necesiten hay dos formas de acceso a SVisual DANA:",
+         "start": 15.048,
+         "duration": 5.505,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. Acceso sin registro, para móvil y ordenador.",
+         "start": 21.254,
+         "duration": 16.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. Acceso con registro desde la Web y app SVisual para iOS y Android.",
+         "start": 38.138,
+         "duration": 9.209,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la web, accede a través del enlace y una vez registrado, aparecerá en pantalla el botón DANA",
+         "start": 48.148,
+         "duration": 15.852,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para App Android, accede a Google Play.",
+         "start": 104.701,
+         "duration": 2.803,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Busca la app de SVisual, una vez descargada la app y efectuado el registro, aparecerán en pantalla las opciones de LSE y LSC y a continuación aparecen los distintos servicios, y el nuevo que se ha incluido el botón DANA.",
+         "start": 114.147,
+         "duration": 17.35,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si clicais en él, se contactará directamente con el servicio.",
+         "start": 132.031,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para App iOS, accede a App Store busca a la app de SVisual, una vez descargada la app y efectuado el registro, aparecerán en pantalla las opciones de LSE y LSC y a continuación aparecen los distintos servicios, y el nuevo que se ha incluido, el botón DANA.",
+         "start": 135.165,
+         "duration": 22.835,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si clicais en él, se contactará directamente con el servicio.",
+         "start": 158.531,
+         "duration": 2.167,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si ya tenías la app instalada en tu móvil/tableta, recuerda que tienes que ir a la tienda, para Android o para iOS, buscar la aplicación SVisual y “actualizar” la app para que puedas ver el nuevo botón DANA.",
+         "start": 201.131,
+         "duration": 18.369,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estos accesos para personas afectadas tienen atención inmediata y sin límite de tiempo, con atención telefónica y presencial.",
+         "start": 220.033,
+         "duration": 18.967,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda: No estás solo/a.",
+         "start": 239.733,
+         "duration": 4.267,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si eres persona sorda y lo necesitas, tienes todos estos recursos a tu disposición.",
+         "start": 244.567,
+         "duration": 4.933,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

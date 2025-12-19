@@ -1,0 +1,131 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "MUJER",
+         "start": 0.3,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "ORGULLO",
+         "start": 3.6,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "CAPACES",
+         "start": 7.1,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "UNIDAS",
+         "start": 9.2,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "IGUALES",
+         "start": 12.7,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "SORDAS",
+         "start": 15.2,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy 8 de marzo, Día de la Mujer, la CNSE, Confederación Estatal de Personas Sordas, se suma a un movimiento social cada vez más visible comprometido con la igualdad real y con un mundo libre de machismos para todas y todos.",
+         "start": 19.3,
+         "duration": 18.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque nos queremos libres e iguales, como mujeres y como personas sordas.",
+         "start": 40.6,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una igualdad que exige que desaparezcan las barreras de acceso a la información y a la comunicación y todos los prejuicios sobre nosotras como mujeres, sobre nosotras como personas sordas, sobre nuestras capacidades, sobre nuestras lenguas de signos. Prejuicios que nos hacen vulnerables, que nos discriminan y nos impiden alcanzar una vida digna.",
+         "start": 46.6,
+         "duration": 28.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Las mujeres sordas estamos tan capacitadas como cualquier mujer u hombre para formar una familia, para ser madres. Ser sordas no nos hace menos válidas. La diversidad enriquece. Basta de juzgarnos sin conocernos.",
+         "start": 77.5,
+         "duration": 19.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "- La falta de accesibilidad no puede limitar nuestro derecho a recibir una información y una atención sociosanitaria adecuadas. No pueden privarnos de ellas. Las queremos, y las queremos en nuestra lengua: la lengua de signos. Del mismo modo, solicitamos que las campañas informativas presentes en televisión, páginas web, etc, incluyan subtitulado y lengua de signos. En cuestión de igualdad, nadie debe quedarse atrás.",
+         "start": 99.2,
+         "duration": 29.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Son muchas las mujeres sordas víctimas de malos tratos. Víctimas de miedo y de confusión. Y aunque el teléfono 016 es accesible, necesitan contar con la presencia de intérpretes de lengua de signos y mediadoras comunicativas en comisarías, juzgados, casas de acogida, servicios de urgencia... A nosotras nos importan sus miedos... ¿y a ti?",
+         "start": 131.7,
+         "duration": 27.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Las mujeres sordas somos más vulnerables porque nos hacen más vulnerables. Prejuicios, paternalismo, falta de recursos y actitudes condescendientes son las culpables. Pedimos para las niñas y niños sordos una educación no sexista y bilingüe en lengua de signos, que les permita interiorizar valores de equidad y solidaridad.",
+         "start": 161.4,
+         "duration": 35.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos mujeres sordas. Escúchanos. No nos dejes para mañana. La igualdad es AHORA.",
+         "start": 202.4,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, jersey granate",
+         "screen_position": "center"
+      }
+   ]
+}

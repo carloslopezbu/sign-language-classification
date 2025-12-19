@@ -1,0 +1,77 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Congreso de los Diputados ha aprobado la prórroga del estado de alarma solicitada por el Gobierno, por un período de 6 meses, es decir, hasta el 9 de mayo.",
+         "start": 1.5,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este es el plazo considerado necesario en base a criterios científicos y recomendaciones de los expertos para superar la segunda ola de la COVID 19.",
+         "start": 14.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como hasta ahora, las comunidades autónomas adoptarán en coordinación con Sanidad, las medidas que resulten necesarias para frenar la transmisión y evitar así, un colapso sanitario.",
+         "start": 25.8,
+         "duration": 15.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La más reciente, los cierres perimetrales que han ordenado todos los territorios, a excepción de Galicia, Extremadura, Baleares y Canarias, para evitar desplazamientos masivos durante el próximo puente.",
+         "start": 42.8,
+         "duration": 24.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante estos 6 meses de estado de alarma, el ministro de Sanidad reportará ante la Comisión de Sanidad del Congreso qué resultados están teniendo las medidas de control frente al coronavirus.",
+         "start": 68.8,
+         "duration": 15.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, el presidente del Gobierno comparecerá cada dos meses para explicar cómo evoluciona la pandemia.",
+         "start": 85.2,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si los indicadores epidemiológicos mejoran y España supera antes la pandemia, el estado de alarma dejaría de aplicarse de inmediato.",
+         "start": 97.0,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si por el contario empeorasen, podría suponer la aplicación de medidas más drásticas como el confinamiento domiciliario y el cierre de la actividad no esencial.",
+         "start": 112.0,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

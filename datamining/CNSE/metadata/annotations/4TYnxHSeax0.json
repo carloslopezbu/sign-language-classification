@@ -1,0 +1,149 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Ministerio de Sanidad ha presentado la \"Estrategia de Vacunación COVID- 19 en España\",",
+         "start": 1.15,
+         "duration": 8.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "cuyo objetivo es reducir la mortalidad causada por este virus",
+         "start": 9.85,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "mediante la vacunación progresiva de la población, con especial protección a los grupos más vulnerables,",
+         "start": 16.85,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y siempre bajo criterios de equidad, solidaridad y transparencia.",
+         "start": 25.75,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La estrategia de vacunación establece un orden de prioridad de los grupos de población a vacunar, teniendo en cuenta su nivel de riesgo ante la COVID.",
+         "start": 34.75,
+         "duration": 12.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es decir, su grado de vulnerabilidad, exposición y transmisión de la enfermedad.",
+         "start": 47.95,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Dado que, en un primer momento, se contará con un suministro inicial y muy limitado de dosis, los primeros en vacunarse serán residentes y personal sanitario y sociosanitario que vivan o trabajen en residencias de personas mayores y de personas con discapacidad.",
+         "start": 60.75,
+         "duration": 24.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Les seguirá el resto de personal sanitario, y aquellas personas con un grado de dependencia severa.",
+         "start": 87.25,
+         "duration": 14.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A medida que se disponga de más dosis de vacunas, se procederá a vacunar progresivamente al resto de la población, atendiendo a los factores antes mencionados.",
+         "start": 102.75,
+         "duration": 13.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Ministerio de Sanidad ha manifestado que las vacunas que se emplearán para inmunizar frente a la COVID-19 dispondrán de los mismos niveles de seguridad y eficacia que cualquiera de las que se emplean habitualmente en nuestro sistema de salud.",
+         "start": 120.85,
+         "duration": 19.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Su seguimiento y evaluación dependerá del Sistema Español de Farmacovigilancia y coordinado por la AEMPS (Agencia Española de Medicamentos y Productos Sanitarios), en colaboración con el resto de agencias europeas y con la OMS.",
+         "start": 141.85,
+         "duration": 23.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De este modo, se analizarán de forma continua las notificaciones de sospecha de reacciones adversas realizadas tanto por los profesionales sanitarios como por los propios ciudadanos vacunados, así como la inmunidad que genera la vacuna.",
+         "start": 165.85,
+         "duration": 26.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las comunidades autónomas juegan un papel muy importante en el desarrollo de esta estrategia, ya que de ellas dependerán los equipos, recursos y materiales necesarios para la administración de las vacunas que provea el Ministerio de Sanidad.",
+         "start": 194.95,
+         "duration": 18.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La vacunación será gratuita, al igual que el resto de las vacunas del calendario de vacunación actual, y de carácter voluntario.",
+         "start": 215.65,
+         "duration": 12.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas las personas vacunadas recibirán información adecuada sobre la vacuna administrada y una tarjeta de vacunación, o similar, en la que constará el tipo de vacuna administrada y el número de lote, la fecha de vacunación, la fecha para la administración de la segunda dosis, si fuera necesaria, así como la manera de actuar ante cualquier sospecha de reacción adversa.",
+         "start": 229.65,
+         "duration": 27.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A medida que se disponga de información sobre la disponibilidad de vacunas, se irán actualizando los procesos y se establecerá dónde, quién y cómo se realizará la vacunación.",
+         "start": 258.05,
+         "duration": 13.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

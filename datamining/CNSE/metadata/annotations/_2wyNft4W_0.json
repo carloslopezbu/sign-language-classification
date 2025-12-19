@@ -1,0 +1,635 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "La Comisión Europea ha aprobado una Directiva de Protección Temporal",
+         "start": 1.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La Comisión Europea ha aprobado una Directiva de Protección Temporal",
+         "start": 1.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "que permite la acogida de desplazados ucranianos en cualquiera",
+         "start": 6.7,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "que permite la acogida de desplazados ucranianos en cualquiera",
+         "start": 6.7,
+         "duration": 4.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "de los 27 países miembros de la Unión Europea, entre ellos, España.",
+         "start": 11.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "de los 27 países miembros de la Unión Europea, entre ellos, España.",
+         "start": 11.0,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Su solicitud otorga a estas personas, casi de forma inmediata,",
+         "start": 21.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Su solicitud otorga a estas personas, casi de forma inmediata,",
+         "start": 21.0,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "permiso de residencia y de trabajo por un año (prorrogable a tres),",
+         "start": 28.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "permiso de residencia y de trabajo por un año (prorrogable a tres),",
+         "start": 28.5,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "asistencia médica, acceso a la educación y a la formación profesional, alojamiento,",
+         "start": 36.0,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "asistencia médica, acceso a la educación y a la formación profesional, alojamiento,",
+         "start": 36.0,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "ayuda social y apoyo financiero.",
+         "start": 46.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "ayuda social y apoyo financiero.",
+         "start": 46.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pueden acogerse a la Protección Temporal:",
+         "start": 51.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pueden acogerse a la Protección Temporal:",
+         "start": 51.8,
+         "duration": 5.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Personas de nacionalidad ucraniana o de otra nacionalidad y sus familias",
+         "start": 57.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Personas de nacionalidad ucraniana o de otra nacionalidad y sus familias",
+         "start": 57.5,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "que vivieran en Ucrania en el momento de inicio del conflicto armado.",
+         "start": 105.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "que vivieran en Ucrania en el momento de inicio del conflicto armado.",
+         "start": 105.0,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Personas de nacionalidad ucraniana y sus familias que en aquel momento",
+         "start": 112.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Personas de nacionalidad ucraniana y sus familias que en aquel momento",
+         "start": 112.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "se encontraran en España y que no puedan regresar a su país con motivo de la guerra.",
+         "start": 119.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "se encontraran en España y que no puedan regresar a su país con motivo de la guerra.",
+         "start": 119.0,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ambos grupos de personas podrán solicitar a la Protección Temporal.",
+         "start": 126.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ambos grupos de personas podrán solicitar a la Protección Temporal.",
+         "start": 126.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Apoyo a personas sordas refugiadas",
+         "start": 131.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CNSE, Confederación Estatal de Personas Sordas,",
+         "start": 135.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La CNSE, Confederación Estatal de Personas Sordas,",
+         "start": 135.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "ha puesto a disposición de las personas sordas ucranianas que lleguéis a España",
+         "start": 139.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "ha puesto a disposición de las personas sordas ucranianas que lleguéis a España",
+         "start": 139.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "una red de apoyo y servicios junto a sus federaciones autonómicas",
+         "start": 143.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "una red de apoyo y servicios junto a sus federaciones autonómicas",
+         "start": 143.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "y asociaciones provinciales y locales.",
+         "start": 148.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y asociaciones provinciales y locales.",
+         "start": 148.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "En este sentido, colabora con ONGS y con el Ministerio de Inclusión,",
+         "start": 152.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "En este sentido, colabora con ONGS y con el Ministerio de Inclusión,",
+         "start": 152.0,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Seguridad Social y Migraciones para que las refugiadas y refugiados sordos veáis",
+         "start": 160.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Seguridad Social y Migraciones para que las refugiadas y refugiados sordos veáis",
+         "start": 160.0,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "cubiertas vuestras necesidades básicas de información y atención",
+         "start": 169.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "cubiertas vuestras necesidades básicas de información y atención",
+         "start": 169.0,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "en un idioma que podáis entender.",
+         "start": 176.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "en un idioma que podáis entender.",
+         "start": 176.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Qué hacer una vez en España?",
+         "start": 220.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas ucranianas que estéis",
+         "start": 224.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las personas sordas ucranianas que estéis",
+         "start": 224.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "en territorio español podéis dirigiros a:",
+         "start": 227.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "en territorio español podéis dirigiros a:",
+         "start": 227.5,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Centros de CEAR, Cruz Roja o ACCEM repartidos por todo el país.",
+         "start": 230.0,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Centros de CEAR, Cruz Roja o ACCEM repartidos por todo el país.",
+         "start": 230.0,
+         "duration": 11.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Comisarías de la Policía Nacional.",
+         "start": 242.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Comisarías de la Policía Nacional.",
+         "start": 242.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Oficina de recepción y primera acogida de Pozuelo de Alarcón (Madrid).",
+         "start": 247.0,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Oficina de recepción y primera acogida de Pozuelo de Alarcón (Madrid).",
+         "start": 247.0,
+         "duration": 14.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Como parte del proceso de acogida, os harán una primera entrevista para",
+         "start": 302.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Como parte del proceso de acogida, os harán una primera entrevista para",
+         "start": 302.5,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "conocer vuestras necesidades y derivaros hacia los recursos más apropiados.",
+         "start": 308.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "conocer vuestras necesidades y derivaros hacia los recursos más apropiados.",
+         "start": 308.5,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "También os ayudarán a tramitar vuestra solicitud de Protección Temporal.",
+         "start": 317.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "También os ayudarán a tramitar vuestra solicitud de Protección Temporal.",
+         "start": 317.0,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "Asimismo, si lo necesitáis, se pondrán en contacto con",
+         "start": 326.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Asimismo, si lo necesitáis, se pondrán en contacto con",
+         "start": 326.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "la federación de personas sordas más cercana para que os puedan facilitar",
+         "start": 331.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "la federación de personas sordas más cercana para que os puedan facilitar",
+         "start": 331.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "un intérprete y/o mediador que haga posible la comunicación",
+         "start": 336.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "un intérprete y/o mediador que haga posible la comunicación",
+         "start": 336.0,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "en lengua de signos española/catalana, lengua de signos ucraniana",
+         "start": 341.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "en lengua de signos española/catalana, lengua de signos ucraniana",
+         "start": 341.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      },
+      {
+         "text": "y lengua oral de forma simultánea.",
+         "start": 346.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer morena con moño y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y lengua oral de forma simultánea.",
+         "start": 346.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta azul",
+         "screen_position": "right"
+      }
+   ]
+}

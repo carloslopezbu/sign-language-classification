@@ -1,0 +1,59 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Martes, 19 de abril.",
+         "start": 1.21,
+         "duration": 2.127,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Volodímir Zelenski formalizó ayer el formulario que reconoce a Ucrania como país aspirante a ingresar en la Unión Europea.",
+         "start": 3.912,
+         "duration": 8.842,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una solicitud cuya resolución podría alargarse en el tiempo, ya que supone la adaptación de la legislación del país candidato a la normativa europea y requiere unas condiciones de estabilidad política y económica difíciles de cumplir para una nación en guerra.",
+         "start": 12.962,
+         "duration": 26.026,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En materia militar, continúan los ataques del ejército ruso en el Donbás, en Jarkóv y en Mariúpol, donde unos 40.000 civiles han sido deportados a regiones controladas por el gobierno del Kremlin.",
+         "start": 41.629,
+         "duration": 24.224,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, las tropas rusas han reactivado los ataques aéreos sobre Kyiv y han iniciado una ofensiva en Leópolis, ciudad cercana a la frontera con Polonia que, hasta ahora, se había mantenido prácticamente intacta.",
+         "start": 68.034,
+         "duration": 20.42,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, el Consejo de Seguridad de Rusia ha amenazado con un despliegue nuclear en la zona del Báltico en caso de que Suecia y Finlandia decidan entrar en la OTAN.",
+         "start": 89.748,
+         "duration": 23.991,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto oscuro, blusa negra",
+         "screen_position": "center"
+      }
+   ]
+}

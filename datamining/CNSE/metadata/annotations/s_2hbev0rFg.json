@@ -1,0 +1,320 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¡Hola! Ahora estamos con María.",
+         "start": 4.321,
+         "duration": 1.52,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "María lleva muchísimos años de especialista enseñando lengua de signos.",
+         "start": 6.321,
+         "duration": 4.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lleva 17 años dentro APROSOJA que es la Asociación de Personas Sordas de Jaén",
+         "start": 12.001,
+         "duration": 5.92,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "afiliada a UNASORD que a su vez está afiliada a la CNSE.",
+         "start": 18.321,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Enhorabuena y gracias por tu tiempo.",
+         "start": 22.641,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Gracias a vosotras por invitarme.",
+         "start": 25.121,
+         "duration": 1.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Bienvenida.",
+         "start": 26.881,
+         "duration": 0.96,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cómo ves el tema de la Igualdad dentro de la enseñanza de la lengua de signos?",
+         "start": 28.841,
+         "duration": 6.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Dentro del gremio de la enseñanza de la LSE he de decir que está bastante equiparado,",
+         "start": 39.421,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "hay tanto hombres como mujeres,",
+         "start": 45.261,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "sin embargo entre el alumnado la situación es diferente, ya que la mayoría que se apuntan son mujeres.",
+         "start": 48.821,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si hay algún hombre, suelen ser gays,",
+         "start": 58.221,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "parece que la sociedad asocia el aprendizaje de la LSE como afeminado, los estereotipos continúan, por eso participan pocos hombres.",
+         "start": 60.981,
+         "duration": 7.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Dentro de los Centros Educativos, en los colegios, las niñas y niños",
+         "start": 73.421,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "mientras aprenden la LSE, interiorizan también el conocimiento de la Igualdad.",
+         "start": 79.221,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Al mismo tiempo, uno de los contenidos para enseñar la LSE a los niños y las niñas es la Igualdad.",
+         "start": 85.221,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Quiere decir que los adultos tienen muchos prejuicios que hay que romper.",
+         "start": 93.421,
+         "duration": 4.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Al enseñar LSE a las niñas y niños, se consolidan los valores de la igualdad.",
+         "start": 98.821,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me gustaría saber cómo crees que ve la sociedad a las mujeres sordas signantes.",
+         "start": 105.421,
+         "duration": 7.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Verdad, creo que prefiero no dar mi opinión,",
+         "start": 116.621,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "por eso he preferido preguntar a mi alumnado y he recogido sus opiniones.",
+         "start": 119.781,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "La conclusión es que la mayoría pensaban y tenían el concepto de las mujeres sordas",
+         "start": 125.421,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "como personas débiles, lastimosas, sin capacidad, poco inteligentes",
+         "start": 132.421,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "pero cuando me conocieron, el cambio de pensamiento ha sido totalmente a lo contrario",
+         "start": 139.421,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "han visto que somos fuertes, empoderadas, valientes, el doble de luchadoras,",
+         "start": 145.421,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "que tenemos capacidad para afrontar situaciones, es increíble.",
+         "start": 150.821,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Al final, ha sido importante que el alumnado rompa con la idea de que las mujeres sordas no valemos, que desaparezcan los prejuicios.",
+         "start": 158.221,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Cierto, es muy importante.",
+         "start": 165.621,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Como conclusión, ¿te gustaría mandar un mensaje a la sociedad que nos ve o sobre las mujeres sordas?",
+         "start": 168.421,
+         "duration": 6.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "- El equipo de especialistas de LSE somos una figura muy importante y en el aprendizaje",
+         "start": 176.221,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "de lengua de signos en niñas y niños, aprenden también la igualdad.",
+         "start": 182.421,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los niños y niñas sordas me ven signar y son conscientes de la existencia de la igualdad con la lengua de signos.",
+         "start": 189.421,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por eso la figura del especialista de LSE es tan importante.",
+         "start": 201.421,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Es verdad, muchísimas gracias.",
+         "start": 206.221,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo liso rubio y gafas.",
+         "screen_position": "right"
+      },
+      {
+         "text": "- De nada, a vosotras, un abrazo.",
+         "start": 209.221,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado castaño y gafas.",
+         "screen_position": "left"
+      }
+   ]
+}

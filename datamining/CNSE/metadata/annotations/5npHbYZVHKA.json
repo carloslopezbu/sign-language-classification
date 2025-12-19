@@ -1,0 +1,356 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Qué tengo que hacer si estoy contagiado/a o sospecho que lo estoy?",
+         "start": 1.388,
+         "duration": 5.669,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Permanece en un habitación de uso individual y cierra la puerta.",
+         "start": 7.841,
+         "duration": 4.187,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si en tu casa no tienes una habitación aislada, debes siempre mantener una distancia mínima de 2 metros con el resto de las personas que viven contigo.",
+         "start": 13.23,
+         "duration": 9.609,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Dentro de la habitación, coloca un cubo de basura con tapa de apertura de pedal, y en su interior una bolsa de plástico que cierre herméticamente para meter los residuos.",
+         "start": 24.541,
+         "duration": 16.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Intenta no salir de la habitación y no utilizar las zonas comunes del domicilio.",
+         "start": 43.243,
+         "duration": 5.789,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si no tienes otro remedio, utiliza mascarilla quirúrgica y lávate las manos al salir de la habitación.",
+         "start": 49.833,
+         "duration": 15.219,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cúbrete la boca y la nariz al toser o estornudar con el codo flexionado o pañuelos desechables, y lavaros todos las manos inmediatamente después.",
+         "start": 105.852,
+         "duration": 17.219,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es importante ventilar la habitación y las zonas comunes con aire de la calle.",
+         "start": 124.873,
+         "duration": 7.187,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "No utilices aire acondicionado ni sistemas de refrigeración o de calor para ventilar.",
+         "start": 132.861,
+         "duration": 8.707,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "No compartas el baño con otras personas de la casa.",
+         "start": 143.871,
+         "duration": 4.187,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si tienes que hacerlo, hay que limpiarlo con lejía tras cada uso que haga el paciente.",
+         "start": 148.859,
+         "duration": 6.406,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Limpia también las manillas de la puerta y cualquier cosa que toques.",
+         "start": 155.866,
+         "duration": 7.187,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los utensilios de aseo como el jabón, toallas, pañuelos, deben ser de uso individual.",
+         "start": 204.555,
+         "duration": 7.991,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Para comunicarte con los familiares, utiliza el móvil.",
+         "start": 214.848,
+         "duration": 5.189,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Recuerda además, que no puedes recibir visitas de amigos ni familia.",
+         "start": 221.839,
+         "duration": 3.703,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "En el caso de una madre lactante, deberá llevar una mascarilla cuando esté cerca de su bebé y realizar una cuidadosa higiene de manos antes del contacto cercano con su hija o hijo.",
+         "start": 227.845,
+         "duration": 13.013,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Qué tengo que hacer si soy cuidador de un paciente en aislamiento preventivo?",
+         "start": 242.86,
+         "duration": 8.191,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Lo mejor es que sea una única persona la que cuide al paciente, y no debe tener factores de riesgo: enfermedades crónicas cardíacas, pulmonares, renales, diabetes inmunodepresión, o embarazo.",
+         "start": 251.852,
+         "duration": 25.242,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando estén cerca paciente y cuidador/a, ambos llevarán mascarilla quirúrgica y guantes.",
+         "start": 318.896,
+         "duration": 8.191,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "No hay que tocar ni mover la mascarilla mientras se lleve puesta, ni tocarse la cara con las manos.",
+         "start": 327.888,
+         "duration": 5.188,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si la mascarilla se moja o se mancha de secreciones, se cambiará de inmediato.",
+         "start": 333.877,
+         "duration": 8.707,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tras su uso, mascarilla y guantes se tirarán a un cubo con tapa, en una bolsa de plástico que cierre herméticamente, y el cuidador/a se lavará las manos.",
+         "start": 344.586,
+         "duration": 14.415,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Cómo hago la limpieza en el domicilio de alguien enfermo/a o sospecho/a?",
+         "start": 400.503,
+         "duration": 8.508,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "La persona encargada de la limpieza deben llevar mascarilla y guantes. Al finalizar, deben lavarse bien las manos.",
+         "start": 409.812,
+         "duration": 5.188,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "La ropa de vestir, la ropa de cama, las toallas, etc, de las personas enfermas deben colocarse en una bolsa con cierre hermético hasta el momento de lavarla.",
+         "start": 415.801,
+         "duration": 8.707,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "No debe sacudirse.",
+         "start": 425.009,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se lavará por separado a 60-90 ºC, y dejaremos que se seque completamente.",
+         "start": 429.814,
+         "duration": 12.012,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los cubiertos, vasos, platos y demás utensilios reutilizables se lavarán con agua caliente y jabón o preferiblemente en el lavavajillas.",
+         "start": 443.528,
+         "duration": 10.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "La bolsa con los residuos de las personas enfermas puede juntarse con el resto de basura, siempre que estén introducidos en una bolsa cerrada herméticamente.",
+         "start": 455.54,
+         "duration": 10.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las superficies que se tocan con frecuencia, y las superficies del baño y el inodoro, deberán ser limpiadas con material desechable y desinfectadas diariamente con lejía.",
+         "start": 467.552,
+         "duration": 11.011,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Qué hago si encuentro en aislamiento y empeoro?",
+         "start": 520.265,
+         "duration": 5.789,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se debe contactar con el teléfono habilitado en cada comunidad autónoma o el 112.",
+         "start": 526.855,
+         "duration": 3.703,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Puedes utilizar SVisual que tiene un acceso directo a estos teléfonos.",
+         "start": 531.059,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si deciden el traslado del paciente hospital, es recomendable que vaya sin acompañantes en la ambulancia.",
+         "start": 534.262,
+         "duration": 10.311,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si es imprescindible que esté acompañado por ser paciente dependiente o menores, etc, el o la acompañante se pondrá mascarilla quirúrgica y guantes.",
+         "start": 544.873,
+         "duration": 8.708,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Cuánto dura el aislamiento?",
+         "start": 554.882,
+         "duration": 3.187,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Responsables sanitarios te informarán de la duración.",
+         "start": 600.885,
+         "duration": 3.187,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Asimismo, se encargarán de tomar muestras primero una, y a las 48 horas, la segunda.",
+         "start": 604.873,
+         "duration": 6.189,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ambas muestras deben ser negativas para que te recomienden finalizar el aislamiento.",
+         "start": 611.863,
+         "duration": 5.707,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y vestido negro",
+         "screen_position": "left"
+      }
+   ]
+}

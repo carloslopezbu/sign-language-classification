@@ -1,0 +1,743 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "La violencia de género es la manifestación más grave de desigualdad.",
+         "start": 1.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cualquier mujer, por su condición de mujer,",
+         "start": 8.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "puede ser víctima de agresiones físicas y/o psicológicas, abusos",
+         "start": 13.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y explotación sexual, amenazas, coacciones,",
+         "start": 18.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la privación arbitraria de su libertad.",
+         "start": 23.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de las mujeres sordas, a la discriminación por ser mujer",
+         "start": 29.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se suma la discriminación por ser persona sorda y por encontrarse en una sociedad que genera desigualdades.",
+         "start": 34.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desigualdades que perjudican seriamente a las víctimas y las hacen más vulnerables frente a esta violencia.",
+         "start": 42.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La CEDAW, carta internacional para la protección de los derechos de las mujeres y niñas,",
+         "start": 51.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "prohíbe cualquier tipo de discriminación, de forma directa o indirecta,",
+         "start": 58.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "hacia las mujeres, y pide su igualdad ante la ley.",
+         "start": 106.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, el Convenio de Estambul reivindica a los países del tratado",
+         "start": 111.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que se atienda a todas las mujeres en su diversidad,",
+         "start": 117.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y sin discriminación por razón de lengua.",
+         "start": 122.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En España, el Pacto de Estado contra la violencia de género garantiza,",
+         "start": 128.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de acuerdo con las Comunidades Autónomas, la presencia de intérpretes de lengua",
+         "start": 133.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de signos y de mediadoras especializadas en la atención",
+         "start": 138.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a personas sordas durante todas las fases del proceso de salida de la violencia.",
+         "start": 143.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, propone la plena accesibilidad en lengua de signos de los teléfonos",
+         "start": 150.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "públicos de atención contra la violencia de género,",
+         "start": 155.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la formación especializada de los profesionales",
+         "start": 158.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "implicados en el seguimiento a las víctimas sordas.",
+         "start": 201.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otras normas como la Ley Orgánica de Medidas de Protección Integral",
+         "start": 206.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "contra la Violencia de Género, y la Ley Orgánica de garantía integral",
+         "start": 212.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la libertad sexual, garantizan información",
+         "start": 218.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y recursos de atención, acompañamiento y seguimiento",
+         "start": 224.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "accesibles y practicables también para las víctimas sordas.",
+         "start": 229.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, la gran mayoría de las situaciones de violencia machista hacia las mujeres sordas no se conocen.",
+         "start": 235.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se reflejan en las estadísticas.",
+         "start": 243.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se visibilizan.",
+         "start": 247.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un silencio que pone en riesgo",
+         "start": 249.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "su integridad, su dignidad y su supervivencia.",
+         "start": 254.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Internacional de la Eliminación",
+         "start": 302.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la Violencia contra la Mujer, desde la CNSE y su red asociativa",
+         "start": 305.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "exigimos igualdad de trato y de oportunidades para",
+         "start": 310.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las víctimas sordas de violencia machista.",
+         "start": 313.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ello, queremos poner de relieve la importante labor que llevan a cabo",
+         "start": 317.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las mediadoras sordas de esta red y compartir sus reivindicaciones,",
+         "start": 323.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que también son las nuestras.",
+         "start": 329.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Apostamos por:",
+         "start": 333.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La prevención del acoso, el abuso y la violencia machista",
+         "start": 337.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en los centros escolares a través de contenidos",
+         "start": 342.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "comprensibles y accesibles en lengua de signos",
+         "start": 346.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y subtitulado para la infancia y la juventud sorda,",
+         "start": 350.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en todos los sectores de la población en función de sus características.",
+         "start": 354.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El acceso sin barreras a todos y cada uno de los recursos que ayuden a las mujeres sordas a salir de la violencia machista.",
+         "start": 359.0,
+         "duration": 8.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ya sea a la hora de formular una denuncia en dependencias policiales,",
+         "start": 412.0,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o cuando llegue el momento de ingresar en una casa de acogida",
+         "start": 415.5,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de recibir atención sanitaria y psicológica,",
+         "start": 419.0,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o de asistir a juicios y vistas preliminares.",
+         "start": 422.5,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La plena accesibilidad del teléfono de emergencias 112.",
+         "start": 427.0,
+         "duration": 3.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reclamamos que el 112 contemple atención directa en lengua de signos",
+         "start": 431.5,
+         "duration": 4.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y mediante mensajes de texto, su estandarización",
+         "start": 436.0,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "para las personas sordas en todo el Estado",
+         "start": 439.0,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la inclusión del servicio de videointerpretación SVisual",
+         "start": 441.5,
+         "duration": 4.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "como ya se hace en el 016, el 062 y el 091.",
+         "start": 446.5,
+         "duration": 6.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La creación de protocolos de actuación coordinada entre aquellas y aquellos profesionales",
+         "start": 455.0,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que intervengan en el proceso, evitando así, posibles violencias",
+         "start": 504.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "institucionales y secundarias hacia las víctimas sordas.",
+         "start": 513.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asegurar la presencia de intérpretes de lengua de signos y de mediadoras sordas debe ser una constante cuando la que pide ayuda, es una mujer sorda maltratada.",
+         "start": 524.5,
+         "duration": 13.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La inclusión de la lengua de signos",
+         "start": 539.0,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y de las adaptaciones necesarias en materia de reeducación",
+         "start": 544.5,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para evitar conductas reincidentes por parte de aquellos agresores",
+         "start": 551.0,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sordos que cumplen condena en centros penitenciarios.",
+         "start": 556.5,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La formación permanente acerca de la realidad de las personas",
+         "start": 603.5,
+         "duration": 4.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "sordas de los equipos sociosanitarios, las fuerzas de seguridad,",
+         "start": 608.5,
+         "duration": 5.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y los profesionales de juzgados e instituciones penitenciarias.",
+         "start": 614.5,
+         "duration": 4.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para proteger a una víctima sorda, es fundamental identificar",
+         "start": 622.0,
+         "duration": 4.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "cuáles son sus necesidades, brindarle apoyo y confianza,",
+         "start": 627.0,
+         "duration": 4.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y no cuestionarla.",
+         "start": 631.5,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con gafas, jersey negro de cuello alto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El mantenimiento de las ayudas económicas",
+         "start": 634.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la plataforma ALBA de atención e información",
+         "start": 638.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sobre la violencia de género para personas sordas,",
+         "start": 643.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a los servicios de asesoramiento a las víctimas",
+         "start": 647.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que prestan las entidades de la red asociativa de la CNSE,",
+         "start": 651.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que puedan seguir socorriendo a estas mujeres",
+         "start": 656.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a su entorno familiar.",
+         "start": 659.5,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro con flequillo, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es deber de todas y todos garantizar los derechos de las mujeres sordas víctimas de violencia machista.",
+         "start": 702.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es deber de todas y todos conseguir que nunca más, en ningún lugar, haya una niña o una mujer sorda, que se sienta indefensa.",
+         "start": 711.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es deber de todas y todos decir BASTA.",
+         "start": 722.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Contra el maltrato, tolerancia cero.",
+         "start": 727.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio con mechas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Basta.",
+         "start": 731.0,
+         "duration": 3.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Varias mujeres",
+         "screen_position": "multiple"
+      }
+   ]
+}

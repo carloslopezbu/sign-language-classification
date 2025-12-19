@@ -1,0 +1,158 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El derecho a la salud es un derecho universal al que todas y todos debemos acceder en igualdad de condiciones.",
+         "start": 1.2,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y para ello, no debe escatimarse en recursos.",
+         "start": 11.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ni excluir a nadie. Ni convertirla en un privilegio.",
+         "start": 14.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, todavía son numerosas las personas sordas que desisten de ir al médico por miedo a no poder comunicarse con su doctor/a.",
+         "start": 19.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "O las que reciben un diagnóstico erróneo por no poder comunicarse con su doctor/a.",
+         "start": 27.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "O las que no siguen un tratamiento adecuado por no poder comunicarse con su doctor/a.",
+         "start": 33.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Mundial de la Salud, desde la CNSE reivindicamos el derecho de las personas sordas a la prevención y el cuidado de la salud en su lengua propia.",
+         "start": 41.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos un mayor conocimiento por parte de las y los profesionales de este ámbito acerca de la comunidad sorda y su diversidad.",
+         "start": 54.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos la presencia de intérpretes de lengua de signos, videointérpretes y mediadores/as sordos/as en centros de salud y hospitales.",
+         "start": 101.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos ser tratadas como el resto.",
+         "start": 112.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Basta de barreras lingüísticas.",
+         "start": 115.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Basta de que se nos obligue a interactuar con el personal sanitario de forma oral, leyendo los labios, por escrito, o a través de amigos/as y familiares.",
+         "start": 119.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Basta de informarnos 'a medias' sobre nuestra salud y sobre las opciones disponibles.",
+         "start": 130.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Basta de que se nos infantilice y se decida por nosotras.",
+         "start": 134.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Basta de despreciar las lenguas de signos, lenguas reconocidas legalmente, tan válidas, versátiles y necesarias como cualquier otra lengua.",
+         "start": 139.0,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es responsabilidad de todos los gobiernos proporcionar información y servicios sanitarios accesibles en lengua de signos para brindar a nuestro colectivo una atención sanitaria óptima en todas sus formas, desde la gestión administrativa hasta la asistencia médica. Como también lo es, que el sistema sanitario no nos falle y que nuestra salud no se ponga en riesgo.",
+         "start": 152.0,
+         "duration": 23.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por una sanidad accesible, justa e inclusiva.",
+         "start": 175.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey verde",
+         "screen_position": "center"
+      }
+   ]
+}

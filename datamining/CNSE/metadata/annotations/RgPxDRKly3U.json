@@ -1,0 +1,338 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La cuarentena es una medida de salud pública",
+         "start": 2.0,
+         "duration": 12.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "para controlar la transmisión de la COVID19.",
+         "start": 14.52,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es fundamental cumplirla para que tanto las personas infectadas por coronavirus,",
+         "start": 19.8,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "como aquellas que hayan estado expuestas al virus,",
+         "start": 29.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "no tengan contacto con otras personas durante el periodo en el que",
+         "start": 39.0,
+         "duration": 8.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "pueden desarrollar y transmitir la infección.",
+         "start": 47.52,
+         "duration": 7.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuándo debemos seguir la cuarentena?",
+         "start": 57.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "La cuarentena no solo es obligatoria para las personas con coronavirus.",
+         "start": 62.52,
+         "duration": 4.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cualquiera que haya tenido un contacto estrecho con alguien diagnosticado por COVID,",
+         "start": 67.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "por ejemplo un o una familiar, compañero o compañera de trabajo,",
+         "start": 74.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "pareja, círculo de amistades, etc.,",
+         "start": 78.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "debe ponerse en cuarentena inmediatamente.",
+         "start": 82.2,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Da igual que no tenga síntomas,",
+         "start": 86.92,
+         "duration": 4.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya que el coronavirus puede contagiarse desde dos días antes del inicio de síntomas,",
+         "start": 91.48,
+         "duration": 8.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "e incluso puede transmitirse si es asintomático.",
+         "start": 100.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Seguidamente se debe contactar con el centro de salud para solicitar una prueba diagnóstica.",
+         "start": 108.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque la prueba que nos hagan al inicio del periodo de cuarentena",
+         "start": 115.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "sea negativa, es necesario continuar el periodo de cuarentena hasta el final,",
+         "start": 120.0,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya que pueden aparecer síntomas días después.",
+         "start": 126.6,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "El período de cuarentena suele durar entre 10 y 15 días.",
+         "start": 133.8,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Consulta a tu médico para que te indique cómo actuar.",
+         "start": 139.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿En qué consiste la cuarentena?",
+         "start": 145.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante la cuarentena no se puede salir a la calle.",
+         "start": 150.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Dentro de casa, las medidas que se recomiendan,",
+         "start": 154.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "en la medida de lo posible, son las siguientes.",
+         "start": 158.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Permanecer sola o solo en una habitación el mayor tiempo posible,",
+         "start": 162.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "y si no se pudiera por motivos de espacio, en un lugar de la casa aislado.",
+         "start": 170.0,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Disponer de baño propio,",
+         "start": 180.0,
+         "duration": 4.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "y si fuera compartido, extremar su limpieza.",
+         "start": 184.52,
+         "duration": 8.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lavar aparte ropa, sábanas, toallas, cubiertos y cualquier otro utensilio que utilicemos.",
+         "start": 194.52,
+         "duration": 16.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo mismo haremos con la basura o residuos que generemos.",
+         "start": 211.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Llevar mascarilla quirúrgica siempre que se salga de la habitación o entren en ella.",
+         "start": 218.52,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este caso, el resto de las personas convivientes también deben llevarla.",
+         "start": 225.0,
+         "duration": 6.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ventilar la casa frecuentemente.",
+         "start": 232.52,
+         "duration": 6.28,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Saltarse la cuarentena es una infracción grave que puede",
+         "start": 239.8,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "acarrear multas de hasta 600.000 euros.",
+         "start": 246.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sé responsable, protégete, y protege a los demás.",
+         "start": 251.8,
+         "duration": 5.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra.",
+         "screen_position": "center"
+      }
+   ]
+}

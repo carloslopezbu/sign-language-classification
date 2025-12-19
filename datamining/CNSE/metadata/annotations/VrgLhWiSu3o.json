@@ -1,0 +1,104 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "La Fundación CNSE ha elaborado diferentes páginas web que tratan diferentes temas.",
+         "start": 2.043,
+         "duration": 5.464,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y ahora se estrenan dos nuevas páginas web.",
+         "start": 7.927,
+         "duration": 2.663,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "La primera es \"Google Presentaciones\".",
+         "start": 10.83,
+         "duration": 2.042,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuya función es crear trabajos en presentaciones, para ser presentados en clase o conferencias.",
+         "start": 13.633,
+         "duration": 4.585,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la página web, podéis encontrar información sobre cómo hacer una presentación Google, añadir contenidos en las diapositivas, cómo trabajar en equipo.",
+         "start": 18.738,
+         "duration": 7.067,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Está dirigida principalmente al alumnado sordo. ¡Vamos a verla!",
+         "start": 26.406,
+         "duration": 2.522,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "La otra nueva página web se trata de los psicofármacos.",
+         "start": 60.11,
+         "duration": 2.402,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada vez más personas toman psicofármacos.",
+         "start": 64.434,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la página web, podéis encontrar información como los tipos de psicofármacos, qué beneficios tienen, cuáles son los riesgos y peligros, cómo usarlos, recomendaciones como el control médico, qué hacer en caso de estar embarazada o tomar alcohol, etc.",
+         "start": 66.936,
+         "duration": 12.032,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ambos materiales web son accesibles, a través de lengua de signos y texto escrito.",
+         "start": 119.729,
+         "duration": 5.505,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los psicofármacos son medicamentos que calman, tranquilizan y ayudan a dormir. Los más famosos son: el Diazepam, Lorazepam, Alprazolam, Valium, Lexatin y Orfidal. Se venden en farmacias con receta médica.",
+         "start": 102.0,
+         "duration": 14.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso",
+         "screen_position": "center"
+      }
+   ]
+}

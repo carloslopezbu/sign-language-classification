@@ -1,0 +1,140 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Fax: 910 149 285",
+         "start": 148.895,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Correo electrónico: estudios@intersocial.es",
+         "start": 152.065,
+         "duration": 3.47,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Dirección de Internet: http://xurl.es/8awye",
+         "start": 168.848,
+         "duration": 2.169,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "A. DATOS DE LA PERSONA",
+         "start": 200.166,
+         "duration": 1.468,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "B. DATOS PERSONALES",
+         "start": 218.318,
+         "duration": 1.701,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trámites duplicados/innecesarios",
+         "start": 237.694,
+         "duration": 4.371,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trabas administrativas",
+         "start": 242.836,
+         "duration": 8.208,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Papeleo excesivo",
+         "start": 251.544,
+         "duration": 3.503,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiempo de espera prolongado",
+         "start": 255.548,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "C. PARTICIPACIÓN SOCIAL",
+         "start": 260.186,
+         "duration": 8.509,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "D. EDUCACIÓN Y FORMACIÓN",
+         "start": 269.195,
+         "duration": 7.842,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "E. EMPLEO Y PRESTACIONES",
+         "start": 277.537,
+         "duration": 9.009,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "F. SERVICIOS DE APOYO",
+         "start": 287.046,
+         "duration": 10.51,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "G. SANIDAD Y SALUD",
+         "start": 298.057,
+         "duration": 9.509,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "H. OTROS TRÁMITES",
+         "start": 308.067,
+         "duration": 11.512,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,32 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Las personas sordas y sus familias ya cuentan con información accesible sobre los riesgos del consumo de alcohol y drogas",
+         "start": 1.251,
+         "duration": 6.257,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "right"
+      },
+      {
+         "text": "www.fundacioncnse.org/drogasyconducir",
+         "start": 170.15,
+         "duration": 43.733,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "right"
+      },
+      {
+         "text": "www.fundacioncnse.org/drogasyfamilias",
+         "start": 213.883,
+         "duration": 24.397,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa oscura",
+         "screen_position": "right"
+      }
+   ]
+}

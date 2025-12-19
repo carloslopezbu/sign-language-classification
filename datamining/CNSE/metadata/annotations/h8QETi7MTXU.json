@@ -1,0 +1,698 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Felicidades.",
+         "start": 5.422,
+         "duration": 0.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Felicidades.",
+         "start": 5.422,
+         "duration": 0.75,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Felicidades por el Día Internacional de las Lenguas de Signos.",
+         "start": 6.172,
+         "duration": 3.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Felicidades por el Día Internacional de las Lenguas de Signos.",
+         "start": 6.172,
+         "duration": 3.25,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me siento contenta de poder celebrar el día.",
+         "start": 9.922,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Sabías que el Día Internacional de las Lenguas de Signos fue declarado por Naciones Unidas en el año 2017?",
+         "start": 12.922,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Además, la fecha coincide con el aniversario de la WFD,",
+         "start": 25.422,
+         "duration": 5.833,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "En esta fecha, reivindicamos estas lenguas como parte de la diversidad lingüística y cultural de los distintos países como lo hacen las lenguas orales.",
+         "start": 31.922,
+         "duration": 19.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por eso, hoy estamos aquí para celebrar esta fecha especial.",
+         "start": 51.672,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Qué increíble.",
+         "start": 58.172,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Te sabes el lema de este año?",
+         "start": 59.922,
+         "duration": 6.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sí, es ‘Lenguas de signos, derechos humanos’.",
+         "start": 106.922,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me parece muy real, muy auténtico.",
+         "start": 112.672,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y además nos da la oportunidad de recordar a las administraciones que se debe garantizar nuestro acceso a la lengua de signos desde la infancia y en todos los ámbitos: educación, empleo, salud, arte, cultura, televisión, etc.",
+         "start": 119.922,
+         "duration": 26.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "La lengua de signos asegura la igualdad de oportunidades de las personas sordas y sordociegas.",
+         "start": 146.922,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es cierto lo que has contado. Es que la lengua de signos es la lengua natural de muchas personas sordas y sordociegas.",
+         "start": 158.422,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por eso, lo que has contado antes es muy importante.",
+         "start": 209.672,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Además, la lengua de signos posee todas las características propias de las lenguas orales, algo que mucha gente no lo pensaba.",
+         "start": 213.922,
+         "duration": 13.25,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Con la lengua de signos, podemos pensar, comunicar y manejar cualquier concepto.",
+         "start": 227.922,
+         "duration": 8.25,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Según el Parlamento Europeo, al menos una de cada mil personas en el mundo, utiliza la lengua de signos como primera lengua.",
+         "start": 236.922,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "No conocía el dato, me parece increíble.",
+         "start": 247.922,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Una de cada mil personas?",
+         "start": 252.172,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sí, como primera lengua.",
+         "start": 254.922,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por cierto, ¿sabes cuántas lenguas de signos han sido reconocidas legalmente?",
+         "start": 258.672,
+         "duration": 4.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Yo no lo sé, ¿lo sabes tú?",
+         "start": 304.172,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Yo tampoco sé cuántos países. Voy a buscar en internet.",
+         "start": 307.172,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mira qué interesante. Según los datos de la WFD, 66 países han reconocido sus lenguas de signos nacionales, y en 14 Constituciones se hace referencia explícita a estas lenguas.",
+         "start": 317.172,
+         "duration": 17.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Impresionante, no lo sabía.",
+         "start": 335.672,
+         "duration": 1.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mira, otra cosa que es interesante.",
+         "start": 338.922,
+         "duration": 3.25,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "A ver si te la sabes, ¿sabes cuál es el primer país en reconocer legalmente su lengua de signos como lengua oficial?",
+         "start": 342.672,
+         "duration": 5.75,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿En alguna parte del mundo? Ahora no se me ocurre a mí. Es difícil.",
+         "start": 350.422,
+         "duration": 4.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Uganda.",
+         "start": 356.172,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Uganda?",
+         "start": 358.172,
+         "duration": 0.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Uganda fue el primer país, fue en el año 1995.",
+         "start": 358.922,
+         "duration": 4.25,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "La verdad, no sé muchos datos de las leyes.",
+         "start": 408.172,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pero sí sé que hay 7 países que tienen días nacionales de sus lenguas de signos.",
+         "start": 410.922,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Entre ellos, está España, donde la lengua de signos española y la lengua de signos catalana fueron reconocidas por ley en el año 2007.",
+         "start": 416.922,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Qué orgullo.",
+         "start": 431.422,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Además ambas se consideran parte del patrimonio cultural inmaterial.",
+         "start": 431.922,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Sabes qué es lo siempre que me preguntan sobre la lengua de signos?",
+         "start": 438.672,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Que si es universal?",
+         "start": 447.172,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Que si es universal?",
+         "start": 447.922,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- No, no es universal.",
+         "start": 449.172,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Qué va.",
+         "start": 449.672,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hay cientos de lenguas de signos diferentes, al igual que ocurre con las lenguas orales.",
+         "start": 451.922,
+         "duration": 7.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tengo una idea, ¿por qué no lo enseñamos algunos ejemplos de lo diferentes que son las lenguas de signos en cada país?",
+         "start": 500.922,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Sí, hagámoslo.",
+         "start": 507.422,
+         "duration": 0.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Derecho en lengua de signos indonesia",
+         "start": 509.0,
+         "duration": 1.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho en lengua de signos brasileña",
+         "start": 511.0,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho en lengua de signos estonia",
+         "start": 513.0,
+         "duration": 1.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derecho en lengua de signos india",
+         "start": 515.0,
+         "duration": 1.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Identidad en lengua de signos estonia",
+         "start": 517.0,
+         "duration": 2.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Identidad en lengua de signos india",
+         "start": 520.0,
+         "duration": 1.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Identidad en lengua de signos brasileña",
+         "start": 522.0,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Identidad en lengua de signos indonesia",
+         "start": 524.0,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprender en lengua de signos brasileña",
+         "start": 527.0,
+         "duration": 1.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprender en lengua de signos indonesia",
+         "start": 528.5,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprender en lengua de signos india",
+         "start": 532.0,
+         "duration": 1.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprender en lengua de signos estonia",
+         "start": 534.0,
+         "duration": 2.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Qué curioso es este signo de identidad. Es de la lengua de signos estonia.",
+         "start": 537.922,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si, son diferentes los signos. El que me ha parecido más diferente es el signo de derecho, de la lengua de signos india.",
+         "start": 543.922,
+         "duration": 9.25,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por cierto, he visto información interesante en la página web de Excepcionales.",
+         "start": 555.672,
+         "duration": 4.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sí, conozco la web de Excepcionales.",
+         "start": 601.172,
+         "duration": 1.75,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pues habla sobre los beneficios de aprender lengua de signos.",
+         "start": 605.172,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Te sabes algunos ejemplos?",
+         "start": 608.172,
+         "duration": 2.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "No sé, se me ocurren algunos, pero no muchos. A ver, cuéntame.",
+         "start": 610.922,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Te cuento yo. Dice que mejora tu visión periférica, te hace mentalmente más ágil, además potencia tus habilidades artísticas...",
+         "start": 616.922,
+         "duration": 20.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Bueno, también sabemos que favorece el acceso a la lectura, y muchos más beneficios que nos da la lengua de signos.",
+         "start": 639.922,
+         "duration": 10.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "La lista es interminable.",
+         "start": 650.922,
+         "duration": 3.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay que recordar que gracias a la lengua de signos tenemos cultura, historia, identidad, comunidad, comunicación.",
+         "start": 656.672,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por eso hay que investigarla, fomentarla, divulgarla y preservarla.",
+         "start": 706.922,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Esto está claro. Fíjate que ahora hemos estado signando.",
+         "start": 714.922,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si no fuera por la lengua de signos, ¿cómo nos comunicaríamos?",
+         "start": 721.672,
+         "duration": 5.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Nos sentiríamos perdidos. Nuestro movimiento asociativo siempre ha luchado por dar a la lengua de signos el estatus que se merece.",
+         "start": 728.922,
+         "duration": 11.25,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pues a disfrutar del Día Internacional de las Lenguas de Signos.",
+         "start": 740.922,
+         "duration": 3.25,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Igualmente.",
+         "start": 745.172,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y polo oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Gracias.",
+         "start": 745.422,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo oscuro",
+         "screen_position": "right"
+      }
+   ]
+}

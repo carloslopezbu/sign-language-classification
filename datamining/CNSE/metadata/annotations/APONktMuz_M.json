@@ -1,0 +1,95 @@
+{
+   "num_signers": 8,
+   "annotations": [
+      {
+         "text": "La infancia sorda, como el resto de los seres humanos, nace libre e igual en dignidad y derechos.",
+         "start": 5.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niño con gafas y polo a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "La infancia sorda tiene derecho a aprender la lengua de signos. Las lenguas de signos son las únicas lenguas completamente accesibles para la infancia sorda desde su nacimiento.",
+         "start": 23.0,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con gafas y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se vulnerará el derecho de la infancia sorda a acceder a las lenguas de signos de su país.",
+         "start": 33.0,
+         "duration": 7.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niño con camiseta clara y mapa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debe facilitarse la formación en la lengua o lenguas de signos de cada país a progenitores/as, cuidadores/as y familiares de niñas y niños sordos.",
+         "start": 43.5,
+         "duration": 12.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niño pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La infancia sorda tiene derecho a recibir una educación multilingüe, igualitaria e inclusiva en la lengua o lenguas de signos de cada país, y en la lengua o lenguas orales en su modalidad escrita.",
+         "start": 56.5,
+         "duration": 12.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niño pelo oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Toda la infancia sorda tiene derecho a aprender la identidad lingüística y cultural de la comunidad sorda.",
+         "start": 111.5,
+         "duration": 10.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Niña con camiseta de Nirvana",
+         "screen_position": "center"
+      },
+      {
+         "text": "La infancia sorda tiene derecho a ser protegida contra la privación lingüística. Impedir su acceso a la lengua o lenguas de signos de su país constituye un acto discriminatorio.",
+         "start": 123.5,
+         "duration": 11.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Niña con camiseta azul en silla gamer",
+         "screen_position": "center"
+      },
+      {
+         "text": "La infancia sorda tiene derecho a contar con modelos adultos sordos/as que se comuniquen con fluidez en lengua de signos, incluyendo al profesorado.",
+         "start": 136.5,
+         "duration": 8.5,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Niña con camiseta negra y fondo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "La infancia sorda tiene derecho a expresar sus opiniones en todos los asuntos que le afecten.",
+         "start": 146.5,
+         "duration": 5.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Niño pelo rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas las declaraciones anteriores deben implementarse para toda la infancia sorda de inmediato y sin demora.",
+         "start": 153.0,
+         "duration": 8.5,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Niño pelo rubio",
+         "screen_position": "center"
+      }
+   ]
+}

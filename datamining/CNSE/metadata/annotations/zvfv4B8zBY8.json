@@ -1,0 +1,248 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "En los últimos días, son muchas las noticias falsas",
+         "start": 1.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y los intentos de estafa,",
+         "start": 4.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "sólo crean alarma y que se deben ignorar.",
+         "start": 6.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las recibimos a través de Whatsapp,",
+         "start": 12.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "correo electrónico y redes sociales.",
+         "start": 13.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pueden ser muchas, siempre debemos ignorarlas.",
+         "start": 16.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por ejemplo, el seguro del coche queda invalidado durante el estado de alarma.",
+         "start": 19.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es falso, la cobertura de los seguros continúa siendo la misma.",
+         "start": 24.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se pueden pedir recetas en el teléfono 915038030.",
+         "start": 28.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es falso, la Comunidad de Madrid lo ha desmentido.",
+         "start": 36.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La Organización Mundial de la Salud está recaudando",
+         "start": 41.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "donaciones para una vacuna contra el coronavirus.",
+         "start": 46.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es falso, no hay ninguna campaña de este tipo.",
+         "start": 51.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "En varias zonas de Málaga, La Policía Nacional tiene",
+         "start": 55.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "entrada libre en casas privadas y edificios.",
+         "start": 59.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es un bulo que la propia Policía Nacional ha negado en su perfil de Twitter.",
+         "start": 103.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Netflix necesita que actualices tus datos de pago.",
+         "start": 110.0,
+         "duration": 11.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "No es cierto, la empresa ha comunicado públicamente que no es cierto.",
+         "start": 122.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Circula un WhatsApp falso supuestamente del Ministerio de Sanidad,",
+         "start": 127.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "con un enlace para la compra de mascarillas.",
+         "start": 131.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La Guardia Civil advierte que es una suplantación de identidad.",
+         "start": 135.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay mucha más información falsa circulando.",
+         "start": 143.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Nunca facilites tus datos personales o bancarios,",
+         "start": 148.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "ni accedas páginas web sospechosas.",
+         "start": 151.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Acude siempre a la información que nos dan las fuentes oficiales:",
+         "start": 153.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "ministerios, comunidades autónomas, ayuntamientos,",
+         "start": 157.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "o cuerpos de seguridad del Estado.",
+         "start": 160.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "left"
+      }
+   ]
+}

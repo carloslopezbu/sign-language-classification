@@ -1,0 +1,275 @@
+{
+   "num_signers": 22,
+   "annotations": [
+      {
+         "text": "Hola. Nos encontramos con las federaciones durante tres días para trabajar en la Reconstrucción Sorda y el Plan Estratégico de la CNSE.",
+         "start": 343.911,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y pendientes amarillos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estamos en Los Negrales, un pueblo en el norte de Madrid, inmersas/os en ello.",
+         "start": 352.611,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y pendientes amarillos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ayer y hoy, nos hemos centrado en la Reconstrucción Sorda. Hemos estado compartiendo reflexiones sobre el futuro del movimiento asociativo de la CNSE.",
+         "start": 358.811,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y pendientes amarillos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un trabajo que iniciamos hace ya tres años y que vamos a dar continuidad hasta el Congreso.",
+         "start": 407.711,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y pendientes amarillos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Allí será donde presentemos el trabajo que hemos hecho.",
+         "start": 413.611,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y pendientes amarillos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Seguidamente, abordaremos el Plan Estratégico de la CNSE.",
+         "start": 417.511,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y pendientes amarillos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comenzaremos evaluando los últimos cuatro años y haciendo una reflexión de futuro.",
+         "start": 420.411,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y pendientes amarillos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debatiremos qué objetivos elegir, qué amenazas y fortalezas tendremos, etc. De ahí surgirá el nuevo Plan Estratégico para los próximos cuatro años.",
+         "start": 425.811,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y pendientes amarillos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprender.",
+         "start": 521.096,
+         "duration": 1.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y jersey de punto beige",
+         "screen_position": "center"
+      },
+      {
+         "text": "Enriquecedor.",
+         "start": 522.996,
+         "duration": 1.1,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y jersey de puntos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cambio de mentalidad.",
+         "start": 524.496,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y jersey azul oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Conectar.",
+         "start": 526.496,
+         "duration": 2.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaleco acolchado oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Motivador.",
+         "start": 529.096,
+         "duration": 1.3,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y jersey blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reto.",
+         "start": 530.996,
+         "duration": 0.7,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con barba y jersey azul oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Positivo.",
+         "start": 532.196,
+         "duration": 1.3,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con bigote y jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reconstrucción sorda.",
+         "start": 534.096,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y pendientes amarillos",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cercanía.",
+         "start": 535.996,
+         "duration": 1.0,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Mujer con pelo gris y jersey marrón",
+         "screen_position": "center"
+      },
+      {
+         "text": "Participación.",
+         "start": 537.396,
+         "duration": 1.3,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre con barba y jersey de rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reconstruir.",
+         "start": 539.196,
+         "duration": 1.3,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Alegría.",
+         "start": 541.096,
+         "duration": 0.9,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y jersey de rayas grises",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprender juntos.",
+         "start": 542.496,
+         "duration": 1.8,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y sudadera verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Motor.",
+         "start": 544.996,
+         "duration": 2.5,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reflexión.",
+         "start": 547.996,
+         "duration": 1.5,
+         "signer_id": 14,
+         "aligned": true,
+         "signer_description": "Hombre con sudadera azul marino con 'Champion'",
+         "screen_position": "center"
+      },
+      {
+         "text": "Compromiso.",
+         "start": 550.096,
+         "duration": 1.0,
+         "signer_id": 15,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado, gafas y jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esfuerzo.",
+         "start": 551.596,
+         "duration": 1.3,
+         "signer_id": 16,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y jersey de punto blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Renovarse.",
+         "start": 553.496,
+         "duration": 1.4,
+         "signer_id": 17,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reencuentro.",
+         "start": 555.396,
+         "duration": 1.4,
+         "signer_id": 18,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y jersey de rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espabilar.",
+         "start": 557.296,
+         "duration": 1.6,
+         "signer_id": 19,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo rizado y bufanda",
+         "screen_position": "center"
+      },
+      {
+         "text": "Oportunidad.",
+         "start": 559.396,
+         "duration": 1.1,
+         "signer_id": 20,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo largo y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espíritu de orgullo.",
+         "start": 600.996,
+         "duration": 2.2,
+         "signer_id": 21,
+         "aligned": true,
+         "signer_description": "Hombre mayor con barba y jersey azul",
+         "screen_position": "center"
+      }
+   ]
+}

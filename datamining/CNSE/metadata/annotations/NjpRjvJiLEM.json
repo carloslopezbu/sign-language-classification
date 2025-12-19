@@ -1,0 +1,122 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "Hola a todas y a todos, estamos en Combarro de excursión.",
+         "start": 47.2,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, gafas de sol, chaqueta oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me gustan mucho sus vistas. El pueblo tiene casas muy y me encanta.",
+         "start": 52.0,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, gafas de sol, chaqueta oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "No sabía que todo esto es el cultivo de almejas.",
+         "start": 60.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, gafas de sol, chaqueta oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me gustaría ir a recoger algunas, pero no quiero que me multen.",
+         "start": 65.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, gafas de sol, chaqueta oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sé que hay que respetar las normas.",
+         "start": 69.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado castaño, gafas de sol, chaqueta oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hemos vendo a Orense desde Vigo para montarnos en barco.",
+         "start": 135.2,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las vistas son muy agradables y estoy muy a gusto y feliz.",
+         "start": 138.2,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "He preguntado a mis compañeros/as y dicen que todo muy bien.",
+         "start": 141.2,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así que estoy muy contento.",
+         "start": 144.2,
+         "duration": 1.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas, camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hola, estamos de viaje en Vigo un grupo de personas sordas.",
+         "start": 229.0,
+         "duration": 4.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gorra y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora en las Islas Cíes. Las vistas son preciosas.",
+         "start": 234.8,
+         "duration": 3.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gorra y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El resto de mis compañeros/as han avanzado la ruta y yo me he quedado admirando a las gaviotas y lo verde que es la zona. Me quedo embobado porque, además, el ambiente es super relajante.",
+         "start": 239.0,
+         "duration": 9.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gorra y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta mañana hemos estado en A Guardia y me ha sorprendido lo bonito que es. Las Islas Cíes también son muy bonitas, aunque estuvimos poco tiempo. Hemos ido a varios sitios y está genial.",
+         "start": 300.0,
+         "duration": 11.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto blanco, gafas de sol, chaqueta blanca",
+         "screen_position": "center"
+      }
+   ]
+}

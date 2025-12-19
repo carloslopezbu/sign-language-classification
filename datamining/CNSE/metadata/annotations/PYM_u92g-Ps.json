@@ -1,0 +1,644 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Buenos días, soy David, fisioterapeuta de ACCEM.",
+         "start": 7.3,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a hacer un vídeo con ejercicios de estiramientos.",
+         "start": 10.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El principal objetivo va a ser mantener la flexibilidad de nuestra musculatura y poder aliviar dolores que tengamos,",
+         "start": 14.7,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "bien del cuello, de los brazos, del tronco o de las piernas.",
+         "start": 21.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Empezamos.",
+         "start": 25.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En el primer estiramiento vamos a sujetar la cabeza por el lado contrario y llevaremos la oreja al hombro del mismo lado que sujetamos la cabeza.",
+         "start": 27.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Inclinando y mantenemos la tensión durante diez segundos.",
+         "start": 38.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 43.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Realizado un lado, vuelvo al medio con tranquilidad y cambio y llevo la otra oreja al otro hombro.",
+         "start": 54.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El brazo que queda libre, como si quisiera caer hacia el suelo.",
+         "start": 101.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 105.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En todos los ejercicios de estiramiento tengo que notar tensión por la zona muscular, nunca dolor.",
+         "start": 117.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Mantengo la tensión diez segundos y realizo cinco repeticiones hacia cada lado.",
+         "start": 122.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En el siguiente estiramiento, vamos a notar tensión por la zona de atrás del cuello.",
+         "start": 131.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello vamos a colocar las dos manos detrás de la cabeza.",
+         "start": 136.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tenemos que hacer es como si quisiéramos llevar la barbilla hacia el pecho.",
+         "start": 141.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Manteniendo la tensión durante diez segundos.",
+         "start": 147.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 150.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Descanso un poquito y realizo este ejercicio cinco veces.",
+         "start": 201.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a continuar con ejercicios para estirar los brazos.",
+         "start": 206.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello, sujetamos un codo con la mano contraria y llevamos el brazo hacia adentro, manteniendo la tensión durante diez segundos y notando por esta zona.",
+         "start": 210.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 222.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cambio de brazo y realizo el otro.",
+         "start": 232.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 235.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Realizamos cinco repeticiones con cada brazo.",
+         "start": 245.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para el siguiente estiramiento vamos a entrelazar los dedos.",
+         "start": 250.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una vez entrelazados, giramos las manos y estiramos los codos hacia delante.",
+         "start": 254.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Manteniendo la tensión diez segundos.",
+         "start": 301.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 303.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Realizo cinco repeticiones.",
+         "start": 313.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una variante de este ejercicio será hacerlo igual pero hacia arriba todo lo que pueda.",
+         "start": 315.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 321.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pudiendo realizar otras cinco repeticiones.",
+         "start": 331.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una tercera variante, será igual pero llevando los brazos hacia atrás.",
+         "start": 334.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 339.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tenemos tres tipos de estiramientos, hacia delante, arriba y atrás.",
+         "start": 350.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Podemos realizar cinco repeticiones de cada uno.",
+         "start": 355.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En el siguiente estiramiento vamos a trabajar el tronco.",
+         "start": 359.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Concretamente, la inclinación del mismo.",
+         "start": 402.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello tenemos que llevar el brazo por encima de la cabeza, e inclinamos hacia un lado.",
+         "start": 406.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Manteniendo la tensión diez segundos.",
+         "start": 411.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 414.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cambio de lado, subo el brazo por encima de la cabeza y aguanto.",
+         "start": 424.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 428.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vuelvo al medio despacio y realizo cinco repeticiones hacia cada lado.",
+         "start": 439.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En este estiramiento será importante no doblar las rodillas.",
+         "start": 445.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello, tenemos que tener las piernas un poquito juntas, doblamos despacito el tronco y sin doblar las rodillas, cada uno hasta donde llegue notando estiramiento por detrás de las piernas.",
+         "start": 449.5,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 503.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Subo despacito para no hacerme daño y me coloco en la posición inicial.",
+         "start": 514.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Realizando cinco repeticiones.",
+         "start": 520.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para el siguiente ejercicio, me tengo que colocar cerca de una pared o una superficie estable que me permita mantener el equilibrio.",
+         "start": 525.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tenemos que notar tensión en el músculo del muslo.",
+         "start": 533.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Me sujeto y tengo que coger un pie, doblar la rodilla y echar un poquito la cadera hacia atrás.",
+         "start": 538.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 547.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Señal de que lo hago bien, la tensión se nota por aquí.",
+         "start": 557.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para aquellos que no puedan llegar a cogerse el pie, un truco será cogerse del pantalón y tirar hacia arriba manteniendo diez segundos.",
+         "start": 601.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Realizar una pierna, cambio y haríamos la otra.",
+         "start": 610.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 615.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Teniendo cuidado siempre de no perder el equilibrio. Cinco con una, cinco con otra.",
+         "start": 625.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para el último ejercicio, vamos a estirar los gemelos.",
+         "start": 630.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello será importante que el pie que queda atrás, no se despegue del suelo.",
+         "start": 635.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tengo que doblar la rodilla de delante, el pie de atrás sin despegarlo, echo el peso del cuerpo hacia delante notando tensión por la zona de atrás, en el gemelo.",
+         "start": 640.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 651.0,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vuelvo al medio despacito y cambio el orden.",
+         "start": 702.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Adelanto la otra, la de detrás no se despega del suelo.",
+         "start": 705.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve y diez.",
+         "start": 709.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Realizo cinco repeticiones de cada gemelo.",
+         "start": 719.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Con estos ejercicios habremos realizado una sesión general de estiramientos de todo el cuerpo.",
+         "start": 724.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Recordad que es importante que no aparezca dolor.",
+         "start": 730.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siempre tengo que notar tensión en la zona y mantenerla durante diez segundos.",
+         "start": 733.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es tu turno.",
+         "start": 739.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

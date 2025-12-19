@@ -1,0 +1,122 @@
+{
+   "num_signers": 14,
+   "annotations": [
+      {
+         "text": "cultura",
+         "start": 133.299,
+         "duration": 2.269,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "entenderse",
+         "start": 136.035,
+         "duration": 2.503,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto rizado blusa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "colaboración",
+         "start": 139.639,
+         "duration": 2.903,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba camiseta azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "escuchar",
+         "start": 143.81,
+         "duration": 2.636,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Niña pelo largo blusa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "emoción",
+         "start": 147.547,
+         "duration": 2.469,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre mayor calvo polo marrón",
+         "screen_position": "center"
+      },
+      {
+         "text": "motivación",
+         "start": 150.884,
+         "duration": 2.569,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido sudadera gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "empatía",
+         "start": 154.554,
+         "duration": 2.603,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con pendientes camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "compartir",
+         "start": 158.291,
+         "duration": 2.603,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado blusa rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "diálogo",
+         "start": 202.295,
+         "duration": 2.503,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "unión",
+         "start": 206.266,
+         "duration": 2.502,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "no importa en qué idioma lo digas lo importante es decirlo",
+         "start": 209.536,
+         "duration": 6.352,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "la libertad está en tus manos",
+         "start": 216.556,
+         "duration": 3.236,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado chaqueta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "aprende lengua de signos",
+         "start": 225.024,
+         "duration": 2.97,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Niño pequeño polo blanco",
+         "screen_position": "center"
+      }
+   ]
+}

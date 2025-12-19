@@ -1,0 +1,590 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "En los últimos 15 años, más de 1.000 mujeres han sido asesinadas en España a causa de la violencia machista.",
+         "start": 1.32,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ellas, y muchas más, ven cómo sus parejas o ex parejas les roban sus ilusiones, su autoestima, su identidad, sus vidas.",
+         "start": 16.32,
+         "duration": 11.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ellas, y muchas más, tienen que convivir con el miedo, desterradas de su hogar, de sus familias, de su rutina, de su bienestar.",
+         "start": 31.88,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ellas y muchas más, continúan atrapadas.",
+         "start": 46.52,
+         "duration": 3.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Y si fueras tú?",
+         "start": 54.04,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Día Internacional de la Eliminación de la Violencia de Género contra la Mujer,",
+         "start": 57.04,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la CNSE, Confederación Estatal de Personas Sordas, quiere llamar",
+         "start": 62.04,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la atención sobre el mayor riesgo que sufren",
+         "start": 66.52,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las mujeres sordas víctimas de violencia de género.",
+         "start": 68.84,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque quieren informarse, y no pueden.",
+         "start": 73.52,
+         "duration": 2.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque quieren denunciar, y no pueden.",
+         "start": 77.08,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque quieren escapar, y no pueden.",
+         "start": 81.08,
+         "duration": 2.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque necesitan entender, tanto como que las entiendan.",
+         "start": 84.08,
+         "duration": 3.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque están indefensas.",
+         "start": 88.84,
+         "duration": 1.68,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por todo ello, exigimos:",
+         "start": 93.04,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Implementación de estrategias y propuestas tales como la plena",
+         "start": 98.52,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "adecuación de los servicios sociales, sanitarios, jurídicos y de seguridad",
+         "start": 103.52,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la realidad de las mujeres sordas,",
+         "start": 109.0,
+         "duration": 2.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como de las campañas de sensibilización",
+         "start": 112.04,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y de cualquier tecnología a favor de las víctimas.",
+         "start": 115.52,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Formación como mediadoras ante la violencia de género a mujeres sordas",
+         "start": 122.04,
+         "duration": 5.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que puedan seguir, acompañar y apoyar a la víctima durante todo",
+         "start": 129.0,
+         "duration": 4.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el proceso así como ofrecer asesoramiento a los profesionales",
+         "start": 134.52,
+         "duration": 3.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que deben atender a la mujer sorda.",
+         "start": 138.52,
+         "duration": 2.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Protocolos de actuación coordinada e inclusión de profesionales",
+         "start": 146.04,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la interpretación a la lengua de signos y de mediadoras para",
+         "start": 151.52,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las mujeres sordas víctimas, en las distintas fases del proceso.",
+         "start": 157.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Formación del personal que interviene en actuaciones contra",
+         "start": 167.52,
+         "duration": 3.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la violencia sobre las mujeres (judicatura, fiscalía, medicina forense,",
+         "start": 171.52,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "policía, profesionales de la sanidad, del trabajo social, etc.)",
+         "start": 177.0,
+         "duration": 4.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "acerca de la realidad psicosocial,",
+         "start": 182.04,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "comunicativa y diversa de las mujeres sordas.",
+         "start": 186.52,
+         "duration": 2.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Implementación inmediata del Pacto de Estado",
+         "start": 192.04,
+         "duration": 3.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "contra la Violencia de Género que incluye",
+         "start": 196.52,
+         "duration": 2.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "medidas específicas para las mujeres sordas:",
+         "start": 200.0,
+         "duration": 2.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "197: Garantizar la plena accesibilidad en lengua de signos de las personas",
+         "start": 204.04,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sordas usuarias de esta lengua al teléfono de emergencias 112,",
+         "start": 211.52,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a todos aquellos teléfonos públicos a disposición de la ciudadanía,",
+         "start": 217.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a través del servicio de videointerpretación a la lengua de signos SVisual que ya se utiliza en el 016, el 062 y el 091.",
+         "start": 221.52,
+         "duration": 7.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "198: Garantizar, de acuerdo con las Comunidades Autónomas,",
+         "start": 232.04,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la presencia de intérpretes de lengua de signos, así como",
+         "start": 238.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de mediadoras especializadas en la atención a personas sordas durante",
+         "start": 242.52,
+         "duration": 5.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "todas las fases del proceso de salida de la violencia.",
+         "start": 248.52,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "199: Formar en Violencia de Género",
+         "start": 255.04,
+         "duration": 4.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a intérpretes de Lengua de Signos",
+         "start": 260.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que se encarguen de realizar labores de interpretación de casos de",
+         "start": 266.52,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Violencia de Género en comisarías, juzgados, atención psicológica y social, etc.",
+         "start": 272.0,
+         "duration": 6.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Provisión de ayudas económicas para luchar contra las violencias",
+         "start": 282.04,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "machistas a las entidades asociativas de personas sordas que desarrollan",
+         "start": 286.52,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "servicios específicos de atención y orientación a este colectivo.",
+         "start": 291.0,
+         "duration": 4.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De violencia a la mujer.",
+         "start": 299.04,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 301.04,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De machismo.",
+         "start": 303.04,
+         "duration": 1.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 305.04,
+         "duration": 0.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De paternalismo.",
+         "start": 306.52,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 311.04,
+         "duration": 0.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De ambigüedad a la hora de condenar los malos tratos.",
+         "start": 312.04,
+         "duration": 4.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 317.04,
+         "duration": 0.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De ningunear a la mujer, a las mujeres.",
+         "start": 318.04,
+         "duration": 9.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 328.04,
+         "duration": 0.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De mirar a otro lado.",
+         "start": 329.04,
+         "duration": 3.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 333.04,
+         "duration": 0.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De concesiones.",
+         "start": 334.04,
+         "duration": 3.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta!",
+         "start": 338.52,
+         "duration": 0.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ante las violencias machistas, ni un paso atrás.",
+         "start": 340.04,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y blusa negra",
+         "screen_position": "center"
+      }
+   ]
+}

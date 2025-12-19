@@ -1,0 +1,86 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hospitales del grupo Quirón Salud incorporan el servicio de videointerpretación SVisual",
+         "start": 0.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "El Hospital Universitario Fundación Jiménez Díaz, perteneciente al grupo Quirónsalud, ha sido el primero de los cuatro hospitales del grupo en Madrid en incorporar el servicio de videointerpretación en lengua de signos española SVisual.",
+         "start": 5.5,
+         "duration": 16.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Gracias a este servicio, las personas sordas que acuden a este centro hospitalario pueden comunicarse en lengua de signos a través de un video-intérprete, tanto en el mostrador de información y citas, como en las propias consultas médicas.",
+         "start": 22.0,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "SVisual es un servicio de videointerpretación promovido por la CNSE y su red asociativa, que permite a personas sordas y oyentes comunicarse entre sí en tiempo real.",
+         "start": 40.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Está disponible para tablets y smartphones, y también en versión web para ordenadores.",
+         "start": 52.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Desde su puesta en marcha en 2009, SVisual ha atendido más de 350.000 servicios.",
+         "start": 58.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "www.svisual.org",
+         "start": 107.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "La incorporación de SVisual en los hospitales del grupo Quirónsalud es un paso más en la supresión de las barreras de comunicación que las personas sordas encuentran en su día a día, y un claro ejemplo de cómo la tecnología puede contribuir a la plena inclusión de este colectivo.",
+         "start": 64.0,
+         "duration": 20.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "http://bit.ly/2tKtNDg",
+         "start": 122.3,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y gafas",
+         "screen_position": "right"
+      }
+   ]
+}

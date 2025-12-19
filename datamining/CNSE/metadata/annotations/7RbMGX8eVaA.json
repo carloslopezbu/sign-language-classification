@@ -1,0 +1,446 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La CNSE, Confederación Estatal de Personas Sordas, ha presentado",
+         "start": 1.25,
+         "duration": 4.55,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "los resultados de la ‘Encuesta sobre Salud Integral y Mujeres Sordas’.",
+         "start": 5.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un documento que, según concluye la entidad, revela una dejación de las necesidades de este colectivo en lo que a atención sanitaria se refiere,",
+         "start": 12.55,
+         "duration": 9.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y evidencia cómo afecta al cuidado de su salud el hecho de ser mujeres y de ser personas sordas.",
+         "start": 22.55,
+         "duration": 9.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La falta de accesibilidad de los servicios sanitarios,",
+         "start": 33.2,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la ausencia de lengua de signos y subtitulado en las campañas informativas y de prevención de la salud, y el desconocimiento",
+         "start": 37.7,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las y los profesionales de este ámbito acerca de la comunidad sorda y su diversidad,",
+         "start": 44.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se posicionan como las principales denuncias que realizan las mujeres sordas que han participado en la encuesta.",
+         "start": 49.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas barreras, según explican, comienzan en las salas de espera, donde apuestan",
+         "start": 55.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "por la instalación de pantallas que avisen de forma visual a las y los pacientes sordas/os, en detrimento de la megafonía.",
+         "start": 61.2,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, es la interacción con las sanitarias y los sanitarios lo que más les inquieta, sobre todo a raíz del uso de mascarillas.",
+         "start": 70.8,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, un 20% ha declarado sentirse nerviosas y angustiadas ante este tipo de situaciones,",
+         "start": 83.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y un 15% ha mostrado su determinación de no acudir al médico alegando, como razón principal, la dificultad que encuentran en la comunicación con su doctor/a.",
+         "start": 91.2,
+         "duration": 11.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "“Nos preocupa que, al no poder acceder en condiciones de igualdad a la atención sanitaria,",
+         "start": 104.2,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se ponga en peligro su salud, su vida, o la de un ser querido a su cargo”,",
+         "start": 112.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ha manifestado la presidenta de la CNSE, Concha Díaz.",
+         "start": 117.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y es que, aunque más de la mitad de las encuestadas (un 50,23%) recurre habitualmente a la figura del/de la intérprete de lengua de signos",
+         "start": 121.2,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para garantizar una comunicación fluida y efectiva con el personal sanitario,",
+         "start": 129.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la mayoría afirma que, en ocasiones, se han visto obligadas a comunicarse con su médico/a de forma oral, leyendo los labios, por escrito,",
+         "start": 134.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o a través de amigos/as y familiares.",
+         "start": 141.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A ello se suma que un 6% confiesa que firma los textos escritos y consentimientos informados que les entregan sin estar seguras de lo que pone, ya sea por",
+         "start": 145.2,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "no contar con intérpretes o porque no se permite a estas/os entrar en la consulta.",
+         "start": 161.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al respecto, Concha Díaz ha advertido a Sanidad de la importancia de contar en todo momento tanto con intérpretes como con mediadores/as en centros",
+         "start": 168.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de salud y hospitales, así como que las y los profesionales sanitarios sepan cómo comunicarse con las personas sordas.:",
+         "start": 181.0,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "“No se nos puede excluir del ejercicio de un derecho fundamental como es el derecho a la salud”.",
+         "start": 193.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otro de los datos que se desprenden de la encuesta es la dificultad que presenta para las participantes gestionar sus citas médicas y las de sus familiares,",
+         "start": 201.8,
+         "duration": 13.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya que muchos de estos servicios funcionan a través de llamadas telefónicas.",
+         "start": 215.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como resultado, un 26,8% ha apuntado que les resulta imposible y deben recurrir a un/a familiar oyente para acometer esta tarea.",
+         "start": 220.2,
+         "duration": 15.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, la presidenta de la CNSE ha recordado que existen soluciones eficaces para garantizar la accesibilidad de los servicios públicos de atención,",
+         "start": 236.8,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como es el caso del servicio de videointerpretación para personas sordas SVisual:",
+         "start": 246.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "“Durante este tiempo de pandemia, SVisual ha sido determinante a la hora de acceder a la información, a la comunicación y a una atención adaptada a nuestras necesidades”.",
+         "start": 250.2,
+         "duration": 11.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, la encuesta ha permitido corroborar la discriminación a la que se han visto sometidas sus participantes por el hecho de ser mujeres.",
+         "start": 262.8,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al ser preguntadas sobre los trastornos relacionados con la salud femenina (menopausia, dolores menstruales, bultos en el pecho, fatiga emocional, etc.)",
+         "start": 274.5,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "un 41% ha manifestado que no se las atiende adecuadamente,",
+         "start": 288.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en casi la mitad de los casos, no se sienten escuchadas y vuelven a casa sin solucionar su problema.",
+         "start": 296.8,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, denuncian violencia obstétrica,",
+         "start": 309.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "abandono de su salud mental y falta de información preventiva.",
+         "start": 316.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En concreto, un 35% de las encuestadas afirma que no conoce las campañas de salud de los organismos públicos, cuestión a la que en nada contribuye la falta de accesibilidad",
+         "start": 324.8,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que caracteriza a estas campañas, y que tal y como ha apuntado Concha Díaz, solo las entidades del movimiento asociativo CNSE se han esforzado por paliar.",
+         "start": 336.0,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "“Estas campañas de información y prevención deben incorporar lengua de signos y subtitulado para que las mujeres sordas puedan ser partícipes de ellas”.",
+         "start": 347.5,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La ‘Encuesta sobre Salud Integral y Mujeres Sordas’ ha sido elaborada por el área de Igualdad de Género de la CNSE en colaboración",
+         "start": 359.5,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con las federaciones autonómicas que conforman su red asociativa.",
+         "start": 371.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, ha contado con la financiación del Ministerio de Derechos Sociales a través de la asignación tributaria del 0,7% del IRPF, y de la Fundación ONCE.",
+         "start": 374.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para su elaboración, la entidad ha contado con una muestra de 151 mujeres sordas de entre 18 y 65 años con distintas situaciones socioeconómicas.",
+         "start": 384.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A través de un cuestionario y de entrevistas personales, las participantes han sido preguntadas por su situación actual y personal; sus cargas familiares; sus vivencias",
+         "start": 398.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en la gestión administrativa de la salud; los prejuicios a los que se ha enfrentado por parte del personal sociosanitario;",
+         "start": 411.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o las repercusiones que ha tenido de las mujeres sordas en el ámbito de la salud, recoger sus expectativas en materia",
+         "start": 420.0,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de accesibilidad al sistema sanitario, y proponer posibles actuaciones que contribuyan a mejorar la atención que reciben.",
+         "start": 433.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los resultados están disponibles en el siguiente enlace.",
+         "start": 444.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

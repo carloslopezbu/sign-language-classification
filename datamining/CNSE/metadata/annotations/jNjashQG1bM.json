@@ -1,0 +1,482 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Comienza el mes de septiembre",
+         "start": 0.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con una tendencia al alza en el número de contagios por COVID 19",
+         "start": 1.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "tanto a nivel nacional como internacional.",
+         "start": 6.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En nuestro país, son cientos los brotes activos",
+         "start": 10.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "siendo la Comunidad de Madrid, Aragón, Cataluña, Euskadi, La Rioja y Navarra",
+         "start": 13.5,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las zonas con más casos por cada 100.000 habitantes.",
+         "start": 28.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La edad media de los infectados ronda los 40 años,",
+         "start": 33.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con una mayor incidencia entre jóvenes de 15 a 29 años.",
+         "start": 40.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto a la presión asistencial,",
+         "start": 46.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "los sistemas sanitarios no se encuentran en la misma situación de saturación que en marzo y abril.",
+         "start": 52.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, la cifra de personas hospitalizadas y de ingresos en UCI, sigue en aumento y se acerca a las 7.000 personas.",
+         "start": 59.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, se han registrado un incremento en el número de personas fallecidas.",
+         "start": 109.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A lo largo del mes de agosto, las comunidades autónomas",
+         "start": 115.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "han implementado distintas medidas de control para frenar la expansión del virus",
+         "start": 119.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como, por ejemplo, el cierre del ocio nocturno,",
+         "start": 123.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la prohibición de fumar en la calle, la restricción de aforos,",
+         "start": 127.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "e incluso el confinamiento de algunas localidades.",
+         "start": 134.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ante un brote de COVID 19, los pasos esenciales son",
+         "start": 141.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la detección temprana, el aislamiento de las personas contagiadas",
+         "start": 146.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y el estudio de su entorno.",
+         "start": 152.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto supone hacer pruebas PCR de manera masiva,",
+         "start": 154.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "poner en cuarentena a positivos y sospechosos,",
+         "start": 159.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y rastrear a sus contactos estrechos.",
+         "start": 206.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se considera contacto estrecho cuando se ha estado con una persona positiva",
+         "start": 212.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sin protección ni distancia,",
+         "start": 217.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y durante más de 15 minutos",
+         "start": 223.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "desde 48 horas antes de tener síntomas.",
+         "start": 228.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La responsabilidad personal y el papel de los rastreadores es vital en estos casos,",
+         "start": 241.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "por lo que el Gobierno ha puesto personal militar a disposición de las comunidades autónomas para reforzar esta labor.",
+         "start": 250.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son varios los países que están trabajando en una vacuna eficaz frente al coronavirus, con muy buenos resultados.",
+         "start": 301.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestro país forma parte de la Estrategia Europea de Vacunas, que trabaja para conseguir una vacuna segura que llegue a todas y todos.",
+         "start": 311.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta línea, cabe destacar que la Agencia Española de Medicamentos y Productos Sanitarios ha autorizado el ensayo clínico en 3 hospitales españoles de una de las vacunas contra la COVID-19.",
+         "start": 321.5,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La investigación se realizará en personas voluntarias sanas de dos grupos de edad: uno de 18 a 55 años, y otro de 65 y más.",
+         "start": 335.5,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno y las comunidades autónomas han acordado que, con carácter general,",
+         "start": 354.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la actividad lectiva será presencial para todos los niveles y etapas del sistema educativo, priorizándola para el alumnado de menor edad.",
+         "start": 400.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo es que los centros educativos se mantengan abiertos durante todo el curso escolar asegurando los servicios de comedor, así como el apoyo educativo a menores con necesidades especiales o de familias socialmente vulnerables.",
+         "start": 407.5,
+         "duration": 18.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de que la situación epidemiológica no lo permitiese, se han contemplado alternativas de educación a distancia y semipresencial.",
+         "start": 428.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La fecha de vuelta a las aulas no será la misma en todos los territorios.",
+         "start": 441.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se contempla que sea escalonada por edades, empezando por el alumnado de menor edad, y con medidas de prevención, higiene y promoción de la salud que ahora explico.",
+         "start": 448.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La mascarilla será obligatoria a partir de los 6 años.",
+         "start": 502.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante los trayectos en transporte escolar, también se recomienda su uso en niñas y niños de 3 a 5 años.",
+         "start": 506.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se tomará la temperatura corporal a todo el alumnado y al personal de forma previa al inicio de la jornada.",
+         "start": 517.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se mantendrá una distancia interpersonal de 1,5 metros,",
+         "start": 527.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "si bien se crearán grupos de convivencia estables para que los niños y niñas de menor edad puedan socializar y jugar entre sí sin tener que mantener esa distancia.",
+         "start": 533.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se realizará una higiene de manos de forma frecuente y meticulosa, al menos cinco veces al día.",
+         "start": 546.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se intensificará la limpieza de los centros, en especial en los baños y lugares de mayor uso.",
+         "start": 554.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, se ventilarán con frecuencia las instalaciones.",
+         "start": 603.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los comedores cuidarán la distancia interpersonal de al menos 1,5 metros, y se asignarán puestos fijos durante todo el año para el alumnado.",
+         "start": 609.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El personal que trabaje en el centro educativo reducirá a lo imprescindible su permanencia en el mismo, para lo que se promoverá la realización telemática de todas aquellas actividades no lectivas que así lo permitan.",
+         "start": 621.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los alumnos, profesores u otro personal que tengan síntomas compatibles con COVID 19 no acudirán al centro.",
+         "start": 635.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se procederá a su aislamiento y se les derivará al sistema sanitario para hacerse las pruebas diagnósticas.",
+         "start": 643.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si fuera necesario, se pondrá en cuarentena a sus contactos estrechos.",
+         "start": 649.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para más información, podéis recurrir a la página web y a las redes sociales de vuestra comunidad autónoma.",
+         "start": 655.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

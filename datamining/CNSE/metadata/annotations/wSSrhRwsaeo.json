@@ -1,0 +1,248 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy, el Gobierno ha aprobado una medida excepcional para reducir aún más la movilidad, y así disminuir el riesgo de contagio por coronavirus.",
+         "start": 1.141,
+         "duration": 8.409,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo es evitar el colapso de las UCI de los hospitales.",
+         "start": 9.926,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A partir del 30 de marzo y hasta el 9 de abril, todas las trabajadoras y trabajadores de actividades no esenciales deberán quedarse en casa, y no tendrán que ir a sus centros de trabajo.",
+         "start": 15.682,
+         "duration": 11.145,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es el caso, por ejemplo, del sector de la construcción y de la industria de productos y servicios que no se consideran esenciales para el normal funcionamiento.",
+         "start": 27.694,
+         "duration": 6.54,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Será un permiso retribuido recuperable, lo que significa que continuarán recibiendo su salario con normalidad.",
+         "start": 34.735,
+         "duration": 4.704,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez finalice la emergencia sanitaria, recuperarán las horas que no han hecho de forma progresiva y espaciada.",
+         "start": 39.94,
+         "duration": 12.613,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta medida excepcional, no se aplica a las personas que teletrabajan, a aquellas que están sujetas a un ERTE, a las que tienen una baja por enfermedad, o a las que están de baja por maternidad o paternidad.",
+         "start": 53.754,
+         "duration": 13.013,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mientras se paralizarán las actividades no esenciales, las actividades esenciales seguirán funcionando, que son:",
+         "start": 107.968,
+         "duration": 5.806,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Centros sanitarios y hospitales.",
+         "start": 114.775,
+         "duration": 1.502,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Supermercados y tiendas de alimentación, bebidas, higiene, y bienes de primera necesidad.",
+         "start": 117.078,
+         "duration": 6.406,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Farmacias.",
+         "start": 124.886,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Centros veterinarios y tiendas de alimentación de animales.",
+         "start": 126.487,
+         "duration": 5.206,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ortopedias.",
+         "start": 133.895,
+         "duration": 0.901,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ópticas.",
+         "start": 135.897,
+         "duration": 0.901,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lavanderías y tintorerías.",
+         "start": 137.899,
+         "duration": 2.503,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estancos.",
+         "start": 140.902,
+         "duration": 0.901,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quioscos de prensa.",
+         "start": 142.604,
+         "duration": 1.802,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gasolineras.",
+         "start": 145.407,
+         "duration": 1.101,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Producción agrícola y ganadera.",
+         "start": 147.809,
+         "duration": 2.703,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puertos y aeropuertos.",
+         "start": 151.814,
+         "duration": 2.502,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Transporte público, de mercancías, y sanitario.",
+         "start": 155.517,
+         "duration": 4.905,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Transporte de viajeros, como los trenes, autobuses, con las limitaciones establecidas en el estado de alarma.",
+         "start": 161.624,
+         "duration": 6.907,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comercio electrónico y telefónico.",
+         "start": 170.833,
+         "duration": 3.203,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiendas de telecomunicaciones y equipos tecnológicos.",
+         "start": 175.638,
+         "duration": 3.103,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medios de comunicación.",
+         "start": 179.942,
+         "duration": 3.204,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Suministro de luz, agua, gas e internet.",
+         "start": 184.547,
+         "duration": 3.704,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fuerzas de Seguridad del Estado.",
+         "start": 189.853,
+         "duration": 1.902,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

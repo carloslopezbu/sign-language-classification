@@ -1,0 +1,248 @@
+{
+   "num_signers": 12,
+   "annotations": [
+      {
+         "text": "En nuestro país hay más de 500 de especialistas en lengua de signos",
+         "start": 1.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "que desempeñan distintas funciones relativas",
+         "start": 5.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la enseñanza y aprendizaje, promoción y difusión de",
+         "start": 7.9,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "la lengua de signos española y la lengua de signos catalana.",
+         "start": 12.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy especialista en lengua de signos.",
+         "start": 19.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo, polo negro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi profesión es especialista en lengua de signos española.",
+         "start": 24.0,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, top negro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy especialista en lengua de signos catalana.",
+         "start": 30.5,
+         "duration": 5.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre pelo canoso, gafas, cárdigan gris.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo también soy especialista en lengua de signos.",
+         "start": 43.8,
+         "duration": 3.2,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre pelo largo rizado, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y yo también.",
+         "start": 48.0,
+         "duration": 1.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado rubio, gafas, top blanco.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi profesión es especialista en lengua de signos.",
+         "start": 51.0,
+         "duration": 3.5,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camisa cuadros.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy especialista en lengua de signos catalana.",
+         "start": 55.8,
+         "duration": 4.2,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, camisa rayas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi profesión es especialista en lengua de signos.",
+         "start": 101.0,
+         "duration": 2.5,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, cinta, sudadera lila.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo trabajo de especialista en lengua de signos.",
+         "start": 105.0,
+         "duration": 3.2,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre con barba, gafas, camiseta naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Yo también!",
+         "start": 109.0,
+         "duration": 1.2,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Hombre con barba, polo rayas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo trabajo de especialista en lengua de signos.",
+         "start": 111.0,
+         "duration": 2.5,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado rubio, gafas, chaqueta vaquera.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ellas y ellos, reivindicamos el reconocimiento y regulación",
+         "start": 115.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "de su perfil profesional, que por el momento se limita",
+         "start": 118.5,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "a estar recogida en el Catálogo Nacional de Ocupaciones elaborada por los",
+         "start": 124.5,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Servicios Públicos del Sistema Nacional de Empleo,",
+         "start": 131.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la mejora de sus condiciones laborales.",
+         "start": 137.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "La competencia profesional del especialista en lengua de signos",
+         "start": 140.0,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "es organizar, desarrollar, programar y evaluar su proceso de enseñanza-aprendizaje",
+         "start": 144.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "como primera y segunda lengua en distintos ámbitos,",
+         "start": 149.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como investigar y asesorar sobre la lengua de signos y su comunidad.",
+         "start": 154.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, exigimos la definición y diferenciación de perfiles profesionales",
+         "start": 159.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "relacionados con la lengua de signos en el ámbito educativo para evitar que",
+         "start": 164.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "este perfil se confunda con el de intérprete de lengua de signos o con cualquier otro.",
+         "start": 169.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra.",
+         "screen_position": "center"
+      }
+   ]
+}

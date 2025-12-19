@@ -1,0 +1,221 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 20.697,
+         "duration": 0.834,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Sabéis dónde estamos?",
+         "start": 22.522,
+         "duration": 1.001,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "En la Plaza de Callao. En pleno centro de Madrid.",
+         "start": 24.307,
+         "duration": 2.219,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Este es el lugar donde celebraremos la Concentración de la Comunidad Sorda el próximo 28 de octubre.",
+         "start": 27.394,
+         "duration": 5.639,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Venid. Acercaos. Que tenemos muchas cosas que enseñaros.",
+         "start": 34.234,
+         "duration": 2.769,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Justo aquí se ubicará el escenario donde, a partir de las 11 h., podremos disfrutar del talento de nuestras y nuestros artistas sordos.",
+         "start": 39.239,
+         "duration": 8.809,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y de la lectura de un manifiesto. Y de muchas otras cosas.",
+         "start": 49.249,
+         "duration": 3.303,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y todo este espacio será para el público.",
+         "start": 56.256,
+         "duration": 2.002,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Preparaos para aplaudir a ritmo de batukada!",
+         "start": 59.259,
+         "duration": 2.302,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Así?",
+         "start": 62.562,
+         "duration": 0.701,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eso es, María. Con ganas.",
+         "start": 64.264,
+         "duration": 2.002,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Como en toda concentración de gente, habrá una zona reservada para las fuerzas de seguridad y las emergencias sanitarias. Además, estarán acompañados de intérpretes de lengua de signos y mediadores/as comunicativos.",
+         "start": 67.867,
+         "duration": 9.71,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "También habrá un punto violeta al que podremos acudir si presenciamos o sufrimos algún tipo de agresión. ¡Es importante que nos sintamos seguras y seguros!",
+         "start": 78.278,
+         "duration": 10.31,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Nos han autorizado a ubicar un espacio con 25/30 sillas para personas mayores, personas con problemas de movilidad, personas sordociegas...",
+         "start": 91.091,
+         "duration": 8.208,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Otra opción es traer una sillita plegable tipo las de pesca por si se necesita.",
+         "start": 100.5,
+         "duration": 6.507,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Buena idea. Entonces, Luque... ¿vas a venir?",
+         "start": 108.208,
+         "duration": 2.302,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pues claro. Las personas sordas hemos luchado durante 16 años para que se aprobara el Reglamento que desarrolla la Ley 27/2007. Y ahora que lo hemos conseguido ¡Tenemos que celebrarlo!",
+         "start": 111.211,
+         "duration": 14.614,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cierto. El Reglamento apoya el respeto por la diferencia y la aceptación de las personas sordas y sordociegas como parte de la diversidad y la condición humanas.",
+         "start": 127.227,
+         "duration": 8.608,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y también el respeto a la identidad lingüística vinculada a la lengua de signos española y a la lengua de signos catalana.",
+         "start": 136.836,
+         "duration": 6.207,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Pues aquí nos vemos!",
+         "start": 144.244,
+         "duration": 1.001,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Yo voy a venir en metro. Justo aquí, a este lado de la plaza, está la estación de metro de Callao. Y a tan solo unos minutos andando, las estaciones de Sol, Santo Domingo, Plaza de España y Gran Vía.",
+         "start": 146.246,
+         "duration": 11.812,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "En el texto del post os lo explicamos todo.",
+         "start": 160.56,
+         "duration": 5.005,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo rizado, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Solo nos queda deciros una cosa.",
+         "start": 167.067,
+         "duration": 1.501,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra sin mangas",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Os esperamos en Madrid!",
+         "start": 170.27,
+         "duration": 1.802,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Hombre y mujer",
+         "screen_position": "multiple"
+      }
+   ]
+}

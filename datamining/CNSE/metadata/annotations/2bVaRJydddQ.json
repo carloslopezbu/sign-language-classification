@@ -1,0 +1,230 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Cuál es el plazo de inscripción?",
+         "start": 7.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay dos plazos. El primer plazo es del 1 de febrero al 23 de marzo.",
+         "start": 10.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El precio es 155 euros.",
+         "start": 16.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El segundo plazo es del 24 de marzo al 11 de mayo.",
+         "start": 20.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El precio es 180 euros.",
+         "start": 27.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo se hace el pago?",
+         "start": 32.5,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mediante transferencia bancaria al número de cuenta:",
+         "start": 34.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ES12 0128 0080 1105 0002 0293 (Bankinter)",
+         "start": 39.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué incluye la inscripción?",
+         "start": 45.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Materiales del Congresista y certificado de asistencia.",
+         "start": 51.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cóctel de bienvenida el viernes 9 de junio.",
+         "start": 59.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comida el sábado 10 de junio.",
+         "start": 105.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cena de Gala el sábado 10 de junio.",
+         "start": 111.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué documentación necesitas?",
+         "start": 120.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Certificado firmado por la Presidencia y la Secretaría General de la Asociación donde conste que la persona es socia de dicha Asociación.",
+         "start": 124.5,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Copia de la transferencia bancaria efectuada, indicando en el concepto tu nombre, apellidos y Asociación.",
+         "start": 136.2,
+         "duration": 13.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La inscripción sólo será efectiva cuando se envíe toda la documentación solicitada a través de esta web.",
+         "start": 150.2,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se aceptará ninguna inscripción recibida por otra vía que no sea a través de la web.",
+         "start": 156.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo se hace la selección?",
+         "start": 208.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El número de plazas para asistir como Persona Observadora Socia es limitado.",
+         "start": 211.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Comisión Permanente del VIII Congreso acordó que el número de Personas Observadoras Socias es de 50, sin asignar porcentaje a los miembros asociados a la CNSE.",
+         "start": 216.0,
+         "duration": 11.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La selección de las mismas se realizará por orden de inscripción que acompañe el justificante de pago y el certificado que acredite su afiliación a la asociación miembro de alguna federación.",
+         "start": 228.8,
+         "duration": 17.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de sobrar plazas, una vez ofertadas a las Personas Delegadas de las Federaciones y de las Asociaciones Territoriales, se cubrirán con las personas que deseen asistir como Observadoras siguiendo el criterio anteriormente indicado, por orden de inscripción, justificante y certificado.",
+         "start": 247.8,
+         "duration": 23.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez recibido el pago correspondiente y comprobar que toda la documentación es correcta, recibirás la confirmación por email automáticamente desde la web.",
+         "start": 315.0,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las condiciones de cancelación de la inscripción y reembolso se explican en otro vídeo.",
+         "start": 324.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

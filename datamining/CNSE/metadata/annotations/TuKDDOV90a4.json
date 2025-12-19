@@ -1,0 +1,338 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "En el Día Nacional de las Lenguas de Signos Españolas,",
+         "start": 0.88,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "la CNSE revindica que allí donde haya una persona sorda, una persona sordociega, esté presente la lengua de signos.",
+         "start": 4.38,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para muchas personas sordas y sordociegas, el uso de la lengua de signos española y catalana es determinante para asegurar su participación plena en el entorno, para el acceso a los diferentes bienes y servicios, a la información y a la comunicación.",
+         "start": 11.68,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hablar de lengua de signos es hablar de derechos.",
+         "start": 23.68,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Del derecho a expresarse y ser atendido en tu lengua,",
+         "start": 26.18,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "del derecho a comunicarte en tu lengua en cualquier ámbito,",
+         "start": 30.68,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "del derecho a aprender en tu lengua,",
+         "start": 34.98,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "del derecho a recibir información en tu lengua.",
+         "start": 37.98,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es hablar de respeto al otro, de oportunidades, de igualdad.",
+         "start": 41.88,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque sin lengua de signos, todo se vuelve nada.",
+         "start": 48.88,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque sin lengua de signos, no hay verdadera inclusión.",
+         "start": 52.58,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "La principal fortaleza de las lenguas de signos es que son indispensables.",
+         "start": 57.88,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lenguas únicas, insustituibles e irrenunciables capaces de crear en quienes las aman, un sentimiento de pertenencia, identidad y comunidad.",
+         "start": 61.08,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos:",
+         "start": 72.18,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La protección y preservación de la lengua de signos española y la lengua de signos catalana a través de su incorporación en la Constitución Española, y en la Carta Europea de las Lenguas Regionales o Minoritarias.",
+         "start": 75.88,
+         "duration": 12.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "La declaración de las lenguas de signos en España como manifestación representativa del Patrimonio Cultural Inmaterial.",
+         "start": 89.88,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El desarrollo de un reglamento específico sobre las lenguas de signos españolas desde la perspectiva de los derechos lingüísticos, que permita a las personas sordas acceder a los servicios y recursos disponibles para el conjunto de la ciudadanía a través de su lengua natural.",
+         "start": 96.68,
+         "duration": 18.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "La elaboración de una Estrategia Nacional sobre enseñanza, uso, protección y promoción de las lenguas de signos españolas, que asegure, entre otras cosas, su aprendizaje, conocimiento y aplicación tanto en el ámbito de la atención temprana como en el sistema educativo.",
+         "start": 116.88,
+         "duration": 22.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El reconocimiento y regulación del perfil profesional de las personas sordas especialistas en lengua de signos que desempeñan distintas funciones relativas a la enseñanza y aprendizaje, promoción, y difusión de las lenguas de signos españolas.",
+         "start": 140.88,
+         "duration": 15.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "La baremación del conocimiento de la lengua de signos española y la lengua de signos catalana en el acceso al empleo público de las personas sordas y en la provisión de puestos de trabajo con tareas de atención directa al público.",
+         "start": 157.88,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La defensa del rigor y la calidad lingüística de los contenidos signados en televisión, en servicios de interpretación y de los cursos para aprender lengua de signos española y catalana.",
+         "start": 172.38,
+         "duration": 15.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "La consideración de las lenguas de signos españolas como garantes de igualdad y no discriminación en cualquier tipo de legislación.",
+         "start": 188.88,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas signamos porque",
+         "start": 196.08,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "las lenguas de signos nos permiten ser libres.",
+         "start": 199.18,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ser independientes.",
+         "start": 202.28,
+         "duration": 1.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aprender",
+         "start": 205.28,
+         "duration": 0.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aportar.",
+         "start": 206.38,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Crecer.",
+         "start": 208.08,
+         "duration": 0.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Decidir por nosotras mismas.",
+         "start": 209.18,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ser diversas.",
+         "start": 211.28,
+         "duration": 1.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Empoderarnos.",
+         "start": 213.08,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Insistir.",
+         "start": 215.28,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Confiar.",
+         "start": 217.08,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Avanzar.",
+         "start": 218.58,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tener sueños cumplidos y sueños por alcanzar.",
+         "start": 220.88,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vivir.",
+         "start": 225.08,
+         "duration": 1.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "#YoconlaLS",
+         "start": 226.28,
+         "duration": 1.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres",
+         "screen_position": "multiple"
+      }
+   ]
+}

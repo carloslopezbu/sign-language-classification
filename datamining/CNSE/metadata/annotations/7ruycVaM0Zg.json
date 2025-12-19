@@ -1,0 +1,221 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Plan de Respuesta Inmediata, Reconstrucción y Relanzamiento frente a la DANA",
+         "start": 0.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "El Gobierno ha acordado declarar los territorios afectados por la DANA como \"Zona Afectada Gravemente por una Emergencia de Protección Civil\".",
+         "start": 5.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Esta declaración viene acompañada de un Plan de Respuesta Inmediata, Reconstrucción y Relanzamiento recogido en el Real Decreto-Ley 6/2024 publicado en el BOE.",
+         "start": 15.0,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "En su primera fase, este Plan destina 10.600 millones en ayudas urgentes para hogares, empresas, autónomas/os e instituciones locales de los 75 municipios valencianos, castellanomanchegos y andaluces afectados.",
+         "start": 28.5,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Entre ellas:",
+         "start": 47.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ayudas directas a hogares",
+         "start": 50.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Los hogares que hayan registrado daños en su vivienda recibirán ayudas directas por un valor de entre 20.000 y 60.000 euros, según las afectaciones registradas.",
+         "start": 53.0,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Las familias podrán solicitar hasta 10.300 euros para reponer los electrodomésticos que se hayan perdido a causa de la DANA, y para reparar los muebles y enseres que hayan sufrido daños.",
+         "start": 65.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Las/os residentes de un mismo edificio podrán solicitar hasta 37.000 euros para reparar el mobiliario común, como portales y ascensores.",
+         "start": 80.0,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- El Consorcio de Compensación de Seguros empezará a abonar esta misma semana las primeras indemnizaciones a aquellas familias y empresas que han perdido su vehículo. Estas indemnizaciones serán un 20% superiores al valor de tasación de cada vehículo.",
+         "start": 92.5,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- El Ingreso mínimo vital y el resto de las prestaciones no contributivas aumentarán un 15% durante los próximos tres meses, pudiéndose prorrogar más tiempo en función de cómo avance la situación.",
+         "start": 109.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Línea de avales DANA",
+         "start": 123.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Se destinarán 838 millones de euros para pymes y autónomos de las zonas afectadas. Las ayudas serán de 5.000 euros para autónomas/os y oscilarán entre los 10.000 y los 150.000 euros para las empresas en función de su volumen de negocio.",
+         "start": 126.0,
+         "duration": 16.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Asimismo, se pone en marcha una “línea de avales DANA” por valor de 5.000 millones de euros.",
+         "start": 143.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo gestionará el Instituto de Crédito Oficial y no se limitará a empresas y autónomas/os, ya que los hogares también podrán acceder a través de su banco a créditos con condiciones muy favorables y con la garantía del Gobierno. El Ejecutivo está trabajando con las entidades financieras para que los créditos puedan solicitarse a partir de mediados de noviembre.",
+         "start": 150.0,
+         "duration": 26.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Moratorias y exenciones fiscales",
+         "start": 177.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Las/os contribuyentes afectados por la DANA van a poder retrasar el segundo pago de la declaración de la renta así como cualquier otro impuesto que tengan pendiente con la Agencia Tributaria.",
+         "start": 181.0,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Quedan exentas/os del pago del Impuesto sobre Bienes Inmuebles (IBI) de los inmuebles dañados, así como de las tasas de tramitación de las bajas de los vehículos y de la expedición de documentos oficiales que se hayan perdido.",
+         "start": 195.0,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Las personas que tengan hipotecas o créditos al consumo podrán posponer el pago íntegro de sus créditos durante tres meses y solo tendrán que pagar los intereses durante nueve meses adicionales. Pymes y autónomas/os también podrán acogerse a esta medida.",
+         "start": 209.5,
+         "duration": 16.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más recursos para los Ayuntamientos",
+         "start": 227.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- El Ejecutivo pagará el 100% de los gastos de emergencia de los Ayuntamientos, incluyendo todas las acciones relacionadas con la retirada del lodo, los escombros y los enseres inservibles, el suministro de agua potable, la limpieza de las calles, el alojamiento y la manutención de las/os vecinas/os afectadas/os.",
+         "start": 230.5,
+         "duration": 20.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Igualmente, se hará cargo de hasta el 50% de todas las obras que los Ayuntamientos lleven a cabo en los próximos meses y años para reparar las instalaciones y las infraestructuras. También se les compensará por los impuestos municipales que van a dejar de percibir durante esta crisis, y se les permitirá destinar sus superávit fiscales a la reparación de daños, que tendrán consideración de inversión financieramente sostenible.",
+         "start": 252.5,
+         "duration": 27.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Fondos europeos",
+         "start": 282.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por último, el Gobierno ha solicitado a la Comisión Europea la ayuda del Fondo Europeo de Solidaridad y ha pedido, además, al Consejo Europeo y al Parlamento Europeo la aprobación por vía de urgencia del nuevo Reglamento ‘Restore’ para reorientar parte de los fondos de cohesión a paliar los daños ocasionados por desastres naturales.",
+         "start": 284.0,
+         "duration": 27.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño largo, blusa negra",
+         "screen_position": "right"
+      }
+   ]
+}

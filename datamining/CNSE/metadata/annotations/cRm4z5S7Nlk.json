@@ -1,0 +1,104 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Información de la CNSE accesible",
+         "start": 18.4,
+         "duration": 26.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Apoyo a las Federaciones en la gestión de calidad",
+         "start": 44.9,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Apoyo en la defensa de los derechos de las personas sordas",
+         "start": 55.1,
+         "duration": 29.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Defensa de la lengua de signos",
+         "start": 124.9,
+         "duration": 17.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Día Nacional de la Lengua de Signos",
+         "start": 142.9,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuevo Consejo de la CNSE",
+         "start": 155.6,
+         "duration": 22.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Propuestas para las próximas elecciones locales, autonómicas y generales",
+         "start": 178.9,
+         "duration": 41.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lengua de Signos en la Constitución Española",
+         "start": 220.9,
+         "duration": 40.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Seguimiento de la Ley Orgánica de Mejora de la Calidad Educatuva (LOMCE)",
+         "start": 261.9,
+         "duration": 30.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Apoyo a la iniciativa legislativa popular contra el copago de la dependencia",
+         "start": 292.9,
+         "duration": 47.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Formación y empleo",
+         "start": 340.9,
+         "duration": 17.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y chaqueta roja",
+         "screen_position": "center"
+      }
+   ]
+}

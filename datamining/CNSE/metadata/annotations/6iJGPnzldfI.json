@@ -1,0 +1,86 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "7. Debate y aprobacion, si procede, del Plan Operativo Anual del año 2022.",
+         "start": 73.8,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con gafas y chaqueta estampada",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "VIII CONGRESO DE LA CNSE Caceres, 10 - 11 junio 2023",
+         "start": 79.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo con chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "10. Informacion sobre el Proposito de la CNSE",
+         "start": 98.0,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con rastas y camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Libres para elegir, libres para signar",
+         "start": 101.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con gafas y chaqueta estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "12 años",
+         "start": 109.5,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con camiseta blanca de lunares",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sofia de Esteban",
+         "start": 142.5,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo con camiseta rosa en pantalla",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "CRECEMOS CONTIGO",
+         "start": 175.5,
+         "duration": 3.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y traje azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Por qué nos presentamos?",
+         "start": 180.0,
+         "duration": 3.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y traje azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Servicios de calidad que lleguen a todas las personas y a sus familias.",
+         "start": 189.0,
+         "duration": 6.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y traje azul",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,239 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "En el Día Internacional contra la Violencia de Género,",
+         "start": 0.5,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "la CNSE (Confederación Estatal de Personas Sordas)",
+         "start": 4.3,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "reclama la puesta en marcha de forma inmediata del Pacto de Estado contra la Violencia de Género,",
+         "start": 9.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y de las medidas dirigidas a las mujeres sordas que se incluyen en dicho documento:",
+         "start": 19.3,
+         "duration": 12.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "197: Garantizar la plena accesibilidad en lengua de signos de las personas sordas usuarias de esta lengua al 112, el 062, el 091, y todos aquellos teléfonos públicos a disposición de la ciudadanía",
+         "start": 33.0,
+         "duration": 23.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "a través del servicio de videointerpretación a la lengua de signos SVisual que ya se utiliza en el 016.",
+         "start": 56.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "198: Garantizar, de acuerdo con las Comunidades Autónomas, la presencia de intérpretes de lengua de signos,",
+         "start": 104.2,
+         "duration": 15.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "así como de mediadoras especializadas en la atención a personas sordas durante todas las fases del proceso de salida de la violencia.",
+         "start": 120.0,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "199: Formar en Violencia de Género a intérpretes de Lengua de Signos que se encarguen de realizar labores de interpretación de casos de Violencia de Género en comisarías, juzgados, atención psicológica y social, etc.",
+         "start": 143.5,
+         "duration": 33.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ser mujer, ser sorda, y ser usuaria de la lengua de signos, nos hace más vulnerables ante las violencias machistas.",
+         "start": 177.0,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "La falta de accesibilidad a la información, a la comunicación, a las campañas de sensibilización, y a los recursos y servicios disponibles para las víctimas, claramente nos discrimina,",
+         "start": 192.0,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "nos hace más dependientes, y pone en peligro nuestra seguridad y nuestras vidas.",
+         "start": 206.8,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las mujeres sordas corremos el riesgo de la incomprensión; de que quienes deben arroparnos, atendernos, acogernos no lo hagan;",
+         "start": 218.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "de que no crean en nuestros testimonios por ser sordas;",
+         "start": 236.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "de ni tan siquiera saber si estamos siendo víctimas de violencia de género, cuanto menos de qué podemos hacer y cuáles son nuestros derechos.",
+         "start": 244.0,
+         "duration": 18.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las mujeres sordas corremos el riesgo de no saber que ante la violencia de género, YA NO ESTAMOS SOLAS.",
+         "start": 263.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Contamos con el servicio ALBA de atención y asesoramiento para la eliminación de la violencia de género, atendido por expertas sordas.",
+         "start": 277.5,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con el 016 accesible gracias al servicio de videointerpretación SVisual.",
+         "start": 295.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con materiales en lengua de signos sobre cómo detectar y combatir los comportamientos y actitudes machistas, las violencias machistas contra niñas y mujeres sordas.",
+         "start": 304.5,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero esto es insuficiente. Necesitamos mucho más.",
+         "start": 324.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Necesitamos la presencia de intérpretes de lengua de signos y mediadoras sordas en las comisarías, en las casas de acogida, en los centros de salud y en los hospitales, en los juzgados, y en todos aquellos recursos y servicios públicos a disposición de la ciudadanía.",
+         "start": 330.0,
+         "duration": 21.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Necesitamos comprensión, que se nos crea, que todos los y las profesionales implicados en las distintas fases del proceso de atención a víctimas de violencia de género superen un tipo de violencia que afecta únicamente a niñas y mujeres sordas: el audismo.",
+         "start": 352.5,
+         "duration": 25.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Contra la violencia, todas las mujeres DEBEMOS RECIBIR IGUAL TRATO, y por ello, reivindicamos que todas y cada una de las medidas del Pacto de Estado contra la Violencia de Género se desplieguen en todas las Autonomías,",
+         "start": 389.0,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que los distintos gobiernos trabajen junto a nuestra red asociativa de personas sordas para conseguir que nunca más, en ningún lugar, haya una niña, una mujer sorda, que se sienta indefensa.",
+         "start": 415.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es nuestra responsabilidad, la de la CNSE, la de su red asociativa, la de toda la sociedad, la de la ciudadanía, asumir un firme compromiso contra las violencias machistas.",
+         "start": 432.0,
+         "duration": 16.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es nuestra responsabilidad decir BASTA.",
+         "start": 449.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro recogido y camiseta morada",
+         "screen_position": "center"
+      }
+   ]
+}

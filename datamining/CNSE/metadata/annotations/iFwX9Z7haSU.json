@@ -1,0 +1,194 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "¿Qué es la cuarentena?",
+         "start": 2.1,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una medida de salud pública para controlar la transmisión del virus de la COVID-19.",
+         "start": 4.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Deben hacerla las personas que hayan estado expuestas al virus para que no tengan contacto con otras personas durante el periodo en el que pueden desarrollar y transmitir la infección.",
+         "start": 10.5,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuándo tienes que hacerla?",
+         "start": 33.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si has tenido un contacto cercano con una persona diagnosticada de COVID-19, debes ponerte en contacto con tu centro de salud para que te hagan las pruebas correspondientes, y te indiquen si debes o no hacer cuarentena.",
+         "start": 37.8,
+         "duration": 15.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿En qué consiste?",
+         "start": 57.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante la cuarentena no debes salir de casa.",
+         "start": 100.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay otras medidas que se recomiendan.",
+         "start": 102.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como permanecer solo/a en una habitación de la vivienda el mayor tiempo posible.",
+         "start": 104.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Disponer de baño propio y si lo compartes, limpiarlo con lejía tras cada uso.",
+         "start": 110.8,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Llevar mascarilla quirúrgica tanto tú como tus convivientes, siempre que tengas que salir de la habitación o entren en ella.",
+         "start": 122.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No compartir toallas, cubiertos, ni objetos de uso personal.",
+         "start": 134.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuidar la higiene y la ventilación.",
+         "start": 142.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuánto dura la cuarentena?",
+         "start": 152.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Unos 10 días desde el último contacto con un caso confirmado.",
+         "start": 156.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La cuarentena es de 10 días porque la mayoría de las personas desarrollan síntomas en los primeros 10 días tras la exposición a un caso de COVID-19.",
+         "start": 162.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vigila si aparecen síntomas durante la cuarentena, y también durante los 4 días después de finalizada.",
+         "start": 173.8,
+         "duration": 12.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Por qué es importante mantenerla?",
+         "start": 190.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El virus de la COVID-19 puede transmitirse incluso dos días antes del inicio de síntomas.",
+         "start": 193.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También pueden transmitirlo las personas asintomáticas.",
+         "start": 202.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque te hagan una prueba diagnóstica al inicio del periodo de cuarentena y ésta sea negativa, es importante que cumplas el periodo de cuarentena hasta el final, ya que pueden aparecer síntomas con posterioridad al resultado de la prueba diagnóstica.",
+         "start": 209.5,
+         "duration": 17.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

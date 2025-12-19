@@ -1,0 +1,212 @@
+{
+   "num_signers": 8,
+   "annotations": [
+      {
+         "text": "En el año 2002, la CNSE firmaba con el IMSERSO un convenio para la atención a las personas sordas en el ejercicio de sus derechos básicos.",
+         "start": 12.5,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto negro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este convenio, aún vigente en la actualidad, se ha suscrito en los últimos años con la actual Secretaría de Estado de Servicios Sociales e Igualdad.",
+         "start": 26.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto negro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A través de este acuerdo, la CNSE y su movimiento asociativo han creado una red Estatal de Servicios de interpretación en lengua de signos que atiende en todo el territorio nacional,",
+         "start": 37.5,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto negro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "aquellos servicios presenciales que demandan las personas sordas, como los que se llevan a cabo a través de la plataforma de videointerpretación para personas sordas SVisual.",
+         "start": 54.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto negro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De esta manera, cualquier persona sorda puede disponer del servicio de intérpretes de lengua de signos para realizar gestiones enlas Administraciones Públicas, y otras acordadas de carácter privado.",
+         "start": 106.5,
+         "duration": 16.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto negro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Pero qué supone este servicio para las propias personas sordas y sus familias?",
+         "start": 124.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto negro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando voy a una administración a realizar trámites, o bien a los servicios sociales de para llevar a cabo cualquier gestión, recurro al servicio de interpretación en lengua de signos.",
+         "start": 136.0,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin duda, este servicio nos abre una puerta a la comunicación y contribuye a que nos sintamos ciudadanos de pleno derecho.",
+         "start": 146.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, los museos cada vez organizan más actividades que cuentan con intérpretes, lo que facilita que las personas sordas podamos participar de la vida artística y cultural de nuestro país.",
+         "start": 153.5,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los intérpretes son muy importantes en el acceso al empleo de las personas sordas.",
+         "start": 208.0,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre joven con sudadera azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Facilitan que podamos realizar cursos de formación, oposiciones prácticas en empresas, e incluso que acudamos con seguridad a una entrevista de trabajo porque sabemos que podremos comunicarnos con el personal que realiza la selección.",
+         "start": 213.5,
+         "duration": 15.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre joven con sudadera azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "En definitiva, contribuyen a que contemos con una igualdad de oportunidades real en este ámbito.",
+         "start": 229.0,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre joven con sudadera azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Siempre que voy al centro de salud, me acompaña un intérprete que favorece que pueda mantener una conversación sin barreras de comunicación con mi médico.",
+         "start": 240.0,
+         "duration": 8.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "También utilizo con mucha frecuencia el servicio de videointerpretación para personas sordas SVisual, ya sea para pedir una cita médica, o una consulta con el especialista.",
+         "start": 248.5,
+         "duration": 9.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "SVisual hace posible que pueda realizar cualquier gestión telefónica o contactar con personas oyentes gracias a la figura del videointérprete.",
+         "start": 258.0,
+         "duration": 10.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y chaqueta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy madre de una adolescente sorda. Mi hija estudia en un instituto, ha ayudado a comprender por qué la figura del intérprete es vital para el alumnado sordo.",
+         "start": 311.5,
+         "duration": 11.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camisa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sin intérpretes sería muy complicado para Clara seguir las clases, resolver dudas con el profesorado o realizar trabajos con el resto de los compañeros.",
+         "start": 322.5,
+         "duration": 11.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camisa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Como os ha comentado antes mi madre, el interprete para los jóvenes sordos es muy importante porque sin él no podríamos acceder a la información.",
+         "start": 336.5,
+         "duration": 11.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo largo y camiseta blanca",
+         "screen_position": "left"
+      },
+      {
+         "text": "La figura del intérprete es vital en toda la trayectoria educativa del alumnado sordo.",
+         "start": 351.0,
+         "duration": 7.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No podemos imponerle a un joven sordo que renuncie a este recurso, y que se esfuerce en entender las clases leyendo los labios por ejemplo.",
+         "start": 359.0,
+         "duration": 11.5,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debemos facilitar el acceso a la educación de las personas sordas, y no ponerles trabas. Debemos fomentar sus ganas de aprender.",
+         "start": 411.5,
+         "duration": 17.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los intérpretes de lengua de signos permiten que las personas sordas inmigrantes tengamos acceso a la información sobre cómo legalizar nuestra situación, sacar el permiso de residencia o de empadronamiento, y acceder a las ayudas disponibles para nuestro colectivo.",
+         "start": 435.5,
+         "duration": 18.5,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con pelo canoso y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin duda, este acuerdo pone de relieve el compromiso del Ministerio de Sanidad, Servicios Sociales e Igualdad y del Movimiento Asociativo CNSE, para propicinar la igualdad de oportunidades y la inclusión social de las personas sordas, dando así cumplimiento a lo estipulado en la Ley 27/2007 de 23 de octubre por la que se reconocen las lenguas de signos española y catalana.",
+         "start": 457.0,
+         "duration": 29.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto negro y chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

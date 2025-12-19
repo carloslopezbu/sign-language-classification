@@ -1,0 +1,383 @@
+{
+   "num_signers": 9,
+   "annotations": [
+      {
+         "text": "¿Qué es una lengua materna?",
+         "start": 5.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es la primera lengua que aprendes en casa, en tu infancia.",
+         "start": 8.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es la lengua en la que piensas, te comunicas sin tener dificultades.",
+         "start": 12.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es la lengua que uno siente como propia, como parte de su identidad individual y de su propia comunidad.",
+         "start": 21.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "(La foca) se comió el pez.",
+         "start": 32.5,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niño Javier, traje de neopreno",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acertó todas las veces. La foca sí es lista.",
+         "start": 34.8,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niño Javier, traje de neopreno",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se perdía ni una vez.",
+         "start": 38.2,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niño Javier, traje de neopreno",
+         "screen_position": "center"
+      },
+      {
+         "text": "Incluso cuando le daban el pez por la espalda.",
+         "start": 41.8,
+         "duration": 2.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Niño Javier, traje de neopreno",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se aplastó.",
+         "start": 47.0,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña Carolina, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con los ojos cerrados. Hasta que se muere.",
+         "start": 55.5,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niña Carolina, camiseta roja",
+         "screen_position": "center"
+      },
+      {
+         "text": "UNESCO quiere sensibilizar la diversidad lingüística y cultural y el multilingüismo.",
+         "start": 102.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ello, hoy tenemos el día internacional de la lengua materna.",
+         "start": 111.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los sistemas de educación bilingües o multilingües basados en la lengua materna,",
+         "start": 118.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en los cuales se enseña la lengua materna del niño conjuntamente con un segundo idioma,",
+         "start": 123.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "pueden mejorar los resultados en el segundo idioma.",
+         "start": 129.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "S-O-L",
+         "start": 137.0,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña Cristina, chaqueta deportiva",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué significa S-O-L?",
+         "start": 141.0,
+         "duration": 2.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con Cristina, camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Significa sol.",
+         "start": 144.0,
+         "duration": 1.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña Cristina, chaqueta deportiva",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ah, es sol. ¿Cómo está el tiempo hoy?",
+         "start": 146.0,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con Cristina, camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nublado.",
+         "start": 150.0,
+         "duration": 2.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña Cristina, chaqueta deportiva",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te gusta más cuando está soleado o nublado?",
+         "start": 152.8,
+         "duration": 3.2,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con Cristina, camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soleado.",
+         "start": 156.8,
+         "duration": 1.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña Cristina, chaqueta deportiva",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Te gusta más el sol? ¿Por qué?",
+         "start": 159.0,
+         "duration": 1.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con Cristina, camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para tener más calor.",
+         "start": 161.0,
+         "duration": 1.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Niña Cristina, chaqueta deportiva",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los tres cerditos salen corriendo de su nueva casa.",
+         "start": 204.5,
+         "duration": 6.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Niña Paula, camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mientras corren, viene el lobo malo a comerles.",
+         "start": 211.0,
+         "duration": 7.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Niña Paula, camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ellos se escapan corriendo. Tienen miedo.",
+         "start": 218.8,
+         "duration": 6.2,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Niña Paula, camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para muchas personas de la comunidad sorda, la lengua de signos es nuestra lengua materna.",
+         "start": 226.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nosotros pensamos, soñamos, nos expresamos en lengua de signos, de forma natural.",
+         "start": 232.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con la que nos haremos fuertes, nos empoderamos, nos sentimos seguros a la hora de comunicar.",
+         "start": 240.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por eso, nuestra lengua materna es la lengua de signos.",
+         "start": 247.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No sólo para las personas sordas, sino también para las personas oyentes que la han adquirido porque en casa tienen miembros sordos.",
+         "start": 251.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ha llegado más o menos.",
+         "start": 303.8,
+         "duration": 2.2,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Niño Miguel, polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Saldría mejor si tuviera cuerda.",
+         "start": 307.5,
+         "duration": 3.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Niño Miguel, polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Primero cortar ahí, luego atarlo.",
+         "start": 311.0,
+         "duration": 3.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Niño Miguel, polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y luego la bola, la tiras.",
+         "start": 314.8,
+         "duration": 3.2,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Niño Miguel, polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "El (coche) rojo era de la persona mayor. Yo era el menor.",
+         "start": 318.8,
+         "duration": 6.2,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Adolescente Miguel, chaqueta deportiva",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo lo conducía bien, pero el mayor no.",
+         "start": 325.5,
+         "duration": 4.5,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Adolescente Miguel, chaqueta deportiva",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Así se puede hacer? Mal",
+         "start": 330.8,
+         "duration": 3.7,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Adolescente Miguel, chaqueta deportiva",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se monta mamá en el caballo.",
+         "start": 335.8,
+         "duration": 3.2,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Niña Ema, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ella se monta. Papá se monta. Ema se monta.",
+         "start": 339.8,
+         "duration": 2.7,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Niña Ema, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "El caballo volador vuela y nos agarramos a él.",
+         "start": 342.8,
+         "duration": 8.2,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Niña Ema, camiseta morada",
+         "screen_position": "center"
+      }
+   ]
+}

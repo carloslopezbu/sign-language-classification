@@ -1,0 +1,230 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "¡Ya está disponible el DILSE!",
+         "start": 0.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con 3.700 signos de la lengua de signos española",
+         "start": 1.2,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y sus correspondiente foto, vídeo y definición en castellano cedida por la RAE.",
+         "start": 14.8,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El diccionario está alojado en una web que se adapta automáticamente a todo tipo de pantallas.",
+         "start": 22.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No sólo puedes visualizarlo, sino también descargar la foto o el vídeo o bien compartirlo.",
+         "start": 28.0,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El trabajo con el DILSE empezó hace tiempo con la colaboración de las federaciones.",
+         "start": 33.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como ya está disponible, podéis empezar a usarlo.",
+         "start": 38.8,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Invierno, sí, sí.",
+         "start": 50.8,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Primavera.",
+         "start": 54.8,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Muy bien.",
+         "start": 58.0,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo gris, gafas, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No paran de deletrear la palabra “leyenda”.",
+         "start": 101.8,
+         "duration": 1.9,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Seguro que existe un signo para la palabra “leyenda”.",
+         "start": 103.9,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "No sé cuál es, voy a buscarlo en el DILSE.",
+         "start": 107.0,
+         "duration": 4.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camisa blanca de lunares",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sí hay un signo. Es éste.",
+         "start": 135.5,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camisa blanca de lunares",
+         "screen_position": "right"
+      },
+      {
+         "text": "Qué interesante. ¿Puedes mandármelo?",
+         "start": 138.8,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sí, te lo mando ahora. ¿Tienes el móvil aquí?",
+         "start": 141.5,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camisa blanca de lunares",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ya está.",
+         "start": 147.0,
+         "duration": 1.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camisa blanca de lunares",
+         "screen_position": "right"
+      },
+      {
+         "text": "Estoy aprendiendo lengua de signos.",
+         "start": 156.8,
+         "duration": 2.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba, polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿La carpeta es de empleo?",
+         "start": 202.0,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba, polo blanco",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Y éste de juventud?",
+         "start": 206.0,
+         "duration": 2.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba, polo blanco",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Y éste de proyectos?",
+         "start": 210.5,
+         "duration": 2.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con barba, polo blanco",
+         "screen_position": "right"
+      },
+      {
+         "text": "El diccionario es una herramienta muy importante para lograr un uso correcto y una buena enseñanza de la lengua de signos española.",
+         "start": 215.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por eso, seguirá ampliándose con más signos.",
+         "start": 224.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque la lengua de signos es una lengua viva y en continua evolución.",
+         "start": 229.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Elaborado por la Fundación CNSE, con la financiación de Fundación ONCE, y la colaboración de la RAE, y Fundación Vodafone España.",
+         "start": 235.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

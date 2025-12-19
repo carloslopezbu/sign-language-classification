@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Concha Díaz, presidenta CNSE",
+         "start": 9.426,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta blanca y pelo oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

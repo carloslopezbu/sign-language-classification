@@ -1,0 +1,113 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Hola a todos y a todas.",
+         "start": 2.4,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Soy Luis Cayo Pérez Bueno, presidente del Comité Español de Representantes de Personas con Discapacidad:",
+         "start": 4.6,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Este es un mensaje dirigido a las personas, a las entidades de la Confederación Estatal de Personas Sordas.",
+         "start": 12.5,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando alguien está en peligro, cuando alguien siente una amenaza inminente, lanza una llamada de socorro que decimos SOS.",
+         "start": 21.6,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pues bien, la discapacidad, esa reunión de más de 4 millones de personas en España más sus familias, entre ellas las personas sordas, estamos en peligro en nuestros derechos, en el ejercicio de nuestra ciudadanía, en la inclusión, en hacer todo aquello que consideremos que enriquece y que amplía nuestro proyecto de vida como ciudadanos activos y participativos.",
+         "start": 32.5,
+         "duration": 26.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las decisiones que están tomando los distintos poderes públicos; la crisis que nos azota a todos, y en especial a las personas con discapacidad, están poniendo en riesgo las estructuras de bienestar, de inclusión, el ejercicio de derechos básicos como caminar, desplazarse, comunicarse, recibir y emitir información en la propia lengua de uno, en vuestro caso la lengua de signos, y a todo eso hay que darle una respuesta clara, terminante de la ciudadanía.",
+         "start": 59.2,
+         "duration": 29.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y por tanto os llamamos a una gran convocatoria cívica, a una gran marcha que bajo el lema \"SOS Discapacidad - Derechos, Inclusión y Bienestar a Salvo\"",
+         "start": 88.7,
+         "duration": 11.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "hemos convocado toda la discapacidad organizada para el próximo domingo día 2 de diciembre en Madrid, en las calles céntricas de Madrid.",
+         "start": 100.2,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Esperamos que esa diversidad humana que enriquece la sociedad, que suponen las personas sordas que signáis, que usáis la lengua de signos estéis masivamente presentes en esta manifestación junto al resto de compañeros y compañeras del movimiento asociativo, trabajadores, familias, simpatizantes, voluntarios,",
+         "start": 109.2,
+         "duration": 18.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "para hacer un llamamiento claro, con voz y con signos, a toda la sociedad española, a toda la comunidad, de que la discapacidad está, cuenta, y que no se puede prescindir de ella.",
+         "start": 128.2,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ánimo y os esperamos en Madrid el 2 de diciembre.",
+         "start": 141.6,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "\"SOS Discapacidad - Derechos, Inclusión y Bienestar a Salvo\"",
+         "start": 148.5,
+         "duration": 14.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre calvo con corbata roja",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,257 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Consejo Interterritorial del Sistema Nacional de Salud",
+         "start": 1.2,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ha acordado una serie de actuaciones coordinadas para responder ante situaciones de especial riesgo provocadas por una transmisión no controlada de la COVID-19.",
+         "start": 6.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas actuaciones serán de obligado cumplimiento para todos aquellos municipios españoles con más de 100.000 habitantes en los que concurran los criterios determinados.",
+         "start": 15.8,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuáles son los criterios determinados?",
+         "start": 28.8,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que tenga una incidencia de 500 casos o más por 100.000 habitantes.",
+         "start": 32.5,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que más de un 10% de las pruebas PCR que se hacen den positivo.",
+         "start": 44.2,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que la comunidad autónoma a la que pertenece, presente una ocupación de camas por pacientes COVID-19 en unidades de cuidados intensivos superior al 35%.",
+         "start": 57.8,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los municipios con estos criterios estarán obligados a seguir las medidas.",
+         "start": 114.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aquellas comunidades autónomas con municipios en los que se den estas circunstancias deberán reforzar sus capacidades para la detección precoz y el control de la enfermedad, así como en el ámbito de la atención sanitaria.",
+         "start": 122.0,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, ordenarán la entrada en vigor inmediata de las medidas.",
+         "start": 139.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las medidas son las siguientes:",
+         "start": 148.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se prohíbe la entrada y salida de estos municipios salvo por casusas justificadas como:",
+         "start": 153.2,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ir al médico o al hospital.",
+         "start": 203.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ir a trabajar.",
+         "start": 208.8,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cumplir con algún obligación legal, judicial o notarial.",
+         "start": 210.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desplazarse a una escuela infantil, colegio, instituto o universidad.",
+         "start": 216.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asistencia y cuidado a mayores, menores, dependientes, personas con discapacidad o personas especialmente vulnerables.",
+         "start": 222.8,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Realizar gestiones inaplazables en entidades financieras y de seguros.",
+         "start": 236.0,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Renovaciones de permisos y documentación oficial, así como otros trámites administrativos urgentes.",
+         "start": 242.5,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Realización de exámenes o pruebas oficiales inaplazables.",
+         "start": 250.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Está permitida la libre circulación de personas dentro del propio municipio, si bien se recomienda limitar las salidas a lo estrictamente necesario, y respetar siempre las medidas de protección individual y colectiva.",
+         "start": 257.8,
+         "duration": 13.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las reuniones de cualquier tipo, familiares, deportivas y de carácter social, serán de un máximo de 6 personas.",
+         "start": 312.0,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta cifra es aplicable tanto en la vía pública, como en espacios cerrados o en el propio hogar, excepto que se trate de convivientes.",
+         "start": 322.8,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiendas, supermercados, centros comerciales y establecimientos de hostelería reducirán su aforo y tendrán que cerrar a las 22 horas.",
+         "start": 336.0,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En los bares, restaurantes y cafeterías, queda prohibido el consumo en la barra.",
+         "start": 350.5,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También se reduce el aforo en lugares de culto, velatorios, instalaciones deportivas, autoescuela y academias.",
+         "start": 358.8,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En un primer momento, estas restricciones afectarán a varios municipios de la Comunidad de Madrid, pudiéndose aplicar si fuera necesario, en cualquier otro municipio de España.",
+         "start": 412.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Su duración dependerá de cómo evolucionen los indicadores de la pandemia en estos territorios.",
+         "start": 425.8,
+         "duration": 9.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

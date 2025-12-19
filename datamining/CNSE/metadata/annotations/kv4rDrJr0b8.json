@@ -1,0 +1,653 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "Hola.",
+         "start": 2.21,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy, el protagonismo de Signar por Derecho lo tendrá las asociaciones de personas sordas.",
+         "start": 3.21,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Teniendo en cuenta que el lema de la WFD, para hoy, 19 de septiembre es:",
+         "start": 9.21,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "creando capacidades en todo el mundo,",
+         "start": 14.51,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "cuyo protagonismo son las asociaciones de personas sordas de todo el mundo.",
+         "start": 18.81,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y es por eso por lo que hoy os presentamos el Compromiso por la Reconstrucción Asociativa Sorda,",
+         "start": 27.21,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "un compromiso aprobado por mayoría absoluta en la LXXIX Asamblea General de la CNSE, el 9 de junio del 2023,",
+         "start": 33.51,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y refleja la firme responsabilidad del movimiento asociativo de personas sordas, liderado por la CNSE, con la reconstrucción y revitalización de su comunidad.",
+         "start": 44.51,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Queréis saber en qué consiste ese compromiso?",
+         "start": 60.01,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo podéis ver a continuación.",
+         "start": 63.51,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El movimiento asociativo de personas sordas en España, liderado por la CNSE",
+         "start": 67.01,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "tiene un firme compromiso con la reconstrucción asociativa,",
+         "start": 70.21,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "tal y como demuestra el lema del VIII Congreso de la CNSE.",
+         "start": 73.21,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cierto es que, en ocasiones el concepto de “reconstruir”",
+         "start": 78.01,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "nos evoca la idea de volver a construir algo",
+         "start": 81.01,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que ya existía, pero que desapareció o fue destruido.",
+         "start": 84.51,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, en nuestra comunidad nos centramos en los aspectos",
+         "start": 89.01,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "positivos en el concepto de reconstrucción y teniendo la",
+         "start": 92.21,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "coyuntura social que hemos vivido en los últimos años,",
+         "start": 95.81,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "porque hay aspectos positivos importantes en ello.",
+         "start": 99.21,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Uno de ellos, y del que más orgullo podemos sentir como movimiento asociativo,",
+         "start": 103.81,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "es de la respuesta ofrecida durante la pandemia,",
+         "start": 107.51,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "con las federaciones al frente, y especialmente en los peores momentos,",
+         "start": 110.01,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "confrontando la incertidumbre y apoyándose en nuestra propia unidad.",
+         "start": 113.51,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "También durante los inicios de la guerra en Ucrania,",
+         "start": 118.01,
+         "duration": 2.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "en la que las asociaciones han demostrado su capacidad de arropo y acogida a las personas sordas desplazadas.",
+         "start": 120.51,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tampoco debemos olvidar la resiliencia de nuestro movimiento asociativo,",
+         "start": 127.21,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "construyendo y reconstruyendo desde 1936.",
+         "start": 132.51,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se observa pues, desde hace años, que nuestras asociaciones y federaciones son conscientes",
+         "start": 138.01,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "de que su actividad va mucho más allá de ser un lugar de esparcimiento y ocio para las personas sordas,",
+         "start": 142.51,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "sino que existe un firme compromiso cívico, social y político para con la sociedad",
+         "start": 148.01,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que esto es, además, una decisión consciente.",
+         "start": 152.81,
+         "duration": 3.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "A pesar de lo señalado, no hay duda de que pasamos como movimiento por una apatía asociativa desde hace tiempo,",
+         "start": 157.01,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "hasta el punto de considerarse algo crónico que pareciera habernos superado.",
+         "start": 163.51,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si bien, ante esta situación no hay que resignarse,",
+         "start": 169.01,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "lavarse las manos ni apartarse de las responsabilidades",
+         "start": 171.81,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "que nos puedan tocar directa o indirectamente.",
+         "start": 174.51,
+         "duration": 2.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de aunar fuerzas y, todas a una, ponerle freno a ese generalizado deterioro de nuestra actividad asociativa,",
+         "start": 178.01,
+         "duration": 6.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya que no es un asunto individual que tenga que ver con la conciencia privada,",
+         "start": 184.51,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "sino un todo que corresponde también a la CNSE y sus entidades miembro",
+         "start": 188.81,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "como una de sus tareas de liderazgo, formación y orientación en pro del beneficio colectivo de la comunidad sorda.",
+         "start": 193.81,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es lo expuesto una tarea de todas las personas sordas socias en la que nadie puede quedarse sin participar,",
+         "start": 200.01,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que ha de asumirse como algo propio y con empeño, hacerlo de forma unánime desde todos los grupos,",
+         "start": 205.81,
+         "duration": 6.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "sectores y organizaciones del movimiento asociativo.",
+         "start": 212.51,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es preciso entender que somos un movimiento asociativo plural en el que se dan cita diversas concepciones de la vida asociativa;",
+         "start": 218.01,
+         "duration": 7.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "de ahí que la función de la CNSE no sea la de imponer como tal una serie de obligaciones,",
+         "start": 226.51,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "sino potenciar que se establezca e impulse la reconstrucción de manera libre, racional, sensible y cohesionada;",
+         "start": 231.81,
+         "duration": 6.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "que emprenda el proceso de transformación a fin de superar más pronto que tarde la crisis que arrastramos.",
+         "start": 238.51,
+         "duration": 6.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una labor que tiene que hacerse desde la base del movimiento asociativo; involucrarnos todas",
+         "start": 246.01,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "desde lo realmente digno y comprometernos en ese cambio profundo que tanto necesitamos en la escena",
+         "start": 251.51,
+         "duration": 6.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "nacional, autonómica y especialmente local en bien de todas las personas sordas, sin excepción.",
+         "start": 258.51,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "El concepto de compromiso, socialmente hablando, nos remite a lo que abarca una serie de habilidades, valores y actitudes",
+         "start": 265.01,
+         "duration": 7.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "que están relacionadas con la tolerancia, la apertura, la responsabilidad, el respeto a la diversidad,",
+         "start": 273.51,
+         "duration": 8.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las lenguas de signos, a la perspectiva intercultural, la participación democrática, el respeto al medio ambiente y el sentido de pertenencia.",
+         "start": 282.51,
+         "duration": 9.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, políticamente, es entendido como el nivel de adhesión que una persona u organización",
+         "start": 295.01,
+         "duration": 9.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "manifiesta hacia el sistema político y su compromiso comunitario.",
+         "start": 306.51,
+         "duration": 6.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "En consecuencia, desde CNSE vamos a seguir alentando siempre el compromiso inquebrantable de las organizaciones de su movimiento asociativo",
+         "start": 314.01,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "con todas las personas sordas en todas sus dimensiones y, muy especialmente, con aquellas que más lo necesitan.",
+         "start": 321.51,
+         "duration": 8.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de un compromiso con su propósito, el de dignificar las condiciones de vida y ciudadanía de las personas sordas,",
+         "start": 332.01,
+         "duration": 9.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "que no puede ser entendido solamente desde la perspectiva individual o personal, sino también como parte de un movimiento,",
+         "start": 341.51,
+         "duration": 8.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "el de la CNSE.",
+         "start": 350.51,
+         "duration": 1.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "El concepto de dignidad nos habla de la cualidad del que se hace valer como persona,",
+         "start": 354.01,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "que se comporta con responsabilidad, seriedad y con respeto hacia sí mismo, los demás y no deja que lo humillen ni degraden;",
+         "start": 359.01,
+         "duration": 8.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "y también cualidad de lo que merece respeto.",
+         "start": 367.51,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ello, el concepto de dignidad para las personas sordas no puede entenderse sin nuestro movimiento asociativo,",
+         "start": 372.01,
+         "duration": 6.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "que nos ofrece a las personas sordas un hogar, pero también un lugar en el que se hacen respetar nuestros derechos",
+         "start": 379.01,
+         "duration": 8.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que ha servido de amortiguador ante discriminaciones que sufrimos en nuestro día a día.",
+         "start": 387.51,
+         "duration": 5.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y, en muestra de esta responsabilidad adquirida con las personas sordas y en representación de las 18 federaciones y asociaciones autonómicas que integra",
+         "start": 395.01,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y de las asociaciones federadas a ellas, la Asamblea de la CNSE de acuerdo con las funciones que el artículo 19 de los Estatutos le encomienda,",
+         "start": 404.01,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "firma este Compromiso por la Reconstrucción Asociativa Sorda,",
+         "start": 411.01,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que quede constancia de la asunción de esta responsabilidad como órgano supremo de gobierno de la CNSE y el de sus miembros asociados.",
+         "start": 414.81,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es el momento de empezar el cambio.",
+         "start": 425.01,
+         "duration": 3.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      }
+   ]
+}

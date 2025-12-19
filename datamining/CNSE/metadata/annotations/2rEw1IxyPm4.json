@@ -1,0 +1,194 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¡Hola! Hoy tenemos a Mónica, una profesional con una larga trayectoria",
+         "start": 1.73,
+         "duration": 4.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "en la Federación de Personas Sordas de la Comunidad Valenciana, y por supuesto, también está dentro del movimiento asociativo.",
+         "start": 6.73,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ella es desde hace poco, mediadora comunicativa sorda y en el Congreso del CNLSE participó como ponente en el que defendió la importancia de la profesión de la mediación comunicativa y eso me lleva a la siguiente pregunta:",
+         "start": 15.13,
+         "duration": 13.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Existe un impacto social y cultural para las mujeres sordas? ¿Cuál y cómo lo ves?",
+         "start": 29.53,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Generalmente, la sociedad, a las personas sordas, a veces las incluye y otras es más difícil que participen por el uso de una lengua distinta, diferente cultura, entre otras cosas y siendo mujeres sordas, a veces, se encuentran con mayores dificultades.",
+         "start": 37.73,
+         "duration": 14.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por eso, en ocasiones se hace más difícil hacer aportaciones a la sociedad, porque al no adaptarse, resulta más complicado participar.",
+         "start": 53.33,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Quieren, pero no se les facilita su participación.",
+         "start": 60.53,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "En cambio, si les acompaña la figura de la mediadora comunicativa, dependiendo de las situaciones o personas, las mujeres sordas pueden decidir si quieren una mediadora u otra figura profesional según la forma en que desean comunicarse, se adaptan a ella, facilitando así su participación, su comunicación, haciéndola más fluida, facilitando su empoderamiento.",
+         "start": 63.53,
+         "duration": 19.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si se les facilita una mediadora comunicativa sorda, por identidad similar se agiliza la comunicación y, por tanto, participarán más y mejor.",
+         "start": 85.53,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Es verdad que en el día a día las mujeres sordas no pueden participar de lo que la sociedad ofrece porque son excluidas.",
+         "start": 96.93,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cómo crees que la sociedad tendría que adaptarse y dar facilidades?",
+         "start": 105.93,
+         "duration": 5.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Lo más fácil es tener una mentalidad abierta, que las necesidades sean escuchadas y sepan cómo pueden aportar al cambio.",
+         "start": 114.53,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si se aporta por ambas partes, al final el trabajo en común, socialmente resulta más fácil.",
+         "start": 122.33,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con la mente más abierta es más participativa, más inclusiva, siendo una sociedad real.",
+         "start": 127.13,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si no fuese inclusiva, ¿se denominaría realmente sociedad? Lo dudo.",
+         "start": 132.53,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Ya, por último, algún mensaje que quieras dar a la sociedad, o para las mujeres sordas que te vean, algo importante que quieras transmitir, lo que quieras.",
+         "start": 138.13,
+         "duration": 9.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Para mí, lo más importante que quiero transmitir y que impacte es que para la sociedad es necesario comunicarse, para convivir es necesario comunicarse, por eso la comunicación es fundamental.",
+         "start": 149.53,
+         "duration": 10.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las personas sordas, las mujeres sordas, para incluirse en la sociedad necesitan comunicarse, de diferentes maneras, pero también en lengua de signos.",
+         "start": 160.73,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "Entonces si no pueden comunicarse en lengua de signos, a veces la participación se hace más difícil, debe ser la persona sorda la que se adapte así como la persona que nos atiende, por eso, teniendo en cuenta a la mediadora comunicativa, si es persona sorda, mejor porque facilita la participación, la inclusión y con ello, al final, la sociedad avanza más fácil y más rápido también, sería una sociedad mejor.",
+         "start": 172.53,
+         "duration": 26.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado con gafas",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Es cierto, las decisiones que se toman socialmente y de las que no participan las mujeres sordas no están bien, importante incluirlas.",
+         "start": 200.53,
+         "duration": 6.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Muchas gracias por participar en la entrevista. - Gracias a ti.",
+         "start": 207.93,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer rubia con gafas",
+         "screen_position": "right"
+      }
+   ]
+}

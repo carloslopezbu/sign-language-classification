@@ -1,0 +1,86 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Antiguamente las personas sordas encontrábamos obstáculos y barreras en el ámbito educativo.",
+         "start": 117.6,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con coleta y polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy en día, continuamos en la misma situación.",
+         "start": 123.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con coleta y polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Y en el futuro?",
+         "start": 127.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con coleta y polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Las personas sordas seguiremos encontrando los mismos obstáculos?",
+         "start": 129.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Niña con coleta y polo blanco",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos el derecho a una educación bilingüe y bicultural",
+         "start": 134.4,
+         "duration": 4.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que tenga en cuenta las necesidades educativas del alumnado sordo así como su realidad lingüística y cultural.",
+         "start": 139.8,
+         "duration": 12.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que sea inclusiva, accesible y saludable, sin barreras,",
+         "start": 153.0,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con lengua de signos y recursos humanos, técnicos y tecnológicos que cada estudiante sordo requiera para que pueda participar y promocionar en igualdad.",
+         "start": 160.8,
+         "duration": 16.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por una educación inclusiva para todos los niños y niñas sordas en España.",
+         "start": 179.5,
+         "duration": 7.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de niños y niñas",
+         "screen_position": "multiple"
+      }
+   ]
+}

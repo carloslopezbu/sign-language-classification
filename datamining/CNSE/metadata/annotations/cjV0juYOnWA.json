@@ -1,0 +1,257 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Medidas de protección para trabajadoras/es, autónomas/os y empresas afectadas por la DANA",
+         "start": 0.8,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "El Ministerio de Inclusión, Seguridad Social y Migraciones y el Ministerio de Trabajo informan de las siguientes medidas de protección disponibles para trabajadoras/es por cuenta ajena, autónomas/os y empresas ante la DANA.",
+         "start": 9.5,
+         "duration": 15.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trabajadores/as por cuenta ajena",
+         "start": 26.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "La personas afectadas por la DANA que tengan dificultades para ir a trabajar con seguridad podrán hacer uso del teletrabajo.",
+         "start": 28.8,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No obstante, se exime de acudir a trabajar a quienes estén en las siguientes situaciones:",
+         "start": 36.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. Cuando el desplazamiento pueda suponer un peligro para la seguridad y salud de las personas trabajadoras o interfiera en las labores de rescate y recuperación de las zonas afectadas por la DANA.",
+         "start": 42.8,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. Cuando deban atender a las tareas de búsqueda de sus familiares desaparecidos o hacerse cargo de su fallecimiento.",
+         "start": 58.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "3. Cuando sea necesario por motivos de cuidado familiar. En este caso concreto de catástrofe natural, si los colegios o las residencias se encuentran cerrados por causa mayor y el/la trabajador/a tiene que hacerse cargo de hijas/os, familiares o convivientes la empresa no podrá despedir, sancionar o hacer recuperar las horas al trabajador/a.",
+         "start": 68.5,
+         "duration": 20.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "4. Cuando, como consecuencia de la pérdida de sus viviendas o enseres, no estén en disposición de acudir al trabajo o de teletrabajar.",
+         "start": 89.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En estos supuestos, todas las personas trabajadoras podrán ausentarse y acogerse a permisos retribuidos.",
+         "start": 100.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Ministerio de Trabajo se encargará de que ninguna/o sufra represalias o se vea perjudicada/o.",
+         "start": 110.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Autónomas/os",
+         "start": 117.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las/os trabajadoras/es por cuenta propia afectadas/os por la DANA podrán solicitar la prestación por cese de actividad por fuerza mayor ante su mutua.",
+         "start": 119.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Excepcionalmente, no se les requerirá cumplir con el periodo mínimo exigido para tener derecho a ello, que normalmente es de un año.",
+         "start": 129.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los días de prestación consumidos no se computan de cara a situaciones futuras (lo que se denomina contador a cero) y, además, este periodo se les computará como cotizado.",
+         "start": 138.2,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La cuantía de la prestación que reciban alcanzará el 70% de la base reguladora.",
+         "start": 148.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Incapacidad Temporal Extraordinaria",
+         "start": 155.5,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y blazer negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "El Gobierno pone en marcha una nueva medida para proteger a las/os trabajadoras/es: la incapacidad temporal extraordinaria para todas las personas afectadas o dañadas física o psicológicamente por esta tragedia.",
+         "start": 160.0,
+         "duration": 19.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "A estas/os trabajadoras/os se les garantizará el 75% de su salario desde el primer día de incapacidad.",
+         "start": 179.5,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Empresas",
+         "start": 188.8,
+         "duration": 1.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y blazer negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las empresas afectadas por la DANA en la Comunidad Valenciana tienen la posibilidad de acogerse a un ERTE o expediente de regulación temporal de empleo por fuerza mayor. Una medida que además, proporciona una protección por desempleo a sus plantillas.",
+         "start": 191.2,
+         "duration": 14.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Así, las empresas que suspendan temporalmente la actividad de sus trabajadoras/es estarán exentas de pagar el 100% de las cotizaciones a la Seguridad Social al menos hasta febrero de 2025.",
+         "start": 207.5,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, sus empleadas/os podrán percibir una prestación por desempleo sin necesidad de contar con un periodo de cotización previo y sin consumir tiempo de prestación en caso de necesitarlo en el futuro.",
+         "start": 220.5,
+         "duration": 19.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se solicita en el SEPE, llamando al 060 y en el apartado de empresas, subapartado trabajo y empleo, de la página web de la Generalitat Valenciana.",
+         "start": 242.5,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "www.gva.es/es/web/empreses",
+         "start": 254.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ingreso Mínimo Vital",
+         "start": 258.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "En cuanto al Ingreso Mínimo Vital (IMV), el Ministerio de Inclusión y Seguridad Social recuerda que las/os ciudadanas/os pueden informarse o realizar cualquier consulta en el teléfono gratuito 900 20 22 22 o en el 020. A tal fin, tenéis a vuestra disposición el servicio de videointerpretación SVisual.",
+         "start": 262.0,
+         "duration": 22.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ya que algunas de las oficinas de la Seguridad Social han sufrido graves daños a causa de la DANA, se ha reforzado la atención telefónica en este teléfono con un 40% más de plantilla. También se ha reforzado la atención online a través de la app IMPORTASS y del portal del INSS (Instituto Nacional de la Seguridad Social).",
+         "start": 286.0,
+         "duration": 25.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      }
+   ]
+}

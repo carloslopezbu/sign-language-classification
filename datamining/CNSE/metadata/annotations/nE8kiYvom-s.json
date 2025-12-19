@@ -1,0 +1,185 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¿Se va a cerrar la Comunidad de Madrid?",
+         "start": 0.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora mismo es una medida que no está encima de la mesa en ninguno de los escenarios que están valorando.",
+         "start": 7.8,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Es necesario llenar las despensas para varias semanas?",
+         "start": 16.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "No, los grandes supermercados han informado claramente de que no habrá desabastecimiento.",
+         "start": 24.8,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Si estoy embarazada y me infecto con el virus, puede afectar al feto?",
+         "start": 33.8,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hasta ahora no tenemos ninguna información sobre que haya habido alguna consecuencia en bebés de madres infectadas.",
+         "start": 42.8,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Se puede viajar a Madrid?",
+         "start": 50.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "No es aconsejable si se puede evitar.",
+         "start": 55.8,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay que controlar el movimiento masivo de personas para evitar un riesgo para otras comunidades autónomas.",
+         "start": 59.8,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vivo con una persona con mayor riesgo ante el coronavirus.",
+         "start": 69.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué puedo hacer para minimizar las posibilidades de contagio?",
+         "start": 76.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo mejor es protegerte tú y evitar así el contagio en casa.",
+         "start": 81.8,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si notas síntomas, no debes ser tú quien atienda a esa persona.",
+         "start": 85.8,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora siempre recomiendan lavar bien las manos.",
+         "start": 91.8,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué es mejor, lavarse las manos con agua y jabón o con geles antisépticos?",
+         "start": 95.8,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cualquiera de las dos.",
+         "start": 104.8,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo importante es que hagamos un buen lavado de manos de forma frecuente.",
+         "start": 106.8,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuánto tiempo puede el virus quedarse en una superficie y contagiar?",
+         "start": 112.8,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo primero, para contagiar debe ser una cantidad de virus suficiente.",
+         "start": 121.8,
+         "duration": 11.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En condiciones invernales el virus puede sobrevivir desde 1 hora hasta 9 horas.",
+         "start": 133.8,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado recogido",
+         "screen_position": "center"
+      }
+   ]
+}

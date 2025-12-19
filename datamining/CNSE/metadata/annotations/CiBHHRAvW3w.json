@@ -1,0 +1,32 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "LAS MASCARILLAS SE HAN CONVERTIDO EN UNA NUEVA BARRERA PARA LAS PERSONAS SORDAS",
+         "start": 46.5,
+         "duration": 42.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿SE HAN ADAPTADO CORRECTAMENTE LOS COLEGIOS PARA ATENDER A PERSONAS SORDAS?",
+         "start": 129.5,
+         "duration": 47.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿SON IGUAL DE SEGURAS LAS MASCARILLAS TRANSPARENTES QUE LAS CONVENCIONALES?",
+         "start": 188.5,
+         "duration": 23.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

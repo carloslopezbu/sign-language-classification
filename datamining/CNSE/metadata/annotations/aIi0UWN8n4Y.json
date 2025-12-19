@@ -1,0 +1,455 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "MANIFIESTO DE LA CNSE. Día internacional de las personas sordas 2014.",
+         "start": 7.2,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas somos diversas. Diferentes entre sí.",
+         "start": 13.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero todas queremos vivir en una sociedad que nos respete.",
+         "start": 19.3,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al igual que ocurre con el resto de la población,",
+         "start": 25.3,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "entre las personas sordas hay niñas, niños, jóvenes, mayores, inmigrantes,",
+         "start": 28.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "mujeres, hombres, lesbianas, gays, trabajadoras y trabajadores,",
+         "start": 37.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "personas en situación de desempleo, con discapacidades añadidas,",
+         "start": 45.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "con creencias de todo tipo...",
+         "start": 50.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas y cada una de ellas, con sus demandas concretas.",
+         "start": 54.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas y cada una de ellas, iguales en derechos.",
+         "start": 59.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este Día Internacional de las Personas Sordas, la CNSE y sus federaciones y asociaciones",
+         "start": 104.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "queremos recordar que la diversidad, lejos de ser una amenaza, es un factor de progreso.",
+         "start": 111.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "La diferencia no nos define ni limita; nos enriquece.",
+         "start": 120.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque en cuestión de personas sordas, todo es complementario. Todo suma.",
+         "start": 128.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tenemos que elegir, elijamos combatir el desconocimiento,",
+         "start": 139.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "la falta de voluntad o los prejuicios sobre las personas sordas en general y, sobre las lenguas de signos y quienes las utilizamos.",
+         "start": 143.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Elijamos el derecho a elegir todo aquello que favorezca el empoderamiento",
+         "start": 157.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "y la inclusión de cualquier persona sorda en la sociedad.",
+         "start": 204.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Da igual cual sea nuestra edad, lugar de origen, circunstancia o condición;",
+         "start": 212.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "da igual si tenemos mayor o menor audición;",
+         "start": 220.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "da igual si nos comunicamos en lengua de signos o no,",
+         "start": 225.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "si tenemos un mejor o peor dominio de la lengua oral;",
+         "start": 231.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "da igual si utilizamos o no audífonos, implantes cocleares y cualquier otro recurso técnico;",
+         "start": 236.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "da igual si somos más o somos menos.",
+         "start": 242.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los derechos humanos no son cuestión de números o porcentajes.",
+         "start": 248.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas las personas sordas debemos tener las mismas oportunidades, sin distinción. Reivindicamos:",
+         "start": 253.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "- El acceso a la información y la comunicación de acuerdo a las necesidades y diversidad comunicativa de las personas sordas.",
+         "start": 303.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Disponer de servicios de interpretación y videointerpretación a la lengua de signos.",
+         "start": 316.8,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto canoso y blusa azul estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Contar con servicios de interpretación de calidad, que sean gratuitos y cubran todos los ámbitos de la vida.",
+         "start": 321.5,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto canoso y blusa azul estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "- El derecho a contar con servicios de emergencia, teleasistencia y servicios de atención adaptados a las características comunicativas de las personas sordas.",
+         "start": 331.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Una atención temprana integral, que cuente con la lengua de signos, para las niñas y los niños sordos.",
+         "start": 343.0,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto canoso y blusa azul estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Que no exista discriminación económica en el uso de ayudas técnicas o tecnológicas para la audición.",
+         "start": 352.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ninguna persona sorda debería verse en la obligación de dejar de utilizar un audífono o implante coclear por motivos económicos.",
+         "start": 358.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "De la misma manera, ninguna instancia médica o autoridad puede imponer a una familia con hijos sordos que les sometan a una intervención quirúrgica para ponerles implantes cocleares.",
+         "start": 405.0,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Programas de atención a familias de personas sordas que atiendan todas las necesidades, que sean abiertos y respetuosos con las diferentes opciones comunicativas y educativas.",
+         "start": 418.0,
+         "duration": 15.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto canoso y blusa azul estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Cualquier familia con hijas o hijos sordos debe poder optar también a un modelo educativo integral, donde, en cuestión de lenguas, se trabaje tanto con la lengua oral como con la lengua de signos.",
+         "start": 437.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Las personas sordas debemos tener la oportunidad de estudiar lenguas extranjeras,",
+         "start": 452.8,
+         "duration": 5.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto canoso y blusa azul estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "favoreciéndose la accesibilidad tanto en los propios centros educativos como en las escuelas de idiomas o en las academias privadas,",
+         "start": 458.5,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto canoso y blusa azul estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "adaptándose el currículo cuando sea necesario, y sin que posibles dificultades en expresión y comprensión oral supongan un obstáculo tanto para su aprendizaje, como para la obtención de la titulación o certificación de estos conocimientos.",
+         "start": 506.0,
+         "duration": 16.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto canoso y blusa azul estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Una educación y una formación sin barreras, con intérpretes de lengua de signos y las adaptaciones técnicas necesarias.",
+         "start": 525.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "El alumnado sordo se enfrenta a un continuo riesgo de exclusión educativa y laboral, al no contar con intérpretes durante sus clases de instituto o universidad, o no cubrir éstos el total de sus horas lectivas.",
+         "start": 536.5,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "Una situación claramente discriminatoria que se repite en academias, cursos de formación para el empleo, o al preparar una oposición,",
+         "start": 557.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "y que obliga a muchos de estos alumnos a pagarlo de su propio bolsillo, y por tanto, a asumir un gasto extra por el hecho de ser una persona sorda.",
+         "start": 610.0,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "- El derecho a un empleo digno, también en empresas ordinarias, sin encasillamientos por ser personas sordas.",
+         "start": 630.0,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto canoso y blusa azul estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Poder participar en la vida social, política y cultural del país;",
+         "start": 643.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "disfrutar de espacios de ocio y arte inclusivos también en lengua de signos;",
+         "start": 648.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "y disfrutar de una televisión plenamente accesible con subtítulos de calidad y con horas de emisión en lengua de signos dentro de la programación.",
+         "start": 653.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las personas sordas somos diversas. Valiosas y dignas tal y como somos.",
+         "start": 716.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas con las mismas oportunidades.",
+         "start": 725.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas Iguales en derechos.",
+         "start": 730.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con perilla y camisa morada",
+         "screen_position": "center"
+      }
+   ]
+}

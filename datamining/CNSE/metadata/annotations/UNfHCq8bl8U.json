@@ -1,0 +1,275 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "En Nueva York, las mujeres trabajaban en una fábrica de textiles.",
+         "start": 1.961,
+         "duration": 2.88,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las condiciones eran pésimas y cobraban menos de lo que cobraban los hombres.",
+         "start": 5.801,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Descontentas con las condiciones, planearon manifestarse.",
+         "start": 10.841,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Fue la primera manifestación laboral de mujeres.",
+         "start": 14.481,
+         "duration": 2.16,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "La policía intentó evitar la manifestación que no acabó bien.",
+         "start": 17.481,
+         "duration": 3.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Al final, la policía acabó con la vida de más de 120 mujeres.",
+         "start": 21.801,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tras el incidente, se creó el primer sindicato femenino.",
+         "start": 25.081,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "La manifestación era el comienzo de una serie de revoluciones.",
+         "start": 31.294,
+         "duration": 2.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Después, en Copenhague, Dinamarca, se organizó la II Conferencia Internacional de Mujeres Socialistas.",
+         "start": 35.614,
+         "duration": 5.88,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Declararon el día 8 de marzo, que fue el día de la primera manifestación, como Día Internacional de la Mujer Trabajadora, con el objetivo de promover la igualdad de derechos laborales.",
+         "start": 42.614,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Un año después, se celebra por primera vez el Día Internacional de la Mujer Trabajadora en Alemania, Dinamarca, Austria y Suiza.",
+         "start": 54.867,
+         "duration": 6.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se organizaron importantes mítines donde participaron más de 1 millón de mujeres y hombres.",
+         "start": 102.707,
+         "duration": 5.28,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Un poco después, el día 25 de marzo, en Nueva York, en una fábrica dónde trabajaban mayoritariamente mujeres inmigrantes, bajo condiciones pésimas.",
+         "start": 108.827,
+         "duration": 10.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "El dueño para evitar hurtos, cerró las puertas con las trabajadoras dentro.",
+         "start": 120.907,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Este mismo día se incendió la fábica, y murieron más de 100 personas, la mayoría eran mujeres y jóvenes.",
+         "start": 128.907,
+         "duration": 7.16,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "La tela que fabricaban era de color morado.",
+         "start": 136.907,
+         "duration": 2.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "En la I Guerra Mundial, con la muerte de millones de soldados, en Rusia las mujeres trabajaban en las fábricas.",
+         "start": 140.999,
+         "duration": 7.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con el trabajo excesivo y la falta de alimentos, las mujeres se sublevaron iniciando la Revolución Rusa.",
+         "start": 149.719,
+         "duration": 8.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ahí empezó el movimiento por los derechos de las mujeres.",
+         "start": 158.719,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "En Europa ya llevaban años celebrando el Día de la Mujer.",
+         "start": 204.731,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Este año fue la primera vez en España.",
+         "start": 208.771,
+         "duration": 1.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Naciones Unidas declara oficialmente el 8 de marzo como el Día Internacional de la Mujer.",
+         "start": 212.223,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Un día importante para reivindicar la igualdad de condiciones en todos los ámbitos.",
+         "start": 217.943,
+         "duration": 3.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las mujeres lucharon, se manifestaron, participaron en huelgas, fueron asesinadas.",
+         "start": 223.596,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Lograron derechos que tenemos ahora.",
+         "start": 228.796,
+         "duration": 1.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "El derecho a acceder a la educación.",
+         "start": 231.036,
+         "duration": 1.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "El derecho a trabajar.",
+         "start": 233.116,
+         "duration": 0.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "El derecho a tener un salario propio.",
+         "start": 234.236,
+         "duration": 1.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "El derecho al voto.",
+         "start": 236.196,
+         "duration": 1.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con todo lo que se ha luchado, ahora ¡ni un paso atrás!",
+         "start": 238.076,
+         "duration": 3.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro",
+         "screen_position": "left"
+      }
+   ]
+}

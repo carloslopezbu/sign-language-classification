@@ -1,0 +1,23 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "1. Bienvenida y presentación de las asistentes",
+         "start": 5.4,
+         "duration": 13.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, chaqueta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad de género en la CNSE",
+         "start": 60.0,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con coleta, vestido naranja",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,518 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "¡Hola! Bienvenida, Cristina, presidenta de la Federación de Personas Sordas de Cantabria.",
+         "start": 1.5,
+         "duration": 6.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Gracias por aceptar esta entrevista, ya que es importante que las mujeres sordas políticas sean protagonistas también.",
+         "start": 9.2,
+         "duration": 6.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Llevas mucho tiempo en el movimiento asociativo.",
+         "start": 18.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo tienes tan interiorizado por haber estado durante toda tu vida, viviendo experiencias distintas al igual que siendo presidenta.",
+         "start": 21.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Creo que la pregunta perfecta para este caso sería:",
+         "start": 29.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "en el movimiento asociativo, sabemos que hay muchas mujeres sordas, pero ¿asumen responsabilidades o cargos políticos? ¿cómo ves tú la situación?",
+         "start": 32.8,
+         "duration": 9.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hola, buenos días, pues sinceramente, nací y fui durante toda mi vida, sorda.",
+         "start": 45.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Crecí sintiéndome aislada, comparándome con otras personas.",
+         "start": 50.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "No entendía por qué, y veía la necesidad de que la sociedad me reconociera como persona sorda signante.",
+         "start": 53.5,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Yo reflexionaba conmigo misma y pensaba ¿por qué? ¿por qué?",
+         "start": 60.5,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "En mi colegio de monjas para alumnado sordo me comunicaba en lengua de signos muy contenta, pero en verano o semana santa cuando volvía a casa, sentía que volvía a estar como al principio.",
+         "start": 65.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Un día, me encontré a un matrimonio de personas sordas por la calle, estaba a gusto con ellos porque me sentía identificada.",
+         "start": 75.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pregunté por la asociación y me indicaron dónde estaba.",
+         "start": 80.2,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sin decírselo a mis padres, fui pero estaba cerrado y aproveché para ver su horario .",
+         "start": 82.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Un día fui allí y me quedé maravillada al ver a toda la gente signando personas sordas que eran presidente, secretaria general y yo decía “pero ¿los sordos también pueden?” Y ellos: “¡Claro, que podemos!”.",
+         "start": 88.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "En ese momento, empecé a enamorarme del asociacionismo de personas sordas que me permitía aprender, tener afecto, y otras cosas como luchar por los derechos de las personas sordas, y ahí fue cuando empecé a darme cuenta de los derechos que tenemos.",
+         "start": 98.0,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con el tiempo, empecé como socia y después me cogieron para representar a la juventud dentro de la junta directiva.",
+         "start": 110.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los más mayores me enseñaban cuáles eran las funciones de la junta directiva, como secretaría, presidencia; lo más básico como actividades para personas sordas, etc.",
+         "start": 115.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y así hasta ahora, nunca podré dejarlo de lado y olvidarme de ello.",
+         "start": 124.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Por qué continúo? Porque en la sociedad no existe la igualdad de oportunidades.",
+         "start": 129.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por lo tanto, hay que continuar trabajando en ello, y ahora como presidenta de la FESCAN, con la reivindicación como objetivo. Por el derecho al uso de la LSE, el derecho al trabajo, y una larga lista de objetivos que ya todos sabemos.",
+         "start": 134.2,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Seguimos trabajando por eso, porque si en la sociedad ya existiese la igualdad, podríamos descansar, pero nada más lejos de la realidad, por eso.",
+         "start": 145.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Vemos que parece difícil que las mujeres sordas asuman cargos y responsabilidades políticas, aunque tengan la capacidad como fue en tu caso.",
+         "start": 154.0,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Como presidenta con muchos años de experiencia, ¿cómo ves la situación?",
+         "start": 164.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- Es una situación compleja ya que aquí el contexto sigue siendo tradicional en el que el poder es de los hombres.",
+         "start": 170.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay mujeres en las juntas directivas, pero tras los hombres, como secretarias, que no se las ve.",
+         "start": 175.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Recuerdo que cuando era pequeña había mujeres en la junta directiva, pero nunca eran las protagonistas, sino que eran secretarias. Daban ideas a los hombres que se llevaban el mérito.",
+         "start": 179.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Realmente, esta cultura tiene que cambiar.",
+         "start": 187.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Porque las mujeres tienen capacidad pero el problema es el prejuicio de que hay que estudiar Ciencias Políticas en la Universidad que no es necesario.",
+         "start": 189.5,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tienen capacidad de sobra para defender nuestros derechos y pueden luchar.",
+         "start": 196.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "La idea de que es necesario ir a la universidad hace que se sientan inseguras.",
+         "start": 201.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Yo las animo porque sé que tienen capacidad de defender lo nuestro, necesidades de la comunidad sorda, porque somos nosotras las que la conocemos y no la sociedad que estudia en la universidad porque desconocen nuestra comunidad.",
+         "start": 204.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Al contrario, podemos trabajar juntos, ¿por qué no?",
+         "start": 215.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las mujeres tienen capacidad, ahora hay mujeres jóvenes que pueden asumir perfectamente.",
+         "start": 217.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "También otro problema son los compromisos familiares, el cuidado de los bebés, limpiar la casa, etc.",
+         "start": 221.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tenemos que cambiar esta mentalidad, el matrimonio debe estar en igualdad, de compartir e ir en paralelo.",
+         "start": 226.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Esta situación ya veo que ahora cada día va cambiando, cada vez más y estoy muy contenta, pero tiene que hacerlo mucho más, mucho más.",
+         "start": 232.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es un reto para futuro que queremos.",
+         "start": 239.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las mujeres tienen la capacidad y parece que están escondidas, pero las hay, falta acercarnos y encontrarlas.",
+         "start": 241.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Opino igual que tú.",
+         "start": 248.5,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las mujeres conocen perfectamente los derechos de las personas sordas.",
+         "start": 250.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Coincido, es verdad y además si en el hogar se reparten, podrían asumir responsabilidades políticas.",
+         "start": 254.5,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es cierto, coincido.",
+         "start": 261.5,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Algún mensaje final que quieras enviar a la sociedad para que vea la importancia de las mujeres sordas políticas o algo que quieras compartir?",
+         "start": 263.5,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- En mi experiencia, sé que falta por sensibilizar porque en política siempre se nos ha visto a las mujeres infravaloradas, haciéndonos sentir como si no valiésemos y me enfada.",
+         "start": 273.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hasta tenemos que demostrarlo en la forma del signado, para dejar constancia de que hemos trabajado en ello.",
+         "start": 282.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Esa mentalidad, ese estereotipo, se deben de cambiar y ver a la mujer igual que el hombre, da igual si tienen mucha o poca capacidad, si saben más o saben menos.",
+         "start": 286.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pero ahora, en la política se va abriendo la mente y vas viendo más mujeres poco a poco entonces podemos trabajar juntos.",
+         "start": 293.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "En el futuro tanto hombres como mujeres pueden trabajar en equipo, da igual el género, un grupo de trabajo con el objetivo de mejorar la calidad de vida de las personas sordas, solo reivindicamos eso, nada más.",
+         "start": 299.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Animar a las y los jóvenes en España, también a las mujeres para quitarse la mentalidad de que las mujeres son las responsables de la casa.",
+         "start": 310.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Eso no por favor, hay que seguir trabajando juntos.",
+         "start": 318.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay cosas de mujeres en las que tenemos experiencias como mujer sorda, violencia de género, situaciones que las mujeres conocemos y que podemos contar, cosas de las que los hombres no tienen ni idea, que desconocen de las mujeres sordas.",
+         "start": 319.8,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por eso hay que trabajar en conjunto, ambos.",
+         "start": 332.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si las mujeres sordas políticas tienen voz, pueden contar sus reivindicaciones, y hacer que los hombres se den cuenta y las conozcan mejor. Si esto no se hace, será difícil Esto es lo que queremos, nada más.",
+         "start": 336.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ánimo para continuar participando en el activismo, es verdad que es cansado, pero también se aprenden muchas cosas.",
+         "start": 347.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Es cierto. Muchísimas gracias por tu mensaje y por la entrevista, adiós.",
+         "start": 355.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, gafas, jersey negro",
+         "screen_position": "right"
+      },
+      {
+         "text": "- De nada, gracias, adiós y besos.",
+         "start": 361.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado oscuro, gafas, jersey gris y rojo",
+         "screen_position": "left"
+      }
+   ]
+}

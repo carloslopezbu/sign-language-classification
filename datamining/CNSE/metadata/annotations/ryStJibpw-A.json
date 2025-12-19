@@ -1,0 +1,122 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "El pasado mes de enero, moría en Madrid una mujer sorda, presuntamente a manos de su pareja sentimental.",
+         "start": 16.349,
+         "duration": 5.606,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una mujer que como muchas otras, no contaba con asesoramiento especializado en personas sordas, ni con intérpretes de lengua de signos en comisarías, centros de urgencias, juzgados, servicios de atención a las víctimas o casas de acogida.",
+         "start": 22.522,
+         "duration": 15.983,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres sordas, que aunque hemos conseguido una atención sin barreras en el teléfono 016,",
+         "start": 48.381,
+         "duration": 7.174,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "seguimos viendo vetado nuestro acceso a los servicios para mujeres con orden de protección,",
+         "start": 56.256,
+         "duration": 4.838,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "y reclamando la adaptación a la lengua de signos de campañas y materiales informativos.",
+         "start": 101.501,
+         "duration": 7.007,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres sordas especialmente vulnerables ante la falta de accesibilidad de los recursos disponibles para las víctimas de esta lacra social.",
+         "start": 118.051,
+         "duration": 9.009,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este Día Internacional de la Eliminación de la Violencia contra las Mujeres, la CNSE quiere hacer un llamamiento a la ciudadanía",
+         "start": 136.503,
+         "duration": 7.507,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "para que no olvide la violencia contra las mujeres sordas, un colectivo a menudo invisible y casi siempre olvidado.",
+         "start": 144.577,
+         "duration": 8.008,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Combatir la violencia machista es cosa de todas y todos. Erradicar el feminicidio en el mundo, también es tu responsabilidad.",
+         "start": 153.053,
+         "duration": 11.011,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la última década, 700 mujeres han sido asesinadas en España víctimas de la violencia de género.",
+         "start": 211.845,
+         "duration": 7.207,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Más de 600.000 sufren malos tratos cada año.",
+         "start": 224.557,
+         "duration": 4.305,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "920 millones de mujeres de diferentes nacionalidades han sufrido en algún momento violencia física o sexual.",
+         "start": 234.567,
+         "duration": 8.509,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto con flequillo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Entre ellas, mujeres sordas.",
+         "start": 248.582,
+         "duration": 2.502,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido",
+         "screen_position": "center"
+      }
+   ]
+}

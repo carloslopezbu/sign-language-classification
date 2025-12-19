@@ -1,0 +1,167 @@
+{
+   "num_signers": 17,
+   "annotations": [
+      {
+         "text": "UNASORD (Andalucía)",
+         "start": 0.0,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con jersey rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "FESOPRAS (Asturias)",
+         "start": 4.6,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "FESCAN (Cantabria)",
+         "start": 8.2,
+         "duration": 6.7,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "FESORMANCHA (Castilla-La Mancha)",
+         "start": 15.7,
+         "duration": 4.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con barba y jersey a rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "FAPSCL (Castilla y León)",
+         "start": 21.2,
+         "duration": 8.6,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Grupo de personas en un evento",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "FESOCA (Cataluña)",
+         "start": 31.6,
+         "duration": 5.4,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "FESORCAM (Comunidad de Madrid)",
+         "start": 37.5,
+         "duration": 4.7,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y rizado",
+         "screen_position": "center"
+      },
+      {
+         "text": "FESORD CV (Comunidad Valenciana)",
+         "start": 42.6,
+         "duration": 4.8,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y rubio",
+         "screen_position": "center"
+      },
+      {
+         "text": "FEXAS (Extremadura)",
+         "start": 48.1,
+         "duration": 6.9,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con barba y chaqueta marrón",
+         "screen_position": "center"
+      },
+      {
+         "text": "FAXPG (Galicia)",
+         "start": 56.1,
+         "duration": 4.9,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre con traje gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "FSIB (Islas Baleares)",
+         "start": 62.1,
+         "duration": 6.1,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre con pelo canoso y barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "FASICAN (Islas Canarias)",
+         "start": 69.2,
+         "duration": 4.7,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Hombre joven con polo verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "FESORMU (Región de Murcia)",
+         "start": 114.5,
+         "duration": 4.9,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "EUSKAL GORRAK (País Vasco)",
+         "start": 120.1,
+         "duration": 4.9,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba",
+         "screen_position": "center"
+      },
+      {
+         "text": "ASZA (Aragón)",
+         "start": 125.6,
+         "duration": 4.6,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo y oscuro en exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "ASR (La Rioja)",
+         "start": 130.7,
+         "duration": 5.2,
+         "signer_id": 14,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa a cuadros",
+         "screen_position": "center"
+      },
+      {
+         "text": "ASORNA (Navarra)",
+         "start": 136.5,
+         "duration": 4.5,
+         "signer_id": 15,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto, gafas y camiseta blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "ASOME (Melilla)",
+         "start": 141.7,
+         "duration": 6.8,
+         "signer_id": 16,
+         "aligned": true,
+         "signer_description": "Hombre con bigote y polo azul",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "ESTEVE traducirá los prospectos de medicamentos a la lengua de signos.",
+         "start": 4.2,
+         "duration": 103.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Agencia de Medicamentos y productos sanitarios. (AEMPS)",
+         "start": 117.4,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo castaño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,302 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "MI DNI REGISTRO Y ACTIVACIÓN",
+         "start": 2.59,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Acredita nuestra identidad personal",
+         "start": 9.59,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Con la garantía de Policía Nacional",
+         "start": 14.29,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mismos usos y seguridad pero de manera digital",
+         "start": 27.09,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cómo puedes obtenerlo?",
+         "start": 33.19,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "DNI en vigor",
+         "start": 36.59,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Teléfono móvil",
+         "start": 37.59,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "1 FASE DE REGISTRO",
+         "start": 41.69,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Puedes registrarte de 3 maneras",
+         "start": 43.69,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "2 DESCARGARTE LA APP",
+         "start": 46.59,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "1 FASE DE REGISTRO",
+         "start": 51.59,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "1 INTERNET 2 COMISARÍAS (Utilizando un PAD) 3 UNIDADES DE DOCUMENTACIÓN",
+         "start": 52.59,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "1 INTERNET",
+         "start": 103.29,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "https://www.midni.gob.es",
+         "start": 113.79,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tu Código de Activación es:",
+         "start": 121.79,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "2 COMISARÍAS (Utilizando un PAD)",
+         "start": 134.29,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tu Código de Activación es:",
+         "start": 149.79,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "3 UNIDADES DE DOCUMENTACIÓN",
+         "start": 153.79,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tu Código de Activación es:",
+         "start": 204.79,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "2 DESCARGARTE LA APP",
+         "start": 212.79,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Compatible para Android e iOS",
+         "start": 225.09,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Fase de Activación",
+         "start": 234.29,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Aceptar términos y condiciones",
+         "start": 239.29,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Comenzar la activación",
+         "start": 249.29,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Introducir datos de activación",
+         "start": 301.29,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Número de DNI + número de soporte",
+         "start": 304.59,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Crear contraseña",
+         "start": 318.79,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "8 caracteres Al menos 3 de los siguientes 4 grupos: mayúsculas, minúsculas, números y caracteres especiales",
+         "start": 327.59,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mecanismos biométricos",
+         "start": 335.29,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Recibimos por SMS el código de verificación",
+         "start": 345.79,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "La App quedará activada",
+         "start": 358.29,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "https://www.midni.gob.es",
+         "start": 415.79,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "COMPROMETIDOS CONTIGO",
+         "start": 421.79,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y blusa negra",
+         "screen_position": "right"
+      }
+   ]
+}

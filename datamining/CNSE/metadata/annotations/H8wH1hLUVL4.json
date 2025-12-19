@@ -1,0 +1,338 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Somos ciudadanas sordas.",
+         "start": 0.939,
+         "duration": 2.1,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples mujeres en pantalla dividida.",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Mujeres sordas que exigimos que se respeten nuestros derechos, nuestra identidad, nuestra libre elección vital.",
+         "start": 5.343,
+         "duration": 8.61,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se garantice nuestra igualdad de oportunidades, nuestro acceso a los bienes y servicios disponibles para el resto de las mujeres, nuestra participación...nuestra DIGNIDAD.",
+         "start": 17.863,
+         "duration": 14.61,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se erradiquen todas las formas de discriminación incluyendo la violencia lingüística y cultural que enfrentamos a diario.",
+         "start": 33.583,
+         "duration": 9.31,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque dudar del testimonio de una mujer sorda víctima de agresión sexual o violencia de género por el hecho de ser sorda y comunicarse en lengua de signos, ES VIOLENCIA.",
+         "start": 44.605,
+         "duration": 14.51,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado oscuro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque obligar a una mujer sorda a leer los labios en un juicio siendo la lengua de signos su lengua natural, ES VIOLENCIA.",
+         "start": 100.128,
+         "duration": 11.31,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rojizo y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque obligarla a compartir intérprete con su agresor y vulnerar su seguridad por desconocimiento de su cultura, ES VIOLENCIA.",
+         "start": 112.449,
+         "duration": 24.01,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer joven negra con gafas y sudadera verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y sin embargo, sigue sucediendo cada día en nuestro país",
+         "start": 138.271,
+         "duration": 4.81,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos ciudadanas sordas.",
+         "start": 146.294,
+         "duration": 2.6,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples mujeres en pantalla dividida.",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Y hoy 8 de marzo, Día Internacional de la Mujer, hacemos un llamamiento al resto de mujeres, a las instituciones y a toda la sociedad para que se sumen al reconocimiento de nuestros derechos y libertades.",
+         "start": 150.706,
+         "duration": 16.11,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos:",
+         "start": 210.926,
+         "duration": 0.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eliminación de la violencia institucional",
+         "start": 213.539,
+         "duration": 5.11,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Implementación de medidas de prevención y apoyo específicas para mujeres sordas víctimas de violencia de género, tal como indica el Pacto de Estado del Gobierno contra la violencia de género.",
+         "start": 221.559,
+         "duration": 14.51,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Servicios accesibles en comisarías, juzgados, hospitales y casas de acogida con mediadoras sordas, intérpretes de lengua de signos y recursos adaptados.",
+         "start": 240.479,
+         "duration": 13.71,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "El acceso universal a la salud",
+         "start": 256.001,
+         "duration": 2.91,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rojizo y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Atención sanitaria accesible, con la presencia de intérpretes de lengua de signos y servicios de videointerpretación en hospitales, centros de salud y consultas médicas.",
+         "start": 302.021,
+         "duration": 16.01,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Campañas de salud integral, sexual y reproductiva en lengua de signos y con subtitulado que garanticen nuestro derecho a la información.",
+         "start": 322.241,
+         "duration": 14.01,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "El acceso a un empleo digno y sin discriminación",
+         "start": 337.264,
+         "duration": 4.91,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado oscuro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Oportunidades laborales justas, equitativas y cualificadas, asegurando el acceso a información y la comunicación en lengua de signos tanto durante el proceso de selección, como en el propio puesto de trabajo.",
+         "start": 349.084,
+         "duration": 13.81,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eliminación de la brecha salarial, del techo de cristal, y del suelo pegajoso que afecta a las mujeres sordas en el ámbito laboral.",
+         "start": 406.904,
+         "duration": 11.41,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Credibilidad y protección real contra el acoso laboral por razón de género y discapacidad a la que las mujeres sordas se encuentran expuestas.",
+         "start": 424.324,
+         "duration": 17.11,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Más participación política y social",
+         "start": 443.147,
+         "duration": 3.11,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espacios de liderazgo para mujeres sordas en movimientos feministas, organizaciones y políticas públicas, y accesibilidad en debates, asambleas, instituciones y medios de comunicación.",
+         "start": 448.367,
+         "duration": 12.31,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Educación no sexista, en igualdad de género y accesible en lengua de signos para la infancia y adolescencia sorda.",
+         "start": 503.087,
+         "duration": 14.41,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Envejecimiento activo accesible en lengua de signos y eliminación de la carga de responsabilidades de cuidados familiares a mujeres mayores sordas.",
+         "start": 520.307,
+         "duration": 16.11,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Erradicación de prejuicios e implementación de medidas específicas para la protección de los derechos de las mujeres sordas LGTBI+.",
+         "start": 538.627,
+         "duration": 10.81,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Conciliación de la vida familiar y laboral",
+         "start": 550.15,
+         "duration": 8.41,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer joven negra con gafas y sudadera verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Políticas de conciliación adaptadas a las necesidades específicas de las mujeres sordas y que promuevan nuestra igualdad de oportunidades.",
+         "start": 600.57,
+         "duration": 13.31,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Apoyo a familias de personas sordas en el acceso equitativo, accesible en lengua de signos y de libre elección de recursos educativos, maternidad y de crianza.",
+         "start": 616.09,
+         "duration": 13.71,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Visibilización y respeto a nuestra identidad",
+         "start": 631.213,
+         "duration": 2.81,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rojizo y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reconocimiento de la lengua de signos como parte de nuestra identidad cultural y como un derecho fundamental.",
+         "start": 634.223,
+         "duration": 9.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Visibilización de referentes de mujeres sordas en la sociedad para combatir estereotipos, fomentar la autoestima de las nuevas generaciones y reconocimiento a las antiguas generaciones.",
+         "start": 647.633,
+         "duration": 18.51,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo castaño.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos mujeres sordas",
+         "start": 711.356,
+         "duration": 2.4,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rubio y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres sordas unidas.",
+         "start": 714.166,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rojizo y gafas.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres sordas que queremos ser escuchadas, respetadas, reconocidas y visibilizadas.",
+         "start": 717.476,
+         "duration": 7.51,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer joven negra con gafas y sudadera verde.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque las mujeres sordas también somos parte del cambio.",
+         "start": 725.596,
+         "duration": 5.11,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo rizado oscuro.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta ya de vulnerar nuestros derechos!",
+         "start": 731.516,
+         "duration": 3.71,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto oscuro y gafas.",
+         "screen_position": "center"
+      }
+   ]
+}

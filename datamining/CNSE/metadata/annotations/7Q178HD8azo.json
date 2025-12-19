@@ -1,0 +1,95 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Este año se celebrarán las elecciones al Consejo de la CNSE, que tendrá lugar",
+         "start": 1.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "en la próxima 77º Asamblea General de la CNSE, que será en Madrid, el día 11 de junio del 2022,",
+         "start": 5.5,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "en la Fundación ONCE, sita en la calle Sebastián Herrera, 15.",
+         "start": 19.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "El plazo para la presentación de estas candidaturas se abrirá el 9 de abril y finalizará el 9 de mayo a las 11:00 horas de la mañana.",
+         "start": 28.8,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sobre las candidaturas, deben realizarse contemplando la igualdad, la pretensión de paridad, el cumplimiento de los criterios del Código Ético, del Manual Electoral y del Protocolo Electoral.",
+         "start": 44.0,
+         "duration": 18.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sobre los compromisos de los candidatos/as.",
+         "start": 106.5,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todas las candidaturas tienen que asumir los Principios establecidos en los Estatutos y en el Código Ético de la CNSE.",
+         "start": 113.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Han de ser personas sordas, mayores de edad, en pleno uso de sus derechos civiles y poder acreditar la cualificación y honorabilidad adecuada a lo establecido en el Código Ético de la CNSE si así se les requiriese.",
+         "start": 123.5,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para poder ser proclamados candidatos/as, estos tienen que acreditar que son personas socias de alguna de las Asociaciones federadas en la correspondiente Federación Territorial o de las Asociaciones que excepcionalmente asuman sus funciones, con una antigüedad de al menos dos años y estar al corriente pago en el abono de sus cuotas de asociados/as de todas las asociaciones que sean miembros.",
+         "start": 141.8,
+         "duration": 27.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Toda la información sobre el proceso electoral, como la presentación de candidaturas, requisitos y documentación a entregar, así como el manual electoral y el código ético del movimiento asociativo, estarán recogida en este enlace: www.cnse.es/index.php/nuestro-trabajo/publicaciones-y-recursos/movimiento-asociativo",
+         "start": 133.0,
+         "duration": 18.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido, chaqueta negra y camiseta granate",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Un centenar de personas sordas participan en un plan de vacaciones accesibles en Cantabria",
+         "start": 6.3,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "center"
+      }
+   ]
+}

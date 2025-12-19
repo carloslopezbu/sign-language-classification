@@ -1,0 +1,176 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ayer, día 10 de marzo, el Gobierno anunció medidas consensuadas con las Comunidades Autónomas, ante la alerta sanitaria del coronavirus,",
+         "start": 1.23,
+         "duration": 8.08,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os informamos las más destacadas.",
+         "start": 9.91,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La liga de fútbol y baloncesto se celebrará a puerta cerrada al menos durante 2 semanas.",
+         "start": 16.088,
+         "duration": 8.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo mismo ocurre con cualquier evento deportivo nacional e internacional, sea profesional o no.",
+         "start": 25.848,
+         "duration": 8.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se suspenden los eventos a cubierto de más de 1.000 personas, en zonas de alto riesgo como Madrid, La Rioja, Vitoria y Labastida.",
+         "start": 35.815,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se permiten eventos de menos de 1.000 personas.",
+         "start": 48.815,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Concretamente en Madrid, se cierran los teatros y los centros culturales y deportivos.",
+         "start": 55.695,
+         "duration": 6.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se aplaza la celebración de las Fallas de Valencia, las fiestas de La Magdalena de Castellón, y el Festival de Cine de Málaga.",
+         "start": 103.455,
+         "duration": 10.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En La Comunidad de Madrid, La Rioja, Vitoria y Labastida, se cierran los centros educativos y universidades.",
+         "start": 118.063,
+         "duration": 6.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En las zonas de alto riesgo, se suspenden las actividades formativas en centros docentes de la Policía y la Guardia Civil.",
+         "start": 125.823,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Congreso de los Diputados y el Senado suspenden su actividad una semana.",
+         "start": 140.031,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se suspenden durante al menos un mes, los viajes del IMSERSO.",
+         "start": 146.831,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El acceso es restringido a las cárceles de Madrid, Álava y Logroño.",
+         "start": 153.671,
+         "duration": 6.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se centralizará y garantizará el suministro y acceso al material sanitario, y se aplicaran medidas para reforzar el sistema sanitario.",
+         "start": 182.671,
+         "duration": 9.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la Comunidad de Madrid, Galicia, La Rioja, etc, se prohíben o se limitan las visitas a residencias de ancianos.",
+         "start": 193.671,
+         "duration": 9.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Italia es el país europeo más afectado por el coronavirus y se prohíben todos los vuelos directos desde Italia.",
+         "start": 205.671,
+         "duration": 6.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, el Gobierno anunció medidas económicas y laborales que se irán desarrollando en los próximos días.",
+         "start": 217.2,
+         "duration": 5.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se aprueba un decreto ley para que trabajadores contagiados o en aislamiento preventivo, tengan bajas por enfermedad profesional y no por enfermedad común.",
+         "start": 223.88,
+         "duration": 14.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto supone que se cobrará desde el primer día de baja.",
+         "start": 238.68,
+         "duration": 4.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

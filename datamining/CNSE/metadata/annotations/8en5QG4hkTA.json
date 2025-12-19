@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El servicio de urgencias del Hospital Reina Sofía de Tudela será accesible para personas sordas gracias a SVisual",
+         "start": 2.8,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "right"
+      }
+   ]
+}

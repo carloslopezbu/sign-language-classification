@@ -1,0 +1,86 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "El fin de semana, David, Lucia y yo participamos",
+         "start": 3.2,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro rizado con camiseta de tirantes gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "en una formación para interpretes sordos en el ámbito televisivo.",
+         "start": 7.3,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro rizado con camiseta de tirantes gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pudimos ver cómo trabajan con el teleprónter mientras interpretan.",
+         "start": 12.0,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro rizado con camiseta de tirantes gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Participamos de parte de CNSE, con Lituania y Croacia.",
+         "start": 16.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro rizado con camiseta de tirantes gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La formación fue en Londres, con Red Bee Media.",
+         "start": 52.6,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo corto con camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Allí conocimos las instalaciones y recursos que los intérpretes sordos",
+         "start": 57.0,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo corto con camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "utilizan para interpretar en directo o programas pregrabados.",
+         "start": 108.0,
+         "duration": 14.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre pelo corto con camiseta gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La formación fue posible gracias al proyecto Erasmus DeafMedia.",
+         "start": 139.5,
+         "duration": 6.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo con gafas y vestido gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "La formación fue enriquecedora y esperamos que sea una realidad en España en el futuro.",
+         "start": 147.0,
+         "duration": 10.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo con gafas y vestido gris",
+         "screen_position": "center"
+      }
+   ]
+}

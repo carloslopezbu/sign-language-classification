@@ -1,0 +1,392 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Las lenguas de signos no son una opción. Son un derecho.",
+         "start": 0.3,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una puerta abierta a la educación, al empleo, a la cultura, a la ciudadanía plena.",
+         "start": 5.2,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada signo es una muestra de resiliencia, de identidad y de comunidad.",
+         "start": 12.5,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un ejemplo de diversidad que enriquece.",
+         "start": 17.3,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las lenguas de signos nos hacen más fuertes.",
+         "start": 22.8,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque unen, porque liberan, porque empoderan.",
+         "start": 25.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque construyen puentes donde otros levantan muros.",
+         "start": 28.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque con ellas, todas y todos ganamos.",
+         "start": 32.0,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No hay excusas válidas para relegar las lenguas de signos a un segundo plano.",
+         "start": 34.8,
+         "duration": 3.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son parte de la riqueza lingüística y cultural de nuestro país.",
+         "start": 38.6,
+         "duration": 3.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lenguas reconocidas por ley que merecen ser visibilizadas, protegidas y valoradas.",
+         "start": 44.0,
+         "duration": 4.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin embargo, la realidad todavía discrimina.",
+         "start": 50.2,
+         "duration": 2.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Infancia sorda a la que se le niega la oportunidad de adquirir su lengua natural, la lengua de signos, y recibir una educación en su lengua propia.",
+         "start": 53.5,
+         "duration": 6.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pacientes sordas/os sin intérpretes en centros de salud y hospitales.",
+         "start": 101.2,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Jóvenes sordas/os que encuentran barreras para formarse y encontrar un empleo.",
+         "start": 107.2,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas mayores sordas que sufren aislamiento porque carecen de apoyos accesibles.",
+         "start": 113.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mujeres sordas que temen denunciar una agresión por miedo a no ser comprendidas.",
+         "start": 119.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espacios culturales que no nos incluyen.",
+         "start": 126.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medios de comunicación que nos apartan.",
+         "start": 131.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy, como cada 14 de junio,",
+         "start": 136.5,
+         "duration": 3.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "la Confederación Estatal de Personas Sordas (CNSE) y su red asociativa conmemoramos con orgullo el Día Nacional de las Lenguas de Signos Españolas.",
+         "start": 141.2,
+         "duration": 9.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero este no es solo un día de celebración.",
+         "start": 151.8,
+         "duration": 2.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es también un día de reivindicación, de memoria, de compromiso y de lucha.",
+         "start": 155.2,
+         "duration": 6.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un día para recordar que cada vez que las lenguas de signos se marginan, se empobrece toda la sociedad.",
+         "start": 203.2,
+         "duration": 8.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un día para declarar que sin lenguas de signos, no hay igualdad.",
+         "start": 212.5,
+         "duration": 4.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos derechos, pero no siempre se cumplen.",
+         "start": 219.5,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos soluciones, pero no siempre se ofrecen.",
+         "start": 224.5,
+         "duration": 4.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos talento, pero no siempre se escucha.",
+         "start": 231.5,
+         "duration": 5.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta de hablar de inclusión como si fuera un eslogan!",
+         "start": 238.0,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En un mundo global, plural y conectado, cada lengua cuenta.",
+         "start": 242.2,
+         "duration": 5.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y las lenguas de signos no son una excepción.",
+         "start": 248.2,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos acabar con la opresión lingüística, cultural e institucional que enfrentamos las personas sordas.",
+         "start": 252.0,
+         "duration": 8.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos políticas públicas comprometidas, recursos suficientes, presencia plena de las lenguas de signos en los medios, en la educación, en la sanidad, en la justicia.",
+         "start": 302.8,
+         "duration": 12.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos dignidad.",
+         "start": 316.2,
+         "duration": 2.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y blazer negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Las lenguas de signos nos hacen más fuertes, más iguales, más libres!",
+         "start": 319.2,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y no nos detendremos hasta que se garantice su uso en todos los ámbitos.",
+         "start": 323.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es tiempo de construir un futuro donde todas las personas, sin importar su forma de comunicarse, tengamos las mismas oportunidades.",
+         "start": 330.5,
+         "duration": 13.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y pelo canoso",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un futuro donde la lengua de signos se trate con el mismo respeto que cualquier palabra hablada.",
+         "start": 345.2,
+         "duration": 7.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y pelo canoso",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las lenguas de signos son nuestra arma más poderosa.",
+         "start": 354.0,
+         "duration": 4.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y pelo canoso",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una forma de ser y de estar en el mundo.",
+         "start": 359.5,
+         "duration": 5.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y pelo canoso",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las lenguas de signos nos hacen más fuertes.",
+         "start": 407.0,
+         "duration": 3.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y pelo canoso",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y esa fuerza es imparable.",
+         "start": 411.5,
+         "duration": 3.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y pelo canoso",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Feliz Día Nacional de las Lenguas de Signos Españolas!",
+         "start": 415.5,
+         "duration": 3.5,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Múltiples personas en una cuadrícula",
+         "screen_position": "multiple"
+      }
+   ]
+}

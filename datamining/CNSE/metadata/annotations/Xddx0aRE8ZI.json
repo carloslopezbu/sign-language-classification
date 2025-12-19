@@ -1,0 +1,266 @@
+{
+   "num_signers": 10,
+   "annotations": [
+      {
+         "text": "La violencia machista asesina.",
+         "start": 1.13,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Obliga a las víctimas a vivir coartadas, sometidas, amenazadas.",
+         "start": 8.2,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "La violencia machista es una tortura.",
+         "start": 15.13,
+         "duration": 2.57,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una opresión sistemática.",
+         "start": 18.3,
+         "duration": 2.43,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una realidad cruel que golpea con más fuerza a las mujeres sordas.",
+         "start": 21.4,
+         "duration": 5.83,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Madres, hermanas, vecinas, amigas o compañeras de trabajo que anhelan",
+         "start": 28.17,
+         "duration": 9.66,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro y jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "vivir con libertad, plenas y reconocidas en su identidad",
+         "start": 38.03,
+         "duration": 4.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro y jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "en una sociedad que garantice su acceso a la información y a los recursos necesarios para proteger sus derechos,",
+         "start": 42.9,
+         "duration": 8.1,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro y jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "no para vulnerarlos.",
+         "start": 51.0,
+         "duration": 1.77,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro y jersey verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y es que aún hoy, ser mujer, ser sorda y comunicarse en lengua de signos",
+         "start": 53.47,
+         "duration": 5.36,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer joven pelo oscuro y jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "supone enfrentarse a más barreras, a más puertas cerradas,",
+         "start": 59.03,
+         "duration": 3.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer joven pelo oscuro y jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "a más indiferencia. Y eso, también es violencia.",
+         "start": 103.03,
+         "duration": 3.53,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer joven pelo oscuro y jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Violencia es que desconfíen de ti",
+         "start": 107.1,
+         "duration": 3.73,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que te juzguen por ser una mujer sorda.",
+         "start": 111.03,
+         "duration": 4.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Violencia es no atreverte a denunciar por miedo a que no te crean.",
+         "start": 116.17,
+         "duration": 7.06,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer mayor pelo corto y jersey morado",
+         "screen_position": "center"
+      },
+      {
+         "text": "Violencia es que las instituciones no hablen tu lengua",
+         "start": 123.9,
+         "duration": 4.93,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer joven pelo largo y top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "ni te ofrezcan alternativas.",
+         "start": 129.03,
+         "duration": 4.57,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer joven pelo largo y top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Violencia es no poder, ni tan siquiera, contar lo que te pasa.",
+         "start": 134.13,
+         "duration": 5.37,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Mujer joven pelo rizado y jersey azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Basta ya!",
+         "start": 140.2,
+         "duration": 2.57,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo del Día Internacional de la Eliminación de la Violencia contra las Mujeres, desde la CNSE (Confederación Estatal de Personas Sordas) y su red asociativa reivindicamos:",
+         "start": 143.33,
+         "duration": 14.87,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Accesibilidad con atención, recursos, y profesionales",
+         "start": 159.47,
+         "duration": 9.36,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "que garanticen la tranquilidad, seguridad y comodidad de las víctimas sordas, con intérpretes de lengua de signos y mediadoras sordas.",
+         "start": 169.03,
+         "duration": 11.5,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Justicia y reparación que garanticen todos los derechos ante todo tipo de violencias machistas contra mujeres sordas: física, económica, vicaria, digital,",
+         "start": 181.9,
+         "duration": 13.93,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "psicológica e institucional.",
+         "start": 196.03,
+         "duration": 13.17,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "- Formación integral y obligatoria sobre mujeres sordas y violencia",
+         "start": 211.97,
+         "duration": 5.86,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "de género para personal policial, judicial, sanitario y psicosocial,",
+         "start": 218.03,
+         "duration": 7.8,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "con enfoque interseccional y perspectiva de accesibilidad",
+         "start": 226.03,
+         "duration": 6.8,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "comunicativa, garantizando que ningún caso quede sin respuesta",
+         "start": 233.03,
+         "duration": 6.8,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "por falta de comprensión o sensibilidad profesional.",
+         "start": 240.03,
+         "duration": 6.0,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y vestido negro",
+         "screen_position": "center"
+      }
+   ]
+}

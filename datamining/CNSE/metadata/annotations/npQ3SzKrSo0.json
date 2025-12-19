@@ -1,0 +1,50 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Misión",
+         "start": 58.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo largo y barba, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo vamos a hacer esto?",
+         "start": 125.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo largo y barba, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un proceso participativo por parte de todos",
+         "start": 211.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo largo y barba, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Calidad, empleo, asesoría jurídica, proyectos",
+         "start": 247.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo largo y barba, camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo contactar con el área de planificación estratégica?",
+         "start": 242.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo largo y barba, camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

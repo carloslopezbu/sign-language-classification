@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "LA CNSE, CON LAS NECESIDADES DE LAS PERSONAS SORDAS",
+         "start": 1.23,
+         "duration": 134.27,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      }
+   ]
+}

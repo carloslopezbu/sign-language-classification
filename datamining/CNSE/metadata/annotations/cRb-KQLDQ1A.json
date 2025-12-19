@@ -1,0 +1,437 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "NO HAY DERECHOS HUMANOS SIN EL DERECHO A LA LENGUA DE SIGNOS",
+         "start": 0.68,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 7.22,
+         "duration": 1.34,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas ORGULLOSAS de serlo.",
+         "start": 9.02,
+         "duration": 2.37,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos padres, madres, abuelas, nietos, activistas, artistas, deportistas, estudiantes, emprendedoras... Somos una COMUNIDAD plural, fuerte y diversa.",
+         "start": 12.02,
+         "duration": 16.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ser personas sordas no nos limita.",
+         "start": 29.33,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos limita la falta de voluntad política.",
+         "start": 32.57,
+         "duration": 2.63,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las decisiones que se toman por nosotras, sin nosotras.",
+         "start": 38.18,
+         "duration": 3.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos limita la falta de derechos.",
+         "start": 43.54,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aulas que no nos incluyen.",
+         "start": 47.28,
+         "duration": 1.93,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Entornos laborales que nos cierran las puertas.",
+         "start": 50.28,
+         "duration": 3.43,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Consultas médicas donde no podemos comunicarnos.",
+         "start": 55.31,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡BASTA DE INCOMPRENSIÓN!",
+         "start": 101.48,
+         "duration": 3.86,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con motivo de la Semana Internacional de las Personas Sordas, la CNSE y su red asociativa nos sumamos a la comunidad sorda internacional para recordar que la INCLUSIÓN no es caridad: es justicia.",
+         "start": 107.52,
+         "duration": 22.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que la ACCESIBILIDAD no es un favor: es una obligación.",
+         "start": 132.66,
+         "duration": 3.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que la LIBERTAD no es libertad si no podemos ser nosotras mismas.",
+         "start": 137.23,
+         "duration": 4.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que no hay derechos humanos sin el derecho a la lengua de signos.",
+         "start": 142.23,
+         "duration": 3.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reivindicamos que nuestras lenguas sean respetadas, promovidas y protegidas.",
+         "start": 146.33,
+         "duration": 4.96,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que estén presentes en el sistema educativo.",
+         "start": 152.39,
+         "duration": 1.67,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que tengan espacio en el empleo, en la justicia, en la sanidad.",
+         "start": 154.79,
+         "duration": 4.5,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se garantice su transmisión intergeneracional, su participación en la vida cultural, su uso en la administración.",
+         "start": 160.44,
+         "duration": 14.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que sean promovidas en todo el territorio con apoyo institucional real.",
+         "start": 177.15,
+         "duration": 8.16,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque un país que ignora sus lenguas se empobrece.",
+         "start": 187.45,
+         "duration": 4.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos leyes que nos protejan frente a la discriminación.",
+         "start": 194.51,
+         "duration": 4.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Leyes que nos eximan de tener que justificar, una y otra vez, cada intérprete que solicitamos, cada ajuste que requerimos, cada medida de accesibilidad que nos corresponde.",
+         "start": 201.28,
+         "duration": 19.47,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos recursos públicos suficientes para que se hagan efectivas.",
+         "start": 222.89,
+         "duration": 5.13,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos participar de forma activa en su aplicación y vigilancia.",
+         "start": 231.59,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Exigimos mecanismos claros de control, sanción y garantía para que el ejercicio de nuestros derechos no siga siendo cuestionado en las aulas, en los hospitales, en los servicios, ni en los medios de comunicación.",
+         "start": 241.17,
+         "duration": 35.86,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reclamamos igualdad en todas las etapas de la vida.",
+         "start": 278.98,
+         "duration": 5.13,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y top gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la infancia, acceso temprano a la lengua de signos; en la adolescencia y la juventud, referentes positivos y oportunidades reales; en la madurez, autonomía y participación plena; en la vejez, atención accesible y cuidado digno.",
+         "start": 286.25,
+         "duration": 16.16,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y top gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ser una persona sorda no debería implicar más obstáculos, ni más esfuerzo, ni más abandono institucional.",
+         "start": 303.58,
+         "duration": 6.67,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y top gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos que nuestras trayectorias vitales sean tan diversas como las del resto de la sociedad, no más difíciles.",
+         "start": 311.55,
+         "duration": 6.56,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo ondulado y top gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Apelamos a la representación real de las personas sordas en todos los espacios públicos.",
+         "start": 319.42,
+         "duration": 5.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "No basta con políticas sobre discapacidad: es imprescindible que las propias personas sordas ocupemos espacios de decisión.",
+         "start": 326.29,
+         "duration": 11.67,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que tengamos presencia en cargos públicos, consejos ciudadanos, medios de comunicación y movimientos sociales, con plena accesibilidad.",
+         "start": 340.42,
+         "duration": 10.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "No venimos a pedir permiso.",
+         "start": 352.89,
+         "duration": 3.33,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Venimos a ser parte activa del diseño de aquellas políticas que tienen que ver que nosotras.",
+         "start": 357.49,
+         "duration": 8.57,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hacemos un llamamiento a que nos vean como lo que somos: ciudadanas de pleno derecho.",
+         "start": 367.87,
+         "duration": 7.66,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La comunidad sorda no necesita condescendencia.",
+         "start": 377.6,
+         "duration": 3.23,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Necesita igualdad.",
+         "start": 382.17,
+         "duration": 1.66,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos ser vistas como hombres y mujeres capaces y con aportaciones valiosas.",
+         "start": 385.47,
+         "duration": 6.46,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como una minoría lingüística y cultural con un patrimonio único que enriquece a la sociedad.",
+         "start": 393.3,
+         "duration": 9.43,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No buscamos compasión, buscamos compromiso.",
+         "start": 404.37,
+         "duration": 5.06,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No buscamos promesas, sino políticas reales.",
+         "start": 412.33,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No buscamos reconocimientos vacíos, buscamos cambios.",
+         "start": 421.57,
+         "duration": 7.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Aquí estamos!",
+         "start": 431.37,
+         "duration": 1.26,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos parte de este mundo y vamos a transformarlo.",
+         "start": 433.8,
+         "duration": 4.43,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con JUSTICIA, con DIVERSIDAD, con RESPETO. Con LENGUA DE SIGNOS.",
+         "start": 440.27,
+         "duration": 6.66,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con pelo corto y camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Feliz Semana Internacional de las Personas Sordas.",
+         "start": 448.34,
+         "duration": 3.24,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Varias personas signando al unísono",
+         "screen_position": "multiple"
+      }
+   ]
+}

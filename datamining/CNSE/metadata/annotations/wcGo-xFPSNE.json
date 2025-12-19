@@ -1,0 +1,14 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "SVisual recibe 22.000 llamadas de personas sordas de todo el país durante el primer trimestre del año",
+         "start": 0.0,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y barba",
+         "screen_position": "right"
+      }
+   ]
+}

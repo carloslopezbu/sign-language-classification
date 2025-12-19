@@ -1,0 +1,536 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "La lengua de signos no deja a nadie atrás.",
+         "start": 1.29,
+         "duration": 3.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante este tiempo de pandemia, ha demostrado ser nuestra mejor aliada.",
+         "start": 6.05,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestra fuerza. Acercando a familias que estaban lejos.",
+         "start": 11.0,
+         "duration": 6.55,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Educando y entreteniendo a niñas, niños y jóvenes.",
+         "start": 18.0,
+         "duration": 4.55,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Devolviendo la sonrisa a quienes se sienten solos.",
+         "start": 23.55,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tranquilizando a quien ha estado enfermo.",
+         "start": 29.85,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Apoyando a quien perdió su trabajo.",
+         "start": 35.85,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Combatiendo la incertidumbre.",
+         "start": 40.85,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ayudando a los más vulnerables.",
+         "start": 47.55,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Construyendo igualdad donde no la hay.",
+         "start": 51.85,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El 14 de junio es el Día Nacional de las Lenguas de Signos Españolas.",
+         "start": 57.55,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lenguas aplaudidas. Respetadas.",
+         "start": 102.85,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lenguas únicas para las que hemos conseguido un amplio reconocimiento legislativo y social.",
+         "start": 105.85,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lenguas que nos necesitan tanto como nosotras, las personas sordas, las necesitamos.",
+         "start": 113.85,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para evitar que nadie, nunca más, intente menospreciarlas ni relegarlas a un injusto segundo lugar.",
+         "start": 123.55,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El presente, el futuro de nuestro país, su reconstrucción social y económica, debe contar también con la lengua de signos española y la lengua de signos catalana.",
+         "start": 130.85,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para que nadie se quede atrás.",
+         "start": 142.05,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué reivindicamos?",
+         "start": 147.05,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La protección y preservación de la lengua de signos española y la lengua de signos catalana",
+         "start": 151.85,
+         "duration": 5.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a través de su incorporación en la Constitución Española,",
+         "start": 157.85,
+         "duration": 2.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y en la Carta Europea de las Lenguas Regionales o Minoritarias.",
+         "start": 200.85,
+         "duration": 5.15,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Declaración oficial de las lenguas de signos españolas como Manifestación",
+         "start": 209.55,
+         "duration": 4.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Representativa del Patrimonio Cultural Inmaterial.",
+         "start": 214.05,
+         "duration": 4.15,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La creación de una normativa específica sobre las lenguas de signos españolas",
+         "start": 221.85,
+         "duration": 4.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "desde la perspectiva de los derechos lingüísticos.",
+         "start": 226.85,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque de ellas dependen la igualdad de oportunidades y",
+         "start": 229.05,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el cumplimiento de los derechos fundamentales de muchas personas sordas,",
+         "start": 235.85,
+         "duration": 4.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y su pleno acceso a los servicios y recursos disponibles para el conjunto de la ciudadanía.",
+         "start": 240.85,
+         "duration": 4.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un compromiso político y social con su comunidad usuaria reflejado",
+         "start": 249.05,
+         "duration": 6.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en las políticas públicas de tal modo que el uso de las lengua de signos española y catalana",
+         "start": 255.85,
+         "duration": 4.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "estén también presentes en la sanidad, los servicios sociales, la educación, la formación,",
+         "start": 300.85,
+         "duration": 5.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el empleo, la justicia, la cultura, la ciencia y la tecnología, etc.",
+         "start": 306.85,
+         "duration": 5.35,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La interpretación a la lengua de signos, la videointerpretación o la formación",
+         "start": 312.85,
+         "duration": 3.95,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en lengua de signos a profesionales es fundamental.",
+         "start": 317.05,
+         "duration": 2.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La elaboración de una Estrategia Nacional",
+         "start": 323.55,
+         "duration": 3.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sobre enseñanza, uso, protección y promoción de las lenguas de signos españolas,",
+         "start": 327.85,
+         "duration": 5.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que asegure su aprendizaje, conocimiento y aplicación tanto",
+         "start": 333.85,
+         "duration": 4.15,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el ámbito de la atención temprana como en el sistema educativo.",
+         "start": 338.55,
+         "duration": 3.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El derecho a elegir una educación bilingüe en la que las lenguas de signos sean también",
+         "start": 346.55,
+         "duration": 4.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "vehiculares y curriculares para el alumnado sordo.",
+         "start": 351.25,
+         "duration": 6.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La necesidad de reconocer y regular el perfil profesional",
+         "start": 401.85,
+         "duration": 2.95,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de las personas sordas especialistas en lengua de signos",
+         "start": 405.05,
+         "duration": 3.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que desempeñan distintas funciones relativas a la enseñanza y aprendizaje,",
+         "start": 408.85,
+         "duration": 4.15,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "promoción, difusión de las lenguas de signos españolas.",
+         "start": 413.85,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es tiempo de devolverle a las lenguas de signos todo lo que nos dan.",
+         "start": 417.85,
+         "duration": 6.15,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiempo de que estas bellas lenguas estén en las familias, en la vida comunitaria, en las calles.",
+         "start": 424.85,
+         "duration": 6.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiempo de mostrárselas al mundo.",
+         "start": 432.05,
+         "duration": 3.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con determinación.",
+         "start": 436.05,
+         "duration": 1.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con argumentos.",
+         "start": 437.85,
+         "duration": 0.95,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con orgullo.",
+         "start": 439.05,
+         "duration": 1.15,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque somos lengua de signos.",
+         "start": 440.85,
+         "duration": 1.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para comunicarnos. Para compartir.",
+         "start": 443.05,
+         "duration": 2.45,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para enseñar y para aprender.",
+         "start": 445.85,
+         "duration": 1.95,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para acceder al mundo",
+         "start": 448.25,
+         "duration": 1.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para crecer como personas. Para participar.",
+         "start": 450.25,
+         "duration": 3.25,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para querer y sentirnos queridas.",
+         "start": 453.85,
+         "duration": 2.65,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para vivir.",
+         "start": 457.05,
+         "duration": 0.75,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para que nadie se quede atrás.",
+         "start": 458.05,
+         "duration": 2.95,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo con la lengua de signos.",
+         "start": 502.05,
+         "duration": 1.95,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo oscuro recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

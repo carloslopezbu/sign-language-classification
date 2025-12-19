@@ -1,0 +1,149 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "16 años trabajando en la atención a víctimas de violencia de género y su entorno.",
+         "start": 2.4,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, fondo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy, en Signar por Derecho, nos sumamos a la conmemoración del 16º aniversario del teléfono 016.",
+         "start": 11.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, fondo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un servicio anónimo, gratuito y confidencial que cuenta con el asesoramiento profesional de abogadas, psicólogas y trabajadoras sociales, y que",
+         "start": 19.8,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, fondo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "desde 2015, es accesible para las personas sordas a través de la plataforma de videointerpretación SVisual.",
+         "start": 32.8,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra, fondo azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "El servicio telefónico 016 celebra su 16 aniversario trabajando en la atención a víctimas de violencia de género.",
+         "start": 44.2,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "El servicio ha ido incrementando el número de llamadas,",
+         "start": 55.5,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "videollamadas, emails, chats y whatsapp.",
+         "start": 103.8,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es un servicio que atiende diferentes tipos de violencia:",
+         "start": 113.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "la violencia de género ejercida por la pareja o ex pareja;",
+         "start": 120.8,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "violencias ejercidas por cualquier hombre contra las mujeres por el hecho de ser mujeres siguiendo las medidas establecidas por el Convenio de Estambul;",
+         "start": 127.8,
+         "duration": 12.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "y la trata de mujeres y niñas que son víctimas por fines de explotación sexual.",
+         "start": 142.0,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se puede utilizar el servicio telefónico 016 a través del Servicio de videointerpretación en lengua de signos SVisual,",
+         "start": 152.8,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "a través de su web clickando en el botón morado 016;",
+         "start": 164.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "o por WhatAapp, correo electrónico y chat online del propio Servicio 016.",
+         "start": 169.0,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Desde la CNSE queremos felicitar al servicio 016 por su trayectoria laboral contra la violencia de género.",
+         "start": 183.0,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si tu tienes dudas al respecto, puedes contactar a través del Servicio ALBA para resolver lo que necesites.",
+         "start": 191.0,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, chaqueta negra, fondo verde",
+         "screen_position": "left"
+      }
+   ]
+}

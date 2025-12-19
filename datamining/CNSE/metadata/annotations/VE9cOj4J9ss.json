@@ -1,0 +1,185 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "PLAN DE AYUDAS ECONÓMICAS PARA FAMILIAS 2025",
+         "start": 5.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno ha puesto en marcha un plan de ayudas económicas para familias con el objetivo de aliviar los gastos de la crianza y fomentar la natalidad.",
+         "start": 12.4,
+         "duration": 12.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Prestación por nacimiento y cuidado de menores",
+         "start": 26.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Dirigida a madres y padres trabajadoras/es, equivale al 100% de su base reguladora salarial hasta un límite de 4.495,50€.",
+         "start": 31.5,
+         "duration": 20.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La paga la Seguridad Social durante el tiempo que dure el permiso de maternidad o paternidad de las/os progenitoras/es.",
+         "start": 53.2,
+         "duration": 9.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Deducción por maternidad o \"cheque bebé\"",
+         "start": 103.5,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ayuda de 100€ mensuales para madres con hijas/os menores de 3 años (125€ para familias con un/a solo/a progenitor/a).",
+         "start": 108.1,
+         "duration": 14.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puede cobrarse cada mes, o bien deducirse de la declaración de la renta.",
+         "start": 123.2,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También es aplicable a padres cuando tengan la custodia completa. En el caso de parejas de mujeres, ambas tienen derecho a la deducción.",
+         "start": 130.3,
+         "duration": 9.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ayudas para familias de un/a solo/a progenitor/a, familias numerosas o con discapacidad",
+         "start": 141.0,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para familias monomarentales y monoparentales, familias numerosas o cuando uno/a o ambos/as progenitores/as tengan una discapacidad igual o superior al 65%, el Gobierno ofrece un pago único de un máximo de hasta 1.000€ que se calculará según el umbral de la renta familiar.",
+         "start": 151.5,
+         "duration": 24.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Prestación económica por parto múltiple",
+         "start": 137.4,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pago único que varía según el número de hijas/os. Si el nacimiento o adopción es de 2 niñas/os, la cuantía de la ayuda multiplicará por 4 el Salario Mínimo Interprofesional.",
+         "start": 144.2,
+         "duration": 14.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de trillizas/os, se multiplicará por 8, y para 4 o más niñas/os, se multiplicará por 12.",
+         "start": 160.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ayuda por hijas/os con discapacidad",
+         "start": 169.2,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de hijas/os con discapacidad superior al 33% se cobrará una prestación cuya cuantía depende del grado de discapacidad del menor o la menor.",
+         "start": 173.3,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Va de los 83,33€ mensuales para menores con una discapacidad del 33%, a los 725,60€ mensuales para discapacidad mayor al 75%, independientemente de la renta familiar.",
+         "start": 182.4,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Complemento al Ingreso Mínimo Vital",
+         "start": 203.6,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las familias vulnerables que perciban el IMV, recibirán automáticamente un complemento por cada menor de edad.",
+         "start": 208.2,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La cuantía varía de los 115€ para las/os menores de 3 años, a los 57,50€ para las/os mayores de 6.",
+         "start": 217.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

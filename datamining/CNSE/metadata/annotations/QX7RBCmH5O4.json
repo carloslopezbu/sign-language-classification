@@ -1,0 +1,797 @@
+{
+   "num_signers": 14,
+   "annotations": [
+      {
+         "text": "El Servicio vidAsor ha estado en funcionamiento desde el año 2017.",
+         "start": 1.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro largo, camiseta negra.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cierto. Cada vez tenemos más usuarios y nos gustaría compartir sus experiencias.",
+         "start": 7.3,
+         "duration": 6.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, chaqueta rosa.",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Con cuántas personas conversas en vidAsor?",
+         "start": 28.7,
+         "duration": 3.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Con tres personas.",
+         "start": 32.5,
+         "duration": 1.3,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, jersey gris.",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Con tres personas? Y ¿qué tal?",
+         "start": 34.4,
+         "duration": 1.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Con Pinto y Clara. Me caen muy bien.",
+         "start": 36.5,
+         "duration": 2.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, jersey gris.",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Son buenos contigo?",
+         "start": 39.8,
+         "duration": 1.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sí, los tres.",
+         "start": 41.9,
+         "duration": 1.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, jersey gris.",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Te sientes a gusto conversando con ellos?",
+         "start": 43.2,
+         "duration": 1.9,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Con Susana también. Me cae muy bien.",
+         "start": 45.5,
+         "duration": 2.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, jersey gris.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Juan era una persona que estaba bastante aislada,",
+         "start": 49.28,
+         "duration": 2.4,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "una persona que ha sido muy autónoma y muy creativa,",
+         "start": 52.28,
+         "duration": 2.7,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "que ha tenido muchísimos amigos y el hecho de llegar a un entorno",
+         "start": 55.18,
+         "duration": 3.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "residencial donde no se podía comunicar con nadie,",
+         "start": 58.68,
+         "duration": 3.2,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "era una situación de aislamiento total.",
+         "start": 103.18,
+         "duration": 1.8,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tenemos la suerte de contar con asociaciones como la vuestra,",
+         "start": 105.68,
+         "duration": 3.2,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "con ASORNA, con la que podemos tirar mucho, pero es verdad que",
+         "start": 109.48,
+         "duration": 3.4,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "en el día a día se nos quedaba un vacío muy grande.",
+         "start": 113.48,
+         "duration": 2.4,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Entonces, su actitud ha sido siempre de alegría.",
+         "start": 116.68,
+         "duration": 3.5,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En la residencia me sentía solo y aislado.",
+         "start": 122.2,
+         "duration": 2.9,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, jersey gris.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ahora con vidAsor, me cuentan cosas.",
+         "start": 127.2,
+         "duration": 2.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, jersey gris.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es muy positivo y me siento contento.",
+         "start": 130.4,
+         "duration": 2.9,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, jersey gris.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Luego se nota que al estar él mejor, ve que tiene comunicación, que tiene con quien hablar.",
+         "start": 135.28,
+         "duration": 5.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es más activo, está más accesible.",
+         "start": 141.68,
+         "duration": 2.9,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\"Venga que hoy vamos a intentar hacer otro tipo de cosas.\"",
+         "start": 145.68,
+         "duration": 2.9,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Sí que se le nota mejoría.",
+         "start": 149.38,
+         "duration": 1.3,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "¿Cómo crees que ha sido su actitud hacia el servicio?",
+         "start": 176.0,
+         "duration": 2.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Ha sido bueno para su desarrollo?",
+         "start": 178.5,
+         "duration": 1.7,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con barba, camiseta blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "La actitud ha sido muy buena.",
+         "start": 201.5,
+         "duration": 2.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido, camiseta negra.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde el primer momento, ha tenido muy claro los días que",
+         "start": 206.2,
+         "duration": 2.8,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, bata blanca.",
+         "screen_position": "right"
+      },
+      {
+         "text": "tenía las conversaciones, no ha faltado, lo ha vivido muy positivamente.",
+         "start": 209.4,
+         "duration": 5.9,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, bata blanca.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y a raíz de empezar a utilizar este servicio junto a otras actividades",
+         "start": 217.4,
+         "duration": 4.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, bata blanca.",
+         "screen_position": "right"
+      },
+      {
+         "text": "que está haciendo ha hecho que él tenga su tiempo más ocupado,",
+         "start": 221.7,
+         "duration": 4.6,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, bata blanca.",
+         "screen_position": "right"
+      },
+      {
+         "text": "de una manera útil y productiva porque nos ha podido trasladar",
+         "start": 226.6,
+         "duration": 3.8,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, bata blanca.",
+         "screen_position": "right"
+      },
+      {
+         "text": "muchas consultas, muchas demandas que antes no éramos capaces de comprender,",
+         "start": 230.9,
+         "duration": 5.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, bata blanca.",
+         "screen_position": "right"
+      },
+      {
+         "text": "y todas estas demandas infundadas, ya digo propias de la patología",
+         "start": 236.8,
+         "duration": 4.8,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, bata blanca.",
+         "screen_position": "right"
+      },
+      {
+         "text": "han ido desapareciendo poquito a poco.",
+         "start": 242.1,
+         "duration": 2.3,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con barba y gafas, bata blanca.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tres veces al día. Incluso por la noche.",
+         "start": 249.4,
+         "duration": 2.4,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas, chaqueta marrón.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Todos los días, igual.",
+         "start": 252.3,
+         "duration": 1.4,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas, chaqueta marrón.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Estamos muy encantados con el servicio porque nos está ayudando mucho",
+         "start": 294.7,
+         "duration": 3.4,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "a conciliar lo que es la vida familiar con ellos que son personas que aparte",
+         "start": 298.5,
+         "duration": 4.0,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "de tener esa discapacidad, tienen enfermedades de la edad",
+         "start": 303.0,
+         "duration": 4.5,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "y que nos ayuda mucho a estar controlándolos, a tener un servicio",
+         "start": 308.1,
+         "duration": 3.8,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "en el que todos los días pueden ponerse en contacto con nosotros,",
+         "start": 312.2,
+         "duration": 3.5,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "que pueden ponerse en contacto con la ATS, con el servicio de Vidasor",
+         "start": 316.0,
+         "duration": 3.4,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "que les da una asistencia, y nos ayuda mucho al final en los que es la vida familiar.",
+         "start": 319.7,
+         "duration": 4.0,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "A veces ellas te preguntan si has medido la glucosa, y tú te das cuenta de que no lo has hecho.",
+         "start": 325.8,
+         "duration": 4.4,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris, chaqueta verde.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Agradeces el apoyo de ellas, ¿verdad?",
+         "start": 330.3,
+         "duration": 1.0,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris, chaqueta verde.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si no te lo dicen, te olvidas, ¿verdad?",
+         "start": 331.4,
+         "duration": 1.9,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris, chaqueta verde.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sí, siempre me lo recuerdan.",
+         "start": 333.9,
+         "duration": 1.4,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas, chaqueta marrón.",
+         "screen_position": "right"
+      },
+      {
+         "text": "le hace controles de glucemia, le recuerda la medicación,",
+         "start": 336.2,
+         "duration": 3.8,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "controla la comida que come.",
+         "start": 341.1,
+         "duration": 1.8,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si tiene alguna duda, ¿puedo comer eso? Llama a vidAsor y le informan.",
+         "start": 343.4,
+         "duration": 4.6,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "A la hora de sentirse acompañados, si tiene cualquier problema llama a vidAsor y enseguida le atienden.",
+         "start": 348.6,
+         "duration": 8.4,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Para nosotros ahora mismo el servicio es vital, se ha hecho una forma de vida.",
+         "start": 358.9,
+         "duration": 5.4,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, camiseta negra.",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Para ti tiene valor vidAsor?",
+         "start": 407.7,
+         "duration": 1.2,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris, chaqueta verde.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sí, es muy valioso.",
+         "start": 409.4,
+         "duration": 1.0,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas, chaqueta marrón.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si no lo tuvieses, ¿cómo te sentirías?",
+         "start": 411.0,
+         "duration": 1.5,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto gris, chaqueta verde.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sin vidAsor, me sentiría aburrido.",
+         "start": 412.7,
+         "duration": 1.7,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas, chaqueta marrón.",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Desde cuándo usas el servicio vidAsor?",
+         "start": 436.4,
+         "duration": 1.4,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Hombre con barba, jersey azul.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hace casi dos años.",
+         "start": 438.1,
+         "duration": 1.2,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ya llevas dos años usando el servicio.",
+         "start": 439.7,
+         "duration": 1.5,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Hombre con barba, jersey azul.",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sí, me contaste sobre ello. Me explicaste cómo funcionaba.",
+         "start": 441.6,
+         "duration": 2.5,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Antes me enteraba de lo justo, de lo básico.",
+         "start": 444.8,
+         "duration": 2.5,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y ahora con vosotros, disfruto mucho de lo que me contáis.",
+         "start": 448.3,
+         "duration": 3.4,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me explicasteis todo sobre cómo el servicio funciona.",
+         "start": 453.3,
+         "duration": 2.7,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me gusta. Quiero seguir usando vidAsor.",
+         "start": 457.0,
+         "duration": 2.5,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ahora nos hablamos por videollamada.",
+         "start": 500.6,
+         "duration": 1.4,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo cual es positivo para mí y toda la familia.",
+         "start": 502.5,
+         "duration": 2.2,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estoy conectada al móvil de la mañana a la noche, y así sé si mi padre está bien o no.",
+         "start": 505.5,
+         "duration": 4.6,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es como tenerle siempre en el corazón.",
+         "start": 510.5,
+         "duration": 2.1,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "No sólo necesita vidAsor, sino también personas voluntarias.",
+         "start": 513.2,
+         "duration": 2.8,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una combinación perfecta.",
+         "start": 516.4,
+         "duration": 1.7,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos la suerte de que una voluntaria viene todos los jueves.",
+         "start": 519.0,
+         "duration": 2.2,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se llama Anuska.",
+         "start": 521.6,
+         "duration": 1.0,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ella viene cada jueves.",
+         "start": 523.4,
+         "duration": 1.6,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hablamos y me cuenta cosas.",
+         "start": 526.1,
+         "duration": 2.2,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me conmueve porque me explica cosas.",
+         "start": 529.2,
+         "duration": 2.3,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me cuenta noticias de la actualidad o cosas de su vida.",
+         "start": 532.3,
+         "duration": 3.9,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ahora me siento contento, muy contento.",
+         "start": 538.5,
+         "duration": 2.9,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Le he pedido que continúe, que no abandone el voluntariado.",
+         "start": 544.3,
+         "duration": 3.9,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Además, mi padre tiene una hermana sorda.",
+         "start": 550.1,
+         "duration": 2.4,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hace poco ella se ha dado de alta en vidAsor.",
+         "start": 553.5,
+         "duration": 2.3,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora ellos pueden llamarse el uno al otro por sí solos, lo que no era posible antes porque yo y mi prima teníamos que ayudarles.",
+         "start": 556.6,
+         "duration": 7.4,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora ya no, pueden llamarse del uno al otro por primera vez.",
+         "start": 604.7,
+         "duration": 3.6,
+         "signer_id": 13,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, blusa rosa.",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Estás contento con el servicio? ¿Piensas seguir usándolo?",
+         "start": 609.5,
+         "duration": 2.6,
+         "signer_id": 11,
+         "aligned": true,
+         "signer_description": "Hombre con barba, jersey azul.",
+         "screen_position": "right"
+      },
+      {
+         "text": "No tengo ninguna duda.",
+         "start": 612.5,
+         "duration": 1.6,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por favor, que el servicio no desaparezca.",
+         "start": 615.2,
+         "duration": 2.3,
+         "signer_id": 12,
+         "aligned": true,
+         "signer_description": "Hombre mayor pelo blanco, camisa blanca.",
+         "screen_position": "left"
+      }
+   ]
+}

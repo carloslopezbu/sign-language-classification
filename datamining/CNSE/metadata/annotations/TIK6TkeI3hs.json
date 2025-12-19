@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "www.cnse.es",
+         "start": 145.545,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "educacion@fundacioncnse.org",
+         "start": 153.753,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con barba y camisa negra",
+         "screen_position": "right"
+      }
+   ]
+}

@@ -1,0 +1,185 @@
+{
+   "num_signers": 10,
+   "annotations": [
+      {
+         "text": "Un aula ideal es poder escoger mi carrera libremente",
+         "start": 7.8,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sin preocuparme de las carencias de accesibilidad.",
+         "start": 10.6,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que desaparezcan los prejuicios y estereotipos que afectan al alumnado sordo.",
+         "start": 15.2,
+         "duration": 4.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con pelo rizado, barba y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un aula ideal es no sentirme aislado/a, excluido/a o acosado/a por ser una persona sorda.",
+         "start": 22.3,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Niño con camiseta negra de manga larga",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un aula ideal es hacer mis prácticas donde yo quiera y cursar las optativas que yo quiera,",
+         "start": 34.5,
+         "duration": 4.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y no solo aquellas que dispongan de intérprete porque las han elegido otras compañeras/os sordas/os.",
+         "start": 39.6,
+         "duration": 5.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo rizado y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que en clase haya compañeros/as sordos/as y oyentes",
+         "start": 49.5,
+         "duration": 3.9,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer negra con trenzas, gafas y sudadera estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "con los que pueda comunicarme en lengua de signos.",
+         "start": 53.4,
+         "duration": 3.2,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer negra con trenzas, gafas y sudadera estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estar en un aula ideal y sentirme a gusto,",
+         "start": 60.5,
+         "duration": 3.8,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "es poder tener tutorías y clases extraescolares totalmente accesibles.",
+         "start": 65.2,
+         "duration": 5.0,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre joven con camiseta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quiero poder elegir aprender en lengua de signos",
+         "start": 76.3,
+         "duration": 4.5,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y sudadera blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "sin que me fuercen a expresarme oralmente aunque pueda aprender.",
+         "start": 81.8,
+         "duration": 4.9,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y sudadera blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas oyentes que se expresan en oral también pueden aprender a signar.",
+         "start": 87.5,
+         "duration": 6.0,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Niña con pelo oscuro y sudadera blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quiero que me brinden recursos como intérpretes de lengua de signos,",
+         "start": 97.5,
+         "duration": 3.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo largo y camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que los profesores que no saben lengua de signos, la aprendan.",
+         "start": 100.5,
+         "duration": 4.0,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer joven con pelo largo y camiseta rosa",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un aula ideal es poder aprender un idioma extranjero sin barreras de ningún tipo.",
+         "start": 108.0,
+         "duration": 5.0,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y sudadera negra con capucha",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Día Internacional de la Educación reivindicamos que se garantice la igualdad de trato y oportunidades del alumnado sordo.",
+         "start": 117.5,
+         "duration": 9.5,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en moño y camiseta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Da igual cuántos sean o de dónde sean.",
+         "start": 128.5,
+         "duration": 4.0,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en moño y camiseta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Que puedan contar con profesorado sordo, intérpretes, especialistas en lengua de signos, ayudas técnicas... Con todo lo que requieran.",
+         "start": 137.5,
+         "duration": 9.5,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en moño y camiseta negra, fondo verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Por una escuela saludable, inclusiva y sin barreras!",
+         "start": 149.0,
+         "duration": 4.5,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido en moño y camiseta negra, fondo verde",
+         "screen_position": "left"
+      }
+   ]
+}

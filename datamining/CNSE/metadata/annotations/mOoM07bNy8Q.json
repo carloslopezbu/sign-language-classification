@@ -1,0 +1,23 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Se celebra en Alicante el primer seminario sobre alumnado sordo y Universidad",
+         "start": 0.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y top negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "#alumnadosordoyuniversidad",
+         "start": 5.5,
+         "duration": 117.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio y top negro",
+         "screen_position": "center"
+      }
+   ]
+}

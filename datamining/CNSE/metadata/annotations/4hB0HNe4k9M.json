@@ -1,0 +1,158 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "En España hay 1.230.000 personas sordas.",
+         "start": 1.08,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas diversas. Valiosas tal y como son.",
+         "start": 6.98,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas que merecen vivir en una sociedad justa e inclusiva con todas las realidades.",
+         "start": 14.18,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una sociedad donde la diversidad y la orientación sexual no sean motivo de discriminación.",
+         "start": 22.18,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Día del Orgullo LGTBI+, la CNSE y su red asociativa reclamamos libertad para las personas sordas LGTBI+.",
+         "start": 28.88,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una libertad generosa que no les juzgue ni les cuestione.",
+         "start": 39.68,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que no les aparte de la vida común. Que les permita ser, elegir y amar.",
+         "start": 45.68,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sin esconderse. Sin miedo. Con dignidad.",
+         "start": 54.68,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas LGTBI+ tienen derecho a vivir su sexualidad en igualdad de condiciones que el resto.",
+         "start": 101.88,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "A ser consideradas y legitimadas más allá de su discapacidad.",
+         "start": 108.88,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, reclamamos la creación de entornos seguros y plurales donde no haya sitio para el audismo, el paternalismo, el capacitismo, el acoso o la exclusión.",
+         "start": 112.98,
+         "duration": 16.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, exigimos la aplicación de la Ley 27/2007 por la que se reconocen las lenguas de signos en España, de manera que se garantice el acceso de este colectivo a la información y a la comunicación en temas de diversidad y orientación sexual a través de la lengua de signos y el subtitulado, así como a los recursos de atención.",
+         "start": 130.58,
+         "duration": 20.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es tiempo de escuchar a las personas sordas LGTBI+.",
+         "start": 152.58,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiempo de visibilizar su realidad.",
+         "start": 158.48,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tiempo de construir diversidad dentro de la diversidad.",
+         "start": 125.68,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una diversidad que ni el desconocimiento, ni la incomprensión, ni la sinrazón, puedan silenciar.",
+         "start": 131.88,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Frente al odio y la incomprensión: ¡Orgullo, Visibilidad y Resiliencia!",
+         "start": 141.88,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer rubia con camiseta morada",
+         "screen_position": "center"
+      }
+   ]
+}

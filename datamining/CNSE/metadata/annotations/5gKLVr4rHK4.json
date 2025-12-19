@@ -1,0 +1,356 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "El próximo 30 de septiembre,",
+         "start": 3.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "celebraremos el Día Internacional de las Personas Sordas,",
+         "start": 6.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "la CNSE y su movimiento asociativo,",
+         "start": 9.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "organizan una marcha estatal.",
+         "start": 12.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tras más de 80 años de trayectoria reivindicando derechos y libertades para las personas sordas,",
+         "start": 15.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "transcurridos ya 10 años desde la aprobación de la Ley de lenguas de signos en España,",
+         "start": 22.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Reclamamos su aplicación real y efectiva!",
+         "start": 31.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Aún queda mucho por hacer!",
+         "start": 35.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "El punto de encuentro, por la mañana, será la Plaza de Colón de Madrid, a donde llegarán los participantes, autobuses, etc.",
+         "start": 54.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Colon habrá stands del movimiento asociativo, para sensibilizar a la sociedad sobre la comunidad sorda y la lengua de signos.",
+         "start": 100.5,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se realizarán actividades para niños a partir de 6 años.",
+         "start": 106.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se recuerda que los padres y las madres sois los responsables de vuestros hijos.",
+         "start": 109.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, se organizarán numerosas actividades culturales.",
+         "start": 112.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por la zona habrá puestos para tomar algo y disfrutar de buena compañía.",
+         "start": 115.5,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Y de aquí a la marcha!",
+         "start": 118.5,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos encontramos en la Plaza de Neptuno, lugar de encuentro para iniciar la marcha.",
+         "start": 128.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quedaremos a las 16.30 h, y finalizaremos en la Puerta del Sol, sobre las 19.30 h.",
+         "start": 135.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aquí nos concentraremos todos, personas sordas y toda las personas que quieran apoyarnos.",
+         "start": 144.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todos llevaremos una prenda de color BLANCA, no importa que tenga algún detalle en otro color, pero lo importante es que resalte el color BLANCO.",
+         "start": 151.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Os esperamos!",
+         "start": 202.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acabaremos la marcha sobre las 19.30, exactamente en este punto. ¿Dónde estamos?",
+         "start": 213.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡En la Puerta del Sol!",
+         "start": 217.5,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y entonces encontraremos un escenario con pantallas gigantes donde podremos seguir todo en lengua de signos. ¿Y qué más?",
+         "start": 218.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tendremos actividades culturales y artísticas.",
+         "start": 223.5,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Cómo por ejemplo?",
+         "start": 225.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Teatro",
+         "start": 226.5,
+         "duration": 0.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Poesía",
+         "start": 227.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Percusión",
+         "start": 228.5,
+         "duration": 0.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Actuaciones musicales",
+         "start": 230.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Teatro para niños y niñas",
+         "start": 232.0,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y muchísimas cosas más.",
+         "start": 233.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Ah! Y lo más importante, ¡la lectura del manifiesto!",
+         "start": 235.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡Lo leerá un personaje famoso!",
+         "start": 239.0,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Ah sí? ¿Quién?",
+         "start": 240.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "No os lo puedo decir, ¡es una sorpresa!",
+         "start": 242.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡Ah claro, sorpresa! Queremos que ese día la plaza se encuentre abarrotada, todos signando y vestidos con una prenda de color...",
+         "start": 244.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡BLANCA!",
+         "start": 253.0,
+         "duration": 0.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "¡BLANCA!",
+         "start": 253.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo castaño, camiseta morada",
+         "screen_position": "right"
+      },
+      {
+         "text": "¡NOS VEMOS EL 30 DE SEPTIEMBRE!",
+         "start": 254.5,
+         "duration": 2.0,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Dos mujeres, una con pelo largo y otra corto",
+         "screen_position": "multiple"
+      }
+   ]
+}

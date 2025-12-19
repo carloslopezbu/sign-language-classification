@@ -1,0 +1,185 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Gobierno ha puesto a disposición de aquellas personas con bajos ingresos y patrimonio una nueva ayuda.",
+         "start": 0.2,
+         "duration": 9.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de un pago único de 200 euros que puede solicitarse hasta el 31 de marzo a través de la Agencia Tributaria.",
+         "start": 9.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿A quién se dirige la ayuda de 200 euros?",
+         "start": 26.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se dirige a trabajadoras/es por cuenta propia o ajena y a beneficiarios/as del subsidio de desempleo en 2022, que no reciban otras prestaciones de carácter social, como pensiones de la Seguridad Social, el complemento de ayuda para la infancia, o el Ingreso Mínimo Vital.",
+         "start": 30.8,
+         "duration": 28.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas beneficiarias de rentas mínimas de inserción otorgadas por las comunidades autónomas sí tendrán derecho a la ayuda de 200 euros, siempre que cumplan el resto de los requisitos.",
+         "start": 59.8,
+         "duration": 16.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuáles son los requisitos para acceder a la ayuda de 200 euros?",
+         "start": 121.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tener residencia habitual en España en 2022.",
+         "start": 127.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Haber percibido rentas inferiores a 27.000 euros anuales en la unidad familiar en 2022, y tener un patrimonio inferior a 75.000 euros.",
+         "start": 132.8,
+         "duration": 30.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La vivienda habitual está excluida del cómputo del patrimonio.",
+         "start": 203.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo se calcula el computo total de ingresos y patrimonio de una unidad familiar?",
+         "start": 220.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El cómputo de los ingresos y del patrimonio se efectuará sumando los de las/os familiares que convivan en el mismo domicilio:",
+         "start": 229.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "el o la solicitante, su cónyuge o pareja de hecho, descendientes de menos de 25 años o con discapacidad con rentas que no excedan de 8.000 euros, y ascendientes hasta segundo grado (padre, madre, abuelas/os).",
+         "start": 239.8,
+         "duration": 33.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El formulario de solicitud se encuentra en el apartado de información destacada de la sede electrónica de la Agencia Tributaria.",
+         "start": 319.8,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para su presentación se necesita contar con certificado electrónico o estar dados de alta en el sistema Cl@ve.",
+         "start": 331.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez se acceda al formulario, es necesario cumplimentar los datos identificativos y domicilio del solicitante y de las personas con las que convive en el hogar, así como un teléfono de contacto y el número de cuenta bancaria para hacer efectivo el pago de la ayuda.",
+         "start": 343.8,
+         "duration": 25.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La solicitud podrá tramitarse hasta el 31 de marzo, y el plazo para el pago por parte la Agencia Tributaria será de tres meses a partir de la fecha de solicitud.",
+         "start": 410.8,
+         "duration": 15.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de las personas residentes en País Vasco y Navarra la solicitud deberá hacerse en las instituciones de sus comunidades autónomas.",
+         "start": 427.8,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para más información, se han habilitado los teléfonos de Información Tributaria Básica.",
+         "start": 439.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El horario es de lunes a viernes, de 9 a 19 horas.",
+         "start": 450.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os recordamos que tenéis a vuestra disposición el servicio de videointerpretación SVisual para poneros en contacto con este teléfono de información.",
+         "start": 457.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo rizado y oscuro",
+         "screen_position": "center"
+      }
+   ]
+}

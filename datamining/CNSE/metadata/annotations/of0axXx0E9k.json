@@ -1,0 +1,50 @@
+{
+   "num_signers": 6,
+   "annotations": [
+      {
+         "text": "Empleo",
+         "start": 23.523,
+         "duration": 2.769,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado y cárdigan rojo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Información",
+         "start": 34.134,
+         "duration": 4.17,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto negro y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Participación social",
+         "start": 56.423,
+         "duration": 7.013,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer con pañuelo negro en exterior",
+         "screen_position": "center"
+      },
+      {
+         "text": "Educación",
+         "start": 118.018,
+         "duration": 3.503,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido en biblioteca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Accesibilidad",
+         "start": 132.232,
+         "duration": 5.505,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto canoso y gafas",
+         "screen_position": "center"
+      }
+   ]
+}

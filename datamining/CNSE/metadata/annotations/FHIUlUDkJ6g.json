@@ -1,0 +1,446 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "‘LSE en el aula’ es una página web creada para",
+         "start": 3.37,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "apoyar la labor de aquellos centros educativos en los que la lengua de signos española",
+         "start": 6.57,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se configura como materia objeto de enseñanza y aprendizaje.",
+         "start": 12.17,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy, en Signar por Derecho, vamos a recorrer este recurso",
+         "start": 20.24,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "dirigido a profesionales de la educación que trabajan con niños sordos y niñas sordas en las etapas de Educación Infantil y Primaria,",
+         "start": 24.64,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a las familias de este alumnado,",
+         "start": 34.24,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de modo que lo que aprendan en clase puedan ponerlo en práctica también en casa.",
+         "start": 36.54,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¡Acompañadnos!",
+         "start": 44.08,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estamos en la parte de actividades.",
+         "start": 47.45,
+         "duration": 2.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Están organizadas según los rangos de edad.",
+         "start": 50.35,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay varios tipos de actividades.",
+         "start": 52.55,
+         "duration": 1.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, cuentos, diálogos y canciones.",
+         "start": 54.65,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puedes disfrutar viéndolos.",
+         "start": 59.35,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se trata sólo de ver los vídeos.",
+         "start": 68.6,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "También puedes jugar y razonar con los juegos",
+         "start": 70.9,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "y con el vocabulario aprendiendo nuevos signos.",
+         "start": 74.1,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Adivinanzas,",
+         "start": 76.8,
+         "duration": 1.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "en las que puedes acertar o fallar.",
+         "start": 78.7,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "O relatos usando una única configuración.",
+         "start": 81.6,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, la de \"o\": \"tarde\", \"preparar\", \"así\".",
+         "start": 85.3,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Quieres llegar más lejos?",
+         "start": 98.88,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos la lingüística, con muchas cosas para aprender.",
+         "start": 102.58,
+         "duration": 2.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, la zona del signo.",
+         "start": 105.28,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si en la frente, en la boca, en el pecho.",
+         "start": 107.48,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "O con la configuración \"C\" signamos \"vaso\" o \"escuchar\".",
+         "start": 110.88,
+         "duration": 4.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo decirlo en el pasado o en el futuro?",
+         "start": 117.32,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, el año pasado o el próximo año.",
+         "start": 120.32,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aparte de las actividades, están las evaluaciones.",
+         "start": 135.2,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son pruebas para ver qué has aprendido.",
+         "start": 138.6,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "También están las orientaciones para profesionales que trabajen en centros educativos.",
+         "start": 143.3,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Orientan en cómo comunicar con niños en lengua de signos,",
+         "start": 147.9,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "qué materiales hay que darles, si usar la cámara de vídeo,",
+         "start": 151.5,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "cómo usar expresiones, cómo relacionar con la familia.",
+         "start": 154.1,
+         "duration": 3.1,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son orientaciones variadas y amplias.",
+         "start": 157.8,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recientemente se ha añadido algo nuevo.",
+         "start": 167.24,
+         "duration": 1.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son recursos didácticos, disponibles para imprimir",
+         "start": 169.34,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay tarjetas con dibujos con configuraciones.",
+         "start": 172.94,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Imprimes la de \"Q\" y juegas a adivinar signos.",
+         "start": 176.34,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puede ser \"pensar\", \"preguntar\" o \"huevo\".",
+         "start": 180.34,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "También hay tarjetas de lugares del signo.",
+         "start": 186.08,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si la tarjeta dice la zona de la barbilla, buscas signos.",
+         "start": 188.98,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Puede ser \"cómo\", \"edad\" o \"aburrido\".",
+         "start": 192.68,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "O las tarjetas indican el movimiento del signo.",
+         "start": 196.88,
+         "duration": 2.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si la tarjeta muestra el movimiento de una ola, diría \"montaña\"",
+         "start": 199.58,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si el movimiento parece una cuesta ascendente, diría \"avanzar\".",
+         "start": 202.68,
+         "duration": 2.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son varios recursos que puedes imprimir, para jugar en el aula o en casa.",
+         "start": 205.98,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con camiseta negra y moño",
+         "screen_position": "center"
+      },
+      {
+         "text": "‘LSE en el aula’ ha sido elaborada con el apoyo de la Fundación CNSE",
+         "start": 217.37,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "gracias a un convenio de colaboración entre la CNSE y el Ministerio de Educación, Formación Profesional y Deportes para la atención al alumnado sordo.",
+         "start": 222.17,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podéis visitar la web en este enlace: https://www.cnse.es/lseaula",
+         "start": 236.21,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}
