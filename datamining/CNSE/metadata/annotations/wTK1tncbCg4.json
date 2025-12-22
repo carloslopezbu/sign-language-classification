@@ -1,0 +1,635 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola soy Delia, terapeuta ocupacional de ACCEM",
+         "start": 9.2,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "en el programa de envejecimiento activo en el medio rural.",
+         "start": 11.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esta semana he preparado un tutorial en el que vamos a trabajar la estimulación cognitiva a través del juego.",
+         "start": 15.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es decir, vamos a hacer una serie de ejercicios con las cartas, con la baraja española en el que vamos a trabajar la memoria, la concentración, la atención, el orden numérico, el cálculo.",
+         "start": 24.2,
+         "duration": 13.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Aparte de esos ejercicios que van a trabajar nuestra mente también vamos a trabajar la motricidad fina de las manos.",
+         "start": 39.5,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El agarre de las pinzas y también las articulaciones.",
+         "start": 46.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esto es muy importante para poder seguir manteniéndonos activos en el día a día, porque tenemos que seguir haciendo nuestras actividades diarias y más ahora que estamos en casa.",
+         "start": 51.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tenemos que intentar hacer todos los ejercicios que podamos para mantenernos ágiles. Tanto físicamente como mentalmente.",
+         "start": 61.8,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pues vamos a empezar.",
+         "start": 72.2,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El primer ejercicio consiste en agrupar todas las cartas que tengan el mismo número o figura.",
+         "start": 73.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es decir, voy agrupando todos los cincos, todos los dos, todos los cuatros, todas las sotas...",
+         "start": 82.8,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esta baraja, por ejemplo, tiene el ocho y el nueve, no sé si vuestras barajas tienen ocho y nueve, pero recordar que tenéis que ir agrupándolas.",
+         "start": 95.5,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El nueve, el cinco, el siete, el dos, el tres y según vayan saliendo las vamos a juntar todas.",
+         "start": 110.5,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Así sucesivamente hasta que acabemos con todas las cartas de la baraja, vale.",
+         "start": 120.2,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Este es un ejercicio, agrupar por número o figura.",
+         "start": 126.5,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Las barajamos bien y vamos a hacer el siguiente ejercicio.",
+         "start": 132.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El siguiente ejercicio consiste en agrupar todos los palos de la baraja, que son cuatro, en orden. Primero lo vamos a hacer de menor a mayor y después de mayor a menor.",
+         "start": 138.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es decir, de menor a mayor, pues vamos a empezar por el uno, por ejemplo de oros nos ha salido.",
+         "start": 151.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pues ahora tenemos que ir buscando todos los oros.",
+         "start": 158.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Después los vamos a ir colocando, por ejemplo, el uno, ahora iría el dos, el dos, a ver si quiere salir el dos, el dos, vale.",
+         "start": 164.8,
+         "duration": 13.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Después iría el 3 de oros.",
+         "start": 181.5,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Después el cuatro, muy bien, el cinco.",
+         "start": 186.2,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El seis.",
+         "start": 195.5,
+         "duration": 0.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seguimos buscando, mira aquí está la sota.",
+         "start": 201.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El seis, bueno, el seis, el siete.",
+         "start": 207.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El ocho, nueve, sota, caballo y el rey.",
+         "start": 219.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Aquí de menor a mayor y después lo ordenaríamos de mayor a menor, pero vuelvo a mezclar las cartas para que no sea tan fácil.",
+         "start": 230.0,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Entonces, por ejemplo, otro palo, buscamos el rey, de otro palo diferente.",
+         "start": 242.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Mira, el de espadas, por ejemplo.",
+         "start": 253.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Después del rey, qué iría, rey, caballo, la sota, aquí iría el nueve, el ocho...",
+         "start": 256.5,
+         "duration": 13.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El siete.",
+         "start": 275.8,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y así sucesivamente hasta llegar al uno y eso lo vamos a hacer con todos los palos de la baraja.",
+         "start": 280.2,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vale, este es otro ejercicio. Pasamos al siguiente.",
+         "start": 286.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El siguiente ejercicio vamos a seleccionar 10 cartas nosotros mismos.",
+         "start": 292.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Que tienen que ser dos al menos, tienen que tener una pareja.",
+         "start": 300.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Da lo mismo del palo que sea pero tienen que tener su pareja.",
+         "start": 311.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Entonces si pongo un uno, tiene que haber otro uno.",
+         "start": 316.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si pongo un seis tiene que haber otro seis, lo voy a buscar.",
+         "start": 318.8,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si pongo un tres, tiene que haber otro tres.",
+         "start": 328.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si pongo, por ejemplo, un dos aquí, tiene que haber otro dos.",
+         "start": 332.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y si pongo un cuatro, tiene que haber otro 4.",
+         "start": 340.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pues ya tengo las parejas.",
+         "start": 348.2,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Estas son las cartas que voy a usar que son diez cartas. Las voy a mezclar bien para que estén separadas las parejas y lo que voy a hacer es ponerlas boca abajo en dos filas.",
+         "start": 351.2,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Éste es el juego del \"Memory\".",
+         "start": 368.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Voy a ir dando la vuelta de dos en dos, intentando retener la que sale, para buscar su pareja.",
+         "start": 370.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Les doy la vuelta y las vuelvo a dar la vuelta y ahora levanto otras dos.",
+         "start": 379.2,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El seis, yo creo que estaba aquí el seis, ahí, pues ya tengo una pareja.",
+         "start": 388.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seguimos dando la vuelta, el tres, el cuatro... El cuatro aquí yo creo que estaba el cuatro, pues ya tengo otra pareja.",
+         "start": 395.2,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El uno, el uno, mira otra pareja me ha salido sola.",
+         "start": 407.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El dos....",
+         "start": 412.5,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El tres, el tres, otra pareja.",
+         "start": 415.5,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y ésta es la última... y el dos.",
+         "start": 422.0,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esto lo puedo ir aumentando de dificultad poniendo más cartas, siempre pares, e ir buscando las parejas.",
+         "start": 426.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Las tengo que colocar yo, claro, que haya pareja de todo, pero se puede ir aumentando la dificultad poniendo más cartas.",
+         "start": 433.5,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siguiente ejercicio.",
+         "start": 441.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El siguiente ejercicio lo que vamos a hacer es sumar.",
+         "start": 442.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Entonces, lo que vamos a hacer es sumar la fila de arriba, es decir, dos y seis, ocho y tres, once y cuatro, quince y tres, dieciocho.",
+         "start": 446.8,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "La fila de arriba me da dieciocho, pues ahora ¿qué tengo que hacer? Buscar el uno y el ocho.",
+         "start": 462.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esto me da dieciocho.",
+         "start": 473.5,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora sumamos la fila de abajo, seis y dos, ocho y una, nueve y cuatro, trece, y una, catorce.",
+         "start": 481.5,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pues buscamos el uno y el cuatro.",
+         "start": 491.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "También nos sirve esto para trabajar la motricidad fina, a la vez, que estamos pasando todas las cartas.",
+         "start": 500.5,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El uno y el cuatro.",
+         "start": 507.8,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pues aquí tenemos dieciocho y aquí catorce, ese es un ejercicio de suma.",
+         "start": 510.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En el siguiente ejercicio lo que vamos a hacer, es restar.",
+         "start": 516.5,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es decir, a estos dieciocho le vamos a restar catorce y nos van a quedar cuatro.",
+         "start": 521.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y ahí vamos a trabajar la resta. Todo esto lo podemos complicar metiendo más filas aquí y más filas aquí, para ir haciendo parejas y después de cada fila se suma y podemos ir, sumando cada fila y restando las otras dos filas de dos en dos.",
+         "start": 530.5,
+         "duration": 19.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Bueno, pues espero que todos estos ejercicios os hayan servido.",
+         "start": 552.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "La verdad que están muy bien porque vais a trabajar muchas cosas y espero que sean fáciles y lo trabajéis todos los días.",
+         "start": 556.5,
+         "duration": 9.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nos vemos la próxima semana, espero que todo vaya muy bien y mucho ánimo a todos. Gracias.",
+         "start": 567.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

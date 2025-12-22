@@ -1,0 +1,50 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Cualificación Profesional",
+         "start": 7.0,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño y jersey de cuello alto beige",
+         "screen_position": "center"
+      },
+      {
+         "text": "Competencia profesional",
+         "start": 87.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño y jersey de cuello alto beige",
+         "screen_position": "right"
+      },
+      {
+         "text": "Certificado de profesionalidad",
+         "start": 141.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño y jersey de cuello alto beige",
+         "screen_position": "right"
+      },
+      {
+         "text": "Promoción y participación de la comunidad sorda",
+         "start": 485.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño y jersey de cuello alto beige",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mediación entre la persona sordociega y la comunidad",
+         "start": 490.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño y jersey de cuello alto beige",
+         "screen_position": "right"
+      }
+   ]
+}

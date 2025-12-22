@@ -1,0 +1,428 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy hablaremos sobre las medidas actualizadas que ha comunicado",
+         "start": 1.1,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Policía Nacional, en ese comunicado se recogen las actividades que están permitidas durante el estado de alarma.",
+         "start": 3.9,
+         "duration": 8.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hablaremos de tres principales puntos:",
+         "start": 12.5,
+         "duration": 2.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "1.  Desplazamientos de personas",
+         "start": 15.0,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "2.  Desplazamientos de vehículos",
+         "start": 17.1,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "3.  Actividades comerciales",
+         "start": 20.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El primer punto es sobre los desplazamientos de personas",
+         "start": 24.5,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "La permanencia en vía pública que no esté debidamente justificada, será sancionada.",
+         "start": 28.6,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sólo se puede salir de casa por motivos como comprar comida, ir a la farmacia, ir a trabajar, ir a un centro sanitario, o ir al banco.",
+         "start": 35.2,
+         "duration": 15.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aquellas personas que saquen a pasear a su perro limitar el paseo al tiempo estrictamente necesario.",
+         "start": 50.8,
+         "duration": 10.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo mismo se aplica para realizar la compra, deberán hacerlo en los alrededores de su domicilio Se puede sancionar a quien se encuentre lejos de su vivienda.",
+         "start": 61.6,
+         "duration": 12.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Prohibidas las reuniones de personas en la calle.",
+         "start": 75.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Deberá circular una sola persona salvo que acompañen a menores, personas mayores dependientes, y personas con discapacidad dependientes o con alteraciones de la conducta. A excepción de estos casos, no se debe ir en pareja ni en grupo.",
+         "start": 81.6,
+         "duration": 27.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al acceder en un establecimiento, se guardará un espacio mínimo de un metro.",
+         "start": 110.3,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se podrá hacer uso del transporte público realizando el pago con la tarjeta de transporte y nunca en metálico, entrando al vehículo por la puerta de atrás.",
+         "start": 116.0,
+         "duration": 28.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los vehículos de transporte público deberán seguir las medidas de higiene.",
+         "start": 144.8,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de menores que se encuentren solos por la calle, sin causa justificada, se procederá a localizar a los padres con el fin de que lo recojan en el lugar de los hechos. Se realizará acta de denuncia a los padres.",
+         "start": 151.2,
+         "duration": 16.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son prohibidos los desplazamientos a segundas residencias.",
+         "start": 167.8,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si están permitidos los desplazamientos si es para cuidar de mayores, menores o personas dependientes que así lo requieran.",
+         "start": 175.6,
+         "duration": 12.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El segundo punto es sobre desplazamientos de vehículos.",
+         "start": 188.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los desplazamientos en vehículos se rigen por los mismos supuestos que los desplazamientos de personas.",
+         "start": 194.0,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podrá circular una sola persona por vehículo.",
+         "start": 201.8,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Dos en el caso de que se acompañe a menores, mayores dependientes y personas con discapacidad que requieran acompañamiento.",
+         "start": 205.9,
+         "duration": 16.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Dentro del vehículo, los pasajeros se sentarán en diagonal y lo más separados posible, utilizando protección correspondiente. Excepcionalmente tres, si son del mismo núcleo familiar y se trata de menores a los que no se puede dejar en casa solos.",
+         "start": 222.5,
+         "duration": 25.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo importante es cumplir dentro del coche las medidas de higiene.",
+         "start": 247.9,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "En vehículos de logística, taxis o VTC como Uber o Cabify, pueden ir dos personas, el conductor y el pasajero, atendiendo a las recomendaciones antes expuestas.",
+         "start": 253.6,
+         "duration": 19.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de vehículos autorizados, de transporte, auxilio en carretera, sanitarios, se regirán por la normativa de tráfico.",
+         "start": 273.5,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "El tercer punto es sobre las actividades comerciales.",
+         "start": 286.6,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden abrir los comercios que venden productos de primera necesidad como supermercados y tiendas de comida y bebida.",
+         "start": 292.0,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los establecimientos que vendan otros tipos de producto se cierran.",
+         "start": 302.6,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "También farmacias, ópticas, droguerías, ortopedias, centros veterinarios y tiendas de alimentación de animales, quioscos de prensa, tintorerías, lavanderías, gasolineras y tiendas de telecomunicaciones.",
+         "start": 306.0,
+         "duration": 29.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las peluquerías podrán prestar su servicio a domicilio,",
+         "start": 336.4,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "al igual que restaurantes o cadenas de comida rápida o para llevar, y el comercio por internet.",
+         "start": 340.7,
+         "duration": 13.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los talleres de coches sólo pueden realizar reparaciones, pero no vender piezas ni recambios.",
+         "start": 355.5,
+         "duration": 9.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las ITV permanecerán cerradas.",
+         "start": 366.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoteles, alojamientos turísticos y campings permanecerán cerrados, excepto para huéspedes que antes del estado de alarma ya vivieran allí habitualmente.",
+         "start": 371.6,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "En las tiendas de multiprecios, ferretería y bazares, solo se permitirá vender artículos de primera necesidad autorizados debiendo delimitar estas zonas debidamente y prohibiendo el acceso a otras zonas de la tienda.",
+         "start": 381.9,
+         "duration": 17.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los servicios de asistencia y mantenimiento a domicilio sólo realizarán trabajos de reparación de servicios de primera necesidad, como son los suministros de electricidad, agua, telecomunicaciones o gas.",
+         "start": 401.5,
+         "duration": 13.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "En otros casos, no será permitido.",
+         "start": 415.8,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se permite si es para garantizar la habitabilidad de las viviendas.",
+         "start": 421.0,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Seguirán funcionando los almacenes que suministren material de fontanería, electricidad, automoción, construcción, siempre que sea la venta a profesionales, y en ningún caso al público.",
+         "start": 426.9,
+         "duration": 17.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se mantendrán los servicios esenciales municipales en un vehículo como la recogida de basuras, limpieza de vias publicas, el trabajo de agricultura y ganado, obras y construcciones, limpieza de parques.",
+         "start": 445.0,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "En todas ellas, se respetarán las normas de seguridad adecuadas como el uso de guantes y mantener la distancia.",
+         "start": 459.5,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se sancionarán aquellas actividades que no cumplan estos supuestos.",
+         "start": 467.5,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espero haber explicado claro.",
+         "start": 473.5,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es responsabilidad de todos combatir el virus.",
+         "start": 476.7,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuidaos y quedaos en casa.",
+         "start": 481.7,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo castaño",
+         "screen_position": "center"
+      }
+   ]
+}

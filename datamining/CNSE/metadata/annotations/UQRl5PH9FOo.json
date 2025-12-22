@@ -1,0 +1,563 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Éste es un ejercicio de cálculo mental.",
+         "start": 8.7,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Consiste en sumar mentalmente los números que van apareciendo.",
+         "start": 13.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Puedes detener el vídeo siempre que lo necesites para realizar el cálculo a tu ritmo.",
+         "start": 20.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Allá vamos.",
+         "start": 27.0,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Dos.",
+         "start": 30.8,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más tres.",
+         "start": 34.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más uno.",
+         "start": 38.8,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más cinco.",
+         "start": 42.8,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más cuatro.",
+         "start": 46.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más tres.",
+         "start": 50.8,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más cinco.",
+         "start": 54.8,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más tres.",
+         "start": 58.8,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más cuatro.",
+         "start": 102.8,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cuál es el resultado?",
+         "start": 107.0,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Treinta es el total.",
+         "start": 129.5,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Esta vez vamos a realizar el cálculo mental restando.",
+         "start": 134.5,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Partimos del número 25, y se debe ir restando los números que van apareciendo.",
+         "start": 141.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Preparada/o? Veinticinco.",
+         "start": 147.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos tres.",
+         "start": 157.8,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos dos.",
+         "start": 204.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos cinco.",
+         "start": 210.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos seis.",
+         "start": 216.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos cuatro.",
+         "start": 222.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos tres.",
+         "start": 228.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cuál es el resultado?",
+         "start": 234.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Son dos.",
+         "start": 249.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Un poco más difícil. Ahora se van a combinar sumas y restas.",
+         "start": 255.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Presta mucha atención a los signos para saber si debes sumar o restar.",
+         "start": 301.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cinco.",
+         "start": 308.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más seis.",
+         "start": 313.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos dos.",
+         "start": 320.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más siete.",
+         "start": 327.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más dos.",
+         "start": 334.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos tres.",
+         "start": 341.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más diez.",
+         "start": 348.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos siete.",
+         "start": 355.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más nueve.",
+         "start": 402.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos tres.",
+         "start": 409.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más seis.",
+         "start": 416.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más dos.",
+         "start": 423.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más nueve.",
+         "start": 430.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos ocho.",
+         "start": 437.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cuál es el resultado?",
+         "start": 444.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es treinta y tres.",
+         "start": 516.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Vamos a repetir el ejercicio combinando sumas y restas.",
+         "start": 521.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Recuerda que puedes pausar el vídeo para realizar el cálculo a tu ritmo y reiniciarlo para continuar.",
+         "start": 526.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Listo/a? allá vamos.",
+         "start": 531.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cincuenta.",
+         "start": 535.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más siete.",
+         "start": 542.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más nueve.",
+         "start": 549.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos uno.",
+         "start": 556.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos seis.",
+         "start": 603.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más ocho.",
+         "start": 609.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más cuatro.",
+         "start": 616.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos seis.",
+         "start": 624.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos diez.",
+         "start": 631.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos siete.",
+         "start": 638.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más tres.",
+         "start": 645.0,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Menos nueve.",
+         "start": 652.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Más cinco.",
+         "start": 659.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "¿Cuál es el resultado?",
+         "start": 706.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es cuarenta y siete.",
+         "start": 737.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con trenza y camiseta negra",
+         "screen_position": "right"
+      }
+   ]
+}

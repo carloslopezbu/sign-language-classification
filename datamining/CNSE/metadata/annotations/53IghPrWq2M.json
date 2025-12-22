@@ -1,0 +1,284 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "¡Hola!",
+         "start": 3.1,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy en Signar por Derecho nos sumamos a la celebración del Día Internacional del Voluntariado",
+         "start": 4.7,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "‘Voluntariado, un pilar fundamental para el movimiento asociativo’.",
+         "start": 10.9,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Presentado por Lola Soroa, contó con la participación de Fanny Rico,",
+         "start": 19.1,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ángel Puente y Berta Frigola que nos trasladaron su experiencia como voluntarias y voluntarios en distintas asociaciones de personas sordas de la Comunidad Valenciana, Cantabria y Cataluña.",
+         "start": 29.8,
+         "duration": 15.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fanny Rico es una joven sorda de Elche que comenzó su labor como voluntaria en Jovesord CV, comisión de juventud de la Fesord CV.",
+         "start": 48.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para Fanny, fue decisivo comprobar en primera persona la labor que otras mujeres sordas de su entorno realizaban de manera altruista en favor de otras personas sordas.",
+         "start": 61.7,
+         "duration": 14.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, se considera una mejor Fanny gracias a su labor de voluntariado.",
+         "start": 77.1,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vale, estoy aprendiendo cosas, pero me falta algo. Y de ahí que decidí probar el asumir la comisión dentro de la Asociación.",
+         "start": 85.4,
+         "duration": 7.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y la primera actividad que realicé era un encuentro de personas sordas y personas oyentes con los intérpretes, en una época en la que estudiaban en el ciclo para poder desarrollarse y tener mayor contacto para el aprendizaje de la lengua de signos.",
+         "start": 93.3,
+         "duration": 16.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y una vez que organicé esto, me di cuenta de que aprendía muchísimo más y me di cuenta del valor que tenía la asociación, no solo como participante, que ya lo había sido desde pequeña y que era mi segunda casa, pero era un valor mucho mayor a la hora de asumir el que la asociación me daba la oportunidad de que yo me pudiera desarrollar.",
+         "start": 111.1,
+         "duration": 21.9,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por ejemplo, las entidades sociales mejoraban muchas esas habilidades sociales, ser más flexible, tener más paciencia, aprender a escuchar sinceramente.",
+         "start": 134.1,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Todo eso yo lo he conseguido gracias al trabajo de voluntariado en una asociación en la Federación y en la sección juvenil.",
+         "start": 142.8,
+         "duration": 7.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ahora soy una mejor persona, gracias al movimiento asociativo.",
+         "start": 150.7,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Ángel Puente, cántabro y voluntario desde hace más de dos décadas en la Asociación de Personas Sordas de Santander y en la Federación de Personas Sordas de Cantabria (FESCAN), destacó que su pasión por el voluntariado vino motivada por sus padres, también voluntarios.",
+         "start": 156.7,
+         "duration": 21.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según afirma lleva el voluntariado en el corazón y no podría renunciar a él.",
+         "start": 179.6,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo claramente tengo que agradecer a la Asociación de Personas Sordas de Santander que me haya permitido poder acceder y participar e incluso organizar actividades para los socios y las socias por facilitarme ser una persona socia dentro de la asociación. De no haber sido así, no habría podido empezar mi labor de voluntariado.",
+         "start": 190.8,
+         "duration": 24.3,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mi primera manera de participar fue haciéndome socio, aprendiendo y después pasé a ser a desempeñar diferentes cargos como secretario vocal, presidente y al final, a su vez, la organización puntual de determinados eventos como excursiones de montaña,",
+         "start": 216.8,
+         "duration": 19.1,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "que ya llevamos 22 años y cinco años más. En total 27 años haciendo excursiones, encuentros de montañismo, organizando este tipo de actividades, aprendiendo a hacerlo siempre desde, desde el corazón, porque para mí es imposible renunciar a este tipo de actividades.",
+         "start": 238.9,
+         "duration": 22.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "La trayectoria como voluntaria de Berta Frigola, se remonta a su adolescencia dentro de Joventut FESOCA, Federació de Persones Sordes de Catalunya.",
+         "start": 264.3,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Influida y motivada por su padre, también voluntario en una asociación de Barcelona, para esta joven catalana el voluntariado es una experiencia que no tiene precio, y que le devuelve más de lo que da.",
+         "start": 276.1,
+         "duration": 21.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Dentro de la sección de juventud de FESOCA, yo veía, pues creo que a los 16 años más o menos de manera oficial, empecé a a ver la importancia de la figura del voluntariado, del yo, poder dar mi granito de arena para crear algo importante.",
+         "start": 300.3,
+         "duration": 22.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, camisa verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Realmente para mí la importancia no era el dinero a cambio, era lo que me admiraban por la experiencia de trabajar en la organización de muchas cosas y en la cual yo he aprendido mucho, porque de todas las personas que participaban, ayudaban. Y esto, sinceramente, no tiene precio para mí.",
+         "start": 324.7,
+         "duration": 20.1,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, camisa verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Empecé con 16 años, como te decía, y siempre he estado en diferentes sitios que me parecía muy importante.",
+         "start": 346.4,
+         "duration": 6.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, camisa verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Una de las conclusiones a las que se llegó durante el webinario, es que movimiento asociativo y voluntariado van de la mano. De ahí, que los tres apostasen por abrir nuevas fórmulas de participación que estén en consonancia con los actuales movimientos sociales, para que se siga fomentando el voluntariado sordo.",
+         "start": 354.4,
+         "duration": 20.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo más importante del voluntariado es que no hay tiempo límite, no hay una edad límite. Todos los días, incluso por la calle, te puede aparecer una persona que te pregunta y dice Anda, soy yo. A ti te conozco y de repente te pregunta otro tema que realmente no era lo que tú pensabas. Y te pido ayuda, pues ahí ya estás haciendo un voluntariado. Si esa persona se va a sentir mejor, va a ser feliz, tú también te vas a sentir feliz y mejor.",
+         "start": 376.3,
+         "duration": 23.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo rubio, camiseta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "La formación, para mí sí es importante también la seguridad de la persona. Muchas veces las personas voluntarias no se presentan porque no se sienten seguras de sí mismas y si se les da formación, yo creo que esto les motiva y les produce ganas de. De ser voluntarias y quizás una opción de conseguir ese voluntariado es a través de la formación,",
+         "start": 400.8,
+         "duration": 22.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, camisa verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "para que sepan lo que implica ser voluntario, porque muchas veces piensan que son muchas horas de mi vida y otras veces se las cuenta con esta formación de que no, de que es mucho más fácil al empoderar a la persona y que sepa a través de esta formación lo que puede organizar y lo que puede realizar de manera voluntaria.",
+         "start": 423.9,
+         "duration": 14.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, camisa verde",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tendremos que pensar que tal vez no tenemos tiempo para hacer voluntariado, pero no es cierto.",
+         "start": 443.9,
+         "duration": 7.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Participando aprendemos muchísimo pedir que continuemos en nuestro país con la labor de voluntariado, que está fenomenal porque hacer el voluntariado nos facilita aprender, aprender cosas, adquirir experiencias, poder transmitirlas también. Y os pido que no tengáis miedo a ser voluntarias o voluntarios, que seguro que os encantará.",
+         "start": 451.9,
+         "duration": 31.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa verde",
+         "screen_position": "left"
+      },
+      {
+         "text": "Podéis ver este webinario de forma íntegra en nuestro canal de Facebook.",
+         "start": 486.3,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño, chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

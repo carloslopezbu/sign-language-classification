@@ -1,0 +1,644 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "A finales de diciembre, España comenzó la campaña de vacunación frente a la COVID-19 y ya ha administrado más de 1 millón de dosis.",
+         "start": 1.2,
+         "duration": 13.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para responder a las preguntas más frecuentes acerca de estas vacunas, el Ministerio de Sanidad ha publicado una guía que resumimos a continuación.",
+         "start": 15.8,
+         "duration": 14.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué beneficios tiene la vacunación?",
+         "start": 34.1,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Su objetivo es frenar la transmisión de la COVID-19",
+         "start": 37.9,
+         "duration": 7.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y disminuir su gravedad y mortalidad,",
+         "start": 45.3,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "protegiendo especialmente a aquellos grupos más vulnerables.",
+         "start": 50.8,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuantas más personas se vayan inmunizando,",
+         "start": 57.6,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "menor probabilidad habrá de que el resto se exponga al virus.",
+         "start": 101.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué vacunas están disponibles en España?",
+         "start": 109.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De momento, se están utilizando la de Pfizer y la de Moderna,",
+         "start": 114.0,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "aunque hay acuerdos de compra anticipada con otras compañías farmacéuticas.",
+         "start": 118.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La Comisión Europea es la que se encarga de coordinar la adquisición de vacunas para los ciudadanos de la Unión Europea.",
+         "start": 125.8,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez probada su eficacia y seguridad por la Agencia Europea de Medicamentos,",
+         "start": 136.0,
+         "duration": 8.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "podrán comenzar a utilizarse vacunas nuevas.",
+         "start": 145.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cómo funcionan estas vacunas?",
+         "start": 153.6,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las actuales vacunas son del tipo ARN mensajero,",
+         "start": 158.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que una vez entra en nuestro organismo, enseña a nuestras células a fabricar",
+         "start": 202.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "proteínas S iguales a las que produce el coronavirus.",
+         "start": 209.8,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Al detectarlas, nuestro sistema inmunitario comienza a fabricar",
+         "start": 221.2,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "anticuerpos y linfocitos T que ayudarán a neutralizar el virus.",
+         "start": 226.0,
+         "duration": 11.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas vacunas requieren de la administración de dos dosis",
+         "start": 239.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "para conseguir una respuesta inmune adecuada.",
+         "start": 243.0,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Es obligatorio vacunarse?",
+         "start": 251.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No. Como ocurre con el resto de las vacunaciones en España,",
+         "start": 255.2,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la vacuna contra la COVID-19 no es obligatoria.",
+         "start": 300.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Puedo elegir qué vacuna ponerme?",
+         "start": 308.2,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Teniendo en cuenta el número limitado de las mismas",
+         "start": 315.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y su dificultad de manejo, no es posible elegir.",
+         "start": 319.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Quién puede vacunarse?",
+         "start": 328.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cualquier persona sana mayor de 16 años puede recibirla,",
+         "start": 332.2,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a excepción de aquellas que tengan un historial de reacciones alérgicas graves a algún componente de la vacuna.",
+         "start": 338.0,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por el momento, no se prevé vacunar a la población infantil y adolescente de hasta 16 años.",
+         "start": 348.2,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas con patologías previas podrán vacunarse si así se lo recomienda su médico.",
+         "start": 357.0,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También aquellas que toman Sintrom y otros coagulantes orales",
+         "start": 406.0,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y las personas inmunodeprimidas, sin necesidad de interrumpir su medicación.",
+         "start": 415.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de duda, se aconseja consultar con el personal clínico responsable de su tratamiento.",
+         "start": 425.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de mujeres embarazadas, no se han detectado problemas",
+         "start": 431.2,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de seguridad en la vacunación, si bien se recomienda posponerla",
+         "start": 439.8,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "hasta el final de la gestación.",
+         "start": 446.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, no sería necesario suspender la lactancia durante los días posteriores a la vacunación.",
+         "start": 452.2,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, como medida de precaución, las mujeres que planeen quedarse embarazadas deberán esperar 2 semanas",
+         "start": 502.2,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "tras la administración de la segunda dosis de la vacuna.",
+         "start": 511.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Debo vacunarme si ya he pasado el coronavirus?",
+         "start": 520.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí. Aunque se ha observado que la mayor parte de las personas infectadas por el coronavirus desarrollan cierta inmunidad,",
+         "start": 525.2,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se desconoce el tiempo que dura.",
+         "start": 532.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para asegurar una óptima protección, lo más recomendable es vacunarse hayas pasado o no la enfermedad.",
+         "start": 536.0,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Las vacunas tienen efectos secundarios?",
+         "start": 547.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todos los medicamentos, incluidas las vacunas, pueden",
+         "start": 552.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "desencadenar reacciones adversas leves, como fiebre o dolor en el lugar de la inyección",
+         "start": 557.0,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o, con menor frecuencia, otras más graves como alergias.",
+         "start": 608.0,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los efectos adversos observados en los ensayos clínicos de las vacunas contra la COVID-19 muestran que sus efectos secundarios,",
+         "start": 613.0,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en caso de producirse, suelen ser leves y transitorios.",
+         "start": 621.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tras vacunarte experimentas una reacción adversa significativa,",
+         "start": 625.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "debes acudir inmediatamente a tu centro de salud u hospital de referencia.",
+         "start": 629.8,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El personal sanitario se ocupará de notificarlo al Sistema Español de Farmacovigilancia.",
+         "start": 634.0,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Quién decide qué personas se vacunan, y cómo y cuándo lo hacen?",
+         "start": 648.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Consejo Interterritorial del Sistema Nacional de Salud ha elaborado la Estrategia de vacunación frente al COVID-19 en España,",
+         "start": 655.8,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que establece en qué orden se vacuna a cada grupo de población",
+         "start": 707.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "teniendo en cuenta su riesgo de exposición, de transmisión y de vulnerabilidad frente al virus.",
+         "start": 715.0,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Eso supone que lo primeros en recibir las vacunas deben ser las personas mayores,",
+         "start": 724.2,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las personas dependientes, el personal sanitario,",
+         "start": 729.0,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "las personas con patologías previas, y, por último, el resto de la población.",
+         "start": 740.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para ello, los servicios de salud de cada Comunidad Autónoma contactarán con las personas a las que va a vacunar, siguiendo el orden de priorización establecido.",
+         "start": 749.8,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La vacunación es gratuita, siendo lo ideal vacunarse en el lugar de residencia habitual.",
+         "start": 758.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si coincide que en el momento en el que te corresponde la vacunación no te encuentras en tu lugar de residencia, deberás consultar con el servicio de salud",
+         "start": 806.2,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de esa Comunidad Autónoma la posibilidad de recibir la vacunación.",
+         "start": 812.2,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Puedo hacer vida normal inmediatamente después de la vacuna?",
+         "start": 819.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todavía no se sabe con certeza si la vacunación impide que las personas vacunadas se infecten o si, aunque no enfermen, puedan transmitir el virus a otras personas.",
+         "start": 823.8,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto se irá conociendo a medida que se vaya vacunando a la población.",
+         "start": 837.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por tanto, hasta que la mayor parte de la población esté vacunada es vital que todas las personas, tanto las vacunadas como las no vacunadas,",
+         "start": 847.0,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "sigan manteniendo las medidas de prevención e higiene como hasta ahora.",
+         "start": 855.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con moño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

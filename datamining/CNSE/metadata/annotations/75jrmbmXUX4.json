@@ -1,0 +1,761 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Ministerio de Sanidad ha publicado una guía",
+         "start": 1.2,
+         "duration": 2.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en la que se recogen y actualizan las medidas previstas para la Fase 1,",
+         "start": 3.3,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "que arranca hoy en algunos territorios.",
+         "start": 11.1,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas medidas no son válidas para territorios que están en la Fase 0.",
+         "start": 17.4,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tampoco para personas que presenten síntomas o estén en aislamiento domiciliario",
+         "start": 26.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "o cuarentena por COVID-19, que deberán permanecer en casa.",
+         "start": 31.0,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se prohíbe viajar entre provincias.",
+         "start": 39.5,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de comunidades autónomas como Castilla y León,",
+         "start": 43.5,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comunidad Valenciana y Cataluña, en las que dentro de sus provincias",
+         "start": 46.3,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "hay zonas sanitarias en Fase 1 y otras en Fase 0,",
+         "start": 51.3,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "no se permite el desplazamiento entre zonas excepto por motivos",
+         "start": 58.3,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "justificados de trabajo, urgencia familiar, o fuerza mayor.",
+         "start": 63.3,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En todos los casos, se respetará la distancia de seguridad de 2 metros",
+         "start": 70.7,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "como mínimo entre personas, y las medidas de higiene.",
+         "start": 76.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En transporte público, taxis, VTC, y",
+         "start": 80.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "en vehículos particulares cuando vayamos acompañados,",
+         "start": 84.5,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "es obligatorio usar mascarillas.",
+         "start": 88.1,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medidas de movilidad y contacto social",
+         "start": 91.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Movilidad y contacto social.",
+         "start": 92.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué se permite en la fase 1?",
+         "start": 94.5,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las reuniones con grupos reducidos de familiares y amigos/as,",
+         "start": 100.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "con un máximo de 10 personas.",
+         "start": 104.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se realizarán sin contacto físico,",
+         "start": 106.9,
+         "duration": 5.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "manteniendo siempre la distancia de seguridad, y",
+         "start": 112.2,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "evitando las visitas a personas mayores",
+         "start": 115.4,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y a personas de mayor riesgo frente al coronavirus.",
+         "start": 118.8,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "El desplazamiento a segundas residencias siempre",
+         "start": 126.0,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y cuando estén en nuestra misma provincia o zona sanitaria,",
+         "start": 132.2,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y acompañados únicamente de las personas que conviven con nosotros/as.",
+         "start": 138.2,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas que conviven en la misma casa podrán viajar juntas en el mismo coche.",
+         "start": 144.6,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "La asistencia a lugares de culto siempre que no se supere un tercio de su aforo.",
+         "start": 151.3,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los velatorios con un límite máximo de 15 personas en espacios al aire libre,",
+         "start": 165.6,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "o 10 personas en espacios cerrados.",
+         "start": 172.4,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medidas de comercios y servicios",
+         "start": 177.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante esta fase, los comercios y los servicios vuelven a abrir",
+         "start": 178.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "con limitaciones de aforo,",
+         "start": 183.0,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y con horarios preferentes para mayores y personas vulnerables al COVID 19.",
+         "start": 186.2,
+         "duration": 11.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los concesionarios de coches y las estaciones para pasar la ITV, con cita previa.",
+         "start": 198.5,
+         "duration": 8.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los centros de jardinería y viveros, con cita previa.",
+         "start": 208.5,
+         "duration": 7.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los comercios de hasta 400 metros cuadrados,",
+         "start": 217.4,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "excepto los que se encuentren en centros comerciales.",
+         "start": 224.1,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Administraciones de lotería y quioscos de la ONCE,",
+         "start": 231.5,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "excepto en centros comerciales.",
+         "start": 237.4,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mercadillos y mercados al aire libre,",
+         "start": 245.5,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "dando preferencia a la venta de productos de primera necesidad,",
+         "start": 251.3,
+         "duration": 7.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y con la prohibición de tocar la mercancía.",
+         "start": 259.2,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medidas de hostelería y restauración",
+         "start": 267.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta fase, también se reabre la hostelería y la restauración.",
+         "start": 268.5,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los hoteles y alojamientos turísticos,",
+         "start": 273.5,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "permaneciendo cerradas las zonas comunes y",
+         "start": 278.2,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "limitando el uso de ascensores y montacargas.",
+         "start": 288.2,
+         "duration": 8.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Terrazas de bares y restaurantes",
+         "start": 298.0,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "con un máximo de 10 personas por mesa,",
+         "start": 304.9,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "con una distancia de 2 metros entre personas",
+         "start": 311.0,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y sin contacto físico.",
+         "start": 315.3,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se podrá permanecer en el interior de los locales.",
+         "start": 320.5,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medidas de servicios sociales",
+         "start": 328.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Servicios sociales.",
+         "start": 329.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En servicios de terapia, rehabilitación,",
+         "start": 331.5,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "atención temprana y atención diurna para",
+         "start": 335.3,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "personas con discapacidad y/o en situación de dependencia.",
+         "start": 338.8,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "se reanuda la atención presencial en la fase 1.",
+         "start": 343.1,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Medidas de educación, cultura y deporte",
+         "start": 352.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Educación, cultura y deporte.",
+         "start": 353.0,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los centros educativos y universidades abrirán para",
+         "start": 356.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "su desinfección y para realizar trabajo administrativo.",
+         "start": 360.0,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "También se reabren las bibliotecas, para préstamo y devolución de libros.",
+         "start": 370.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se podrán utilizar sus equipos informáticos,",
+         "start": 379.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "ni se permiten actividades de estudio.",
+         "start": 384.0,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se reanuda la visita con aforo limitado a museos, previa compra de la entrada.",
+         "start": 390.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cines y teatros, deberán esperar hasta la fase 2.",
+         "start": 398.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vuelven a abrir las instalaciones deportivas",
+         "start": 404.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "al aire libre para la práctica individual, y con cita previa.",
+         "start": 408.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se permitirá el uso de vestuarios.",
+         "start": 414.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las empresas de turismo activo y naturaleza podrán",
+         "start": 421.5,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "programar actividades para grupos de un máximo de 10 personas,",
+         "start": 426.3,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y siempre con cita previa.",
+         "start": 432.3,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Habrá que esperar para actividades de caza y pesca.",
+         "start": 436.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se mantienen las franjas horarias por edades para paseos y deporte individual,",
+         "start": 442.5,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "pudiendo modificarse en cada comunidad autónoma.",
+         "start": 450.3,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para más información, podéis consultar sus páginas web y redes sociales.",
+         "start": 455.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os recordamos la importancia de ser prudentes",
+         "start": 463.5,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "y cumplir estrictamente las recomendaciones sanitarias,",
+         "start": 468.3,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "para protegernos y proteger a los demás.",
+         "start": 472.3,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro recogido",
+         "screen_position": "center"
+      }
+   ]
+}

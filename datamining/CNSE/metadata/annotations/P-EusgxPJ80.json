@@ -1,0 +1,68 @@
+{
+   "num_signers": 8,
+   "annotations": [
+      {
+         "text": "María Blanco responsable de proyectos de la CNSE",
+         "start": 24.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Katixa Castellano ASORNA",
+         "start": 135.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "María González FESORMU",
+         "start": 142.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "María Gil Asociación de Personas Sordas de La Rioja",
+         "start": 187.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ana María Casanova SVIsual en Fundación CNSE",
+         "start": 195.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Belén Pérez FAXPG",
+         "start": 314.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Benjamín Conde EUSKAL GORRAK",
+         "start": 322.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa negra",
+         "screen_position": "center"
+      }
+   ]
+}

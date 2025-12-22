@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Conclusiones del I Seminario sobre alumnado sordo y Universidad",
+         "start": 0.0,
+         "duration": 66.5,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer pelo largo oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Falta de adaptaciones",
+         "start": 68.2,
+         "duration": 117.7,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer pelo largo oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Escasez de alumnado sordo en las universidades",
+         "start": 186.0,
+         "duration": 119.0,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer pelo largo oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Apuesta por la accesibilidad",
+         "start": 305.0,
+         "duration": 141.0,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer pelo largo oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Derechos del alumnado sordo",
+         "start": 446.0,
+         "duration": 112.9,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer pelo largo oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "http://bit.ly/1bGpqg",
+         "start": 459.0,
+         "duration": 2.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo oscuro, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Propuesta",
+         "start": 462.0,
+         "duration": 36.0,
+         "signer_id": 0,
+         "aligned": false,
+         "signer_description": "Mujer pelo largo oscuro, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

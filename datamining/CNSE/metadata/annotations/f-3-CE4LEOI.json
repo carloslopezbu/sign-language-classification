@@ -1,0 +1,725 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Esta semana es la Semana Internacional de las Personas Sordas.",
+         "start": 4.2,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este segundo día de la semana, vamos a centrarnos en el tema del liderazgo.",
+         "start": 6.0,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "A lo largo de nuestras vidas y de nuestra propia evolución, las personas sordas siempre hemos contado con el movimiento asociativo, conformado por las asociaciones, las federaciones y la CNSE.",
+         "start": 9.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias a ellas se han defendido nuestros derechos, incluso nuestra libertad para utilizar la lengua de signos, haciéndonos sentir parte de una comunidad.",
+         "start": 17.8,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante todo este tiempo, el movimiento asociativo ha contado con numerosos líderes que a lo largo de la historia han logrado una serie de hitos, de conquistas y de reconocimientos.",
+         "start": 25.8,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy contamos con la presencia de Roberto Suárez como invitado.",
+         "start": 39.5,
+         "duration": 1.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Roberto es una persona que forma parte del movimiento asociativo desde hace muchos años.",
+         "start": 41.5,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comenzó su andadura en la sección juvenil de la Asociación de Personas Sordas de Tenerife (ASORTE), y posteriormente en la sección de juventud sorda de la Federación de Personas Sordas de las Islas Canarias.",
+         "start": 44.8,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fue presidente de la CJS-CNSE (Comisión de Juventud Sorda de la CNSE) y vocal de la WFDYS (Sección Juvenil de la Federación Mundial de Personas Sordas), También fue presidente de la asociación de ASORTE y actualmente es miembro del Consejo de la CNSE.",
+         "start": 52.0,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "center"
+      },
+      {
+         "text": "Bienvenido Roberto.",
+         "start": 107.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "A lo largo de todos estos años de participación en el movimiento asociativo, has vivido diferentes etapas y distintos tipos de liderazgo.",
+         "start": 109.8,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Si echas la mirada atrás, según tu experiencia, ¿qué dirías que aporta a las personas sordas los diferentes liderazgos?",
+         "start": 115.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Llevo en esto aproximadamente 20 años, tiempo en el que evidentemente, el concepto de liderazgo ha ido evolucionando.",
+         "start": 126.8,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Casualmente, he estado presente en dos etapas muy diferentes del movimiento asociativo: la actual y la anterior.",
+         "start": 137.5,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, una de las cosas que marca la diferencia entre estas dos etapas es la participación de la mujer en la comunidad sorda.",
+         "start": 145.8,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Antes era bastante más escasa, y sin embargo ahora, su participación en el movimiento asociativo es muy significativa.",
+         "start": 152.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otra cuestión que ha cambiado es que antes lo habitual es que las y los líderes vinieran de familias de personas sordas. Es el caso de hijos de padres sordos que en su momento tenían mucha fuerza.",
+         "start": 201.5,
+         "duration": 11.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora, sin embargo, cualquier persona sorda, haya nacido sorda o se haya quedado sorda posteriormente, opta a ser un o una líder, dependiendo de la circunstancias de cada persona. Bien se crea en el ámbito educativo, en el laboral o al formar parte del movimiento asociativo es consciente y evoluciona dentro del mismo.",
+         "start": 213.2,
+         "duration": 16.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta diferencia también puede apreciarse antes los líderes del movimiento asociativo, eran personas que conformaban las juntas directivas. Ahora no.",
+         "start": 232.5,
+         "duration": 8.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy en día, lo son los socios y las socias que integran cada asociación o federación.",
+         "start": 241.5,
+         "duration": 3.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, antes de tomar una decisión, lo primero de todo es escuchar su opinión. Y esto, sin duda, denota un cambio.",
+         "start": 245.5,
+         "duration": 5.3,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, nos estamos encontrando cada vez más con líderes en las redes sociales, si bien es cierto que desde el movimiento asociativo no conocemos en profundidad este tipo de liderazgo que va en crecimiento.",
+         "start": 252.8,
+         "duration": 13.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tras todos estos años de bagaje en la comunidad sorda, puedo afirmar, más allá de los cambios que he vivido, que los líderes han aportado mucho a nuestra comunidad y que, además, han contribuido a mejorar nuestras vidas. Y esto es algo que no hubiera sido posible sin ellas y ellos.",
+         "start": 307.5,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "De ahí la importancia del liderazgo. La importancia de que las y los líderes estén presentes, y que reivindiquen todo aquello que necesitamos, ya sea por ejemplo mejoras legislativas, la implantación de soluciones de accesibilidad en ámbitos que habitualmente no lo eran, etc.",
+         "start": 318.8,
+         "duration": 11.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Basándonos en tu conocimiento del liderazgo, ¿dirías que un líder lo es de manera natural o que aprende a serlo? ¿Para ser un buen líder hay que seguir una serie de principios? ¿Cuáles serían?",
+         "start": 332.8,
+         "duration": 14.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay diferentes teorías al respecto, en las que se explica qué características tiene o debería tener cualquier líder.",
+         "start": 348.5,
+         "duration": 7.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "En mi opinión, hay una serie de principios por los que todo líder se debe guiar.",
+         "start": 356.5,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "En primer lugar, tener una actitud asertiva.",
+         "start": 404.8,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si carece de asertividad, considero que no sería un buen ejemplo.",
+         "start": 410.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para mí es, quizá, la cualidad más importante.",
+         "start": 415.8,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Da igual donde se sea líder: en el movimiento asociativo, con tu círculo de amigos, en las redes sociales... La asertividad es fundamental en todos los casos.",
+         "start": 418.8,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Segundo: humildad, ser una persona sencilla.",
+         "start": 428.8,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tercero: sinceridad, también es muy importante.",
+         "start": 432.8,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cuarto: empatía, algo necesario para entender a los demás.",
+         "start": 435.8,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Quinto: ser flexible. Como líder no puedes ser una persona rígida, debes saber adaptarte a diferentes situaciones.",
+         "start": 440.5,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "De hecho, una cuestión que caracteriza al movimiento asociativo es el voluntariado, y el voluntariado implica flexibilidad y compromiso.",
+         "start": 446.8,
+         "duration": 8.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Flexibilidad no significa no tener compromiso.",
+         "start": 455.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sexto: Creatividad, cómo no.",
+         "start": 502.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Séptimo: desarrollo. Un líder no está solo, sino que trabaja en grupo.",
+         "start": 505.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y de manera natural, dentro del grupo unos se enseñan a otros, y ponen en práctica un intercambio que ayuda a que todos y todas aprendamos y evolucionemos.",
+         "start": 510.5,
+         "duration": 13.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Octavo: marcarse una serie de metas y objetivos, más concretamente, metas en grupo.",
+         "start": 525.5,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "También es necesario que sepa solucionar conflictos cuando surjan, ser capaz de llevar a cabo una autorreflexión, de evaluar y analizar el trabajo realizado, y por supuesto, de analizarse a sí mismo. Son principios esenciales para mí cuando pienso cómo ha de ser un líder.",
+         "start": 532.8,
+         "duration": 16.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Existen líderes que cumplirán algunos requisitos más que otros.",
+         "start": 550.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por cierto, solemos dar más reconocimiento a las y los líderes que asumen cargos, con más protagonismo, que llevan más tiempo como líderes, que son más carismáticas/os.",
+         "start": 557.8,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pero en realidad, no son los únicos tipos de liderazgo.",
+         "start": 609.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los hay que también se mueven, que trabajan y promueven el cambio, y a los que, sin embargo, no se les ve tanto y pasan más desapercibidos.",
+         "start": 612.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Que se podría hacer para que este tipo de líderes cobraran un mayor protagonismo?",
+         "start": 619.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Efectivamente. Normalmente a quienes mejor conocemos es a la gente que tenemos a nuestro alrededor, a las más cercana, nuestro grupo de amigos, gente de nuestra asociación, incluso a conocidos del movimiento asociativo a nivel nacional.",
+         "start": 625.8,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero realmente líderes son muchos más de los que vemos.",
+         "start": 636.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por poner un ejemplo, en los grupos de jóvenes sordos que vemos por la calle: ahí hay líderes.",
+         "start": 640.8,
+         "duration": 2.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo mismo ocurre cuando ves a una persona que está organizando o dinamizando una actividad dentro de la asociación.",
+         "start": 643.8,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y estoy convencido de que, para seguir adelante, todas estas personas necesitan motivación, reconocimiento, que se valore lo que están haciendo.",
+         "start": 650.5,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y aunque a menudo se nos olvide hacerlo, es vital ver a las personas tanto dentro como fuera de nuestras entidades.",
+         "start": 658.5,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es curioso, pero a raíz del confinamiento motivado por la pandemia, me he dado cuenta de lo mucho que utilizamos las redes sociales.",
+         "start": 703.8,
+         "duration": 10.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "No es que sea nada nuevo, pero me ha asombrado ver la popularidad que han alcanzado los directos de Instagram, y comprobar como hay muchas personas sordas que se han hecho líderes en esta red social.",
+         "start": 715.5,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Incluso los líderes más conocidos en el movimiento asociativo no las conocen ni ellas a ellos. Tienen miles de seguidores, 3.000 ó 5.000.",
+         "start": 724.8,
+         "duration": 12.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Son los nuevos líderes. E incluso entre ellos mismos se ponen de acuerdo para organizar eventos especiales, por ejemplo, de humor.",
+         "start": 737.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se trata de líderes ajenos al movimiento asociativo, procedentes del ámbito del arte, la cultura...",
+         "start": 746.8,
+         "duration": 7.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "No quiero terminar sin retomar uno de los ejemplos que he explicado antes. Es una cuestión que aquí en España, era inusual hasta hace no tantos años.",
+         "start": 755.5,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "En cambio, ahora podemos verlo en la CNSE, en las federaciones... Las mujeres sordas ocupando puestos de toma de decisión.",
+         "start": 801.8,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Toda una transformación que debemos a lo mucho que la CNSE ha promovido y promueve la participación de la mujer sorda.",
+         "start": 805.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Veo que antes el perfil de liderazgo era muy concreto, y que poco a poco ha ido evolucionando, abriéndose a las mujeres, a las redes sociales.",
+         "start": 815.8,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Puede que en el futuro siga cambiando y surjan nuevos perfiles de liderazgo.",
+         "start": 823.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Y tenemos que estar atentos a ellos para darles su oportunidad, para trabajar conjuntamente con ellos, abrirles la puerta a ellos.",
+         "start": 827.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "¿Qué le trasladarías a aquellas personas, sean jóvenes o más mayores, que en el algún momento decidieran asumir un papel de liderazgo en el movimiento asociativo?",
+         "start": 834.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "En realidad, importan todos los tipos de liderazgo.",
+         "start": 844.8,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero que no olviden a la juventud, a las nuevas generaciones.",
+         "start": 847.8,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "No se trata de darles más importancia que a otros.",
+         "start": 851.8,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hay que enseñarles a transmitirles nuestro legado para garantizar una continuidad y evitar un corte generacional.",
+         "start": 855.5,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "También les recordaría que un líder vinculado al movimiento asociativo ha de ser una persona activa, reivindicativa, que mire hacia delante.",
+         "start": 903.5,
+         "duration": 14.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Porque no podemos permitirnos quedarnos atrás mientras la sociedad cambia.",
+         "start": 918.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Debemos mantener el mismo ritmo.",
+         "start": 922.8,
+         "duration": 1.7,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y aunque es cierto que esto se consigue con reivindicaciones, también requiere que estemos dispuestos a evolucionar, a mantener una actitud abierta, con personas diferentes en un futuro nuevo.",
+         "start": 924.8,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Que seamos responsables y que trabajemos en red.",
+         "start": 933.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Porque si la sociedad va cambiando, las personas deben de hacerlo con ella.",
+         "start": 938.5,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muchas gracias, Roberto, por tu argumentación, y por compartir tu punto de vista desde tu experiencia en el liderazgo.",
+         "start": 943.8,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Recordad que hay que tener presente a los líderes, a los que lo han sido, y a los que están por llegar, como ha explicado Roberto.",
+         "start": 949.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con esto damos por concluido el tema de hoy: el liderazgo.",
+         "start": 956.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Os esperamos mañana para tratar un nuevo tema. ¡Adiós!",
+         "start": 958.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "left"
+      },
+      {
+         "text": "Gracias.",
+         "start": 1003.0,
+         "duration": 0.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas",
+         "screen_position": "right"
+      }
+   ]
+}

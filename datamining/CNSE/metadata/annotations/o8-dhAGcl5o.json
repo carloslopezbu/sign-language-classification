@@ -1,0 +1,815 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, buenos días, soy Javier Martínez fisioterapeuta de ACCEM y en este vídeo",
+         "start": 9.516,
+         "duration": 7.666,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "os voy a explicar una serie de ejercicios muy sencillitos para ganar equilibrio",
+         "start": 17.182,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "en bipedestación, es decir, cuando estamos de pie.",
+         "start": 20.185,
+         "duration": 2.202,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello, lo primero que necesitamos es un entorno seguro.",
+         "start": 22.387,
+         "duration": 3.804,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Yo en este caso he preparado una mesa y una silla.",
+         "start": 26.191,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ustedes en sus casas pueden ponerse dos sillas, dos mesas.",
+         "start": 30.195,
+         "duration": 4.004,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es muy importante estar seguros en estos ejercicios.",
+         "start": 34.199,
+         "duration": 3.203,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a hacer equilibrios de juntar pies, levantar una pierna, levantar la otra,",
+         "start": 37.402,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "entonces ante una pérdida de equilibrio o el riesgo que tenemos de caída, es muy importante tener un lugar seguro donde agarrarnos y nos pueda sujetar.",
+         "start": 42.407,
+         "duration": 8.809,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vale.",
+         "start": 51.216,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El primer ejercicio que vamos a realizar, aunque puede parecer muy sencillo, tiene su complicación.",
+         "start": 52.817,
+         "duration": 5.606,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es juntar los pies, mantenerlos ahí e intentar liberarnos de las manos.",
+         "start": 61.626,
+         "duration": 4.805,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En principio, empezamos con apoyos a ambos lados.",
+         "start": 66.431,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Liberamos una mano y si nos vemos seguros y vemos que podemos, liberamos la segunda mano.",
+         "start": 71.236,
+         "duration": 4.805,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y nos mantenemos ahí con todo el cuerpo estirado y el apoyo de ambos pies lo más junto que podamos.",
+         "start": 79.845,
+         "duration": 3.804,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Contamos aquí hasta veinte.",
+         "start": 87.652,
+         "duration": 1.201,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y una vez pasado este tiempo, nos sujetamos y podemos separar.",
+         "start": 88.853,
+         "duration": 4.204,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Yo no hago los veinte segundos porque si no se nos hace muy largo el vídeo.",
+         "start": 94.659,
+         "duration": 4.605,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El segundo ejercicio, de la misma forma empezamos agarrados y vamos a poner un pie delante de otro.",
+         "start": 99.264,
+         "duration": 7.607,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y lo mismo, una vez tenemos ahí los dos pies, liberamos una mano y liberamos la otra en la medida que podamos y quien pueda.",
+         "start": 111.476,
+         "duration": 7.608,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si nos encontramos más seguros sujetándonos a la silla, la mesa o creemos que nos vamos a caer pues sujetos.",
+         "start": 119.084,
+         "duration": 9.809,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Se colocan, un pie delante de otro.",
+         "start": 131.696,
+         "duration": 2.603,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El ejercicio final es tratar de mantener sin la sujeción de ninguna de las dos manos.",
+         "start": 136.401,
+         "duration": 4.905,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "De la misma forma contamos hasta veinte, veinte segunditos.",
+         "start": 141.306,
+         "duration": 5.806,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El siguiente, como vemos, va a ir un poco en orden de dificultad.",
+         "start": 147.112,
+         "duration": 5.205,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El siguiente sí que es más seguro, siempre sujeto de una mano y lo que vamos a hacer es levantar la rodilla contraria.",
+         "start": 154.52,
+         "duration": 10.81,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si nos agarramos con la mano izquierda, levantamos la rodilla contraria.",
+         "start": 165.33,
+         "duration": 6.006,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Aquí tenemos la rodilla diez segundos levantada.",
+         "start": 174.94,
+         "duration": 4.204,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y cambiamos de la misma forma con la otra rodilla.",
+         "start": 179.144,
+         "duration": 3.403,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Agarramos con el brazo derecho, rodilla izquierda, levantamos y simplemente mantenerse a la pata coja con un pie.",
+         "start": 183.348,
+         "duration": 6.006,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Que ustedes no se sienten seguros en esta posición, agárrense a ambos lados.",
+         "start": 190.956,
+         "duration": 3.604,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siguiente ejercicio.",
+         "start": 197.763,
+         "duration": 1.001,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Con los pies a la altura de las caderas y los hombros.",
+         "start": 198.764,
+         "duration": 3.403,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siempre sujeción de una o ambas manos, en función de lo que pueda cada persona.",
+         "start": 202.167,
+         "duration": 5.406,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El ejercicio es ponerse de puntillas.",
+         "start": 210.376,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Llegar hasta diez veces.",
+         "start": 213.379,
+         "duration": 3.804,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos.",
+         "start": 218.784,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres.",
+         "start": 220.185,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 224.189,
+         "duration": 1.402,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 227.593,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seis.",
+         "start": 230.796,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 233.799,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ocho.",
+         "start": 236.802,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nueve.",
+         "start": 240.205,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Diez.",
+         "start": 243.208,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "De la misma forma el siguiente ejercicio también serán diez repeticiones con cada pierna.",
+         "start": 244.609,
+         "duration": 4.805,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Levantar la rodilla todo lo que podamos.",
+         "start": 249.414,
+         "duration": 2.803,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Igualmente la sujeción que necesitemos.",
+         "start": 252.217,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos.",
+         "start": 258.824,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres.",
+         "start": 262.027,
+         "duration": 1.602,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 265.23,
+         "duration": 1.402,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Hasta diez, igualmente con la otra rodilla.",
+         "start": 266.632,
+         "duration": 4.604,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos.",
+         "start": 274.44,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres.",
+         "start": 277.443,
+         "duration": 2.602,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 281.647,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 284.65,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seis.",
+         "start": 287.853,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 291.056,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ocho.",
+         "start": 294.66,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nueve.",
+         "start": 297.863,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Diez.",
+         "start": 300.866,
+         "duration": 1.201,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El siguiente ejercicio es un poco más dinámico.",
+         "start": 302.067,
+         "duration": 2.803,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Igualmente, los pies a la anchura de los hombros y vamos a intentar primero llevar peso a uno de los pies, y luego hacia el otro.",
+         "start": 306.872,
+         "duration": 7.207,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Llevamos peso al pie derecho y despegamos un poquito el talón izquierdo.",
+         "start": 317.082,
+         "duration": 5.205,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Estando agarrados, llevamos peso al pie derecho levantando el talón contrario.",
+         "start": 332.898,
+         "duration": 5.405,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Mantenemos ahí unos segunditos y lo llevamos al lado contrario.",
+         "start": 338.303,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora llevamos peso al pie izquierdo, y levantamos el talón contrario, el derecho.",
+         "start": 341.306,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Hacemos este cambio cuatro o cinco veces.",
+         "start": 349.915,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Peso a un lado y peso al otro.",
+         "start": 355.521,
+         "duration": 2.002,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vale, hecho éste, nos sujetamos ahora con las dos manos a una silla por detrás y los ejercicios que vamos a realizar son de levantar hacia atrás las piernas.",
+         "start": 372.138,
+         "duration": 11.812,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "La pierna derecha diez veces.",
+         "start": 388.755,
+         "duration": 1.601,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos.",
+         "start": 393.96,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres.",
+         "start": 396.963,
+         "duration": 1.401,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro.",
+         "start": 399.965,
+         "duration": 1.201,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Hasta diez e igualmente con la izquierda diez repeticiones, el mismo movimiento.",
+         "start": 401.166,
+         "duration": 6.006,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es importante que ni nos echemos mucho hacia delante ni nos volquemos hacia atrás.",
+         "start": 407.172,
+         "duration": 4.605,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El cuerpo todo lo recto posible y mover solo esa pierna.",
+         "start": 411.777,
+         "duration": 5.405,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ir ganando equilibrio, si nos vemos capacitados lo primero, iremos soltando una mano, perdiendo agarres de la silla, soltamos una mano y luego soltamos la otra.",
+         "start": 419.985,
+         "duration": 12.412,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El final del ejercicio sería intentar realizarlo con las manos sin ningún tipo de agarre.",
+         "start": 432.397,
+         "duration": 7.608,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pero ya les digo, que según se vean.",
+         "start": 440.005,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si ven que es muy difícil o que necesitan agarre pues siguen con su agarre.",
+         "start": 443.008,
+         "duration": 5.005,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para terminar, este ejercicio ya es de un nivel de dificultad mayor.",
+         "start": 448.013,
+         "duration": 5.806,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Entonces, podrían hacerlo en un pasillo porque vamos a necesitar un espacio para movernos hacia delante.",
+         "start": 455.02,
+         "duration": 5.606,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "O de una persona si tenemos en casa que nos pueda ayudar, que nos dé un agarre en un lado, en un brazo.",
+         "start": 461.827,
+         "duration": 6.206,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Entonces, es colocar los pies como antes, en tándem, uno delante de otro y caminar así.",
+         "start": 468.033,
+         "duration": 5.606,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Repito.",
+         "start": 478.244,
+         "duration": 0.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siempre les digo con un agarre a un lado a otro o a ambos lados si puede ser, un pasillo o un lugar estrecho en el que puedan sujetarse.",
+         "start": 481.247,
+         "duration": 6.006,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Un pie, otro delante.",
+         "start": 487.253,
+         "duration": 2.803,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y vamos colocando el talón en la punta del pie anterior.",
+         "start": 490.056,
+         "duration": 4.404,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esto, haremos recorridos de cuatro o cinco metros y descansaremos un poquito, tres, cuatro repeticiones de este paseo ¿vale?",
+         "start": 495.861,
+         "duration": 7.207,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo castaño recogido, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

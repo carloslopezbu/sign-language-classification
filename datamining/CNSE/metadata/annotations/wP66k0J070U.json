@@ -1,0 +1,563 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "El presidente del Gobierno, Pedro Sánchez, tras la declaración del Estado de Alarma en todo el territorio nacional,",
+         "start": 0.8,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "ha comparecido hoy para anunciar las medidas del Estado de Alarma.",
+         "start": 6.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Su duración será de 15 días, pudiéndose prorrogar en caso de necesidad.",
+         "start": 11.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Todas las medidas impuestas son de obligado cumplimiento para asegurar la seguridad y la salud.",
+         "start": 18.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Solo se podrá circular por las vías de uso público para:",
+         "start": 28.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "1. Comprar comida, medicamentos y productos de primera necesidad.",
+         "start": 33.8,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "2. Ir al médico",
+         "start": 42.8,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "3. Ir a trabajar",
+         "start": 45.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "4. Cuidar a mayores, menores, personas dependientes, personas con discapacidad o personas especialmente vulnerables.",
+         "start": 47.8,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "5. Ir al banco",
+         "start": 60.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "6. Por alguna otra causa de fuerza mayor o situación de mucha necesidad o urgencia.",
+         "start": 63.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Se puede circular en nuestros vehículos particulares para realizar las actividades anteriores, o bien, para repostar en gasolineras.",
+         "start": 70.8,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "El Gobierno puede ordenar el cierre o restricción de la circulación si fuera necesario, por razones de salud pública, seguridad o fluidez del tráfico.",
+         "start": 81.8,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las empresas tanto públicas como privadas están obligadas a facilitar el trabajo no presencial, en la medida de lo posible.",
+         "start": 97.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Quedan suspendida la actividad educativa presencial en todos los centros y etapas de enseñanza.",
+         "start": 111.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Durante este tiempo, se mantendrán las actividades educativas a través de las modalidades a distancia y «on line», siempre que resulte posible.",
+         "start": 118.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cierre de todos los establecimientos cerrados o al aire libre, que puedan suponer un riesgo de contagio:",
+         "start": 130.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "cines, teatros, gimnasios, discotecas, tiendas, parques recreativos, polideportivos, etc.",
+         "start": 138.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Quedan suspendidas también las verbenas, desfiles, procesiones, y fiestas populares.",
+         "start": 150.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Permanecerán abiertos supermercados o tiendas de alimentación, gasolineras, estancos, quioscos de prensa, y farmacias y tiendas de comida y bebidas y productos de primera necesidad.",
+         "start": 157.0,
+         "duration": 20.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "A éstas se unen tiendas de animales, ópticas, ortopedias, tintorerías, peluquerías, y comercio por internet o telefónico.",
+         "start": 178.0,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "En estos lugares, se evitarán aglomeraciones y se controlará que clientes y empleados mantengan la distancia de seguridad de al menos un metro, a fin de evitar posibles contagios.",
+         "start": 194.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "El Gobierno garantizará que no falten productos, se encargará de asegurar el transporte de mercancías en todo el país, y velará por el buen funcionamiento de los centros de producción.",
+         "start": 208.0,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "También está garantizado el suministro de energía eléctrica, gasolina y gasoil, y gas natural.",
+         "start": 223.5,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "En cuanto a las cafeterías y restaurantes, permanecerán cerrados al público, pudiendo prestar exclusivamente servicios de entrega a domicilio.",
+         "start": 230.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La asistencia a los lugares de culto, por ejemplo iglesias, y otras ceremonias civiles, se realizarán cumpliendo las medidas de evitar aglomeraciones de personas.",
+         "start": 241.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Dependerán de las dimensiones y características de los lugares, de tal manera que entre los asistentes haya una distancia de al menos un metro.",
+         "start": 251.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las compañías de tren, autobuses, barcos, etc, reducirán la venta de billetes en al menos un 50% para cumplir la distancia de seguridad adecuada entre pasajeros.",
+         "start": 261.0,
+         "duration": 19.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los servicios de transporte público, metro, autobús, tranvías, etc, seguirán funcionando de modo que se garantice que los ciudadanos puedan acceder a sus puestos de trabajo, y a los servicios básicos.",
+         "start": 281.0,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Todos los medios de transporte de pasajeros están obligados a realizar una limpieza diaria de los vehículos de transporte de acuerdo con las recomendaciones que establezca el Ministerio de Sanidad.",
+         "start": 297.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Con la declaración del Estado de Alarma, la autoridad competente en toda España es el Gobierno, que centralizará todas las decisiones.",
+         "start": 310.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las fuerzas de seguridad al completo, tanto las nacionales como las autonómicas y locales, y las fuerzas armadas, estarán a sus órdenes.",
+         "start": 318.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las ciudadanas y ciudadanos tenemos el deber de colaborar y no obstaculizar la labor de las autoridades, y cumplir con las medidas y límites que ha impuesto el Gobierno con motivo del Estado de Alarma.",
+         "start": 327.8,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "El incumplimiento o la resistencia a las órdenes de las autoridades, será sancionado o multado con arreglo a la Ley.",
+         "start": 344.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "En cuanto a cualquier otra falta o delito, la Justicia seguirá actuando como hasta ahora, haciendo cumplir el ordenamiento jurídico español.",
+         "start": 352.0,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "El presidente del Gobierno ha finalizado su intervención, dirigiendo varios mensajes al conjunto de la sociedad.",
+         "start": 366.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Queremos proteger a las españolas y españoles y ganar al coronavirus.",
+         "start": 375.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No escatimaremos en esfuerzos y pondremos a disposición los recursos y medidas necesarias para apoyar a las familias, a los trabajadores, y a las empresas.",
+         "start": 381.0,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es momento de dejar a un lado las diferencias.",
+         "start": 394.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La lucha contra el coronavirus no entiende de colores políticos, ni ideologías. Entiende de unidad.",
+         "start": 398.0,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debemos trabajar juntos, para dar una respuesta común a esta crisis.",
+         "start": 408.0,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fomentando el diálogo, la coordinación y la cooperación territorial.",
+         "start": 414.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque todos tenemos un mismo objetivo:",
+         "start": 420.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "frenar la curva, reducir la propagación, detener el contagio, y eliminar el virus.",
+         "start": 424.0,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta es una época de esfuerzos y sacrificios.",
+         "start": 434.0,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y por eso, apelo a la responsabilidad social, a la disciplina, al sentido de comunidad, a la solidaridad.",
+         "start": 437.0,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No perdamos el rumbo, ni nos dejemos vencer por el pánico.",
+         "start": 446.0,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La victoria sobre el virus comenzará cuando el número de altas médicas sea superior al de nuevos infectados,",
+         "start": 450.0,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "será mayor cuando caiga en picado la propagación a nuevos enfermos, y será total cuando, además de eliminarlo, contemos con una vacuna que evite futuras pandemias.",
+         "start": 459.0,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuidémonos a nosotros mismos y cuidemos a los demás. En especial, a los más vulnerables.",
+         "start": 471.0,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy debemos recordar que en la crisis económica de 2008 nos salvaron nuestros mayores, y en esta crisis son ellos los que más necesitan nuestra ayuda. Vamos todos a una.",
+         "start": 479.0,
+         "duration": 13.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias los profesionales de la salud que sois ejemplo de heroicidad con vuestra entrega y vuestro trabajo;",
+         "start": 493.0,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las autoridades locales, autonómicas, europeas e internacionales, que ponéis por delante el interés común y la unidad de acción;",
+         "start": 500.0,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las fuerzas de seguridad que veláis por el orden público a los investigadores que trabajáis a contrarreloj para encontrar la cura del COVID-19;",
+         "start": 511.0,
+         "duration": 15.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "al mundo de la cultura, a los medios de comunicación, a las empresas y autónomos por sacrificar vuestros ingresos en pos de la seguridad y la salud;",
+         "start": 527.0,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las madres y padres que tranquilizáis a vuestros hijos;",
+         "start": 538.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "a quienes cuidáis de las personas más vulnerables.",
+         "start": 543.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando esto pase, que pasará, seguiremos avanzando.",
+         "start": 549.0,
+         "duration": 4.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y será gracias a nuestra fortaleza.",
+         "start": 554.0,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "España es capaz de recuperarse ante la adversidad.",
+         "start": 557.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Capaz de levantarse cuantas veces haga falta.",
+         "start": 563.0,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "De este desafío hay que salir unidos.",
+         "start": 569.0,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, jersey negro",
+         "screen_position": "center"
+      }
+   ]
+}

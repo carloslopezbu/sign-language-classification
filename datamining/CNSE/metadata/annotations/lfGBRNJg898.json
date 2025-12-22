@@ -1,0 +1,104 @@
+{
+   "num_signers": 11,
+   "annotations": [
+      {
+         "text": "Francisco Sánchez Presidente de ASP Alcalá de Henares",
+         "start": 31.398,
+         "duration": 8.042,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y americana",
+         "screen_position": "center"
+      },
+      {
+         "text": "Concepción Rodríguez Presidenta FeSorCam",
+         "start": 40.541,
+         "duration": 47.621,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con pañuelo amarillo y americana",
+         "screen_position": "left"
+      },
+      {
+         "text": "Concha Díaz Presidenta CNSE",
+         "start": 129.263,
+         "duration": 32.099,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto y americana",
+         "screen_position": "right"
+      },
+      {
+         "text": "Félix Jesús Pinedo Presidente Honor CNSE",
+         "start": 202.463,
+         "duration": 18.525,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre mayor con gafas y traje",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ana Mª Caballero Vicepresidenta CJS-CNSE",
+         "start": 222.089,
+         "duration": 24.258,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo con camiseta oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pere Castenys Secretario Gral CJS-CNSE",
+         "start": 247.448,
+         "duration": 8.707,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y camisa de rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "José Manuel Cercas Presidente FEXAS",
+         "start": 417.384,
+         "duration": 14.098,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con barba y jersey gris",
+         "screen_position": "center"
+      },
+      {
+         "text": "Álex Fernández Miembro Consejo FAAS",
+         "start": 432.583,
+         "duration": 28.697,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Hombre con jersey de rayas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Álvaro Ortega Presidente Euskal Gorrak",
+         "start": 502.381,
+         "duration": 25.426,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Hombre calvo con camisa azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Alfonso Santos Feijoo",
+         "start": 643.71,
+         "duration": 17.718,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre mayor con camisa oscura",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ramón Navas Rodríguez",
+         "start": 702.529,
+         "duration": 17.525,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo rosa",
+         "screen_position": "center"
+      }
+   ]
+}

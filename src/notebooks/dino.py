@@ -16,31 +16,51 @@ def imports():
     import torch.nn.functional as F
     from PIL import Image
     from torchvision.transforms import v2
-    return Image, np, os, plt, torch, v2
+    import torchvision as tv
+    #import torchcodec as tc
+    import av
+    return F, Image, os, plt, torch, tv, v2
 
 
 @app.cell
 def _():
-    DINOV3_REPO_DIR = "./src/dinov3"  # Ruta al repo clonado
-    WEIGHTS_PATH = "dinov3_vitl16_pretrain_lvd1689m-8aa4cbdd.pth"
-    WEIGHTS_PATH ="/Users/more/Desktop/tfg/models/dinov3/2dinov3_vits16plus_pretrain_lvd1689m-4057cbaa.pth"  # Tu archivo .pt
+    DINOV3_REPO_DIR = "./src/model/dinov3"  # Ruta al repo clonado
 
+    WEIGHTS_PATH = "/Users/more/Desktop/tfg/models/dinov3/dinov3_vitb16plus_pretrain_lvd1689m-4057cbaa.pth"
 
     IMAGE_PATH = "/Users/more/Desktop/tfg/datamining/samples/cat.webp"
     MODEL_NAME = "dinov3_vits16plus"  # Cambiar según tu modelo
-    return DINOV3_REPO_DIR, IMAGE_PATH, MODEL_NAME, WEIGHTS_PATH
+
+    WEIGHTS_PATH="/Users/more/Desktop/tfg/models/dinov3/dinov3_vitb16_pretrain_lvd1689m-73cec8be.pth"
+    return IMAGE_PATH, WEIGHTS_PATH
 
 
 @app.cell
-def _(DINOV3_REPO_DIR, MODEL_NAME, WEIGHTS_PATH, torch):
-    model = torch.hub.load(
-        repo_or_dir=DINOV3_REPO_DIR, 
-        model=MODEL_NAME, 
-        source="local", 
-        weights=WEIGHTS_PATH, 
-        verbose=True, 
-        pretrained=True
-    ).to("mps")
+def _(WEIGHTS_PATH, os, torch):
+
+
+    import dotenv
+    dotenv.load_dotenv()
+
+    repo = os.getenv("REPO")
+
+
+    class DinoV3BaseViT:
+        @staticmethod
+        def from_path(weights: str, **kwargs) :
+            model = torch.hub.load(
+                repo_or_dir=repo,
+                model="dinov3_vitb16",
+                weights=weights,
+                pretrained=True,
+                source="local",
+                verbose=False,
+                force_reload=True,
+                kwargs=kwargs,
+            )
+            return model
+
+    model = DinoV3BaseViT.from_path(weights=WEIGHTS_PATH).to("mps")
     return (model,)
 
 
@@ -74,85 +94,36 @@ def _(IMAGE_PATH, Image, transform):
 @app.cell
 def _(img, model, torch):
     with torch.no_grad():
-        res = model.get_intermediate_layers(img, n=range(12),norm=True)[-1]
+        cls_token = model(img) 
+        res = model.forward_features(img)
 
     dim = res
     #res = res.view(dim, -1).permute(1, 0)
-    return (res,)
+    return cls_token, res
 
 
 @app.cell
-def _(res):
-    res.shape
+def _(cls_token):
+    cls_token
     return
 
 
 @app.cell
-def _():
-    from torch.utils.data import Dataset, DataLoader, TensorDataset
-    from sklearn.svm import LinearSVC, SVC
-    from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
-    import seaborn as sns
-    import pandas as pd
-    return (
-        DataLoader,
-        Dataset,
-        SVC,
-        TensorDataset,
-        accuracy_score,
-        classification_report,
-        confusion_matrix,
-        pd,
-        sns,
-    )
+def _(res):
+    list(res.keys())
+    return
 
 
 @app.cell
-def _(Dataset, Image, os, pd):
-    class PollenDataset(Dataset):
-        def __init__(self, csv_file, img_dir, transform=None, filter_classes=None, limit_per_class=None):
-            self.img_dir = img_dir
-            self.transform = transform
+def _(res):
+    res["x_norm_patchtokens"].shape
+    return
 
-            # 1. Cargar CSV
-            df = pd.read_csv(csv_file)
 
-            # 2. Filtrar Clases (si se proporcionan)
-            if filter_classes is not None:
-                df = df[df['species'].isin(filter_classes)]
-
-            # 3. Limitar muestras por clase (Balanced subsampling)
-            if limit_per_class is not None:
-                # Esto toma las primeras N filas de cada grupo (specie)
-                df = df.groupby('species').head(limit_per_class).reset_index(drop=True)
-
-            self.data = df
-
-            # Definir clases y mapeo (Importante: ordenar para consistencia)
-            self.classes = sorted(self.data['species'].unique().tolist())
-            self.class_to_idx = {cls_name: i for i, cls_name in enumerate(self.classes)}
-
-            # Reporte
-            print(f"📊 Dataset cargado ({os.path.basename(csv_file)}): {len(self.data)} imágenes, {len(self.classes)} clases.")
-            print(f"   -> Distribución: {self.data['species'].value_counts().to_dict()}")
-
-        def __len__(self):
-            return len(self.data)
-
-        def __getitem__(self, idx):
-            row = self.data.iloc[idx]
-            img_name, label_name = row['sample'], row['species']
-            img_path = os.path.join(self.img_dir, img_name)
-
-            try:
-                image = Image.open(img_path).convert("RGB")
-            except:
-                image = Image.new('RGB', (224, 224))
-
-            if self.transform:
-                image = self.transform(image)
-            return image, self.class_to_idx[label_name]
-    return (PollenDataset,)
+@app.cell
+def _(cls_token, res, torch):
+    torch.mean(cls_token - res["x_norm_clstoken"])
+    return
 
 
 @app.cell
@@ -163,331 +134,349 @@ def _(torch, v2):
         v2.ToDtype(torch.float32, scale=True),
         v2.Normalize(mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225)),
     ])
+    return (trans,)
+
+
+@app.cell
+def _(tv):
+
+    video = tv.io.read_video(filename="./datamining/CNSE/metadata/slices/-9SqXjh8Y-I-slice-0.mp4", pts_unit="sec", output_format="TCHW")
+    return (video,)
+
+
+@app.cell
+def _(video):
+    video[0].shape
     return
 
 
 @app.cell
-def _(DataLoader, PollenDataset, model, np, os, pd, torch, transform):
-    def extract_features(dataloader, subset_name):
-        print(f"🚀 Extrayendo features: {subset_name}...")
-        features_list, labels_list = [], []
+def _(video):
+    video[0][0].shape
+    return
+
+
+@app.cell
+def _(model, torch, transform, video):
+    with torch.no_grad():
+        in_video = transform(video[0]).to("mps")
+        out=model(in_video)
+    return (out,)
+
+
+@app.cell
+def _(out):
+    out.shape
+    return
+
+
+@app.cell
+def _(video):
+    video[-1]
+    return
+
+
+@app.cell
+def _(F, model, plt, torch, trans, video):
+    import math
+    def visualize_attention(model, img_tensor, patch_size=16, device="cuda", output_path="attention_map.png"):
+        """
+        Visualiza la atención del token CLS del último bloque del modelo.
+        Versión robusta que autocalcula el tamaño de la cuadrícula (Grid Size).
+        """
+        # Asegurar que el modelo esté en evaluación y en el dispositivo correcto
+        model.eval()
+        model.to(device)
+        img_tensor = img_tensor.to(device)
+
+        # Obtener dimensiones originales para calcular el ratio de aspecto
+        _, _, H_orig, W_orig = img_tensor.shape
 
         with torch.no_grad():
-            for imgs, lbls in dataloader:
-                imgs = imgs.to(DEVICE)
-                # DINOv3 forward -> suele devolver class token o features
-                out = model(imgs)
-                # Si devuelve tupla, cogemos el primero (CLS)
-                if isinstance(out, (tuple, list)): out = out[0]
-                # Si tiene dimensiones extra [B, N, D], aplanamos o cogemos CLS
-                if out.dim() == 3: out = out[:, 0, :]
+            # 1. Preparar tokens (CLS + REGISTERS + PATCHES)
+            # prepare_tokens_with_masks maneja el padding/resize interno si lo hay
+            x, (H_padded, W_padded) = model.prepare_tokens_with_masks(img_tensor)
 
-                features_list.append(out.cpu().numpy())
-                labels_list.append(lbls.numpy())
+            # RoPE (Embeddings posicionales)
+            if model.rope_embed is not None:
+                rope_sincos = model.rope_embed(H=H_padded, W=W_padded)
+            else:
+                rope_sincos = None
 
-        return np.concatenate(features_list), np.concatenate(labels_list)
-    DEVICE="mps"
-    BASE_DIR = "."
-    BATCH_SIZE = 32
-    TRAIN_CSV = os.path.join(BASE_DIR, "train.csv")
-    VALID_CSV = os.path.join(BASE_DIR, "valid.csv")
-    TRAIN_IMG_DIR = os.path.join(BASE_DIR, "train")
-    VALID_IMG_DIR = os.path.join(BASE_DIR, "valid")
+            # 2. Pasar por los bloques hasta el penúltimo (N-1)
+            for i, blk in enumerate(model.blocks[:-1]):
+                x = blk(x, rope_sincos)
 
-    df_temp = pd.read_csv(TRAIN_CSV)
-    N_CLASSES=5
-    SAMPLES_PER_CLASS=200
-    top_classes = df_temp['species'].value_counts().nlargest(N_CLASSES).index.tolist()
-    print(f"\n🎯 Clases seleccionadas ({N_CLASSES}): {top_classes}")
-    # Preparar Loaders
-    ds_train = PollenDataset(
-        TRAIN_CSV, TRAIN_IMG_DIR, transform, 
-        filter_classes=top_classes, 
-        limit_per_class=SAMPLES_PER_CLASS # 500 por clase
-    )
+            # 3. Calcular atención manualmente en el ÚLTIMO bloque
+            last_block = model.blocks[-1]
 
-    ds_val = PollenDataset(
-        VALID_CSV, VALID_IMG_DIR, transform, 
-        filter_classes=top_classes,
-        limit_per_class=100 # Reducimos validación también para ir rápido (ej. 100 por clase)
-    )
+            try:
+                # A. Normalización (Pre-Norm)
+                # Buscamos 'norm1' o 'norm' o la primera LayerNorm disponible
+                norm_layer = getattr(last_block, 'norm1', getattr(last_block, 'norm', None))
+                if norm_layer is None:
+                    for m in last_block.children():
+                        if isinstance(m, (torch.nn.LayerNorm, type(model.norm))):
+                            norm_layer = m
+                            break
 
-    dl_train = DataLoader(ds_train, batch_size=BATCH_SIZE, shuffle=False)
-    dl_val = DataLoader(ds_val, batch_size=BATCH_SIZE, shuffle=False)
-    # Ejecutar extracción
-    X_train, y_train = extract_features(dl_train, "TRAIN")
-    X_val, y_val = extract_features(dl_val, "VALID")
-    return DEVICE, X_train, X_val, ds_train, top_classes, y_train, y_val
+                x_norm = norm_layer(x)
 
+                # B. Proyección QKV
+                attn_layer = getattr(last_block, 'attn', None)
+                qkv_layer = getattr(attn_layer, 'qkv', None)
 
-@app.cell
-def _(
-    SVC,
-    X_train,
-    X_val,
-    acc,
-    accuracy_score,
-    classification_report,
-    confusion_matrix,
-    ds_train,
-    plt,
-    sns,
-    y_train,
-    y_val,
-):
-    print(f"✅ Extracción completada. Train shape: {X_train.shape}")
+                B, N, C = x_norm.shape
+                num_heads = model.num_heads
+                head_dim = C // num_heads
 
-    # --- 4. ENTRENAR SVM ---
-    print("🧠 Entrenando SVM Lineal...")
-    clf_svm = SVC(degree=5,gamma=0.01, C=1000, max_iter=1000)
-    clf_svm.fit(X_train, y_train)
+                # Calcular Q, K, V
+                # Shape: [3, B, Heads, N, Head_Dim]
+                qkv = qkv_layer(x_norm).reshape(B, N, 3, num_heads, head_dim).permute(2, 0, 3, 1, 4)
+                q, k, v = qkv[0], qkv[1], qkv[2]
 
-    # Predicción
-    y_pred_svm = clf_svm.predict(X_val)
-    acc_svm = accuracy_score(y_val, y_pred_svm)
+                # C. Atención: (Q @ K.T) / scale
+                attn_score = (q @ k.transpose(-2, -1)) * (1.0 / (head_dim ** 0.5))
+                attn_probs = attn_score.softmax(dim=-1) # [B, Heads, N, N]
 
-    # --- 5. RESULTADOS ---
-    print("="*60)
-    print(f"🏆 ACCURACY FINAL: {acc:.2%}")
-    print("="*60)
+            except AttributeError as e:
+                print(f"❌ Error accediendo a capas internas: {e}")
+                return
 
-    # Mostrar reporte
-    print("\n--- Classification Report ---")
-    print(classification_report(y_val, y_pred_svm, target_names=ds_train.classes))
+            # 4. Extraer y procesar el mapa de atención
+            n_storage = model.n_storage_tokens
 
-    # Mostrar matriz de confusión
-    cm_svm = confusion_matrix(y_val, y_pred_svm)
-    fig_svm, ax = plt.subplots(figsize=(10, 8))
-    sns.heatmap(cm_svm, annot=True, fmt='d', cmap='Blues',
-                xticklabels=ds_train.classes, yticklabels=ds_train.classes)
-    plt.title(f"Matriz de Confusión (Acc: {acc:.2%})")
-    plt.ylabel('Real')
-    plt.xlabel('Predicho')
-    plt.tight_layout()
-    plt.show() # O mo.ui.p
-    return
+            # Fila 0 (CLS queries), Columnas [1+Registros : Final] (Patch Keys)
+            # Esto elimina el CLS y los Registros del mapa visual
+            cls_attn = attn_probs[0, :, 0, 1 + n_storage :] # [Heads, Num_Visual_Tokens]
 
+            # Promedio sobre las cabezas (Heads)
+            cls_attn_mean = cls_attn.mean(dim=0) # [Num_Visual_Tokens]
 
-@app.cell
-def _(
-    DEVICE,
-    DataLoader,
-    TensorDataset,
-    X_train,
-    X_val,
-    accuracy_score,
-    classification_report,
-    confusion_matrix,
-    plt,
-    sns,
-    top_classes,
-    torch,
-    y_train,
-    y_val,
-):
-    # Definir la MLP de 3 capas
+            # --- LÓGICA DE RESHAPE ROBUSTA (AQUÍ ESTABA EL ERROR) ---
+            num_tokens = cls_attn_mean.shape[0]
 
-    from torch import nn
-    from torch import optim
+            # Calculamos grid aproximado basado en el aspect ratio de la imagen original
+            aspect_ratio = W_orig / H_orig
 
-    print(f"✅ Features extraídas. Shape: {X_train.shape}")
+            # w * h = num_tokens  AND  w / h = aspect_ratio
+            # w = sqrt(num_tokens * aspect_ratio)
+            grid_w = int(math.sqrt(num_tokens * aspect_ratio))
+            grid_h = num_tokens // grid_w
 
-    # --- 4. DEFINIR Y ENTRENAR RED NEURONAL (MLP) ---
+            # Ajuste fino si el redondeo falla
+            if grid_w * grid_h != num_tokens:
+                # Intentamos ajustar h
+                grid_h = int(num_tokens / grid_w)
+                # Si sigue fallando, probamos w
+                if grid_w * grid_h != num_tokens:
+                     # Fallback: Asumir cuadrado y recortar si sobra (caso raro)
+                     grid_w = int(math.sqrt(num_tokens))
+                     grid_h = grid_w
+                     print(f"⚠️ Advertencia: Grid irregular ({num_tokens} tokens). Forzando {grid_w}x{grid_h}.")
+                     cls_attn_mean = cls_attn_mean[:grid_w*grid_h]
 
-    # Crear DataLoaders para las Features (Entrenamiento mucho más rápido)
-    train_feat_ds = TensorDataset(torch.from_numpy(X_train), torch.from_numpy(y_train))
-    val_feat_ds = TensorDataset(torch.from_numpy(X_val), torch.from_numpy(y_val))
-    train_loader = DataLoader(train_feat_ds, batch_size=64, shuffle=True)
-    val_loader = DataLoader(val_feat_ds, batch_size=64, shuffle=False)
+            print(f"✅ Grid detectado: {grid_h}x{grid_w} (Total tokens usados: {grid_w*grid_h})")
 
-    # Definir la MLP de 3 capas
-    class SimpleMLP(nn.Module):
-        def __init__(self, input_dim, num_classes):
-            super(SimpleMLP, self).__init__()
-            self.layers = nn.Sequential(
-                nn.Linear(input_dim, 512),
-                nn.ReLU(),
-                nn.Dropout(0.3),          # Evitar sobreajuste
-                nn.Linear(512, 256),
-                nn.ReLU(),
-                nn.Dropout(0.2),
-                nn.Linear(256, num_classes)
-            )
+            # Reshape final
+            attn_map = cls_attn_mean.reshape(grid_h, grid_w).detach().cpu().numpy()
 
-        def forward(self, x):
-            return self.layers(x)
+        # 5. Visualización
+        plt.figure(figsize=(12, 6))
 
-    LR=0.001
-    EPOCHS=100
-    # Instanciar modelo
-    input_dim = X_train.shape[1]
-    mlp_model = SimpleMLP(input_dim, len(top_classes)).to(DEVICE)
-    criterion = nn.CrossEntropyLoss()
-    optimizer = optim.Adam(mlp_model.parameters(), lr=LR)
+        # A. Imagen Original
+        # Des-normalización estándar de ImageNet para visualización
+        mean = torch.tensor([0.485, 0.456, 0.406]).view(3, 1, 1).to(device)
+        std = torch.tensor([0.229, 0.224, 0.225]).view(3, 1, 1).to(device)
+        img_disp = img_tensor[0] * std + mean
+        img_disp = img_disp.clamp(0, 1).permute(1, 2, 0).cpu().numpy()
 
-    print(f"\n🧠 Entrenando MLP ({input_dim} -> 512 -> 256 -> {len(top_classes)})...")
-    history = {'loss': [], 'acc': []}
+        plt.subplot(1, 2, 1)
+        plt.imshow(img_disp)
+        plt.title("Imagen Original")
+        plt.axis('off')
 
-    for epoch in range(EPOCHS):
-        mlp_model.train()
-        running_loss = 0.0
-        correct = 0
-        total = 0
+        # B. Mapa de Atención
+        plt.subplot(1, 2, 2)
+        plt.imshow(img_disp)
 
-        for inputs, labels in train_loader:
-            inputs, labels = inputs.to(DEVICE), labels.to(DEVICE)
+        # Interpolamos el mapa pequeño (ej: 37x37) al tamaño real (224x224)
+        attn_map_resized = F.interpolate(
+            torch.tensor(attn_map).unsqueeze(0).unsqueeze(0),
+            size=(img_disp.shape[0], img_disp.shape[1]),
+            mode='bicubic',
+            align_corners=False
+        ).squeeze().numpy()
 
-            optimizer.zero_grad()
-            outputs = mlp_model(inputs)
-            loss = criterion(outputs, labels)
-            loss.backward()
-            optimizer.step()
+        plt.imshow(attn_map_resized, cmap='inferno', alpha=0.6)
+        plt.title("Atención del Token [CLS]")
+        plt.axis('off')
 
-            running_loss += loss.item()
-            _, predicted = torch.max(outputs.data, 1)
-            total += labels.size(0)
-            correct += (predicted == labels).sum().item()
-
-        epoch_acc = 100 * correct / total
-        history['loss'].append(running_loss/len(train_loader))
-        history['acc'].append(epoch_acc)
-
-        if (epoch+1) % 5 == 0:
-            print(f"Epoch [{epoch+1}/{EPOCHS}] Loss: {running_loss/len(train_loader):.4f} | Acc: {epoch_acc:.2f}%")
-
-    # --- 5. EVALUACIÓN Y RESULTADOS ---
-    mlp_model.eval()
-    all_preds = []
-    all_labels = []
-
-    with torch.no_grad():
-        for inputs, labels in val_loader:
-            inputs = inputs.to(DEVICE)
-            outputs = mlp_model(inputs)
-            _, predicted = torch.max(outputs, 1)
-            all_preds.extend(predicted.cpu().numpy())
-            all_labels.extend(labels.numpy())
-
-    # Métricas Finales
-    acc = accuracy_score(all_labels, all_preds)
-
-    print("="*60)
-    print(f"🏆 ACCURACY FINAL (MLP): {acc:.2%}")
-    print("="*60)
-
-    print("\n--- Classification Report ---")
-    print(classification_report(all_labels, all_preds, target_names=top_classes))
-
-    # Matriz de Confusión
-    cm = confusion_matrix(all_labels, all_preds)
-    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))
-
-    # Gráfico de entrenamiento
-    ax1.plot(history['loss'], label='Loss', color='red')
-    ax1.set_title("Evolución del Loss")
-    ax1.set_xlabel("Epochs")
-    ax1.legend()
-
-    # Matriz
-    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', 
-                xticklabels=top_classes, yticklabels=top_classes, ax=ax2)
-    ax2.set_title(f"Matriz de Confusión (Acc: {acc:.2%})")
-    ax2.set_ylabel('Real')
-    ax2.set_xlabel('Predicho')
-
-    plt.tight_layout()
-    plt.show()
-    return (acc,)
-
-
-@app.cell
-def _(DataLoader, X_train, ds_train, plt, sns, top_classes, torch, y_train):
-    from sklearn.manifold import TSNE
-    from sklearn.decomposition import PCA
-
-    # --- 1. VISUALIZAR EMBEDDINGS ---
-    def plot_embeddings(features, labels, class_names, title="Embeddings"):
-        print(f"🎨 Generando t-SNE para {len(features)} puntos... (puede tardar un poco)")
-
-        # PCA (Rápido, estructura global)
-        pca = PCA(n_components=2)
-        feat_pca = pca.fit_transform(features)
-
-        # t-SNE (Lento, estructura local - ideal para clusters)
-        # Perplexity bajo (5-30) para pocos datos
-        tsne = TSNE(n_components=2, perplexity=min(30, len(features)//10), random_state=42, init='pca', learning_rate='auto')
-        feat_tsne = tsne.fit_transform(features)
-
-        # Plot
-        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 7))
-
-        # Colores
-        palette = sns.color_palette("bright", len(class_names))
-
-        # PCA Plot
-        sns.scatterplot(x=feat_pca[:,0], y=feat_pca[:,1], hue=[class_names[i] for i in labels], 
-                        palette=palette, ax=ax1, s=60, alpha=0.7)
-        ax1.set_title("PCA (Proyección Lineal)")
-        ax1.legend(title='Especie')
-
-        # t-SNE Plot
-        sns.scatterplot(x=feat_tsne[:,0], y=feat_tsne[:,1], hue=[class_names[i] for i in labels], 
-                        palette=palette, ax=ax2, s=60, alpha=0.7)
-        ax2.set_title("t-SNE (Proyección No Lineal)")
-        ax2.legend(title='Especie')
-
-        plt.suptitle(title, fontsize=16)
         plt.tight_layout()
+        plt.savefig(output_path)
+        print(f"💾 Mapa guardado en: {output_path}")
         plt.show()
 
-    # Ejecutar visualización (usando tus variables anteriores)
-    # Asegúrate de usar .cpu() si son tensores
-    X_plot = X_train.cpu().numpy() if isinstance(X_train, torch.Tensor) else X_train
-    y_plot = y_train.cpu().numpy() if isinstance(y_train, torch.Tensor) else y_train
 
-    plot_embeddings(X_plot, y_plot, top_classes, title="Visualización de Features DINOv3")
-
-    # --- 2. AUDITORÍA DE IMÁGENES (DEBUGGING) ---
-    # Esto es CRÍTICO si los resultados son malos. 
-    # Verifica si las imágenes se ven bien o son ruido/negro.
-
-    def inspect_dataloader(dataloader, class_names):
-        print("\n🕵️‍♂️ Inspeccionando qué entra a la red...")
-        imgs, lbls = next(iter(dataloader))
-
-        # Desnormalizar para visualizar (Mean/Std de ImageNet)
-        mean = torch.tensor([0.485, 0.456, 0.406]).view(3, 1, 1)
-        std = torch.tensor([0.229, 0.224, 0.225]).view(3, 1, 1)
-
-        fig, axes = plt.subplots(2, 4, figsize=(12, 6))
-        axes = axes.flatten()
-
-        for i in range(8): # Mostrar 8 imágenes
-            if i >= len(imgs): break
-            img = imgs[i]
-
-            # Deshacer normalización: img * std + mean
-            img_vis = img * std + mean
-            img_vis = torch.clamp(img_vis, 0, 1) # Asegurar rango [0,1]
-
-            # Convertir a numpy [H, W, C]
-            img_np = img_vis.permute(1, 2, 0).numpy()
-
-            axes[i].imshow(img_np)
-            axes[i].set_title(f"Label: {class_names[lbls[i]]}\nMin:{img.min():.1f} Max:{img.max():.1f}")
-            axes[i].axis('off')
-
-        plt.suptitle("Check de Datos (Batch de Entrenamiento)", fontsize=14)
-        plt.tight_layout()
-        plt.show()
-
-    # Usar el dataloader que ya creaste
-    inspect_dataloader(DataLoader(ds_train, batch_size=8, shuffle=True), top_classes)
-    return
+    # --- USO ---
+    visualize_attention(model, trans(video[0][0][0:50,40:170].unsqueeze(0)), device="mps") # Si estás en Mac usa mps
+    return (math,)
 
 
 @app.cell
-def _():
+def _(F, math, model, plt, torch, trans, video):
+
+
+    def visualize_last_layer_attention(model, img_tensor, output_path="attention_last_layer.png", device="cuda"):
+        """
+        Visualiza la atención del token [CLS] de la ÚLTIMA capa del modelo.
+        NO realiza Rollout, solo mira la decisión final inmediata.
+
+        Args:
+            model: El modelo DinoVisionTransformer cargado.
+            img_tensor: Tensor (1, 3, H, W) normalizado.
+            device: 'cuda', 'mps' (Mac) o 'cpu'.
+        """
+        model.eval()
+        model.to(device)
+        img_tensor = img_tensor.to(device)
+
+        # Guardamos dimensiones originales para calcular el aspecto (ancho/alto) luego
+        _, _, H_orig, W_orig = img_tensor.shape
+
+        with torch.no_grad():
+            # 1. Tokenización y RoPE
+            # prepare_tokens_with_masks devuelve los tokens y las dimensiones "interas" (que pueden tener padding)
+            x, (H_internal, W_internal) = model.prepare_tokens_with_masks(img_tensor)
+
+            # Preparar embeddings posicionales (RoPE) si el modelo los usa
+            rope_sincos = None
+            if model.rope_embed is not None:
+                rope_sincos = model.rope_embed(H=H_internal, W=W_internal)
+
+            # 2. Pasar por todos los bloques MENOS el último
+            # Llevamos la información hasta la puerta del último bloque
+            for blk in model.blocks[:-1]:
+                x = blk(x, rope_sincos)
+
+            # 3. Introspección manual del ÚLTIMO bloque
+            last_block = model.blocks[-1]
+
+            try:
+                # A. Normalización (LayerNorm/RMSNorm antes de la atención)
+                # Buscamos la capa de norma. En timm suele ser norm1.
+                norm_layer = getattr(last_block, 'norm1', getattr(last_block, 'norm', None))
+                # Fallback si no tiene nombre estándar
+                if norm_layer is None:
+                    for m in last_block.children():
+                        if isinstance(m, (torch.nn.LayerNorm, type(model.norm))):
+                            norm_layer = m
+                            break
+
+                x_norm = norm_layer(x)
+
+                # B. Obtener Q, K, V
+                # Accedemos a la lineal qkv dentro del bloque de atención
+                attn_module = getattr(last_block, 'attn', None)
+                qkv_layer = getattr(attn_module, 'qkv', None)
+
+                B, N, C = x_norm.shape
+                num_heads = model.num_heads
+                head_dim = C // num_heads
+
+                # Calculamos y separamos Q, K, V
+                # Shape resultante: [3, Batch, Heads, Tokens, Dim_per_Head]
+                qkv = qkv_layer(x_norm).reshape(B, N, 3, num_heads, head_dim).permute(2, 0, 3, 1, 4)
+                q, k, v = qkv[0], qkv[1], qkv[2]
+
+                # C. Calcular Matriz de Atención Cruda
+                # Attention = Softmax(Q @ K.T / sqrt(dim))
+                scale = head_dim ** -0.5
+                attn_scores = (q @ k.transpose(-2, -1)) * scale
+                attn_probs = attn_scores.softmax(dim=-1) # [Batch, Heads, Tokens, Tokens]
+
+            except AttributeError as e:
+                print(f"❌ Error accediendo a las capas internas del bloque: {e}")
+                return
+
+            # 4. Extraer el mapa de atención del CLS
+            # El token CLS está en el índice 0.
+            # Queremos saber cuánto atiende el CLS (fila 0) a los parches visuales.
+
+            n_storage = model.n_storage_tokens
+            # Indices visuales empiezan después del CLS (1) y los registros (n_storage)
+            start_visual = 1 + n_storage
+
+            # Tomamos: Batch 0, Todas las Heads, Fila CLS (0), Columnas Visuales
+            cls_attn = attn_probs[0, :, 0, start_visual:] # Shape: [Heads, Num_Visual_Tokens]
+
+            # Promediamos sobre todas las cabezas de atención (Heads) para tener un solo mapa
+            attn_mean = cls_attn.mean(dim=0) # Shape: [Num_Visual_Tokens]
+
+            # 5. Cálculo Dinámico de la Cuadrícula (Grid Size) - SOLUCIÓN AL ERROR DE SHAPE
+            num_tokens = attn_mean.shape[0]
+            aspect_ratio = W_orig / H_orig
+
+            # Matemáticamente: w * h = num_tokens  Y  w / h = aspect_ratio
+            # Por tanto: w = sqrt(num_tokens * aspect_ratio)
+            grid_w = int(math.sqrt(num_tokens * aspect_ratio))
+            grid_h = num_tokens // grid_w
+
+            # Corrección por si el redondeo falla (puede sobrar 1 token a veces)
+            if grid_w * grid_h != num_tokens:
+                print(f"⚠️ Aviso: Grid irregular detectado ({num_tokens} tokens). Ajustando...")
+                # Intentamos ajustar dimensiones
+                grid_h = int(num_tokens / grid_w)
+                # Si sigue sin cuadrar, recortamos el sobrante (rara vez pasa, pero previene crash)
+                if grid_w * grid_h != num_tokens:
+                     grid_w = int(math.sqrt(num_tokens))
+                     grid_h = grid_w
+                     attn_mean = attn_mean[:grid_w*grid_h] # Recorte de seguridad
+
+            print(f"✅ Mapa reconstruido: {grid_h}x{grid_w} (Tokens: {num_tokens})")
+
+            # Reshape final al grid 2D
+            attn_map_2d = attn_mean.reshape(grid_h, grid_w).detach().cpu().numpy()
+
+        # 6. Visualización
+        plt.figure(figsize=(10, 5))
+
+        # A. Imagen Original
+        # Des-normalizar para mostrar (Media/Std de ImageNet)
+        mean = torch.tensor([0.485, 0.456, 0.406]).view(3, 1, 1).to(device)
+        std = torch.tensor([0.229, 0.224, 0.225]).view(3, 1, 1).to(device)
+        img_show = img_tensor[0] * std + mean
+        img_show = img_show.clamp(0, 1).permute(1, 2, 0).cpu().numpy()
+
+        plt.subplot(1, 2, 1)
+        plt.imshow(img_show)
+        plt.title("Input")
+        plt.axis('off')
+
+        # B. Mapa de Atención Superpuesto
+        plt.subplot(1, 2, 2)
+        plt.imshow(img_show)
+
+        # Interpolación bicúbica para suavizar los cuadraditos
+        attn_map_resized = F.interpolate(
+            torch.tensor(attn_map_2d).unsqueeze(0).unsqueeze(0),
+            size=(H_orig, W_orig),
+            mode='bicubic',
+            align_corners=False
+        ).squeeze().numpy()
+
+        plt.imshow(attn_map_resized, cmap='inferno', alpha=0.6)
+        plt.title("Atención Última Capa [CLS]")
+        plt.axis('off')
+
+        plt.tight_layout()
+        plt.savefig(output_path)
+        plt.show()
+        print(f"Guardado en {output_path}")
+
+    # --- EJEMPLO DE USO ---
+    # img = torch.randn(1, 3, 224, 224)
+    visualize_last_layer_attention(model, trans(video[0][0][0:50,40:170].unsqueeze(0)), device="mps")
     return
 
 

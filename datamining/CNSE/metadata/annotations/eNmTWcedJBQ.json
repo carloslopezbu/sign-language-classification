@@ -1,0 +1,554 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hoy voy a explicar sobre las ayudas para el alquiler.",
+         "start": 1.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "El 31 de marzo se aprobó en el Decreto Ley varias medidas, y una de ellas consiste en las ayudas para el alquiler.",
+         "start": 5.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este vídeo me centraré en explicar tres puntos:",
+         "start": 12.5,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. ¿En qué consisten las ayudas del alquiler?",
+         "start": 16.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. Requisitos de situación de vulnerabilidad.",
+         "start": 19.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "3. Los documentos que se necesitan.",
+         "start": 22.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora bien, con el primer punto, ¿en qué consisten las ayudas del alquiler?.",
+         "start": 24.0,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Real Decreto se recogen dos modalidades.",
+         "start": 27.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "La primera, los meses que pagas el alquiler y que coincidan con el estado de alarma, podría solicitarse una reducción del 50% de la renta y en caso que la situación económica continúe, aunque se haya finalizado el estado de alarma, se podría solicitar una prórroga, con un máximo de 4 meses.",
+         "start": 30.0,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Segundo, o bien una moratoria en el pago de la renta arrendaticia que afectará en el periodo que dure el estado de alarma, y si la situación económica del afectado permanece, a pesar que se haya finalizado el estado de alarma, puede solicitar prórrogas mensuales, hasta un máximo de cuatro meses.",
+         "start": 50.0,
+         "duration": 20.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "La renta que no se haya abonado, se convertiría en lo que se diría deuda, y habrá que abonarse durante un máximo de tres años.",
+         "start": 111.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "La deuda se podrá redistribuir de varias formas, con previo acuerdo con el propietario.",
+         "start": 122.5,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, imaginemos un alquiler de 500 euros al mes.",
+         "start": 130.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se aplaza el pago de cuatro meses por la actual situación económica.",
+         "start": 134.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estaríamos hablando del aplazamiento de 2.000 euros.",
+         "start": 142.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "El inquilino tendrá hasta tres años para devolver dicho importe al arrendador.",
+         "start": 145.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, el Real Decreto hace una distinción entre los tipos de tenedores.",
+         "start": 152.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, los tenedores que son propietarios de más de 10 viviendas, las grandes entidades bancarias que ofrecen pisos de alquiler o las inmobiliarias.",
+         "start": 200.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez que se solicite a ellos la ayuda, deberán responder en un máximo de 7 días laborales.",
+         "start": 214.5,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto a los casos de los pequeños propietarios, por ejemplo, un casero, si el propietario recibe solicitud de la reducción al 50% o una prórroga, puede responder voluntariamente porque es posible que sea el casero quien tenga una circunstancia económica complicada.",
+         "start": 221.0,
+         "duration": 20.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Frente a estos casos, que se ofrecerán ayudas por parte del Gobierno, en dos formas posibles.",
+         "start": 242.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno ha llegado a un acuerdo con el Instituto de Crédito Oficial para que los bancos ofrezcan microcréditos a las familias que no podrán soportar la renta del alquiler, cubriendo como máximo de 6 meses de alquiler.",
+         "start": 251.0,
+         "duration": 25.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estos microcréditos se devolverán en seis años y, en casos excepcionales, se pueden prorrogar otros cuatro.",
+         "start": 317.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "No habrá que pagar intereses.",
+         "start": 325.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por Otro lado, también se ha aprobado un nuevo programa de Ayudas al Alquiler, que le corresponde a las comunidades autónomas, con diferentes requisitos de ayudas. Las familias pueden recibir ayudas de hasta 900 euros al mes.",
+         "start": 328.5,
+         "duration": 16.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es importante revisar los requisitos de cada comunidad autónoma.",
+         "start": 346.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, las familias pueden recibir 200 euros al mes, como máximo, para poder pagar los suministros básicos como el agua, la luz, internet, etc.",
+         "start": 350.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Éstas son las ayudas de parte del Gobierno.",
+         "start": 358.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, durante el estado de alarma haya personas que no hayan podido pagar el alquiler de una vivienda",
+         "start": 400.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para estos casos, el Gobierno establece la suspensión de todos los desahucios. Si las personas perjudicadas no tengan otra alternativa en la que puedan vivir, no se podrá realizar ningún desahucio, para tengan un lugar donde vivir.",
+         "start": 408.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay casos en los que el contrato del alquiler finaliza durante el estado de alarma.",
+         "start": 419.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según el Real Decreto, se prorroga el contrato 6 meses más.",
+         "start": 424.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se han de mantener las condiciones establecidas, para que no haya incremento en la renta.",
+         "start": 429.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasando al segundo punto, ¿quién podrá beneficiarse de las ayudas?",
+         "start": 442.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los requisitos son similares a los de la moratoria hipotecaria.",
+         "start": 446.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "La diferencia es que en ésta se recoge el requisito de no disponer de otra vivienda en propiedad, como una herencia, usufructo, etc.",
+         "start": 449.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otro requisito es estar en situación de desempleo, recibir prestación de ayudas, sufrir pérdidas al ser autónomo.",
+         "start": 501.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cumplir con los máximos de los ingresos de familia.",
+         "start": 513.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con el máximo del IPREM, el certificado de discapacidad superior al 33%, se les aplicará un máximo de 2.151 euros mensuales",
+         "start": 517.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si es superior al 65%, el máximo sería 2.686 euros.",
+         "start": 528.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "A estos dos máximos, se les podrá aplicar 53.78 euros por hijo.",
+         "start": 533.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si se tiene dos hijos en la unidad familiar, se aplicará dos veces.",
+         "start": 542.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "En aquellas familias que convivan con personas mayores de 65 años, también se les incluirá al máximo del IPREM un 53,78 euros por persona.",
+         "start": 545.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aquellas familias monoparentales, se establecen los mismos máximos y se aplica un 80,6 euros por hijo.",
+         "start": 554.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "El cuarto requisito es importante.",
+         "start": 607.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es demostrar que los gastos sean superiores del 35% de los ingresos netos que perciba la unidad familiar.",
+         "start": 610.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se concendrán las ayudas si los gastos son demasiados, no en los casos de alquileres baratos.",
+         "start": 624.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora el tercer punto, sobre la documentación.",
+         "start": 633.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "La misma que se pide en la moratoria hipotecaria.",
+         "start": 636.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero en este caso, hay que demostrar que no se tiene otra vivienda.",
+         "start": 639.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para eso, se solicita una nota simple al registro de propiedad demostrando que no se tiene otra vivienda.",
+         "start": 644.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que se demuestre que se han modificado las circunstancias personales económicas presentando el certificado de desempleo o el de subsidio, con la cuantía que corresponda.",
+         "start": 656.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los trabajadores autónomos tendrán que presentar un certifcado de Hacienda, que indique el cese de actividad.",
+         "start": 709.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Libro de familia, para acreditar el número de personas que habitan en la vivienda habitual.",
+         "start": 718.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "O el documento acreditativo de pareja de hecho, además del certificado de empadronamiento, con referencia a los seis meses anteriores.",
+         "start": 723.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuarto, el certificado de discapacidad.",
+         "start": 733.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quinto, una declaración responsable del deudor o deudores relativa al cumplimiento de los requisitos exigidos en el Real Decreto.",
+         "start": 736.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se presenta todo a la documentación a la entidad o persona propietaria del piso de alquiler.",
+         "start": 745.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay que tener en cuenta que los casos de cada persona o familia son distintos.",
+         "start": 758.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es recomendable consultar si las ayudas se conceden o no.",
+         "start": 803.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espero haberlo dejado claro, un saludo.",
+         "start": 808.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo corto y gafas",
+         "screen_position": "center"
+      }
+   ]
+}

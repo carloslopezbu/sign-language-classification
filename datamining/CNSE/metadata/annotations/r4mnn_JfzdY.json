@@ -1,0 +1,878 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, quiero hablar de las dudas que han surgido en estos días.",
+         "start": 0.44,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una de las dudas que más han surgido es sobre las vacaciones.",
+         "start": 6.6,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante el estado de alarma, ¿puede la empresa obligarte a coger tus vacaciones?",
+         "start": 10.9,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sabiendo que la situación por la que estamos pasando no estaba prevista,",
+         "start": 15.9,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "vamos a ver primero qué nos dice el Estatuto de los Trabajadores.",
+         "start": 21.0,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y los criterios comunes de los tribunales.",
+         "start": 24.9,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según el Estatuto de los Trabajadores,",
+         "start": 29.6,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el que dice que las vacaciones serán pactadas.",
+         "start": 33.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden ser pactadas, de dos formas,",
+         "start": 37.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "por el convenio colectivo",
+         "start": 41.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "o por contrato individual.",
+         "start": 45.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada persona, según condiciones de cada trabajador, puede tener",
+         "start": 51.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "como mínimo 30 días naturales de vacaciones.",
+         "start": 56.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay convenios o contratos que pueden poner,",
+         "start": 59.9,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "30 días \"naturales\" o 22 días \"laborales\".",
+         "start": 63.2,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "30 días naturales incluyen fines de semanas y festivos.",
+         "start": 109.9,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "22 días laborales no incluyen fines de semana ni festivos.",
+         "start": 116.9,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El total de vacaciones será similiar en ambos.",
+         "start": 121.9,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como he dicho, las vacaciones se fijarán",
+         "start": 125.9,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "de común acuerdo entre el empresario y el trabajador.",
+         "start": 128.3,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay empresas que deciden las vacaciones,",
+         "start": 130.4,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "pero tendrán que entregar el calendario de vacaciones",
+         "start": 134.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "al trabajador con dos meses de antelación.",
+         "start": 139.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de desacuerdo entre las partes,",
+         "start": 142.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "se recurrirá a la jurisdicción y el procedimiento será",
+         "start": 147.6,
+         "duration": 8.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "a los procedimientos del ámbito civil o penal.",
+         "start": 156.1,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El procedimiento será sumario y preferente.",
+         "start": 202.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La jurisdicción social fijará la fecha que para el disfrute corresponda",
+         "start": 207.6,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y su decisión será irrecurrible.",
+         "start": 211.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todo eso es lo que nos dice el Estatuto de los Trabajadores.",
+         "start": 213.6,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora veremos qué nos dicen los criterios comunes de los tribunales.",
+         "start": 216.9,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La empresa podría imponer los 15 días de las vacaciones al trabajador,",
+         "start": 221.6,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "mientras que los otros 15 días con previa negociación entre la empresa y el trabajador,",
+         "start": 233.6,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y avisando con un mínimo de 15 días de antelación.",
+         "start": 240.6,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este estado de alarma, muchas empresas están",
+         "start": 245.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "imponiendo vacaciones a sus trabajadores.",
+         "start": 250.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero hay que tener siempre en cuenta lo que está recogido",
+         "start": 253.6,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "en vuestros convenios o bien, en vuestros contratos.",
+         "start": 257.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no dice nada especial,",
+         "start": 302.6,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "por norma general, las empresas pueden imponer a coger vacaciones.",
+         "start": 305.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otra duda que también ha surgido estos días,",
+         "start": 309.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿te pueden obligar a gastar tu bolsa de horas?",
+         "start": 313.1,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según el Estatuto de los Trabajadores,",
+         "start": 322.6,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "la empresa puede obligarte a gastar esas horas",
+         "start": 325.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La empresa está obligada a avisar al trabajador al menos 5 días.",
+         "start": 330.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esa distribución se podrá hacer de varias formas,",
+         "start": 335.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una, no trabajas, te quedas en casa y gastas tus horas de compensación,",
+         "start": 340.6,
+         "duration": 6.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "o distribuyen las horas trabajadas con las horas de compensación.",
+         "start": 348.1,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, normalmente trabajas 40 horas semanales",
+         "start": 351.9,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y ahora trabajas 20 horas semanales, y",
+         "start": 356.3,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "las otras 20 horas son de compensación,",
+         "start": 358.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "o puedes trabajar un día sí y un día, entre otros ejemplos.",
+         "start": 401.3,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "La empresa tiene que avisarte al menos 5 días antes del día.",
+         "start": 405.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto no se puede aplicar esta situación a aquellas personas que tienen",
+         "start": 410.6,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "reducciones de jornada por guarda legal, por la conciliación de la vida familiar y laboral.",
+         "start": 418.6,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora pasamos a otra duda.",
+         "start": 434.6,
+         "duration": 1.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tu empresa decide comenzar con un proceso de ERTE",
+         "start": 436.9,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y tú estás de baja, por accidente laboral, por enfermedad de larga duración,",
+         "start": 441.9,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "o por maternidad o paternidad,",
+         "start": 448.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "puedes seguir de baja y el día que te dén el alta,",
+         "start": 452.6,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "pasarás a formar parte del ERTE.",
+         "start": 458.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora pasamos a otra duda.",
+         "start": 504.6,
+         "duration": 1.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tu empresa solicita el ERTE, ¿cómo se gestiona?",
+         "start": 506.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según el Consejo de Ministros, la empresa será responsable de",
+         "start": 511.6,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "gestionar el ERTE y el trabajador no tiene nada que hacer.",
+         "start": 518.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es importante recordar que las oficinas estarán cerradas",
+         "start": 522.6,
+         "duration": 8.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "y todo se gestionará por internet, teléfono, o a través de Svisual.",
+         "start": 531.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si estoy contagiada o sospecho de que lo esté,",
+         "start": 538.6,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "el Consejo de Ministros y otras autoridades indican",
+         "start": 545.6,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "que llames primero al número de información sobre el coronavirus.",
+         "start": 550.1,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "a través de SVisual, y te dirán qué hacer.",
+         "start": 556.6,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tienes que hacer el aislamiento para evitar el contagio",
+         "start": 603.6,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "el médico de la atención primaria te dará el papel de baja para tu empresa.",
+         "start": 611.6,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recordad que las citas previas en el medico de atención primaria",
+         "start": 620.1,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "ya no están disponibles.",
+         "start": 625.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "En algunas comunidad autónomas, puedes mandar mensajes de texto,",
+         "start": 627.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "llamar a través de SVisual o usar la aplicación móvil,",
+         "start": 631.3,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "o escribir un correo electrónico.",
+         "start": 635.3,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "para solicitar recomendaciones y también el parte de baja médica.",
+         "start": 638.6,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Consejo de Ministros también anunció",
+         "start": 644.6,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "aquellos trabajadores contagiados y aislados por el coronavirus",
+         "start": 647.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "estarán de baja por accidente laboral.",
+         "start": 652.3,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasarán a percibir un 75% de la base reguladora.",
+         "start": 655.1,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque puede llegar a cobrar un 100% según convenio colectivo.",
+         "start": 701.6,
+         "duration": 16.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otra duda que he visto también.",
+         "start": 718.6,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez que comience la prestación por desempleo del ERTE,",
+         "start": 721.6,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿pierdo la cotización de la misma?",
+         "start": 728.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Consejo de Ministros comunicó que no perderán la prestación,",
+         "start": 730.6,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "mientras cobran el desempleo.",
+         "start": 735.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espero que os haya aclarado las dudas.",
+         "start": 741.6,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada situación es diferente y hay que tener en cuenta",
+         "start": 744.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "el tiempo que llevas trabajando, el número de vacaciones acumuladas,",
+         "start": 749.6,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "lo que dice en el convenio o en vuestro contrato sobre las vacaciones.",
+         "start": 756.1,
+         "duration": 7.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no dice nada, la empresa podrá imponer a coger 15 días de vacaciones.",
+         "start": 804.6,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y los otros 15 días serán pactados.",
+         "start": 812.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo que dice en el convenio es importante.",
+         "start": 816.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espero que os haya aclarado todo. Cuidéis mucho y quedaos en casa.",
+         "start": 820.6,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo corto",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,32 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Oliver Sacks aprendiendo de su Cáncer terminal",
+         "start": 5.0,
+         "duration": 16.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "right"
+      },
+      {
+         "text": "Veo una voz. Viaje al mundo de los sordos",
+         "start": 21.8,
+         "duration": 38.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "right"
+      },
+      {
+         "text": "Oliver Sacks aprendiendo de su Cáncer terminal",
+         "start": 60.5,
+         "duration": 495.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa granate",
+         "screen_position": "right"
+      }
+   ]
+}

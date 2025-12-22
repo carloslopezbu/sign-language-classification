@@ -1,0 +1,572 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Avanza la vacunación frente a la COVID-19 en España.",
+         "start": 0.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Más del 90% de la población mayor de 12 años cuenta con al menos 1 dosis,",
+         "start": 5.9,
+         "duration": 10.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y el 88% tiene la pauta completa.",
+         "start": 16.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para garantizar una óptima protección frente al SARS-CoV-2,",
+         "start": 23.8,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el Ministerio de Sanidad ha actualizado su estrategia de vacunación que",
+         "start": 29.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "gestionará cada comunidad autónoma en sus respectivos territorios.",
+         "start": 34.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se administrará una dosis de recuerdo a personas con 70 años o más.",
+         "start": 45.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con la dosis de recuerdo, tratan de recordar y fortalecer la protección de la vacuna.",
+         "start": 51.8,
+         "duration": 12.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta nueva dosis será exclusivamente de vacunas ARNm,",
+         "start": 104.9,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pfizer o Moderna, y se administrará a partir de los 6 meses de haberse",
+         "start": 110.0,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "completado la primera pauta de vacunación.",
+         "start": 122.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por tanto, aquellas personas que en su momento se hubieran vacunado",
+         "start": 127.9,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "con Janssen o Astra Zeneca, recibirán como",
+         "start": 133.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "dosis de recuerdo vacunas de Pfizer o Moderna.",
+         "start": 138.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aquellas personas que viven en residencias o centros de mayores también recibirán una dosis de recuerdo.",
+         "start": 148.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como en el anterior caso, se las administrarán a partir de los 6 meses de haber completado su pauta de vacunación.",
+         "start": 156.9,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta dosis de recuerdo se realizará con vacunas de Pfizer o Moderna.",
+         "start": 206.9,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En personas de muy alto riesgo, es aconsejable la administración de",
+         "start": 217.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "una dosis adicional a partir de los 28 días de",
+         "start": 222.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "haber completado su anterior pauta de vacunación.",
+         "start": 228.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En todas ellas, la dosis adicional se realizará con vacunas de Pfizer y Moderna.",
+         "start": 234.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se priorizará la vacunación con Pfizer o Moderna en embarazadas,",
+         "start": 244.9,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de manera que lleguen completamente vacunadas al periodo de máximo riesgo",
+         "start": 253.9,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de complicaciones en caso de infección por COVID-19,",
+         "start": 300.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que sería a finales del 2º trimestre y 3º trimestre del embarazo.",
+         "start": 305.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es importante que las personas del entorno de la embarazada",
+         "start": 312.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "estén correctamente vacunadas y que, tanto embarazadas como convivientes,",
+         "start": 318.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "refuercen las medidas de prevención.",
+         "start": 325.0,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, se recomienda la vacunación a mujeres en periodo de lactancia y en aquellas que deseen quedarse embarazadas.",
+         "start": 329.8,
+         "duration": 12.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas de 65 años o menos que hayan pasado la COVID-19,",
+         "start": 347.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y que aún no se hayan vacunado, lo harán con una sola dosis de Pfizer",
+         "start": 353.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o Moderna a partir de las 4-8 semanas después del diagnóstico de la infección.",
+         "start": 401.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de infectarse tras haber recibido la primera dosis y antes de recibir la segunda,",
+         "start": 412.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se completará la pauta con una segunda dosis cuando estén completamente recuperadas y hayan transcurrido 4-8 semanas de la infección.",
+         "start": 420.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En lo referente a residentes en España que han recibido una dosis de vacunación",
+         "start": 431.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en otro país, y que solicitan una segunda dosis para completar su pauta de vacunación,",
+         "start": 436.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se realizará una valoración individual sobre la vacuna recibida,",
+         "start": 444.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "la fecha en la que se administró y la pauta recomendada.",
+         "start": 448.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Serían posibles las tres siguiente situaciones:",
+         "start": 455.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Primero, si la primera dosis administrada es de una vacuna autorizada por la Unión Europea",
+         "start": 459.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y disponible en España, se considerará esa dosis como válida",
+         "start": 509.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y se le administrará la segunda dosis, si es posible de la misma vacuna,",
+         "start": 516.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "pero preferiblemente vacuna de ARNm (Pfizer o Moderna).",
+         "start": 521.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Segundo, si la primera dosis administrada es de una vacuna no autorizada en la Unión Europea",
+         "start": 528.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y no disponible en España, se considerará como válida la dosis administrada",
+         "start": 540.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y se le ofrecerá como segunda dosis una vacuna ARNm (Pfizer y Moderna).",
+         "start": 545.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tercero, si no se aporta documentación suficiente que permita concluir que",
+         "start": 554.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se ha recibido vacunación previa, se le ofrecerá la pauta de vacunación completa",
+         "start": 601.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "que corresponda de acuerdo con la Estrategia de vacunación en España.",
+         "start": 608.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En los centros de vacunación internacional la vacunación se realizará independientemente",
+         "start": 616.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "del tipo de viaje a realizar o los datos de incidencia de la COVID-19 en el país de destino",
+         "start": 624.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por tanto, aquellas personas que carecen de protección frente a la enfermedad,",
+         "start": 633.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "por no haber pasado la infección o no estar aún vacunadas, podrán vacunarse en alguno",
+         "start": 637.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de estos centros con motivo de cualquier tipo de viaje internacional, sin importar la duración de este.",
+         "start": 643.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Ministerio de Sanidad ha recordado que la prioridad de la Estrategia",
+         "start": 653.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de vacunación frente a la COVID-19 en nuestro país, es completar la vacunación",
+         "start": 658.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "en todos los grupos de edad por encima de los 12 años.",
+         "start": 705.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asimismo, dado que los estudios indican que los anticuerpos aumentan",
+         "start": 712.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "de forma importante tras una tercera dosis, la Agencia Mundial del Medicamento",
+         "start": 718.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "no descarta plantear su administración al conjunto de la población.",
+         "start": 727.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, es importante saber que las vacunas frente a la COVID-19 se pueden",
+         "start": 736.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "administrar al mismo tiempo que otras vacunas, como la de la gripe o el neumococo.",
+         "start": 744.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de administrarse a la vez, cada vacuna se inyectará en sitios anatómicos distintos.",
+         "start": 752.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

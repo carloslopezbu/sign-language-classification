@@ -1,0 +1,428 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ayer, en el pleno del Consejo Interterritorial del Sistema Nacional de Salud, el Ministerio de Sanidad y las comunidades autónomas acordaron ayer,",
+         "start": 0.38,
+         "duration": 16.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "un documento de ‘Actuaciones de respuesta coordinada para hacer frente a la COVID 19’.",
+         "start": 16.48,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trata de un baremo que funciona como un semáforo;",
+         "start": 26.88,
+         "duration": 12.26,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a partir del análisis de los indicadores epidemiológicos de cada región,",
+         "start": 39.14,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se la sitúa en un nivel de alerta u otro, y se propone qué actuaciones implementar para el control de la pandemia.",
+         "start": 48.14,
+         "duration": 15.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los indicadores que se tendrán en cuenta puede de ser tres formas.",
+         "start": 108.039,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. Nivel de transmisión:",
+         "start": 115.839,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "incidencia por cada 100.000 personas,",
+         "start": 119.139,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "positividad de las PCR,",
+         "start": 125.739,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "capacidad de diagnóstico y rastreo de contactos.",
+         "start": 130.439,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. Nivel de utilización de los servicios sanitarios:",
+         "start": 139.739,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "ocupación hospitalaria y de UCI.",
+         "start": 145.739,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "3. Indicadores complementarios que ayuden a evaluar el riesgo",
+         "start": 153.739,
+         "duration": 3.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "volumen y densidad de población, movilidad,",
+         "start": 156.839,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "incidencia por edades,",
+         "start": 166.839,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "porcentaje de afectación en poblaciones especialmente vulnerables, etc.",
+         "start": 169.839,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Éstos son los indicadores que se tienen que tener en cuenta.",
+         "start": 173.839,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La combinación del resultado de los indicadores posicionará a cada territorio en un nivel de alerta del 1 al 4.",
+         "start": 180.859,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El 1 corresponde a un nivel de alerta bajo, el 2 a un nivel de alerta medio, el 3 a un nivel de alerta alto, y el 4 a un nivel de alerta extremo.",
+         "start": 195.859,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las comunidades autónomas revisarán de manera periódica en coordinación con el Ministerio de Sanidad, la evolución de los indicadores para mantener o modificar el nivel de alerta.",
+         "start": 206.759,
+         "duration": 18.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A partir de los resultados de los indicadores posicionará a cada territorio en un nivel de alerta, entonces se implementarán las actuaciones de respuesta.",
+         "start": 228.919,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La decisión sobre qué medidas tomar y cuándo aplicarlas corresponderá a las comunidades autónomas, una vez informen al Ministerio de Sanidad.",
+         "start": 239.519,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para su implantación, se debe valorar qué impacto tendrán sobre la salud y el bienestar de la población, la sociedad y la economía.",
+         "start": 249.819,
+         "duration": 12.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Resumimos a continuación las medidas propuestas para cada nivel de alerta.",
+         "start": 263.819,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En todos ellos, hay recomendaciones en común,",
+         "start": 269.819,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "relacionarse en burbujas sociales, es decir, siempre con la misma gente,",
+         "start": 274.819,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "se restringen los viajes no esenciales fuera del territorio,",
+         "start": 287.819,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y se mantiene el cierre de las discotecas y locales de ocio nocturno.",
+         "start": 298.419,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nivel 1, riesgo bajo.",
+         "start": 308.779,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las reuniones se limitarán a un máximo de 15 personas.",
+         "start": 312.579,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los aforos en velatorios, entierros, bodas, bautizos y comuniones no superarán el 75 % en espacios cerrados (máximo 50 personas), pudiendo llegar al 100% al aire libre siempre que se garantice la distancia de seguridad.",
+         "start": 317.779,
+         "duration": 25.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En los establecimientos de restauración y hostelería, casinos, y salones recreativos y de juegos, el máximo de personas por mesa será de 10 en interiores, y de 15 en exteriores.",
+         "start": 344.479,
+         "duration": 18.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nivel 2, riesgo medio.",
+         "start": 367.139,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las reuniones se limitarán a un máximo de 10 personas.",
+         "start": 371.739,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los aforos en velatorios, entierros, bodas, bautizos o comuniones no superarán el 50% en espacios cerrados (máximo 30 personas), pudiendo llegar al 100% al aire libre siempre que se garantice la distancia de seguridad.",
+         "start": 376.739,
+         "duration": 21.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Prohibición del consumo en barra y reducción del 50 % del aforo en interiores de locales de restauración y hostelería.",
+         "start": 398.639,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cierre de instalaciones y centros deportivos que no puedan garantizar la distancia de seguridad y la ventilación.",
+         "start": 412.439,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fomento del teletrabajo",
+         "start": 423.839,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nivel 3, riesgo alto.",
+         "start": 433.799,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las reuniones se limitarán a un máximo de 6 personas.",
+         "start": 437.699,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los aforos en velatorios y entierros se limitarán a un tercio en espacios cerrados (máximo 10 personas), pudiendo llegar a 20 personas al aire libre siempre que pueda garantizarse la distancia de seguridad.",
+         "start": 442.299,
+         "duration": 18.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se recomienda aplazar otras ceremonias como bautizos, bodas, o comuniones.",
+         "start": 460.499,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto al interior de locales de restauración y hostelería, salas de bingo, casinos o locales de apuestas, la autoridad sanitaria valorará el cierre, y en su defecto, reducirá el aforo al máximo posible.",
+         "start": 467.799,
+         "duration": 18.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los establecimientos que prestan servicios no esenciales cerrarán a las 23 horas.",
+         "start": 486.799,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se recomienda salir del domicilio “solo lo necesario”, y acudir al trabajo de manera excepcional para actividades o reuniones muy concretas.",
+         "start": 494.899,
+         "duration": 13.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nivel 4, riesgo extremo.",
+         "start": 512.559,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los territorios en nivel 4, además de las restricciones anteriores, adoptarán medidas excepcionales que podrán incluir la limitación de la movilidad de las personas, los cierres perimetrales, y otras restricciones.",
+         "start": 517.559,
+         "duration": 21.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo recogido y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

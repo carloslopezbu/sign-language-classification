@@ -1,0 +1,482 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El presidente del Gobierno anunció el pasado sábado algunas medidas que se pondrán en marcha en nuestro país durante las próximas semanas.",
+         "start": 1.0,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A partir del martes 26 de mayo, y durante 10 días, se decretará luto oficial en toda España por las víctimas del COVID-19.",
+         "start": 9.1,
+         "duration": 13.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Está prevista la aprobación del Ingreso Mínimo Vital, una renta mínima asegurada para las familias más vulnerables.",
+         "start": 23.7,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vuelve la Liga de Fútbol Profesional a partir de la semana del 8 de junio.",
+         "start": 35.7,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si la evolución de la epidemia lo permite, se potenciará el turismo en verano, tanto nacional como internacional.",
+         "start": 46.7,
+         "duration": 13.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Turismo siempre con seguridad sanitaria y sostenibilidad medioambiental.",
+         "start": 100.8,
+         "duration": 7.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante su intervención, Pedro Sánchez advirtió que, aunque más controlado, el virus sigue aquí por lo que pide prudencia y responsabilidad.",
+         "start": 109.8,
+         "duration": 19.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por su parte, el Ministerio de Sanidad ha anunciado novedades en las fases 1 y 2 del Plan de Transición hacia una Nueva Normalidad.",
+         "start": 131.5,
+         "duration": 11.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las resumimos a continuación.",
+         "start": 144.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Sigue habiendo franjas horarias para salir a la calle?",
+         "start": 150.7,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante la Fase 1 se mantienen las franjas horarias para pasear y hacer deporte en municipios con más de 10.000 habitantes.",
+         "start": 156.7,
+         "duration": 12.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, no se permite realizar estas actividades fuera del municipio.",
+         "start": 210.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas franjas horarias desaparecen en la Fase 2, excepto la reservadas a las personas mayores y a los colectivos con mayor riesgo ante la COVID-19, que tendrán prioridad en el uso de cualquier servicio.",
+         "start": 218.2,
+         "duration": 25.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En ambas fases, las familias con hijas e hijos podrán salir a pasear todos juntos.",
+         "start": 244.8,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Puedo reunirme con amigos y familiares?",
+         "start": 256.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sí. La cifra es de un máximo de 10 personas en las Fase 1, y 15 personas en la Fase 2.",
+         "start": 300.8,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas reuniones pueden realizarse tanto dentro como fuera del hogar.",
+         "start": 311.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando se reúne con personas que no conviven en la misma casa, se tendrá que cumplir la distancia de 2 metros y llevar mascarilla.",
+         "start": 316.8,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Y visitar a un familiar que esté en una residencia?",
+         "start": 333.8,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno permite a las comunidades autónomas en la Fase 2 autorizar las visitas mayores en residencias, o a personas dependientes en centros y viviendas tuteladas.",
+         "start": 339.8,
+         "duration": 17.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La visita se deberá concertar previamente con el centro, la vivienda tutelada o el centro residencial y se limitará a una persona por residente.",
+         "start": 358.8,
+         "duration": 16.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante la visita, será obligatorio el uso de equipos de protección adecuados tanto por parte del visitante como por parte del residente, y se extremarán las medidas de higiene y prevención establecidas por las autoridades sanitarias, y en particular el mantenimiento de la distancia de seguridad de dos metros.",
+         "start": 416.3,
+         "duration": 22.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Puedo salir de mi provincia?",
+         "start": 443.8,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ahora no.",
+         "start": 450.3,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Toda actividad hay que hacerla en la misma provincia, isla o región sanitaria en la que uno se encuentre.",
+         "start": 452.0,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Poder moverse a otras provincias es algo para lo que aún queda por lo menos un mes, ya que no está contemplado hasta después de la Fase 3.",
+         "start": 502.3,
+         "duration": 7.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Puedo ir a mi segunda residencia?",
+         "start": 514.8,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En ambas fases está permitido, siempre y cuando la segunda residencia esté en la misma provincia en la que vives.",
+         "start": 519.8,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Con cuánta gente puedo desplazarme en el coche?",
+         "start": 536.8,
+         "duration": 4.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de personas convivientes, podrán desplazarse juntas en el mismo coche.",
+         "start": 541.8,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no es así, está permitido un máximo de dos personas por fila de asientos y obligatorio llevar mascarilla.",
+         "start": 549.8,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuándo abren los colegios?",
+         "start": 606.8,
+         "duration": 2.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque el curso no se retomará hasta septiembre, a partir de la Fase 2, algunas comunidades autónomas ofrecerán actividades de refuerzo para parte del alumnado, en especial los que finalizan ciclo o van a presentarse a la EBAU.",
+         "start": 610.3,
+         "duration": 22.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La asistencia será voluntaria y siempre con previo aviso al centro.",
+         "start": 633.8,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También en esta fase comienzan a funcionar de nuevo las academias y autoescuelas, aunque con menos alumnos.",
+         "start": 645.8,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, la Dirección General de Tráfico realizará exámenes de conducir durante los meses de verano.",
+         "start": 657.8,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Puedo ir a la playa y a la piscina?",
+         "start": 708.3,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A partir de la Fase 2, podemos ir a las piscinas respetando un aforo máximo del 30% y siempre cumpliendo con la distancia de seguridad de 2 metros.",
+         "start": 712.8,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada ayuntamiento podrá establecer turnos, horarios e incluso cita previa.",
+         "start": 725.8,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo mismo ocurre con las playas, que en la fase 2 se reabren para actividades de ocio, siempre bajo las medidas que imponga cada ayuntamiento.",
+         "start": 733.8,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta fase, también se pueden visitar parques naturales con un aforo de hasta el 20%.",
+         "start": 746.3,
+         "duration": 9.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué otras actividades están permitidas en la Fase 2?",
+         "start": 800.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la fase 2, reabren centros comerciales y grandes tiendas con un 40% del aforo.",
+         "start": 804.8,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "También cines, teatros y monumentos con restricciones de público y previa adquisición de la entrada.",
+         "start": 814.8,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si en la fase 1 se permitía a la apertura de terrazas con un 50% de mesas, en la fase 2 podremos consumir en el interior de los bares sin superar el 40% del aforo, y siempre sentados, no en la barra.",
+         "start": 825.8,
+         "duration": 22.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las bodas ya podrán contar con invitados.",
+         "start": 850.8,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Están permitidas en todo tipo de instalaciones, pero con un número máximo de 100 personas en espacios abiertos, y 50 en espacios cerrados.",
+         "start": 853.8,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, los invitados no pueden ser de otras provincias.",
+         "start": 906.8,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En los lugares de culto, se amplía el aforo al 50% en la Fase 2, al igual que en velatorios y entierros.",
+         "start": 915.8,
+         "duration": 17.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con un límite máximo de 10 en espacios cerrados en la Fase 1 y un máximo de 15 en la Fase 2.",
+         "start": 933.8,
+         "duration": 8.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si son en espacios al aire libre, el límite es de 15 personas en la Fase 1 y de 25 personas en la Fase 2.",
+         "start": 943.8,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se retoma la celebración de congresos, encuentros, reuniones de negocio y conferencias con un máximo de 50 personas siempre que el espacio permita guardar la distancia de seguridad de 2 metros como mínimo.",
+         "start": 952.8,
+         "duration": 14.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os recordamos que el uso de mascarillas es obligatorio, y que es fundamental cumplir las medidas de higiene y protección, y la distancia de seguridad de 2 metros entre personas, para cuidar de nosotros mismos y cuidar de los demás.",
+         "start": 1008.8,
+         "duration": 13.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido, camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

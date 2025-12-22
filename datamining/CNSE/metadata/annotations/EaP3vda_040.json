@@ -1,0 +1,500 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Ahora mismo estamos viviendo una situación en la que todas y todos nos quedamos en casa, y ello puede repercutir en nuestra salud mental.",
+         "start": 0.0,
+         "duration": 8.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para afrontarlo, seguimos los consejos generales del Centro de Psicología Álava Reyes.",
+         "start": 9.4,
+         "duration": 7.28,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo primero es que preguntarse \"¿Qué me pasa?\".",
+         "start": 21.8,
+         "duration": 2.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Surgen un cambio de vida y dudas sobre el futuro.",
+         "start": 27.88,
+         "duration": 3.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estamos en una situación extraordinaria que nunca hemos vivido.",
+         "start": 35.68,
+         "duration": 2.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cualquier reacción emocional que tengas en estos días es normal.",
+         "start": 41.68,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Compréndete. Permítetelo. No te asustes. Recuerda, es normal.",
+         "start": 51.84,
+         "duration": 3.36,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta es una situación que nos produce mucha duda, incertidumbre.",
+         "start": 104.88,
+         "duration": 4.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los seres humanos no aceptamos bien la incertidumbre.",
+         "start": 119.68,
+         "duration": 2.96,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero recuerda: al principio, todos nos resistimos a los cambios, luego avanzamos, asimilamos y nos adaptamos a las nuevas circunstancias.",
+         "start": 126.88,
+         "duration": 13.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Poco a poco, cada uno a su tiempo.",
+         "start": 141.44,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Emociones difíciles que pueden aparecer en cualquier momento durante estos días:",
+         "start": 148.08,
+         "duration": 6.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "miedo, frustración, sensación de vacío o soledad, desasosiego por no poder cumplir con tu papel, por no poder cubrir tus necesidades como salir, abrazar, cuidar a tus familiares, a tus amistades, etc.",
+         "start": 156.88,
+         "duration": 21.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No te juzgues por ello. Comparte lo que sientes con alguien de confianza.",
+         "start": 218.88,
+         "duration": 4.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es normal tener pensamientos intrusivos.",
+         "start": 233.28,
+         "duration": 1.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son pensamientos no deseados.",
+         "start": 236.08,
+         "duration": 1.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No huyas de ellos, no los evites, obsérvalos y reflexiona por qué los tienes.",
+         "start": 240.08,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No los evites, reflexiona por qué es importante comprenderse.",
+         "start": 250.88,
+         "duration": 3.12,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trata de no engancharte a los pensamientos intrusivos.",
+         "start": 256.88,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo segundo es preguntarse \"¿Qué puedo hacer?\".",
+         "start": 302.08,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sigue solo recomendaciones oficiales de seguridad.",
+         "start": 310.88,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Limita la información que ves sobre la crisis pandémica.",
+         "start": 324.48,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Infórmate de lo que pasa en un momento o dos al día, para no en círculos viciosos emocionales improductivos.",
+         "start": 332.08,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Prográmate en esto.",
+         "start": 343.84,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Planifica tu tiempo. Márcate un horario de rutinas.",
+         "start": 350.08,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Intenta ser flexible, no exigente, Rebaja tus exigencias, ponte objetivos pequeños. Por ejemplo, planificar qué comer para hoy en vez de para toda la semana.",
+         "start": 404.48,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y no te olvide de los descansoss",
+         "start": 423.84,
+         "duration": 2.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mantente activo físicamente, con una rutina de ejercicios.",
+         "start": 428.88,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay Apps y videos en internet, de estiramientos o de yoga, que ayudan mucho.",
+         "start": 435.28,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mete actividades gratificantes diarias.",
+         "start": 444.88,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si no estás solo en casa, coordínate con tus familiares para tener al menos 30 minutos libres para ti, para hacer ejercicio, para leer, para dar una ducha o hacer algo agradable.",
+         "start": 453.84,
+         "duration": 15.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Intenta ser consciente de las sensaciones placenteras que te llegan a tu olfato, el tacto, las emociones en el cuerpo, por este momento gratificante.",
+         "start": 510.88,
+         "duration": 13.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Usa las tecnologías para estar conectado a tus seres queridos.",
+         "start": 534.08,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mételo en tu programación diaria también.",
+         "start": 542.88,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una de las maneras de sentirse querido y protegido.",
+         "start": 548.08,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Separa los espacios de actividad en casa.",
+         "start": 553.84,
+         "duration": 2.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo: estudiando y trabajando siempre en el mismo sitio, lugar para hacer gimnasia, lugar para comer, etc.",
+         "start": 557.84,
+         "duration": 10.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mira por una ventana si te es posible, incluso con la ventana abierta.",
+         "start": 615.84,
+         "duration": 3.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Siente el exterior, los olores, las sensaciones de temperatura en tu cara.",
+         "start": 620.84,
+         "duration": 3.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Haz que sea un momento de calidad sensorial.",
+         "start": 627.84,
+         "duration": 2.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Céntrate en el Aquí y en el Ahora.",
+         "start": 633.04,
+         "duration": 2.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hay que hacer manejable cualquier situación de ahora, del futuro.",
+         "start": 639.84,
+         "duration": 3.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No sirve de nada anticipar lo que va a pasar a más de una semana vista.",
+         "start": 650.48,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Busca lo positivo de esta situación difícil.",
+         "start": 655.28,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Piensa qué estás aprendiendo, a valorar más a tu familia, tus amigos, tus compañeros de trabajo, la vida, etc.",
+         "start": 703.84,
+         "duration": 9.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda quedarte en casa es algo estamos haciendo todas las personas.",
+         "start": 717.44,
+         "duration": 3.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para cuidarnos, para protegernos unos a otros. Unidos.",
+         "start": 724.08,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y si tienes un día malo en el que nada de esto parece que lo hayas logrado, permítete no ser perfecto Sé flexible y acepta los errores.",
+         "start": 732.88,
+         "duration": 9.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Acepta lo que sientes, aunque no te guste.",
+         "start": 748.88,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerda, mañana será otro día.",
+         "start": 755.68,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Confía en ti.",
+         "start": 801.28,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Perdónate si tienes miedo y te derrumbas.",
+         "start": 804.88,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trátate con cariño.",
+         "start": 811.84,
+         "duration": 1.44,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tú puedes afrontar esta situación difícil. Poco a poco.",
+         "start": 815.28,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mucho ánimo y ¡adelante! ¡Tú puedes!",
+         "start": 822.88,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer de pelo largo castaño y camiseta negra",
+         "screen_position": "center"
+      }
+   ]
+}

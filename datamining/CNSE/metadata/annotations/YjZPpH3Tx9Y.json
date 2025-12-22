@@ -1,0 +1,482 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola. Me gustaría hablar sobre los derechos de las personas trabajadoras.",
+         "start": 0.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esos derechos están en el Estatuto de los Trabajadores, en ella se recogen muchos temas, por ejemplo:",
+         "start": 5.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿los trabajadores tenemos derecho a las vacaciones?",
+         "start": 14.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿cómo es la baja de maternidad?",
+         "start": 19.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si una empresa cierra, y despiden a sus trabajadores ¿cuál sería el proceso?",
+         "start": 24.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estos son algunos de los temas que se recogen en el Estatuto de los Trabajadores.",
+         "start": 28.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque existe otra normativa más específica del ámbito laboral, la más importante es el Estatuto de los Trabajadores.",
+         "start": 30.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por la situación actual, el Gobierno ha estado aprobando varios Reales Decretos, con urgencia por el estado de alarma.",
+         "start": 36.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "El día 17 de marzo, aprobaron un Real Decreto Ley que está relacionado con el ámbito laboral y viendo las dudas que han surgido me gustaría explicarlo, de una forma genérica.",
+         "start": 44.0,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué es un ERTE?",
+         "start": 59.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Estatuto de los Trabajadores dice que es un expediente de regulación temporal de empleo, por alguna de las dos causas.",
+         "start": 101.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. Por causas económicas, técnicas, organizativas o de producción por lo cual la empresa solicita el ERTE para sus trabajadores.",
+         "start": 112.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. Por razones de fuerza mayor, esta segunda coincide con la situación que estamos pasando ahora con el estado de alarma.",
+         "start": 125.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por eso, las empresas pueden proceder a solicitar el ERTE.",
+         "start": 132.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿En qué consiste realmente un ERTE?",
+         "start": 137.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Un ERTE puede ser de dos formas.",
+         "start": 140.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "La primera, la suspensión total de una relación laboral El trabajador se encuentra en situación de desempleo.",
+         "start": 142.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "La segunda forma es reducir la jornada laboral habitual del trabajador, pudiéndola reducir desde el 10% hasta un 70% de la jornada laboral.",
+         "start": 149.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué le sucede a la persona que se encuentra en una situación de suspensión laboral?",
+         "start": 200.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta situación podemos ver dos grupos de personas, una, aquellas personas que hayan cotizado y trabajado los días suficientes para tener acceso al derecho al paro.",
+         "start": 204.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se tendrá en cuenta los 180 últimos días trabajados para poder cobrar la prestación de desempleo que le corresponde, sin tener en cuenta las pagas extraordinarias.",
+         "start": 213.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "que será el 70% de la base reguladora durante los seis primeros meses en paro, y el 50% a partir del séptimo.",
+         "start": 229.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ya he hablado sobre el grupo con derecho al paro.",
+         "start": 242.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora, el segundo grupo que no haya cotizado lo suficiente o no haya trabajado los días necesarios para poder cobrar el desempleo, o porque haya agotado su prestación por desempleo, o bien que esta persona haya empezado a trabajar en una empresa hace poco, según el Real Decreto, todas las personas que hayan trabajado, independientemente de los días cotizados, tendrán derecho a una prestación,",
+         "start": 246.0,
+         "duration": 21.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este segundo grupo de personas tendrán derecho a una prestación económica, el subsidio que que dependerá del IPREM que no es lo mismo que el salario interpersonal.",
+         "start": 307.0,
+         "duration": 22.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "El IPREM está relacionado con las pensiones y las ayudas económicas.",
+         "start": 329.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "La cuantía del IPREM del 2020 es de 537 euros.",
+         "start": 336.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "No obstante, se les abonará a este grupo el 80% del IPREM.",
+         "start": 343.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En ambos grupos, se tendrá en cuenta las circunstancias personales de cada persona, puede que se le incrementa un porcentaje según el número de hijos,",
+         "start": 350.0,
+         "duration": 21.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto se aplica en el IPREM también, con porcentajes.",
+         "start": 411.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otra cosa que Real Decreto del estado de alarma señala, no se computará el tiempo en el que el trabajador cobre la prestación. Se mantendrá la prestación que haya estado trabajando hasta ese momento.",
+         "start": 419.0,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, ¿qué sucede con aquellas personas que son autónomas?",
+         "start": 441.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "El 19 de marzo, el Ministerio emitió un comunicado en el que aclaraban que todos recibirán una prestación.",
+         "start": 445.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los autónomos la recibirán si fueron obligados a cerrar por el estado de alarma o con una caída de ingresos del 75%.",
+         "start": 456.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Además, estarán exentos de pagar cotizaciones a la Seguridad Social.",
+         "start": 508.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "También recibirán una prestación equivalente al 70% de la base reguladora, lo que supone un mínimo de 661€.",
+         "start": 516.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuál es el procedimiento que tiene que aplicar una empresa para solicitar un ERTE?",
+         "start": 527.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "El procedimiento habitual, anterior al real decreto, es que esa empresa, una vez que alegue sus causas, entonces decide solicitar un ERTE.",
+         "start": 530.0,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "tendría que convocar al comité de empresa o representantes de los trabajadores, para iniciar un periodo de consulta que será de 15 días.",
+         "start": 547.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez finalizada, tendrán que presentar un informe que lo derivarán a la autoridad competente según Comunidad Autónoma. que lo estudiarán y responderán alrededor de 15 días.",
+         "start": 600.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero ahora, con el Real Decreto del 17 de marzo, el procedimiento para solicitar un ERTE se reduce a 5 días.",
+         "start": 614.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para que las empresas puedan encontrar su sostenibilidad.",
+         "start": 621.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Qué debe hacer un trabajador afectado por el ERTE?",
+         "start": 626.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En estado de alarma, se encarga la propia empresa de la gestión de la prestación de desempleo y el trabajador no tiene nada que hacer.",
+         "start": 632.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque si quiere gestionarlo, las oficinas de la Seguridad Social y del INSS no atienden al público presencialmente, pero seguirán trabajando telemáticamente y por teléfono o SVisual.",
+         "start": 644.0,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "En las últimas noticias y en las redes sociales, se habla mucho del ERTE y del ERE.",
+         "start": 700.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "¿Cuál es la diferencia entre ellos?",
+         "start": 709.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Según el Estatuto de los Trabajadores, un ERTE es una suspensión temporal del contrato, en la que el trabajador pasa a recibir una prestación por desempleo o su jornada laboral se reduce y en cuanto finalice el estado de alarma, el trabajador vuelve a la empresa.",
+         "start": 711.0,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con un ERE, es algo diferente. la empresa decide cerrar la empresa y la plantilla de los trabajadores pasarán a encontrarse en situación de desempleo.",
+         "start": 729.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los trabajadores tendrán derecho a un finiquito de 20 días por año trabajado.",
+         "start": 740.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espero que os haya aclarado vuestras dudas.",
+         "start": 746.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espero que os cuidéis mucho y que os quedéis en casa.",
+         "start": 751.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      },
+      {
+         "text": "Adiós.",
+         "start": 755.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta granate",
+         "screen_position": "center"
+      }
+   ]
+}
