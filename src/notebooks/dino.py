@@ -17,9 +17,14 @@ def imports():
     from PIL import Image
     from torchvision.transforms import v2
     import torchvision as tv
-    #import torchcodec as tc
     import av
     return F, Image, os, plt, torch, tv, v2
+
+
+@app.cell
+def _():
+    #import torchcodec as tc
+    return
 
 
 @app.cell
@@ -319,7 +324,7 @@ def _(F, model, plt, torch, trans, video):
 
 
     # --- USO ---
-    visualize_attention(model, trans(video[0][0][0:50,40:170].unsqueeze(0)), device="mps") # Si estás en Mac usa mps
+    visualize_attention(model, trans(video[0][0][0:20,100:200].unsqueeze(0)), device="mps") # Si estás en Mac usa mps
     return (math,)
 
 
@@ -478,6 +483,72 @@ def _(F, math, model, plt, torch, trans, video):
     # img = torch.randn(1, 3, 224, 224)
     visualize_last_layer_attention(model, trans(video[0][0][0:50,40:170].unsqueeze(0)), device="mps")
     return
+
+
+@app.cell
+def _():
+    from ultralytics import YOLO
+
+    yolo = YOLO(model="yolo11n-pose.pt", task="pose")
+    source: str = "./datamining/CNSE/metadata/slices/-9SqXjh8Y-I-slice-0.mp4"
+    a = yolo(
+        source=source,
+        stream=True
+    )
+    return YOLO, a
+
+
+@app.cell
+def _(a):
+    b = next(a)
+    b.keypoints
+    return (b,)
+
+
+@app.cell
+def _(b):
+    b.keypoints
+    return
+
+
+@app.cell
+def _(b):
+    b.boxes
+    return
+
+
+@app.cell
+def _(YOLO, plt, video):
+    import cv2
+
+
+    # 1. Asegúrate de que la imagen sea un array de NumPy estándar (uint8)
+    person_img = video[0][0].permute(1, 2, 0).cpu().numpy().astype('uint8')
+
+    # 2. Inferencia
+    yolo2 = YOLO(model="yolo11s-pose.pt")
+    results = yolo2(person_img)[0]
+
+    # 3. Obtener keypoints
+    kp = results.keypoints.xy[0].cpu().numpy()
+
+    # 4. Dibujar (Usamos círculos para que se vean mejor que un solo píxel)
+    for point in kp:
+        x, y = int(point[0]), int(point[1])
+        if x != 0 and y != 0: # YOLO marca como (0,0) los puntos no detectados
+            cv2.circle(person_img, (x, y), 5, (255, 0, 0), -1)
+
+    plt.imshow(person_img)
+    plt.show()
+    return
+
+
+app._unparsable_cell(
+    r"""
+    from transformers import 
+    """,
+    name="_"
+)
 
 
 if __name__ == "__main__":
