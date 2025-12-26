@@ -20,7 +20,7 @@ pose_regressor.load_weights("./models/mediapipe/blazes/blazepose_landmark.pth")
 
 WINDOW = "test"
 cv2.namedWindow(WINDOW)
-capture = cv2.VideoCapture(0)
+capture = cv2.VideoCapture("./datamining/CNSE/videos/683sv2c-mSE.mp4")
 
 if capture.isOpened():
     hasFrame, frame = capture.read()
@@ -50,6 +50,8 @@ while hasFrame:
         landmark, flag = landmarks[i], flags[i]
         if flag > 0.5:
             draw_landmarks(frame, landmark, POSE_CONNECTIONS, size=2)
+        else:
+            print("Error")
 
     cv2.imshow(WINDOW, frame[:, :, ::-1])
     # cv2.imwrite('sample/%04d.jpg'%frame_ct, frame[:,:,::-1])

@@ -50,6 +50,7 @@ class Models(StrEnum):
     Gemini2dot5Flash = "gemini-2.5-flash"
     Gemini2dot5Pro = "gemini-2.5-pro"
     Gemini3dot0Pro = "gemini-3-pro"
+    Gemini3dot0Flash = "gemini-3-flash"
 
 
 class Annotator:

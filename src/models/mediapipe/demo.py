@@ -32,7 +32,7 @@ else:
 palm_detector = BlazePalm().to(gpu)
 palm_detector.load_weights("./models/mediapipe/blazes/blazepalm.pth")
 palm_detector.load_anchors("./models/mediapipe/anchors/anchors_palm.npy")
-palm_detector.min_score_thresh = 0.75
+palm_detector.min_score_thresh = 0.5
 
 hand_regressor = BlazeHandLandmark().to(gpu)
 hand_regressor.load_weights("./models/mediapipe/blazes/blazehand_landmark.pth")
@@ -91,11 +91,15 @@ while hasFrame:
         landmark, flag = landmarks[i], flags[i]
         if flag > 0.5:
             draw_landmarks(frame, landmark[:, :2], FACE_CONNECTIONS, size=1)
+        else:
+            print(f"No face detected in frame {frame_ct}")
 
     for i in range(len(flags2)):
         landmark, flag = landmarks2[i], flags2[i]
         if flag > 0.5:
             draw_landmarks(frame, landmark[:, :2], HAND_CONNECTIONS, size=2)
+        else:
+            print(f"No hands detected in frame {frame_ct}")
 
     draw_roi(frame, box)
     draw_roi(frame, box2)

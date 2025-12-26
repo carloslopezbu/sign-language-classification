@@ -29,7 +29,7 @@ def _():
 
 @app.cell
 def _():
-    DINOV3_REPO_DIR = "./src/model/dinov3"  # Ruta al repo clonado
+    DINOV3_REPO_DIR = "./src/models/dinov3/"  # Ruta al repo clonado
 
     WEIGHTS_PATH = "/Users/more/Desktop/tfg/models/dinov3/dinov3_vitb16plus_pretrain_lvd1689m-4057cbaa.pth"
 
@@ -145,7 +145,7 @@ def _(torch, v2):
 @app.cell
 def _(tv):
 
-    video = tv.io.read_video(filename="./datamining/CNSE/metadata/slices/-9SqXjh8Y-I-slice-0.mp4", pts_unit="sec", output_format="TCHW")
+    video = tv.io.read_video(filename="./datamining/CNSE/videos/USqNMZIZ21s.mp4", pts_unit="sec", output_format="TCHW")
     return (video,)
 
 
@@ -490,7 +490,7 @@ def _():
     from ultralytics import YOLO
 
     yolo = YOLO(model="yolo11n-pose.pt", task="pose")
-    source: str = "./datamining/CNSE/metadata/slices/-9SqXjh8Y-I-slice-0.mp4"
+    source: str = "./datamining/CNSE/videos/USqNMZIZ21s.mp4"
     a = yolo(
         source=source,
         stream=True
