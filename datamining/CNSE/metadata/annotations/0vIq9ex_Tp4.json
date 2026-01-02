@@ -1,0 +1,68 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Buenos d\u00edas a todos y a todas, soy Celia terapeuta ocupacional de ACCEM y hoy estoy aqu\u00ed para que trabajemos juntos la motricidad fina.",
+         "start": 9.23,
+         "duration": 12.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfQu\u00e9 es la motricidad fina?",
+         "start": 22.83,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pues, b\u00e1sicamente, ejercitar las manos en relaci\u00f3n a objetos peque\u00f1os.",
+         "start": 27.83,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para que mejoremos nuestro desempe\u00f1o en la vida diaria, puede ser abotonarnos, subir una cremallera e incluso trabajar con objetos de la casa que son peque\u00f1os y cogerlos y manipularlos.",
+         "start": 32.03,
+         "duration": 21.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a trabajar con material que podemos encontrar todos en casa, como puede ser, garbanzos secos.",
+         "start": 57.83,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Estos concretamente son muy peque\u00f1os pero no importa, cualquier tipo estar\u00e1 perfecto.",
+         "start": 66.83,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "La actividad es muy sencilla y necesitaremos garbanzos, dos tapas de cualquier bote y si no encontramos, cualquier tipo de bol. Lo que tengamos. Yo he encontrado esto por casa y me ha parecido que estaba bien.",
+         "start": 75.53,
+         "duration": 21.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

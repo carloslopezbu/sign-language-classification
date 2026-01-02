@@ -1,0 +1,545 @@
+{
+   "num_signers": 5,
+   "annotations": [
+      {
+         "text": "Hola a todos, hoy vamos a hablar con los diferentes ponentes de esta Jornada informativa.",
+         "start": 10.344,
+         "duration": 6.339,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tenemos con nosotros al coordinador de Innovaci\u00f3n Tecnol\u00f3gica de Fundaci\u00f3n CNSE, Emilio Ferreiro.",
+         "start": 17.517,
+         "duration": 6.967,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me gustar\u00eda preguntarte. El proyecto SEM\u00c1S, del que trata tu ponencia, \u00bfen qu\u00e9 consiste?",
+         "start": 25.025,
+         "duration": 8.425,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Este nuevo proyecto que presentamos, SEM\u00c1S, sigue la l\u00ednea de un anterior proyecto, que pretend\u00eda analizar los servicios digitales disponibles en internet, as\u00ed como analizar si son accesibles para las personas sordas o por el contrario encuentran alg\u00fan tipo de barrera.",
+         "start": 39.039,
+         "duration": 13.223,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hemos detectado que son muchas las personas sordas que no pueden acceder a estos servicios digitales. Este proyecto es un primer paso para seguir analizando, y sobre todo en estos momentos, lo relacionado con servicios de empleo, donde hay much\u00edsima gente que se encuentra en situaci\u00f3n de desempleo.",
+         "start": 53.597,
+         "duration": 15.899,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "SEM\u00c1S tiene como objetivo, ayudar a las personas sordas a buscar empleo a trav\u00e9s de internet, diferente a la manera tradicional de entregar los correspondientes curriculum vitae.",
+         "start": 110.994,
+         "duration": 9.476,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Partiendo de la previa investigaci\u00f3n donde vemos que este colectivo encuentra numerosas barreras en internet, este proyecto est\u00e1 encaminado m\u00e1s a detectar las barreras que encuentran en los servicios de busca de empleo.",
+         "start": 121.388,
+         "duration": 10.31,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Este es un proyecto piloto, donde se ha contado con la participaci\u00f3n de usuarios seleccionados de tres comunidades aut\u00f3nomas, con la colaboraci\u00f3n de sus respectivas federaciones de sordos, Fesopras de Asturias, Fesord de la comunidad Valenciana y Madrid, a trav\u00e9s de la CNSE,",
+         "start": 132.633,
+         "duration": 15.349,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "donde estos usuarios de distintos sexos, edades han realizado distintas pruebas para la b\u00fasqueda de empleo en internet.",
+         "start": 148.865,
+         "duration": 6.715,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "\u00bfC\u00f3mo si que tan solo han participado tres federaciones?",
+         "start": 159.242,
+         "duration": 2.503,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "S\u00ed, ha sido una prueba piloto y han participado 3 Federaciones.",
+         "start": 202.452,
+         "duration": 3.67,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Una vez que est\u00e9 en marcha el n\u00famero de participantes aumentar\u00e1 a nivel nacional.",
+         "start": 206.929,
+         "duration": 3.503,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Otra pregunta. \u00bfEn qu\u00e9 fase se encuentra el proyecto SEM\u00c1S?",
+         "start": 211.211,
+         "duration": 3.545,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "- \u00bfEn estos momentos?",
+         "start": 215.339,
+         "duration": 0.834,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Ahora, s\u00ed.",
+         "start": 216.339,
+         "duration": 0.626,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "El anterior proyecto, se dividi\u00f3 en distintas fases, en el actual proyecto nos encontramos en la fase de experimentaci\u00f3n.",
+         "start": 217.644,
+         "duration": 6.507,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los usuarios nos informan de su experiencia en lo que se refiere a b\u00fasqueda de empleo a trav\u00e9s de internet desde su domicilio o lo que han experimentado a la hora de emprender una empresa.",
+         "start": 225.225,
+         "duration": 10.51,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Desde las federaciones se les informa de que pasos hay que dar para la creaci\u00f3n de una empresa y los usuarios desde su domicilio, a trav\u00e9s de internet, realizan las gestiones oportunas.",
+         "start": 237.044,
+         "duration": 9.969,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Los usuarios acuden a la federaciones donde reciben asesoramiento y orientaci\u00f3n de las dudas que puedan encontrar por parte de los asistentes sociales.",
+         "start": 248.832,
+         "duration": 8.467,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Esta fase se ha realizado durante seis meses, y los asistentes sociales de las federaciones han podido comprobar si las distintas webs en referencia a b\u00fasqueda de empleo, son accesibles o no, realizando una valoraci\u00f3n y enviando los resultados a Fundaci\u00f3n CNSE.",
+         "start": 258.632,
+         "duration": 14.723,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "\u00bfEsta p\u00e1gina web est\u00e1 disponible para cualquier usuario a nivel nacional?",
+         "start": 314.431,
+         "duration": 3.003,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "No, estamos en esta fase de experimentaci\u00f3n, una vez que tengamos los resultados de esta fase, podr\u00e1 estar disponible, dependiendo de los resultados de esta experiencia, si han sido satisfactorios o necesitamos mejorar en algo, y ampliar a otras federaciones este periodo de prueba y experimentaci\u00f3n.",
+         "start": 318.318,
+         "duration": 15.933,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por \u00faltimo quer\u00eda preguntarte, si crees que tras este proyecto, las personas sordas tendr\u00e1n m\u00e1s facilidad de encontrar empleo. \u00bfQu\u00e9 opinas?",
+         "start": 335.335,
+         "duration": 9.218,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "No hay nada que sea f\u00e1cil, sabemos que estamos en una \u00e9poca de crisis, y no es f\u00e1cil.",
+         "start": 346.146,
+         "duration": 4.963,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Debemos tener muy claro que el mundo est\u00e1 evolucionando, anteriormente se buscaba empleo a trav\u00e9s de los anuncios en prensa, diariamente se buscaban ofertas en estas secciones.",
+         "start": 352.436,
+         "duration": 8.926,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hoy en d\u00eda, se realiza la b\u00fasqueda a trav\u00e9s de internet, se est\u00e1 evolucionando, y existen muchas personas que desconocen este campo y no saben c\u00f3mo buscar empleo a trav\u00e9s de la red.",
+         "start": 403.32,
+         "duration": 11.511,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Creo que hoy en d\u00eda internet es una herramienta imprescindible en relaci\u00f3n a la b\u00fasqueda de empleo.",
+         "start": 416.333,
+         "duration": 4.838,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cualquier proyecto encaminado a ser una herramienta de b\u00fasqueda de empleo en internet es muy positivo, seguro que ayudar\u00eda a estas personas, en estos momentos tan duros, intentar por todos los medios, con esfuerzo, constancia se podr\u00e1n conseguir logros importantes.",
+         "start": 422.239,
+         "duration": 16.683,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Pues ha sido todo, muchas gracias",
+         "start": 443.987,
+         "duration": 1.627,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "- De nada.",
+         "start": 447.447,
+         "duration": 0.626,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta gris",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Adi\u00f3s. - Adi\u00f3s.",
+         "start": 448.408,
+         "duration": 1.043,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hola buenos d\u00edas nos encontramos en la I Jornada Formativa de los Servicios Centrales de Empleo organizados por la CNSE, y con la participaci\u00f3n de los representantes en materia de empleo de las 17 Federaciones de Personas Sordas.",
+         "start": 450.734,
+         "duration": 13.513,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo de esta jornada, es trabajar conjuntamente y compartir experiencias en torno a este tema, durante los d\u00edas 8, 9 y 10 de Mayo en Madrid.",
+         "start": 505.289,
+         "duration": 9.551,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vamos a contar con la intervenci\u00f3n de algunos de los participantes de esta jornada.",
+         "start": 515.757,
+         "duration": 3.921,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos con nosotros a la t\u00e9cnica de empleo de la Federaci\u00f3n de Personas Sordas de Madrid, que cuenta con una gran experiencia en diversos \u00e1mbitos relacionados con el movimiento asociativo.",
+         "start": 524.441,
+         "duration": 9.218,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "Quer\u00eda preguntarte dada tu gran experiencia, \u00bfpodr\u00edas comentarnos las dificultades que ha encontrado nuestro colectivo a la hora de b\u00fasqueda de empleo, y si coincidiendo con estos momentos de crisis, la persona sorda se ha encontrado m\u00e1s afectada en este sentido?",
+         "start": 535.285,
+         "duration": 17.476,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "En primer lugar, quer\u00eda presentarme soy Conchi, y efectivamente, en relaci\u00f3n a tu presentaci\u00f3n, he trabajado durante bastante tiempo en relaci\u00f3n a temas de empleo para personas sordas, no solo en Madrid, sino tambi\u00e9n para Andaluc\u00eda, y valorando todos estos a\u00f1os, he de decir que en esta \u00e9poca de crisis, las personas sordas son las m\u00e1s perjudicadas,",
+         "start": 557.558,
+         "duration": 19.603,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "ya que encuentran serias dificultades en la inserci\u00f3n de empleo y no est\u00e1n en igualdad de oportunidades que el resto de la sociedad.",
+         "start": 618.452,
+         "duration": 6.465,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Respecto a la formaci\u00f3n de cursos, la presencia de un int\u00e9rprete en los mismos, no se consigue f\u00e1cilmente y a\u00fan queda mucho por hacer.",
+         "start": 625.967,
+         "duration": 7.174,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La persona sorda en este sentido cae como en un retroceso hacia tiempos pasados, gente preparada y con grandes capacidades, s\u00f3lo encuentran trabajos precarios, como puede ser lo relacionado con limpieza,",
+         "start": 634.134,
+         "duration": 11.97,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "y eso creo que esto est\u00e1 influenciado por la reciente reforma laboral, seg\u00fan he podido comprobar en lo que se ha expuesto esta ma\u00f1ana, creo que esta reforma afecta y mucho a nuestro colectivo,",
+         "start": 646.98,
+         "duration": 12.137,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "encontr\u00e1ndose en desventaja sobre el resto de la sociedad, y creo que debemos unir fuerzas para trabajar sobre este tema y proteger los derechos de las personas sordas, mediante medidas a trav\u00e9s de la red del movimiento asociativo. Creo que esto es muy importante.",
+         "start": 701.785,
+         "duration": 20.938,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "\u00bfy muchas en desempleo?",
+         "start": 800.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "M\u00e1s o menos la mitad, tanto hombres como mujeres.",
+         "start": 802.0,
+         "duration": 8.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Quiz\u00e1s m\u00e1s entre los hombres, las mujeres quiz\u00e1s encuentren antes empleos del tipo limpieza, en hogares. Los hombres buscan empleos de la construcci\u00f3n, mec\u00e1nica del autom\u00f3vil.",
+         "start": 811.0,
+         "duration": 14.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La mayor\u00eda necesitan entrar en centros especiales de empleo, donde se encuentran en unas condiciones p\u00e9simas y necesitan ganarse el pan de cada d\u00eda, condiciones como salarios muy bajos, horarios no muy buenos, y que deben aceptar porque es lo que hay.",
+         "start": 826.0,
+         "duration": 16.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Tenemos cursos con el Lanbide, lo que equivale al INEM en el Pa\u00eds Vasco, donde recibimos subvenciones y la posibilidad de contar con un int\u00e9rprete independientemente del n\u00famero de alumnos inscritos,",
+         "start": 842.0,
+         "duration": 15.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "donde aprovecho a todos los usuarios a que participen en estos cursos, para ampliar su curriculum vitae y adquirir mayor experiencia, y disponer de una abanico m\u00e1s amplio para poder encontrar cualquier tipo de empleo.",
+         "start": 857.0,
+         "duration": 12.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Recibimos a los usuarios que nos cuentan sus experiencias, situaciones, no muy agradables, se desahogan con nosotros y se nos ponen los pelos de punta,",
+         "start": 871.0,
+         "duration": 11.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "tenemos funciones m\u00e1s de trabajadores sociales, pero creo que lo importante es que tenemos la posibilidad de poder atenderles y eso es fundamental,",
+         "start": 882.0,
+         "duration": 9.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "ya que vemos que est\u00e1n muy afectados y psicol\u00f3gicamente lo est\u00e1n pasando verdaderamente mal, necesitan que se les preste apoyo psicol\u00f3gico, y bueno eso es todo no quiero extenderme m\u00e1s.",
+         "start": 891.0,
+         "duration": 24.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo largo rizado y camiseta negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Bien, contamos ahora con la intervenci\u00f3n de la coordinadora de general de la Asociaci\u00f3n de Sordos de Melilla, Que a su vez lleva tambi\u00e9n la coordinaci\u00f3n de empleo.",
+         "start": 918.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "En estos momentos tienes el cargo de coordinadora general, pero en lo que concierne al empleo, \u00bfqu\u00e9 conclusiones te llevas de todo lo que se ha compartido en esta jornada?,",
+         "start": 932.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "e imagino \u00bfqu\u00e9 todo esto lo podr\u00e1s compartir con los miembros de la asociaci\u00f3n? \u00bfQu\u00e9 ideas te llevas aqu\u00ed?",
+         "start": 942.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      },
+      {
+         "text": "En mi opini\u00f3n, creo que esta jornada ha sido muy interesante, he podido recoger todo lo que en ella se ha expuesto, y de esta manera difundirlo entre todas las personas sordas de Melilla;",
+         "start": 959.0,
+         "duration": 14.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o y camisa rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "la situaci\u00f3n en Melilla en estos momentos en relaci\u00f3n al empleo es muy dif\u00edcil, las personas mayores afortunadamente tienen empleo, pero el problema radica en los j\u00f3venes que no tienen empleo,",
+         "start": 973.0,
+         "duration": 15.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o y camisa rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "e intentan realizar cursos varios, para poder adquirir experiencia, y ah\u00ed tambi\u00e9n se encuentran con el problema de que deben costearse los servicios de un int\u00e9rprete y no disponen de medios para poder pagarle, entonces no pueden acceder.",
+         "start": 988.0,
+         "duration": 15.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o y camisa rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "He recogido mucha informaci\u00f3n en lo referente a legislaci\u00f3n, creo que esto es muy importante, porque de esta manera cuando acudan a la asociaci\u00f3n para pedir informaci\u00f3n o aclarar dudas, podremos atenderles adecuadamente, guiarles, asesorarles,",
+         "start": 1003.0,
+         "duration": 15.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o y camisa rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "y si algo no est\u00e1 en manos de la asociaci\u00f3n poder derivarles al organismo correspondiente. En general, creo que ha sido muy importante haber acudido a esta jornada.",
+         "start": 1018.0,
+         "duration": 15.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o y camisa rosa",
+         "screen_position": "left"
+      },
+      {
+         "text": "Bien pues estas han sido las opiniones y experiencias de algunos de los participantes a esta jornada, espero que hay\u00e1is podido disfrutar de sus exposiciones, adi\u00f3s.",
+         "start": 1044.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre calvo con gafas y camisa blanca",
+         "screen_position": "center"
+      }
+   ]
+}

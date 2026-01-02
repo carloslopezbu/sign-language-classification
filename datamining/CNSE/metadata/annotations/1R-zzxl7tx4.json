@@ -1,0 +1,491 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Centro de Psicolog\u00eda de \u00c1lava Reyes ha elaborado",
+         "start": 1.1,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "el gu\u00eda de estrategias psicol\u00f3gicas para ayudarte ante el fallecimiento de un familiar",
+         "start": 7.3,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora es un momento dif\u00edcil porque siempre vivimos de espaldas a la muerte hasta que nos toca de lleno y fallece la persona con la tenemos una relaci\u00f3n directa, cercana y afectiva.",
+         "start": 20.8,
+         "duration": 16.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son d\u00edas tristes porque muchas familias est\u00e1n perdiendo a sus seres queridos afectados por el Coronavirus.",
+         "start": 39.3,
+         "duration": 15.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Duelo.",
+         "start": 57.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "El duelo es un proceso adaptativo, no es una enfermedad.",
+         "start": 100.7,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es posible que sientas reacciones emocionales intensas como la ira, ganas de llorar, irritabilidad, ansiedad, etc.",
+         "start": 109.0,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Son reacciones normales.",
+         "start": 124.0,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "No sabemos cu\u00e1nto tiempo tiene que durar el proceso de duelo, esto depende de cada uno.",
+         "start": 128.5,
+         "duration": 9.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero lo importante es lo que decidas hacer durante ese tiempo.",
+         "start": 138.2,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "No tienes que compararlo con lo que sienten otros familiares, no significa querer al familar m\u00e1s o menos.",
+         "start": 149.7,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Todo lo que vas a sentir estrictamente personal.",
+         "start": 202.7,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero lo importante es lo que decidas hacer durante ese tiempo, para adaptarte poco a poco a una vida sin la persona querida.",
+         "start": 209.7,
+         "duration": 21.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQu\u00e9 vas a sentir cuando alguien muere?",
+         "start": 233.2,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cuando la muerte viene sin avisar, cuando todo ocurre de manera repentina o en pocos d\u00edas, nos provoca un impacto emocional, f\u00edsico y psicol\u00f3gico tan fuerte que nos resulta dif\u00edcil dar respuestas r\u00e1pidas y eficaces.",
+         "start": 237.7,
+         "duration": 22.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las reacciones suelen ser de shock, extra\u00f1eza, de macabra sorpresa, sentimiento de culpabilidad, posiblemente enfado, entre otras muchas.",
+         "start": 301.2,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "No existen palabras en el diccionario para poder describir lo que se siente, cada uno puede tener reacciones diferentes.",
+         "start": 312.9,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es importante aceptar las emociones que experimentas e iniciar un duelo que te llevar\u00e1 a normalizar tu vida.",
+         "start": 324.2,
+         "duration": 17.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Comportamientos \u00fatiles ante la p\u00e9rdida de una persona.",
+         "start": 343.7,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Intenta poner en marcha todas tus habilidades para ir asumiendo este proceso de duelo.",
+         "start": 350.2,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es fundamental reconocer tus emociones intensas.",
+         "start": 402.7,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Expresa tus emociones a familiares y amigos.",
+         "start": 412.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "D\u00e9jate acompa\u00f1ar en este momento respetando las medidas de seguridad para no contagiarte ni contagiarles.",
+         "start": 424.7,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Acepta el dolor poco a poco.",
+         "start": 436.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mientras tanto, intenta ponerte objetivos realistas e ilusionantes en todas las \u00e1reas de tu vida, laboral, acad\u00e9mica, familiar, ocio, salud, etc.",
+         "start": 440.0,
+         "duration": 18.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Con una actitud proactiva, para que se cumplan los objetivos",
+         "start": 500.0,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tienes que autorizarte a tener otras oportunidades para seguir desarrollando tu vida, con recuerdos de la persona que ya no est\u00e1, pero construyendo de nuevo tu propia vida.",
+         "start": 511.0,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQu\u00e9 ocurre con las ni\u00f1as y los ni\u00f1os?",
+         "start": 532.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Los ni\u00f1os no deben estar al margen de los procesos de muerte y duelo.",
+         "start": 535.5,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hay que explicarles la situaci\u00f3n con una forma de comunicaci\u00f3n adaptada.",
+         "start": 550.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Os explicamos algunas pautas del gu\u00eda.",
+         "start": 559.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfCu\u00e1les son?",
+         "start": 605.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hazte acompa\u00f1ar de tus familiares y amistades entra\u00f1ables y de confianza.",
+         "start": 607.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Respeta la distancia f\u00edsica para no poner en riesgo tu salud ni la suya.",
+         "start": 617.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Expresa tus sentimientos, aunque no puedas abrazarte.",
+         "start": 627.0,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Puedes utilizar el tel\u00e9fono y hablar de tus emociones con las personas que te van a comprender.",
+         "start": 640.0,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Retoma tu rutina, que, aunque sea algo distinta, ser\u00e1 tu nueva rutina.",
+         "start": 657.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Dedica un tiempo a estar con las personas que conviven contigo",
+         "start": 711.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Valora los momentos que compartes con las personas que te ayudan, te apoyan porque te quieren.",
+         "start": 720.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Dise\u00f1a nuevos objetivos realistas en tu d\u00eda a d\u00eda para darte otras oportunidades.",
+         "start": 737.0,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Aunque ahora est\u00e9s en casa por la situaci\u00f3n del coronavirus, planifica actividades para cuando puedas salir.",
+         "start": 745.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cu\u00eddate f\u00edsicamente y fortalece los h\u00e1bitos saludables.",
+         "start": 800.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Acepta la realidad para poder adaptarte a la nueva situaci\u00f3n.",
+         "start": 810.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Conf\u00eda en ti para seguir tomando decisiones y resolver los problemas que vayan surgiendo.",
+         "start": 819.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Expresa tu gratitud a las personas que han estado siempre ah\u00ed, cerca de ti.",
+         "start": 833.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Autor\u00edzate a sonre\u00edr de nuevo.",
+         "start": 845.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Dediquemos un momento al homenaje a la vida.",
+         "start": 850.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La persona que ya no est\u00e1, vivi\u00f3, te aport\u00f3 muchas cosas que t\u00fa ahora valoras como muy importantes.",
+         "start": 858.5,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tuviste la oportunidad de disfrutar de su presencia, de sentir que te quer\u00eda a su manera y t\u00fa tambi\u00e9n la quer\u00edas.",
+         "start": 912.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Compartisteis momentos de alegr\u00eda y de tristeza, buenos y malos ratos.",
+         "start": 921.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "No es el momento para estar tristes, es momento para estar agradecidos de lo que hemos vivido juntos y recordar su sonrisa.",
+         "start": 932.0,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Te queda su recuerdo, cons\u00e9rvalo, pero es el momento de que mires al amanecer y no al ocaso.",
+         "start": 954.0,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sigue adelante, encontrar\u00e1s nuevos objetivos, nuevas ilusiones, otras muchas experiencias y recuerda siempre que sonre\u00edr no es olvidar, no es traicionar.",
+         "start": 1008.0,
+         "duration": 19.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Simplemente es vivir, vivir con esperanza.",
+         "start": 1028.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo casta\u00f1o y chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

@@ -1,0 +1,482 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola soy Leticia, psic\u00f3loga de ACCEM.",
+         "start": 13.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Desde nuestra propuesta \"Activos en Casa\" os voy a ofrecer una peque\u00f1a sesi\u00f3n para mantenernos activos mentalmente.",
+         "start": 15.8,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Trabajaremos principalmente la atenci\u00f3n y la memoria.",
+         "start": 24.5,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "As\u00ed que a por ello.",
+         "start": 28.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En este primer ejercicio tienes que pensar qu\u00e9 imagen es la que se repite.",
+         "start": 30.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Eso es, el que se repite es el ajedrez.",
+         "start": 52.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "A ver la siguiente.",
+         "start": 57.5,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Muy bien, el que se repite es el bal\u00f3n de rugby.",
+         "start": 74.2,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfY en \u00e9sta?",
+         "start": 77.8,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Eso es, se repiten las botas de monta\u00f1a.",
+         "start": 93.5,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Mira cu\u00e1l de estas frutas se repite. \u00bfLa encuentras?",
+         "start": 97.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Muy bien, es la manzana.",
+         "start": 112.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfSer\u00edas capaz ahora de recordar el resto de frutas? Venga, te dejo un tiempo para que lo pienses.",
+         "start": 117.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es dif\u00edcil que te acuerdes de todas, nuestro cerebro estaba trabajando para encontrar la repetida no para memorizarlas, a\u00fan as\u00ed, int\u00e9ntalo.",
+         "start": 124.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una o dos seguro que has recordado. Hab\u00eda manzana verde, sand\u00eda, mango, manzana roja, pera, pl\u00e1tano, mandarina, melocot\u00f3n, uvas, fresas, kiwi y lim\u00f3n. Lo est\u00e1s haciendo genial.",
+         "start": 149.5,
+         "duration": 12.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a pasar al siguiente ejercicio. Mira atentamente la siguiente imagen, f\u00edjate bien en todos los detalles.",
+         "start": 169.5,
+         "duration": 6.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfQu\u00e9 tiempo hace?",
+         "start": 206.0,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Hace fr\u00edo, est\u00e1 todo lleno de nieve.",
+         "start": 220.2,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfQu\u00e9 podemos ver sobre el monte del fondo?",
+         "start": 223.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Al fondo podemos ver el castillo con sus torres.",
+         "start": 238.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfQu\u00e9 elementos de hierro aparecen en el primer plano?",
+         "start": 244.5,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Son la valla y la farola.",
+         "start": 257.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esta localidad es Molina de Arag\u00f3n.",
+         "start": 263.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Mira ahora esta imagen, vuelve a fijarte en todos los detalles porque voy a hacerte preguntas.",
+         "start": 269.8,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfQu\u00e9 animales est\u00e1n en medio de la carretera?",
+         "start": 297.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Claro que s\u00ed, son ovejas.",
+         "start": 312.5,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfCu\u00e1ntas ovejas negras hay?",
+         "start": 315.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Es dif\u00edcil verlo pero hay dos. Si lo est\u00e1s viendo en una imagen peque\u00f1a seguramente solo te hayas percatado de una.",
+         "start": 330.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfDe qu\u00e9 color est\u00e1 el cielo?",
+         "start": 338.8,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Eso es, el cielo est\u00e1 gris.",
+         "start": 351.8,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfTiene la carretera las marcas viales pintadas?",
+         "start": 354.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tiene a los dos lados pero no la del medio.",
+         "start": 369.8,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Observa detenidamente la siguiente imagen y memor\u00edzala. Despu\u00e9s ir\u00e1n desapareciendo algunas cosas \u00bfsabes cu\u00e1les?",
+         "start": 373.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfQu\u00e9 falta?",
+         "start": 401.8,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Eso es, falta una lata de callos.",
+         "start": 409.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfY ahora?",
+         "start": 413.8,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Muy bien, son las galletas.",
+         "start": 420.2,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfY ahora?",
+         "start": 424.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Eso es, ahora falta el arroz.",
+         "start": 432.8,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora aparece una cosa m\u00e1s, \u00bfsabes cu\u00e1l es?",
+         "start": 438.5,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Correcto, ahora han aparecido unas magdalenas a la derecha.",
+         "start": 447.2,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nombra los objetos del siguiente v\u00eddeo. F\u00edjate bien en todos ellos.",
+         "start": 453.5,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfQu\u00e9 objetos recuerdas? Ve dici\u00e9ndolos en voz alta.",
+         "start": 500.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y ahora te voy a hacer unas preguntas. \u00bfDe qu\u00e9 color son las tijeras?",
+         "start": 521.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ah\u00ed las tienes. Son naranjas.",
+         "start": 531.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfQu\u00e9 hay junto al l\u00e1piz?",
+         "start": 537.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Eso es, junto al l\u00e1piz est\u00e1 la goma.",
+         "start": 549.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfDe qu\u00e9 color son los rotuladores?",
+         "start": 554.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Muy bien, eran morado y verde.",
+         "start": 565.5,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "F\u00edjate muy bien en todos los detalles de la siguiente imagen.",
+         "start": 571.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seis cosas han cambiado, \u00bferes capaz de localizarlas?",
+         "start": 598.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Aqu\u00ed va la soluci\u00f3n. Han cambiado la posici\u00f3n de las gafas. El rotulador morado ya no es morado, es rojo. Los post it est\u00e1n dados la vuelta. La cinta de la agenda est\u00e1 en otro lado. El boli azul est\u00e1 del rev\u00e9s. Y la goma ha cambiado su posici\u00f3n. \u00bfLos hab\u00edas visto todos?",
+         "start": 625.0,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Muy bien, ya hemos terminado. No te preocupes si algunos te han costado un poco m\u00e1s o no has podido resolverlo. Recuerda que los puedes hacer las veces que quieras y que lo importante es mantenerse activo. Puedes volver a verlo o intentar hacer juegos parecidos.",
+         "start": 650.8,
+         "duration": 18.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

@@ -1,8 +1,13 @@
 import json
 
 from rich.console import Console
+from rich.table import Table
 
-console = Console(log_time=True, log_time_format="%Y-%m-%d %H:%M:%S", log_path=False)
+console = Console(
+    log_time=True,
+    log_time_format="%Y-%m-%d %H:%M:%S",
+    log_path=False,
+)
 
 
 class logger:
@@ -27,6 +32,13 @@ class logger:
         console.log(f"[green](success)[/] {msg}")
 
 
-def save_json(obj, dest: str):
-    with open(dest, "w") as f:
+def save_json(obj: object, dest: str):
+    with open(dest, "w", encoding="utf-8") as f:
         json.dump(obj, f, indent=3)
+
+
+def load_json(src: str) -> dict:
+    obj = {}
+    with open(src, "r") as f:
+        obj = json.load(f)
+    return obj

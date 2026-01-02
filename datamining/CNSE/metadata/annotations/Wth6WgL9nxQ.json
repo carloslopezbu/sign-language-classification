@@ -1,0 +1,23 @@
+{
+   "num_signers": 8,
+   "annotations": [
+      {
+         "text": "Nadar en el mar que ha moldeado mi silueta.",
+         "start": 716.3,
+         "duration": 3.7,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Sentir aquello que no recordabas, rememorar nuestro pasado.",
+         "start": 720.8,
+         "duration": 7.2,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Mujer con pelo oscuro y camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}

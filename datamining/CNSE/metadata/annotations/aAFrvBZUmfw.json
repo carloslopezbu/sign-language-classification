@@ -1,0 +1,41 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Gracias, gracias, gracias. Mar\u00eda Jes\u00fas, tu equipo, por todo el trabajo y por todo el trabajo que ha dado como fruto un d\u00eda como hoy.",
+         "start": 1246.59,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta negra y camiseta estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "A continuaci\u00f3n, vamos a disfrutar de un documental en el que muchas personas sordas hacen historia, nuestra historia, desde distintas perspectivas, de desde distintos tipos de familias.",
+         "start": 1257.59,
+         "duration": 17.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta negra y camiseta estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "pero todas ellas unidas por el valor que le dan a la Lengua de Signos, a la Lengua de Signos como puerta de acceso a la educaci\u00f3n, al empleo, a la cultura, Lengua de Signos que realmente da en su d\u00eda a d\u00eda y en su vida una manera de poder progresar y desarrollarse.",
+         "start": 1315.09,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta negra y camiseta estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Personas sordas que no pueden olvidar el valor que supuso la Ley 27/2007 en el que se reconoce nuestra lengua, un momento hist\u00f3rico y fundamental que seguramente se podr\u00e1 desligar de lo que acabamos de ver de lo que vamos a ver.",
+         "start": 1334.59,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con chaqueta negra y camiseta estampada",
+         "screen_position": "center"
+      }
+   ]
+}

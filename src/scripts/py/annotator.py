@@ -8,6 +8,12 @@ import click
 import dotenv
 import logger
 from google import genai
+from google.genai.types import (
+    ContentListUnionDict,
+    File,
+    GenerateContentResponse,
+    SchemaUnionDict,
+)
 from pydantic import BaseModel, Field
 
 dotenv.load_dotenv()
@@ -57,81 +63,108 @@ class Annotator:
     def __init__(self, model: str, api_key: str | None, out_dir: str) -> None:
         self.model = model
         if api_key is None:
-            raise RuntimeError("Api Key is None")
+            raise RuntimeError("api Key is None")
         self.client = genai.Client(api_key=api_key)
         self.out_dir = out_dir
         self.failed_dir = os.path.join(out_dir, "failed")
         os.makedirs(self.out_dir, exist_ok=True)
         os.makedirs(self.failed_dir, exist_ok=True)
 
-    def annotate(self, video: str, prompt: str) -> None:
-        video_name = os.path.basename(video)
-        logger.info(f"Processing video: {video_name}")
-
-        # 1. Subida
-        logger.debug("Uploading video to Gemini API...")
+    def _upload_file(self, file: str) -> File | None:
         try:
-            file = self.client.files.upload(file=video)
+            upfile = self.client.files.upload(file=file)
             logger.success("Video uploaded successfully")
+            return upfile
         except Exception as e:
-            logger.error(f"Error uploading the video: {e}")
-            return
+            logger.error(f"error uploading the video: {e}")
+            return None
 
-        # 2. Espera de procesamiento
-        logger.debug("Waiting the video to be proccessed...")
+    def _process(self, file: File, seconds: float = 1.0):
         while file.state is not None and file.state.name == "PROCESSING":
-            time.sleep(2.0)
+            time.sleep(seconds)
             if file.name:
                 file = self.client.files.get(name=file.name)
 
+    def _failed(self, file: File) -> bool:
         if file.state is not None and file.state.name == "FAILED":
-            logger.error("The video processing failed in the API")
+            logger.error("the video processing failed in the API")
             if file.name:
                 self.client.files.delete(name=file.name)
+            return True
+
+        return False
+
+    def _generate(
+        self,
+        contents: ContentListUnionDict,
+        response_schema: SchemaUnionDict,
+        temperature: float = 0.1,
+    ) -> GenerateContentResponse:
+        logger.debug("generating annotations with the model...")
+        response = self.client.models.generate_content(
+            model=self.model,
+            contents=contents,
+            config={
+                "response_mime_type": "application/json",
+                "response_schema": response_schema,
+                "temperature": temperature,
+            },
+        )
+
+        return response
+
+    def annotate(self, video: str, prompt: str) -> None:
+        video_name = os.path.basename(video)
+        logger.info(f"processing video: {video_name}")
+
+        logger.debug("uploading video to Gemini API...")
+
+        if not (file := self._upload_file(file=video)):
             return
 
-        logger.success("The video was successfully processed")
+        logger.debug("waiting the video to be proccessed...")
+        self._process(file=file)
 
-        # 3. Generación con Pydantic
+        if self._failed(file=file):
+            return
+
+        logger.success("the video was successfully processed")
+
         try:
-            logger.debug("Generating annotations with the model...")
-            response = self.client.models.generate_content(
-                model=self.model,
-                contents=[file, prompt],
-                config={
-                    "response_mime_type": "application/json",
-                    "response_schema": VideoAnalysis,
-                    "temperature": 0.1,
-                },
+            logger.debug("generating annotations with the model...")
+            response = self._generate(
+                contents=[file, prompt], response_schema=VideoAnalysis, temperature=0.1
             )
 
-            id_str: str = video.split(".mp4")[0].split("/")[-1]
+            os.path.basename(video).split(".mp4")[0]
+
+            id_str: str = os.path.basename(video).split(".mp4")[0]
 
             if response.parsed and isinstance(response.parsed, VideoAnalysis):
                 if response.parsed.num_signers == 0:
                     out_path = os.path.join(self.failed_dir, f"{id_str}.json")
-                    logger.warn(f"No signers detected → {out_path}")
+                    logger.warn(f"no signers detected → {out_path}")
                 else:
                     out_path = os.path.join(self.out_dir, f"{id_str}.json")
                     logger.success(
-                        f"Annotations generated ({response.parsed.num_signers} signers, {len(response.parsed.annotations)} annotations)"
+                        f"annotations generated ({response.parsed.num_signers} signers, {len(response.parsed.annotations)} annotations)"
                     )
 
                 with open(out_path, "w", encoding="utf-8") as f:
                     response.parsed.model_dump()
                     f.write(response.parsed.model_dump_json(indent=3))
 
-                logger.info(f"Saved: {out_path}")
+                logger.info(f"saved: {out_path}")
             else:
-                logger.warn("Unexpected schema returned")
+                logger.warn("unexpected schema returned")
 
         except Exception as e:
-            logger.error(f"Error generating: {e}")
+            logger.error(f"error generating: {e}")
 
         finally:
             if file.name:
                 self.client.files.delete(name=file.name)
-                logger.debug("Temporal file deleted from the API")
+                logger.debug("temporal file deleted from the API")
 
 
 # --- PROMPT SIMPLIFICADO ---

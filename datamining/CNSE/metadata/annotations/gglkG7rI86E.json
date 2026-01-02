@@ -1,0 +1,707 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "El Presidente del Gobierno anunci\u00f3 ayer el \u2018Plan para la Transici\u00f3n a una Nueva Normalidad\u2019 que afrontar\u00e1 Espa\u00f1a durante las pr\u00f3ximas semanas.",
+         "start": 1.2,
+         "duration": 9.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esta transici\u00f3n se har\u00e1 por provincias e islas de forma gradual, pudiendo ser desigual seg\u00fan la situaci\u00f3n de la epidemia en cada una de ellas.",
+         "start": 10.8,
+         "duration": 13.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Plan de Transici\u00f3n establece 4 fases de 15 d\u00edas de duraci\u00f3n cada una.",
+         "start": 25.8,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se han establecido 15 d\u00edas para cada fase porque se corresponden con un per\u00edodo de incubaci\u00f3n del COVID 19, lo que ayudar\u00e1 a controlar de forma continua la evoluci\u00f3n de la epidemia.",
+         "start": 31.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cada fase se ir\u00e1n introduciendo distintas medidas de apertura.",
+         "start": 43.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasados 15 d\u00edas, las autoridades sanitarias revisar\u00e1n y valorar\u00e1n la situaci\u00f3n en cada provincia o isla. Si el n\u00famero de contagios se mantiene bajo, se podr\u00e1 pasar a la siguiente fase.",
+         "start": 50.8,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso contrario, habr\u00e1 que esperar hasta que sea seguro.",
+         "start": 103.9,
+         "duration": 6.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Gobierno ha establecido unas fechas orientativas para cada una de las fases, que depender\u00e1n de los resultados epidemiol\u00f3gicos de cada regi\u00f3n.",
+         "start": 111.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La transici\u00f3n ser\u00e1 m\u00e1s o menos lenta seg\u00fan sean estos resultados.",
+         "start": 122.8,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es importante recordar que est\u00e1 prohibido desplazarse a otras provincias, ni al extranjero, salvo por causas de trabajo o urgencias familiares.",
+         "start": 130.2,
+         "duration": 15.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el caso de las islas, tampoco se podr\u00e1 viajar de una a otra a excepci\u00f3n de estos casos.",
+         "start": 145.9,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se hace por precauci\u00f3n, para evitar contagios entre unos lugares y otros como pas\u00f3 al comenzar la crisis sanitaria.",
+         "start": 154.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ser\u00e1 de obligado cumplimiento seguir las recomendaciones de higiene, protecci\u00f3n y distancia entre personas.",
+         "start": 203.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lavado frecuente de manos, no llevar las manos a la nariz, boca y ojos si no est\u00e1n completamente limpias, y mantener una distancia m\u00ednima de 2 metros, y evitar las aglomeraciones.",
+         "start": 211.2,
+         "duration": 15.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La utilizaci\u00f3n de mascarilla ser\u00e1 altamente recomendable en cualquier desplazamiento y actividad fuera del hogar, y especialmente en el transporte p\u00fablico.",
+         "start": 227.8,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se mantendr\u00e1 en la medida de lo posible la opci\u00f3n de teletrabajo.",
+         "start": 239.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tanto el Gobierno como las comunidades aut\u00f3nomas, ir\u00e1n detallando progresivamente las nuevas medidas previstas para cada fase.",
+         "start": 247.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os adelantamos algunas cuestiones generales que Pedro S\u00e1nchez explic\u00f3 ayer.",
+         "start": 255.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La fase 0 es la fase de preparaci\u00f3n.",
+         "start": 303.8,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comienza el 4 de mayo en toda Espa\u00f1a, a excepci\u00f3n de 4 islas que llevan m\u00e1s de un mes sin ning\u00fan contagio: Formentera, El Hierro, La Gomera, y La Graciosa.",
+         "start": 307.8,
+         "duration": 15.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estas islas pasar\u00e1n directamente a la fase 1.",
+         "start": 323.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Antes, el d\u00eda 2 de mayo, se permitir\u00e1 en todo el pa\u00eds el deporte individual, y el paseo de adultos solos o acompa\u00f1ados por alguna de las personas con las que convivan.",
+         "start": 328.8,
+         "duration": 13.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En los pr\u00f3ximos d\u00edas, explicar\u00e1n c\u00f3mo hay que realizar estas nuevas salidas como el horario, la distancia, etc.",
+         "start": 343.8,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se mantendr\u00e1 como hasta ahora, el permiso de salidas para ni\u00f1as y ni\u00f1os.",
+         "start": 351.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta fase, comenzar\u00e1n a abrir peque\u00f1os comercios que hasta ahora estaban cerrados, como por ejemplo peluquer\u00edas, centros de fisioterapia, ferreter\u00edas, bares, cafeter\u00edas, o restaurantes.",
+         "start": 357.8,
+         "duration": 17.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estos establecimientos solo atender\u00e1n a los clientes de forma individual o con cita previa.",
+         "start": 415.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El servicio de los bares, cafeter\u00edas y restaurantes se limitar\u00e1 a atender encargos para llevar y consumir en casa.",
+         "start": 422.2,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No est\u00e1 permitido consumir en el local.",
+         "start": 428.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Supermercados, tiendas de alimentos, farmacias, centros sanitarios y aquellos establecimientos y actividades que ya estaban abiertas, continuar\u00e1n con su funcionamiento habitual.",
+         "start": 432.8,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otra de las medidas para esta fase, ser\u00e1 que los deportistas profesionales y federados empiecen a entrenar de forma individual.",
+         "start": 446.8,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Transcurridas dos semanas, se evaluar\u00e1n los datos epidemiol\u00f3gicos de cada provincia o isla. Si es seguro, avanzar\u00e1n a la fase 1. En caso de riesgo sanitario, deber\u00e1n permanecer en la fase 0 hasta que la situaci\u00f3n mejore, antes de pasar a la fase 1.",
+         "start": 457.2,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La fase 1 es la fase inicial.",
+         "start": 517.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comenzar\u00e1 el 11 de mayo.",
+         "start": 520.8,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta fase podremos ir a segundas residencias siempre y cuando est\u00e9n en la misma provincia en la que vivimos, y acompa\u00f1ados \u00fanicamente de las personas que conviven con nosotros. No de otros familiares y amigos.",
+         "start": 523.2,
+         "duration": 16.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se espera que podamos tener contacto puntual con grupos reducidos de familiares y amigos que no sean vulnerables al virus ni tengan patolog\u00edas previas, aunque todav\u00eda no es seguro y habr\u00e1 que esperar para saber las condiciones.",
+         "start": 541.8,
+         "duration": 13.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se abrir\u00e1n los peque\u00f1os comercios bajo estrictas medidas de seguridad y control de aforo.",
+         "start": 556.8,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los centros comerciales seguir\u00e1n cerrados para evitar aglomeraciones de gente.",
+         "start": 605.8,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las terrazas de bares y restaurantes comenzar\u00e1n a funcionar con solo un 30% de ocupaci\u00f3n.",
+         "start": 614.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se podr\u00e1 permanecer en el interior de estos locales.",
+         "start": 624.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se establecer\u00e1n horarios preferentes de atenci\u00f3n en los establecimientos a mayores de 65 a\u00f1os y personas m\u00e1s vulnerables al COVID 19.",
+         "start": 631.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Los hoteles y alojamientos tur\u00edsticos volver\u00e1n a dar servicio, permaneciendo cerradas las zonas comunes.",
+         "start": 642.8,
+         "duration": 10.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se inician los entrenamientos deportivos profesionales en grupo bajo medidas de seguridad.",
+         "start": 655.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lugares de culto como iglesias, podr\u00e1n abrir con la restricci\u00f3n de un tercio de aforo.",
+         "start": 704.2,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se permitir\u00e1n los velatorios con la asistencia de un n\u00famero limitado de personas, respetando los protocolos de distancia f\u00edsica y seguridad, y respetando los criterios que en su momento determinen las autoridades.",
+         "start": 715.8,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasados otros 15 d\u00edas, se evaluar\u00e1n de nuevo los datos epidemiol\u00f3gicos de cada provincia o isla. Si es seguro, avanzar\u00e1n a la siguiente fase. En caso de riesgo sanitario, deber\u00e1n permanecer en esta fase hasta que sea seguro.",
+         "start": 729.8,
+         "duration": 16.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La fase 2 es la fase intermedia.",
+         "start": 747.8,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comienza el 25 de mayo.",
+         "start": 750.8,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta nueva fase, se reabren algunos centros educativos.",
+         "start": 753.2,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aunque el Gobierno ha anunciado que el curso escolar no comenzar\u00e1 hasta septiembre, algunos centros permanecer\u00e1n abiertos para preparar y realizar las pruebas de la EBAU, o para atender a menores de 6 a\u00f1os cuyos padres tengan que trabajar de forma presencial.",
+         "start": 756.8,
+         "duration": 16.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si se dan las condiciones adecuadas, se permitir\u00e1 la entrada al interior de bares y locales de restauraci\u00f3n y hosteler\u00eda, con una ocupaci\u00f3n de un tercio del aforo, y s\u00f3lo para servicio de mesas o para llevar.",
+         "start": 815.8,
+         "duration": 13.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "No se podr\u00e1 permanecer en la barra.",
+         "start": 829.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las discotecas y bares nocturnos seguir\u00e1n cerrados.",
+         "start": 834.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se permitir\u00e1 visitar monumentos, salas de exposiciones o de conferencias, pero con restricciones de aforo de un tercio de su capacidad.",
+         "start": 841.8,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se reabrir\u00e1n cines, teatros y auditorios, con una ocupaci\u00f3n m\u00e1xima de un tercio del aforo y con una butaca asignada previamente.",
+         "start": 852.8,
+         "duration": 11.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta fase se ampl\u00eda la cifra de asistentes en los lugares de culto a un 50% del aforo.",
+         "start": 906.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podr\u00e1n celebrarse bodas para un n\u00famero limitado de asistentes.",
+         "start": 916.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se permitir\u00e1n las visitas de un familiar a personas con discapacidad en residencias y viviendas tuteladas salvo en el caso de las residencias de mayores.",
+         "start": 920.8,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasados otros 15 d\u00edas, se evaluar\u00e1n de nuevo los datos epidemiol\u00f3gicos de cada provincia o isla.",
+         "start": 933.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si es seguro, avanzar\u00e1n a la siguiente fase.",
+         "start": 941.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de riesgo sanitario, deber\u00e1n permanecer en esta fase hasta que sea seguro.",
+         "start": 942.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "La fase 3 es la fase avanzada.",
+         "start": 950.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comienza el 8 de junio.",
+         "start": 953.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En esta fase, se empezar\u00e1 a ampliar la movilidad y libre circulaci\u00f3n en el territorio nacional.",
+         "start": 955.8,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, podr\u00edamos desplazarnos a una segunda residencia en otra provincia, siempre y cuando ambas nos encontremos en la fase 3.",
+         "start": 1000.0,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si Madrid estuviera en la fase 2 y Cuenca en la fase 3, tendr\u00edamos que esperar.",
+         "start": 1013.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, los centros comerciales y grandes tiendas se reabrir\u00e1n, con un l\u00edmite del 50 % de su aforo Ser\u00e1 necesario mantener una distancia m\u00ednima obligatoria de dos metros entre personas.",
+         "start": 1022.5,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el sector de la restauraci\u00f3n, bares y restaurantes, se ir\u00e1n suavizando los l\u00edmites de aforo y ocupaci\u00f3n.",
+         "start": 1036.8,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Podremos asistir a actos y espect\u00e1culos culturales y de ocio al aire libre de menos de 800 personas, siempre y cuando permanezcan sentados y manteniendo la distancia necesaria.",
+         "start": 1045.8,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tambi\u00e9n se reabrir\u00e1n los parques tem\u00e1ticos con limitaci\u00f3n de asistentes de un 50% del aforo.",
+         "start": 1058.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se podr\u00e1 acceder a las playas, en condiciones de seguridad y distanciamiento.",
+         "start": 1108.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se abrir\u00e1n los gimnasios, aunque con el aforo restringido a un tercio y sin uso de los vestuarios.",
+         "start": 1114.2,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se permitir\u00e1 la celebraci\u00f3n de partidos o actividades deportivas al aire libre, con restricci\u00f3n en el aforo.",
+         "start": 1124.5,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Superada esta fase avanzada, habr\u00edamos finalizado el plan de transici\u00f3n hacia la nueva normalidad.",
+         "start": 1131.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo del Gobierno es que esta transici\u00f3n dure como m\u00ednimo seis semanas, y como m\u00e1ximo ocho, dependiendo de c\u00f3mo evolucione la epidemia en cada lugar.",
+         "start": 1138.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si todo sale bien, ser\u00eda aproximadamente a finales del mes de junio.",
+         "start": 1150.8,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es importante tener en cuenta que una vez superemos todas estas fases, hasta que no haya una vacuna o un tratamiento que cure el coronavirus, tendremos que seguir extremando las precauciones durante mucho tiempo y cumpliendo las recomendaciones de higiene, protecci\u00f3n personal y distancia f\u00edsica.",
+         "start": 1157.8,
+         "duration": 20.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "De nuestra responsabilidad personal depende tambi\u00e9n que lo consigamos.",
+         "start": 1218.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os seguiremos informando de cualquier novedad que vaya dando el Gobierno.",
+         "start": 1223.8,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con mo\u00f1o y jersey negro",
+         "screen_position": "center"
+      }
+   ]
+}

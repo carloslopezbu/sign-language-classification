@@ -1,0 +1,635 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Buenas, mi nombre es Lourdes y soy terapeuta ocupacional de ACCEM.",
+         "start": 14.723,
+         "duration": 4.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Desde nuestra propuesta \"Mayores en casa\" os propongo un ejercicio a trav\u00e9s del tacto.",
+         "start": 20.603,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello nos va a hacer falta espuma de afeitar o del pelo y nuestras manos.",
+         "start": 28.523,
+         "duration": 7.28,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pues manos a la obra.",
+         "start": 38.043,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Con este ejercicio lo que pretendemos trabajar es estimular el tacto, es decir, en primer lugar el objetivo importante en esta actividad va a ser el tacto que lo vamos a trabajar a trav\u00e9s de la espuma.",
+         "start": 39.603,
+         "duration": 11.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Pero tambi\u00e9n va a ser la coordinaci\u00f3n de las manos con los ojos y el trabajo de la textura de la espuma en este caso.",
+         "start": 52.043,
+         "duration": 7.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a hacer una serie de ejercicios con las manos para calentarlas.",
+         "start": 103.563,
+         "duration": 2.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Al igual que en otros v\u00eddeos vamos a girar hacia dentro y hacia fuera nuestras mu\u00f1ecas.",
+         "start": 107.803,
+         "duration": 10.56,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora lo que vamos a hacer va a ser apretar y abrir fuerte.",
+         "start": 122.083,
+         "duration": 3.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Dos, apretamos y abrimos.",
+         "start": 128.843,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Tres, apretamos y abrimos.",
+         "start": 131.843,
+         "duration": 1.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuatro, apretamos y abrimos.",
+         "start": 136.523,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cinco.",
+         "start": 141.243,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seis.",
+         "start": 144.523,
+         "duration": 0.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siete.",
+         "start": 148.523,
+         "duration": 0.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ocho.",
+         "start": 152.043,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nueve.",
+         "start": 155.243,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Diez.",
+         "start": 158.523,
+         "duration": 0.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora vamos a juntar el dedo pulgar o gordo con el resto de dedos.",
+         "start": 201.843,
+         "duration": 3.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro.",
+         "start": 209.843,
+         "duration": 1.72,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Repetimos, uno, dos, tres, cuatro.",
+         "start": 214.043,
+         "duration": 2.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro.",
+         "start": 218.843,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Uno, dos, tres, cuatro.",
+         "start": 223.523,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "De esta manera hemos calentado las articulaciones y los m\u00fasculos de las manos que son los que nos van a hacer falta para la siguiente actividad.",
+         "start": 229.563,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a agitar el bote y vamos a echar espuma sobre nuestras manos.",
+         "start": 242.523,
+         "duration": 4.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a hacer como un peque\u00f1o masaje, como si tuvi\u00e9ramos una bola de cristal, en este caso es la espuma.",
+         "start": 249.563,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos haciendo peque\u00f1os c\u00edrculos.",
+         "start": 258.523,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Notamos como cada vez la espuma se nos va saliendo m\u00e1s por las manos.",
+         "start": 300.523,
+         "duration": 4.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Llegar\u00e1 un momento en que la espuma se caiga, no pasa nada no os preocup\u00e9is porque luego la podemos limpiar.",
+         "start": 308.523,
+         "duration": 5.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos masajeando por toda la mano.",
+         "start": 315.523,
+         "duration": 2.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Que nos cuesta trabajo estar as\u00ed, pues apoyamos el antebrazo en la mesa.",
+         "start": 319.523,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Podemos ir recogiendo y haciendo otra vez la bola entre nuestras manos y seguimos girando.",
+         "start": 325.523,
+         "duration": 7.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Si giramos con la derecha ahora con la izquierda.",
+         "start": 335.043,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "De tal manera que cada vez tengamos que ir recogiendo la espuma que nos va sobrando.",
+         "start": 342.043,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "No pasa nada si se cae en la mesa.",
+         "start": 350.043,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos notando la sensaci\u00f3n de la espuma en nuestras manos, podemos tambi\u00e9n abrir y cerrar.",
+         "start": 352.043,
+         "duration": 8.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Puede ser o bien juntas, unidas las manos, o bien separadas.",
+         "start": 402.043,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Recogemos otra vez la espuma.",
+         "start": 409.043,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y seguimos dando c\u00edrculos.",
+         "start": 415.843,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Esta vez vamos a aumentar la velocidad.",
+         "start": 418.523,
+         "duration": 2.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "De manera que ya la espuma va a empezar a caer en la mesa.",
+         "start": 423.043,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "No pasa nada porque ahora despu\u00e9s vamos a trabajar sobre la mesa.",
+         "start": 427.043,
+         "duration": 3.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Seguimos, cada vez m\u00e1s r\u00e1pido.",
+         "start": 433.523,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cuando aumentamos la velocidad de frotaci\u00f3n de una mano con otra, notamos c\u00f3mo la espuma se va deslizando hacia los bordes externos de las manos.",
+         "start": 439.043,
+         "duration": 9.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a seguir haci\u00e9ndolo hasta que casi nos quedemos sin espuma en las manos, hasta que caiga a la mesa.",
+         "start": 450.523,
+         "duration": 7.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora vamos a hacer un barco.",
+         "start": 532.043,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y volvemos a frotar.",
+         "start": 541.043,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nos tienen que quedar las palmas de las manos sin espuma aunque si las volvemos s\u00ed que tengamos alrededor.",
+         "start": 559.523,
+         "duration": 7.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora nos la vamos a quitar toda la que podamos y la vamos a echar a la mesa.",
+         "start": 607.043,
+         "duration": 4.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y lo que vamos a hacer va a ser extenderla por la mesa.",
+         "start": 613.043,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y la vamos a extender por la mesa. Como si estuvi\u00e9ramos d\u00e1ndole un masaje suave a la mesa en forma de c\u00edrculo.",
+         "start": 648.043,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Primero con una mano y luego con la otra.",
+         "start": 654.043,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora con las dos.",
+         "start": 702.043,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "De tal manera que vamos a ir trabajando la textura en la superficie.",
+         "start": 705.523,
+         "duration": 5.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Notamos como la espuma entra por nuestros dedos, va subiendo.",
+         "start": 712.523,
+         "duration": 5.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Primero hacemos con una mano para un lado, para otro.",
+         "start": 718.523,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y luego con la otra.",
+         "start": 723.523,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "De tal manera que nos quede como un semic\u00edrculo.",
+         "start": 726.523,
+         "duration": 4.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos quit\u00e1ndonos la espuma, toda la que podamos y a irla dejando por la mesa.",
+         "start": 733.523,
+         "duration": 6.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "\u00bfQu\u00e9 mas podemos hacer aqu\u00ed? Pues ir dejando nuestra huella.",
+         "start": 800.043,
+         "duration": 1.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Primero con un dedo de una mano y luego con otro dedo de otra mano.",
+         "start": 804.523,
+         "duration": 3.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cambiamos de dedo.",
+         "start": 812.523,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Habr\u00e1 momentos en que la espuma sea m\u00e1s gruesa y haya que apretar m\u00e1s y superficies donde haya menos espuma y haya que apretar menos. Pero que se vaya quedando nuestro dedo marcado.",
+         "start": 815.523,
+         "duration": 13.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Bueno, pues ahora lo que tenemos que hacer es limpiar la mesa y",
+         "start": 838.523,
+         "duration": 4.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "vamos a limpiar las manos al igual que anteriormente.",
+         "start": 844.523,
+         "duration": 2.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para que se nos quede sin espuma la mejor opci\u00f3n es frotarlas.",
+         "start": 848.523,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos frotando y la espuma se va cayendo en la mesa.",
+         "start": 853.043,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "De tal manera que sea m\u00e1s c\u00f3modo limpiar la mesa.",
+         "start": 857.523,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "En este ejercicio podemos hacer todas las letras que queramos, n\u00fameros, diferentes figuras, diferentes dibujos, de tal manera que la actividad se puede alargar todo el rato que vosotros quer\u00e1is y vuestra imaginaci\u00f3n quiera.",
+         "start": 902.043,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Nos vemos en el pr\u00f3ximo v\u00eddeo, espero que sig\u00e1is bien, un beso.",
+         "start": 917.523,
+         "duration": 3.52,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo recogido",
+         "screen_position": "news-corner"
+      }
+   ]
+}

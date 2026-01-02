@@ -1,0 +1,833 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, hoy vamos a hablar sobre la moratoria hipotecaria.",
+         "start": 1.16,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como bien sab\u00e9is, la semana pasada el Gobierno ha estado aprobando varios Reales Decretos Ley,",
+         "start": 6.0,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "uno de ellos est\u00e1 relacionado con la moratoria hipotecaria y me gustar\u00eda explicarlo de forma gen\u00e9rica.",
+         "start": 10.8,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este v\u00eddeo signar\u00e9 sobre cinco temas:",
+         "start": 17.8,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "1. \u00bfQu\u00e9 es una moratoria hipotecaria?",
+         "start": 22.0,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "2. \u00bfCu\u00e1l es el m\u00e1ximo que establece la ley para poder solicitar la moratoria?",
+         "start": 25.2,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "3. Los requisitos que la ley establece para poder solicitar la pr\u00f3rroga,",
+         "start": 29.8,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "como qui\u00e9n son los beneficiarios y c\u00f3mo solicitarla con certificado de discapacidad.",
+         "start": 33.4,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "4. La documentaci\u00f3n necesaria",
+         "start": 38.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "5. Los plazos.",
+         "start": 42.0,
+         "duration": 1.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora bien, empiezo con el primer punto, \u00bfde qu\u00e9 consiste una moratoria hipotecaria?",
+         "start": 44.6,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "\u201cMoratoria\u201d significa que se solicita un aplazamiento,",
+         "start": 52.2,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "pudiendo ser de dos formas.",
+         "start": 60.0,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La primera es solicitar la pr\u00f3rroga de la hipoteca y",
+         "start": 63.6,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El segundo requisito se trata sobre los ingresos de la unidad familiar.",
+         "start": 67.6,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La segunda es, seg\u00fan se pueda negociar con la entidad que haya concedido la hipoteca",
+         "start": 71.8,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "pagar al mes los intereses correspondientes a la hipoteca",
+         "start": 77.4,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y el resto, prorrogarla durante el estado de alarma.",
+         "start": 83.2,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este Real Decreto Ley ha sido aprobado con el objetivo de proteger",
+         "start": 88.6,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "a las familias m\u00e1s vulnerables, como, por ejemplo,",
+         "start": 93.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "aquellas familias que vayan a sufrir un ERTE,",
+         "start": 97.6,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "o aquellas que hayan tenido que cesar la actividad de su negocio",
+         "start": 100.8,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "no podr\u00edan pagar la hipoteca de sus casas",
+         "start": 103.4,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y podr\u00edan tener el riesgo de sufrir un desahucio.",
+         "start": 106.0,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por eso, el Gobierno ha aprobado este Real Decreto Ley para proteger a las familias m\u00e1s vulnerables econ\u00f3micamente.",
+         "start": 110.8,
+         "duration": 12.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora explico el segundo punto.",
+         "start": 124.6,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Va sobre la cuant\u00eda m\u00e1xima para solicitar la moratoria hipotecaria.",
+         "start": 127.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El m\u00e1ximo se basa en la cuant\u00eda establecida por el IPREM",
+         "start": 132.6,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El IPREM es un m\u00e1ximo que el Gobierno aprob\u00f3 en el 2004, y est\u00e1 destinado para las subvenciones, becas, ayudas, etc.",
+         "start": 138.6,
+         "duration": 17.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El IPREM del 2020 es de 537 euros, y a partir de ah\u00ed se puede calcular el m\u00e1ximo que nos establece la ley.",
+         "start": 156.4,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tercer punto, sobre los requisitos de qui\u00e9n puede pedir una pr\u00f3rroga.",
+         "start": 165.8,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero me voy a centrar en los requisitos para las personas con discapacidad, creo que la mayor\u00eda de las personas sordas tenemos un certificado de discapacidad.",
+         "start": 176.6,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Algunos tendr\u00e1n un porcentaje superior al 33% y otros un 65%.",
+         "start": 184.8,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Me voy a centrar en este tema.",
+         "start": 190.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En el Real Decreto Ley recoge tres requisitos m\u00e1s importantes.",
+         "start": 192.6,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El primero es que haya sufrido un cambio significativo en su econom\u00eda, Por ejemplo, en situaci\u00f3n de desempleo por ERTE y recibir ayudas.",
+         "start": 196.8,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "O por ser aut\u00f3nomo y sufrir p\u00e9rdidas graves en su negocio.",
+         "start": 208.6,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El segundo requisito se trata sobre los ingresos de la unidad familiar.",
+         "start": 216.2,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este punto me voy a centrar en dos puntos, que son sobre las personas con discapacidad.",
+         "start": 221.8,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pueden ser, por un lado, aquellas que tengan m\u00e1s del un 33%, el m\u00e1ximo ser\u00eda cuatro veces m\u00e1s, lo que dar\u00eda un resultado de 2.151 euros.",
+         "start": 227.8,
+         "duration": 18.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para el grupo de personas que tengan un certificado del 65%, cuyo m\u00e1ximo ser\u00e1 5 veces m\u00e1s del IPREM: 2.689 euros.",
+         "start": 246.6,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto quiere decir que este mes la unidad familiar tiene como ingreso el m\u00e1ximo de los l\u00edmites.",
+         "start": 256.8,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso contrario, no se le podr\u00eda conceder la moratoria hipotecaria.",
+         "start": 268.2,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora bien, con estos m\u00e1ximos, si una familia tiene un hijo, con ese hijo se le a\u00f1ade un 0,1 al IPREM, lo que quiere decir que con cada hijo ser\u00eda 53,78 euros m\u00e1s.",
+         "start": 274.4,
+         "duration": 18.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si se tiene dos hijos, pues se le a\u00f1ade dos veces el IPREM por hijo.",
+         "start": 292.8,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este criterio se establece por igual tanto al del 33% de discapacidad como el de 65%.",
+         "start": 297.6,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto a las familias que conviven con personas mayores de 65 a\u00f1os, a estas personas se le aplica los 53,78 euros al m\u00e1ximo.",
+         "start": 308.2,
+         "duration": 16.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, en el caso de las familias monoparentales, se aplicar\u00edan los mismos m\u00e1ximos de los casos del 33% y del 65% pero no se a\u00f1ade 53,78 euros al m\u00e1ximo por hijo, sino 80,6 euros por hijo.",
+         "start": 324.8,
+         "duration": 23.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora bien, con el tercer requisito, que es importante.",
+         "start": 350.4,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada familia tiene que demostrar que sus gastos fijos como la hipoteca y los suministros b\u00e1sicos, sean superior o igual al 35 por cien de los ingresos netos que perciba el conjunto de los miembros de la unidad familiar, que los gastos sean llamativos",
+         "start": 355.6,
+         "duration": 27.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Despu\u00e9s os explicar\u00e9 un ejemplo para que lo teng\u00e1is m\u00e1s claro.",
+         "start": 384.0,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tienes una hipoteca inferior al 35% entonces no te conceder\u00edan la pr\u00f3rroga.",
+         "start": 386.8,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por \u00faltimo, el cuarto requisito.",
+         "start": 394.4,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que las familias hayan tenido un cambio econ\u00f3mico llamativo, por ejemplo, que mi negocio haya tenido una bajada del 40% de sus ganancias.",
+         "start": 396.8,
+         "duration": 14.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "\u00c9stos son los cuatro requisitos que dice la ley.",
+         "start": 412.4,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recordemos el concepto de \u201cunidad familiar\u201d seg\u00fan la ley.",
+         "start": 416.4,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El deudor, su c\u00f3nyuge no separado legalmente o pareja de hecho inscrita y los hijos, con independencia de su edad, que residan en la vivienda, incluyendo los vinculados por una relaci\u00f3n de tutela, guarda o acogimiento familiar.",
+         "start": 425.2,
+         "duration": 18.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os voy a dar un ejemplo para que lo teng\u00e1is m\u00e1s claro.",
+         "start": 464.6,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si yo quiero pedir una moratoria hipotecaria, tengo que demostrar que este mes he perdido muchos ingresos, Por ejemplo, en el mes de marzo, he perdido muchos ingresos por el ERTE o por el cese de mi negocio.",
+         "start": 471.6,
+         "duration": 19.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Soy casada y tengo un hijo.",
+         "start": 491.0,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y tengo un certificado de discapacidad con un 65%.",
+         "start": 497.6,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El m\u00e1ximo ser\u00eda de 2.689 euros por tener certificado de discapadiad, y al tener un hijo, le a\u00f1ado 53,78 euros, lo que da un total de 2.742 euros.",
+         "start": 501.8,
+         "duration": 18.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora tengo que demostrar que mis gastos la hipoteca, y los suministros b\u00e1sicos, resulten superiores o iguales al 35 por cien de los ingresos netos que perciba el conjunto de los miembros de la unidad familiar.",
+         "start": 521.8,
+         "duration": 17.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si son superiores, podr\u00e9 soliticar la pr\u00f3rroga.",
+         "start": 539.6,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, por mi situaci\u00f3n, obtengo un total de 2.742 euros, y si mis gastos son superiores al 35%, que ser\u00eda de un 959\u20ac, me conceder\u00edan la moratoria hipotecaria.",
+         "start": 543.6,
+         "duration": 19.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, si yo tengo una hipoteca de 100 euros al mes, entonces no me lo conceden.",
+         "start": 565.8,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recordad que \u00e9ste es s\u00f3lo un ejemplo.",
+         "start": 573.0,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El total var\u00eda en cada familia.",
+         "start": 575.6,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Est\u00e1 destinado para aquellas familias que est\u00e1n sufriendo una situaci\u00f3n econ\u00f3mica compleja.",
+         "start": 578.6,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pasando al cuarto punto, sobre la documentaci\u00f3n necesaria.",
+         "start": 586.6,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Son seis puntos.",
+         "start": 590.0,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El certificado expedido por la entidad gestora de las prestaciones, en el que figure la cuant\u00eda mensual percibida en concepto de prestaci\u00f3n o subsidio de desempleo.",
+         "start": 591.8,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recordad que las oficinas del SEPE estar\u00e1n cerradas, pod\u00e9is poneros en contacto con ellos por internet, tel\u00e9fono o SVisual.",
+         "start": 603.6,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En caso de cese de actividad de trabajadores por cuenta propia, se entrega certificado expedido por la Agencia Estatal de la Administraci\u00f3n Tributaria, en el que se indique el cese de actividad.",
+         "start": 611.8,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El n\u00famero de personas en la vivienda se acreditar\u00e1 con el libro de familia, el documento de pareja de hecho o el certificado de empadronamiento.",
+         "start": 624.6,
+         "duration": 11.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Certificado de discapacidad.",
+         "start": 637.6,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Escrituras de la vivienda y de la concesi\u00f3n del pr\u00e9stamo hipotecario.",
+         "start": 642.4,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Declaraci\u00f3n responsable del deudor o deudores relativa al cumplimiento de los requisitos exigidos para considerarse sin recursos econ\u00f3micos suficientes seg\u00fan este Real Decreto-ley.",
+         "start": 651.2,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando tengas todos los documentos, acude a tu banco y presenta la solicitud.",
+         "start": 663.8,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por \u00faltimo, vamos a hablar el punto 5, sobre los plazos.",
+         "start": 676.4,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El Real Decreto se ha publicado el d\u00eda 18 de marzo, y entra a funcionar el 19 de marzo, lo cual ya se puede solicitar la moratoria hipotecaria.",
+         "start": 681.8,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Seg\u00fan se calcula, se puede solicitar la moratoria hasta el d\u00eda 3 de mayo.",
+         "start": 691.4,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tendr\u00e1s que entregar la documentaci\u00f3n al banco antes del d\u00eda 3 de mayo.",
+         "start": 699.6,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La entidad acreedora deber\u00e1 proceder a su implementaci\u00f3n en un plazo m\u00e1ximo de 15 d\u00edas.",
+         "start": 704.2,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es importante que record\u00e9is los tres puntos.",
+         "start": 714.4,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que hay\u00e1is tenido un cambio muy importante en vuestros ingresos, porque vay\u00e1is a cobrar vuestra prestaci\u00f3n de desempleo, un subsidio o porque hay\u00e1is perdido un 40% de vuestras ganancias.",
+         "start": 718.4,
+         "duration": 12.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cumplir los m\u00e1ximos que establece la ley, dependiendo del 33% o del 65% de discapacidad que tengas.",
+         "start": 731.6,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Demostrar que vuestros gastos sea iguales o superiores al 35% de vuestros ingresos netos.",
+         "start": 741.4,
+         "duration": 11.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Preparar toda la documentaci\u00f3n necesaria para solicitar la pr\u00f3rroga.",
+         "start": 755.0,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por \u00faltimo, recordar siempre que cada unidad familiar es distinta, y pod\u00e9is consultarlo con vuestra entidad bancaria.",
+         "start": 757.8,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Espero que os haya aclarado en este tema.",
+         "start": 768.6,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tambi\u00e9n espero que os qued\u00e9is en casa y os cuid\u00e9is mucho. Adi\u00f3s.",
+         "start": 770.8,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, pelo recogido y chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

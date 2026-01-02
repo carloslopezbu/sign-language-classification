@@ -1,0 +1,617 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Buenos d\u00edas a todas.",
+         "start": 3.4,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo primero, much\u00edsimas gracias al Congreso por habernos invitado a esta ponencia.",
+         "start": 5.3,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Much\u00edsimas gracias.",
+         "start": 9.5,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Me presento, me llamo Cristina y soy t\u00e9cnica del \u00c1rea de Pol\u00edticas de Igualdad y del Servicio Alba de la CNSE.",
+         "start": 12.1,
+         "duration": 8.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "El tema de la ponencia es Alba, una soluci\u00f3n para la brecha digital en v\u00edctimas sordas de violencias machistas.",
+         "start": 23.0,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Antes de empezar, me gustar\u00eda un poco explicar que es la CNSE, la Confederaci\u00f3n Estatal de Personas Sordas.",
+         "start": 36.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "La CNSE es una ONG de acci\u00f3n social que se cre\u00f3 en 1936 con el objetivo de luchar por la igualdad de oportunidades entre las personas sordas.",
+         "start": 48.0,
+         "duration": 13.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfY c\u00f3mo se hace esta lucha?",
+         "start": 103.2,
+         "duration": 1.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "A trav\u00e9s de pol\u00edticas de supresi\u00f3n de barreras para garantizar los derechos de las personas sordas.",
+         "start": 104.8,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "En 1994 se cre\u00f3 el \u00e1rea de la mujer, ahora llamada \u00c1rea de Igualdad.",
+         "start": 114.2,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "La CNSE no trabaja sola, trabaja junto a la red asociativa, federaciones y asociaciones de personas sordas en toda Espa\u00f1a.",
+         "start": 122.8,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "El Instituto Nacional de Estad\u00edstica en 2020 dijo que en Espa\u00f1a hay casi 1.230.000 personas sordas.",
+         "start": 138.1,
+         "duration": 10.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "De esa cantidad, el 57% son mujeres sordas.",
+         "start": 150.3,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es decir, m\u00e1s de la mitad.",
+         "start": 157.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero las mujeres sordas no son todas iguales.",
+         "start": 201.5,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hay much\u00edsima variabilidad.",
+         "start": 204.7,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cada una es muy diferente y much\u00edsima diversidad, por ejemplo, en la comunicaci\u00f3n. Hay mujeres que se comunican en lengua de signos de forma natural y directa.",
+         "start": 207.5,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Otras que se comunican en castellano oral.",
+         "start": 219.2,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Otras que utilizan ambas: la lengua de signos y la oral indistintamente.",
+         "start": 222.9,
+         "duration": 3.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Algunas otras que no utilizan ninguna de las dos y algunas que utilizan el castellano escrito.",
+         "start": 227.5,
+         "duration": 5.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hay mucha variabilidad y esto es muy importante saberlo.",
+         "start": 233.5,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las mujeres sordas son muy diversas.",
+         "start": 236.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero, \u00bfc\u00f3mo ve la sociedad a las mujeres sordas?",
+         "start": 244.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pues primero son mujeres.",
+         "start": 249.2,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Segundo, son personas sordas.",
+         "start": 251.9,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tercero, utilizan la lengua de signos, que es una lengua minoritaria.",
+         "start": 255.2,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y cuarto, pertenecen a la comunidad sorda, que es una cultura minoritaria.",
+         "start": 259.9,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Esto, lo que al final se da es una interseccionalidad que las lleva a una triple discriminaci\u00f3n.",
+         "start": 266.6,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hay much\u00edsimas formas de violencias machistas, pero hay algunas que son espec\u00edficas para las mujeres sordas.",
+         "start": 279.3,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por ejemplo, la violencia ling\u00fc\u00edstica, que consiste en no permitir a la mujer utilizar la lengua de signos.",
+         "start": 289.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por ejemplo, la pareja puede cogerla las manos, pegarla las manos con el objetivo de que no hable lengua de signos.",
+         "start": 298.8,
+         "duration": 6.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eso se llama violencia ling\u00fc\u00edstica.",
+         "start": 306.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tambi\u00e9n tenemos la violencia cultural.",
+         "start": 310.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfEn qu\u00e9 consiste? Pues, por ejemplo, dentro de la comunidad sorda, de su cultura, cuando t\u00fa quieres llamar a una persona sorda, se hace de forma suave y delicada, dando golpecitos en el brazo o en el hombro.",
+         "start": 313.2,
+         "duration": 12.1,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "El hombre puede coger a la mujer y darle golpes en la cabeza para llamar su atenci\u00f3n. Esto es violencia cultural.",
+         "start": 326.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y tambi\u00e9n tenemos la violencia institucional por raz\u00f3n de lengua y de cultura.",
+         "start": 335.3,
+         "duration": 4.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muchas veces las mujeres sordas, cuando van a denunciar a comisar\u00eda o a la Guardia Civil o al juzgado, se encuentran con que no son cre\u00eddas porque utilizan la lengua de signos y tienen una cultura minoritaria, lo que les confiere poca credibilidad y se las minusvalora.",
+         "start": 341.2,
+         "duration": 23.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQu\u00e9 ocurre cuando una mujer sorda quiere denunciar o salir de la situaci\u00f3n de violencia? Por lo primero que se encuentra en la realidad son barreras, la falta de informaci\u00f3n y campa\u00f1as accesibles en lengua de signos y subtitulado. No existen esas campa\u00f1as y esto tiene como consecuencia que la prevenci\u00f3n es muy dif\u00edcil.",
+         "start": 370.0,
+         "duration": 20.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tambi\u00e9n lo que hab\u00edamos hablado anteriormente de la falta de credibilidad por utilizar una lengua minoritaria y pertenecer a una cultura minoritaria.",
+         "start": 392.2,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "La falta de servicio, recursos y herramientas digitales accesibles. No hay lengua de signos, no hay subtitulado. Por lo tanto no hay informaci\u00f3n.",
+         "start": 402.5,
+         "duration": 9.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y tambi\u00e9n algo muy importante el tel\u00e9fono de emergencias 112 no es accesible para personas sordas.",
+         "start": 414.5,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Todo esto tiene en consecuencia que al final es muy dif\u00edcil que las mujeres solas salgan de una situaci\u00f3n de violencia.",
+         "start": 422.2,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por eso CNSE cre\u00f3 en 2018 el servicio ALBA, que es una plataforma web accesible para personas sordas.",
+         "start": 431.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Est\u00e1 dirigida a mujeres v\u00edctimas y supervivientes sordas, pero tambi\u00e9n a su entorno familiares, amistades, vecinos, vecinas. Tambi\u00e9n para el movimiento asociativo y para profesionales del \u00e1mbito de la violencia de g\u00e9nero.",
+         "start": 443.8,
+         "duration": 17.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "A todas se les hace asesoramiento, informaci\u00f3n, gu\u00eda, etc.",
+         "start": 462.5,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "El servicio Alba tiene dos trabajadoras, las dos tienen experiencia y son expertas en violencia de g\u00e9nero. Expertas en comunidad sorda, en lengua de signos. Son mediadoras comunicativas y trabajan junto con su red asociativa. Dentro de la web Alba no solo se hace atenci\u00f3n, tambi\u00e9n hay contenido y documentaci\u00f3n, informaci\u00f3n accesible, por ejemplo, protocolos, legislaciones, documentos oficiales del ministerio. Todo es accesible en lengua de signos.",
+         "start": 470.5,
+         "duration": 34.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Desde que se cre\u00f3 el servicio en 2018 hasta ahora hemos atendido un total de 55 situaciones de violencia machista.",
+         "start": 506.8,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cuando entras en la web de Alba, lo primero que te aparece es una ventana de un mensaje de aviso por temas de seguridad, por ejemplo, que accedas en modo inc\u00f3gnito y algunas otras recomendaciones.",
+         "start": 518.2,
+         "duration": 12.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Una vez que se ha cerrado una ventana y aparece la p\u00e1gina principal en la que podemos ver el inicio, \u00bfqui\u00e9nes somos?, testimonios, recursos, documentos signados, contacto, preguntas frecuentes, etc. y adem\u00e1s de dos botones: el bot\u00f3n de salida y el bot\u00f3n de contacto.",
+         "start": 534.2,
+         "duration": 23.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "El bot\u00f3n de salir significa que cuando lo pulsas se abre directamente la ventana de Google. Y esto es por un tema de seguridad.",
+         "start": 558.2,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Justo debajo tenemos noticias.",
+         "start": 568.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Dentro de noticias encontramos noticias de actualidad y de inter\u00e9s sobre el tema de violencia machista, accesibles en lengua de signos.",
+         "start": 571.2,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Un poquito m\u00e1s abajo encontramos \u00bfSab\u00edas qu\u00e9?, ah\u00ed podemos encontrar p\u00edldoras informativas sobre violencia machista que sean interesantes o importantes tambi\u00e9n en lengua de signos.",
+         "start": 580.8,
+         "duration": 12.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "El siguiente apartado es Testimonios.",
+         "start": 596.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "En este apartado Mujeres sordas supervivientes de situaciones de violencia machista explican y cuentan su experiencia personal para ayudar a otras mujeres a salir de esa misma situaci\u00f3n.",
+         "start": 599.2,
+         "duration": 12.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Despu\u00e9s tenemos documentos asignados y aqu\u00ed podemos encontrar gu\u00edas, protocolos, legislaci\u00f3n, etc.",
+         "start": 617.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Esto son normalmente documentos que el Ministerio de Igualdad publica. Son documentos oficiales que nosotras traducimos a la lengua de signos.",
+         "start": 627.2,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "En el apartado o preguntas frecuentes suelen ser dudas sobre violencia machista, que nosotras respondemos tambi\u00e9n a trav\u00e9s de v\u00eddeo.",
+         "start": 642.2,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y ya, por \u00faltimo, tenemos el contacto. Se puede contactar con nosotras de tres formas: a trav\u00e9s de email, por videollamada o chat o contactar con el 016 a trav\u00e9s de videollamada.",
+         "start": 658.2,
+         "duration": 13.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "El 016 se puede contactar cuando el servicio est\u00e1 cerrado o no pueden acceder. Pueden hacer una videollamada al 016 gracias al servicio SVisual de v\u00eddeo interpretaci\u00f3n,",
+         "start": 672.2,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "la videollamada es una atenci\u00f3n directa en lengua de signos, pero si la persona no quiere que la veamos, puede tapar la c\u00e1mara y comunicarse directamente a trav\u00e9s del chat, nada m\u00e1s.",
+         "start": 685.5,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Este espacio es muy importante para las mujeres, ya que se sienten muy a gusto y se pueden desahogar con su lengua natural la lengua de signos.",
+         "start": 697.8,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero si no usan lengua de signos tambi\u00e9n hay otras alternativas.",
+         "start": 704.8,
+         "duration": 3.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "No hay problema.",
+         "start": 709.2,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "El servicio Alba y tambi\u00e9n la web Alba, como resumen, \u00bfqu\u00e9 garantiza? pues, la accesibilidad completa para las personas sordas, tambi\u00e9n garantiza sus derechos. La libertad de decisi\u00f3n individual y poder salir de situaciones de violencia machista. Y tambi\u00e9n, por supuesto, elimina la brecha digital, ya que todo es accesible.",
+         "start": 714.5,
+         "duration": 25.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Much\u00edsimas gracias.",
+         "start": 742.5,
+         "duration": 0.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si quer\u00e9is entrar en la web a ver qu\u00e9 hay, ten\u00e9is aqu\u00ed el enlace y si ten\u00e9is alguna duda o quer\u00e9is contactar con nosotras, tambi\u00e9n tenemos aqu\u00ed la direcci\u00f3n.",
+         "start": 744.2,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      },
+      {
+         "text": "Much\u00edsimas gracias.",
+         "start": 755.2,
+         "duration": 1.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, gafas, camiseta de tirantes estampada",
+         "screen_position": "right"
+      }
+   ]
+}

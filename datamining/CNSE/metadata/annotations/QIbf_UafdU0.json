@@ -1,0 +1,878 @@
+{
+   "num_signers": 3,
+   "annotations": [
+      {
+         "text": "\u00a1Hola! El vodcast de hoy lo dedicaremos a hablar de la educaci\u00f3n inclusiva, biling\u00fce y reglada para alumnado sordo.",
+         "start": 2.99,
+         "duration": 6.319,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Dentro del articulado de la Convenci\u00f3n de la ONU encontramos un art\u00edculo que se refiere a la educaci\u00f3n, y que hace referencia expresa a la lengua de signos.",
+         "start": 9.809,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este texto de la Convenci\u00f3n especifica que hay que ofertar a la infancia sorda la lengua de signos para que, gracias a su adquisici\u00f3n, puedan tener un desarrollo adecuado a nivel cognitivo, social y emocional.",
+         "start": 16.709,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "L\u00e1stima que aqu\u00ed en Espa\u00f1a la Convenci\u00f3n no est\u00e9 implementada de manera efectiva.",
+         "start": 28.509,
+         "duration": 4.76,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde hace tiempo, venimos observando cada inicio de curso, que en los diferentes centros donde se encuentra escolarizado el alumnado sordo, no se les dota de los recursos necesarios en materia educativa.",
+         "start": 33.769,
+         "duration": 10.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy tenemos la oportunidad de contar con dos personas invitadas: Pedro y Aura.",
+         "start": 44.469,
+         "duration": 4.92,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante su trayectoria educativa, ambos recibieron una educaci\u00f3n",
+         "start": 49.889,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hola, gracias por la invitaci\u00f3n.",
+         "start": 56.028,
+         "duration": 1.76,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vamos a conocer c\u00f3mo ha sido su desarrollo, tanto a nivel personal como evolutivo.",
+         "start": 58.788,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Como dec\u00eda antes, los dos hab\u00e9is recibido una educaci\u00f3n impartida directamente en lengua de signos.",
+         "start": 105.948,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Me gustar\u00eda que nos contaseis d\u00f3nde estudiasteis; si en clase erais los \u00fanicos alumnos sordos; y c\u00f3mo os sentisteis a lo largo de las diferentes etapas educativas.",
+         "start": 110.988,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Comenc\u00e9 mi escolarizaci\u00f3n en un colegio especial para personas sordas que adem\u00e1s hab\u00eda comenzado a implantar una metodolog\u00eda biling\u00fce.",
+         "start": 120.228,
+         "duration": 10.68,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "La manera en la que impart\u00edan las clases era con una profesor o profesora oyente y un asesor o asesora sordos que, a lo largo del d\u00eda, se iban turnando en el aula.",
+         "start": 131.748,
+         "duration": 8.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "El profesional oyente nos ense\u00f1aba a escribir, a hablar, logopedia, etc.",
+         "start": 140.628,
+         "duration": 3.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "La asesora sorda nos pon\u00eda a todos los alumnos sordos en c\u00edrculo, y mediante el uso de la lengua de signos adquir\u00edamos conocimientos, lo que nos influy\u00f3 a la hora de crecer y desarrollarnos cognitivamente.",
+         "start": 144.788,
+         "duration": 10.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Esto nos permit\u00eda expresarnos libremente y avanzar en el aprendizaje del idioma hasta afianzarlo.",
+         "start": 155.828,
+         "duration": 4.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Con el paso de los meses y de los diferentes cursos, fuimos aprendiendo infinidad de cosas acerca de temas muy diversos.",
+         "start": 200.708,
+         "duration": 5.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerdo que, durante aquellos a\u00f1os, yo aprend\u00eda de una manera fluida y directa.",
+         "start": 206.788,
+         "duration": 4.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "La pena es que este centro s\u00f3lo alcanzaba hasta la E.S.O., y me vi obligada a cambiarme a un centro especial con alumnado sordo, que, sin embargo, se centraba en una metodolog\u00eda m\u00e1s oralista.",
+         "start": 212.428,
+         "duration": 15.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Precisamente cuando empec\u00e9 all\u00ed, acababan de estrenar las denominadas clases mixtas o de integraci\u00f3n.",
+         "start": 228.668,
+         "duration": 4.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hasta ese momento, todo el alumnado hab\u00eda sido exclusivamente sordo.",
+         "start": 233.828,
+         "duration": 2.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero para m\u00ed el problema nunca estuvo en tener compa\u00f1eras y compa\u00f1eros oyentes, sino m\u00e1s bien, en el profesorado. La mayor\u00eda eran oyentes y el conocimiento que ten\u00edan de la lengua de signos, muy limitado.",
+         "start": 236.868,
+         "duration": 6.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, utilizaban el bimodal y no la lengua de signos propiamente dicha.",
+         "start": 243.828,
+         "duration": 2.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Desde el principio sent\u00ed que me costaba avanzar. Que me costaba aprender.",
+         "start": 246.988,
+         "duration": 5.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que todo era diferente a mi anterior colegio.",
+         "start": 252.628,
+         "duration": 3.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es cierto que muchos de mis compa\u00f1eros eran sordos y dominaban la lengua de signos, pero a pesar de ello, yo no evolucionaba como deb\u00eda.",
+         "start": 256.668,
+         "duration": 6.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "No me sent\u00eda contenta, por lo que decid\u00ed probar en otro instituto.",
+         "start": 303.628,
+         "duration": 4.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Se trataba de un centro de integraci\u00f3n en el que contaba con int\u00e9rprete pr\u00e1cticamente el horario lectivo completo, adem\u00e1s de con un profesor de apoyo que sab\u00eda lengua de signos.",
+         "start": 308.828,
+         "duration": 7.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para m\u00ed fue una gran satisfacci\u00f3n poder utilizar mi lengua, y a su vez, recurrir al int\u00e9rprete para comunicarme con quien quisiera.",
+         "start": 316.828,
+         "duration": 5.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y este es a grandes rasgos, el resumen de mi vida educativa.",
+         "start": 322.788,
+         "duration": 4.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo estudi\u00e9 en el centro Josep Pla de Barcelona.",
+         "start": 328.027,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es un centro especial para personas sordas.",
+         "start": 331.987,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Est\u00e1bamos en clases peque\u00f1as de entre 5 y 8 personas como mucho.",
+         "start": 336.547,
+         "duration": 5.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cada grupo ten\u00eda un profesor, la mayor\u00eda de ellos oyentes con conocimientos de lengua de signos, y aunque no dominaban la lengua, s\u00ed ten\u00edan el conocimiento suficiente para hacerse comprender.",
+         "start": 342.547,
+         "duration": 9.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "De hecho, durante mis a\u00f1os lectivos, acostumbraba a hablar directamente con los profesores e incluso a mantener conversaciones con ellos.",
+         "start": 352.787,
+         "duration": 6.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "El centro contaba, asimismo, con dos profesionales sordos en sus clases.",
+         "start": 400.507,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "En realidad, yo tuve m\u00e1s contacto con uno de ellos, el primero, porque el segundo entr\u00f3 m\u00e1s tarde.",
+         "start": 406.507,
+         "duration": 5.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Recuerdo que ten\u00eda un papel similar al del asesor sordo, que nos ense\u00f1aba lengua de signos catalana y que adem\u00e1s impart\u00eda algunas asignaturas.",
+         "start": 412.627,
+         "duration": 7.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Estudi\u00e9 en el Josep Pla hasta la etapa de Secundaria, porque all\u00ed no la hab\u00eda, y tuve que irme a otro centro. A un instituto de integraci\u00f3n con alumnado oyente, donde contaba con int\u00e9rpretes.",
+         "start": 420.827,
+         "duration": 12.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este cambio me afect\u00f3 bastante. Me pas\u00f3 algo similar a lo que contaba antes Aura: hab\u00eda perdido esa comunicaci\u00f3n directa en lengua de signos.",
+         "start": 433.587,
+         "duration": 6.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y al no poder interactuar en mi lengua, los oyentes siempre iban primero.",
+         "start": 440.627,
+         "duration": 4.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "En cuanto a la calidad de los int\u00e9rpretes, depend\u00eda del momento: a veces contaba con int\u00e9rpretes de calidad, y otras veces no.",
+         "start": 445.787,
+         "duration": 4.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Porque el profesorado hablaba por su cuenta, sin esperar a la int\u00e9rprete.",
+         "start": 450.787,
+         "duration": 3.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "As\u00ed que, si tengo que comparar las dos etapas, me quedo con la primera.",
+         "start": 454.787,
+         "duration": 2.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Primaria yo era feliz, todos mis compa\u00f1eros y compa\u00f1eras eran sordos, y tanto ellos como los profesores, conoc\u00edan la lengua de signos.",
+         "start": 457.987,
+         "duration": 5.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "En Secundaria, sin embargo, la situaci\u00f3n empeor\u00f3.",
+         "start": 503.947,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Vosotros sois de dos ciudades muy diferentes: Aura, t\u00fa eres de Madrid, y Pedro, t\u00fa eres de Barcelona.",
+         "start": 506.948,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "En las ciudades es f\u00e1cil hacer amigas y amigos, incluso tendr\u00e9is amistades de otras zonas de Espa\u00f1a. \u00bfEs as\u00ed?",
+         "start": 511.988,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "- S\u00ed - S\u00ed",
+         "start": 519.828,
+         "duration": 0.8,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o y mujer con pelo largo",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Lo dec\u00eda porque antes hemos hablado de que la educaci\u00f3n biling\u00fce carece de una implantaci\u00f3n efectiva en nuestro pa\u00eds.",
+         "start": 521.588,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "No se est\u00e1 implementando adecuadamente a pesar de que existe normativa al respecto.",
+         "start": 527.588,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Casualmente los dos hab\u00e9is podido formaros directamente en lengua de signos, aunque posteriormente hay\u00e1is tenido que cambiar de centro y all\u00ed vuestra educaci\u00f3n haya sido diferente.",
+         "start": 530.028,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Conoc\u00e9is a personas sordas de la ciudad en la que viv\u00eds, pero tambi\u00e9n cont\u00e1is con amistades en el resto de Espa\u00f1a que habr\u00e1n vivido situaciones nada parecidas a las vuestras.",
+         "start": 538.828,
+         "duration": 5.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "\u00bfQu\u00e9 os dicen cu\u00e1ndo les cont\u00e1is el tipo de educaci\u00f3n que hab\u00e9is recibido?",
+         "start": 544.788,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "La mayor\u00eda de mis amigas y amigos han estudiado en el mismo centro que yo, as\u00ed que no puedo decir mucho al respecto. Han vivido situaciones similares a la m\u00eda, como pueden ser el no contar con int\u00e9rprete, que te lo concedan con retraso, o que no cubra todo el horario lectivo.",
+         "start": 548.028,
+         "duration": 16.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Todos coincidimos en que en el colegio nos encontr\u00e1bamos m\u00e1s a gusto, ya que cont\u00e1bamos con profesores y asesores sordos y la comunicaci\u00f3n era directamente en lengua de signos.",
+         "start": 605.788,
+         "duration": 7.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Esto no significa que a trav\u00e9s de la int\u00e9rprete no est\u00e9 bien comunicarse, pero personalmente me siento m\u00e1s c\u00f3moda trasladando mis opiniones directamente.",
+         "start": 613.588,
+         "duration": 4.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tener la oportunidad de hablar y debatir de t\u00fa a t\u00fa con una persona, de forma m\u00e1s libre, es importante.",
+         "start": 618.388,
+         "duration": 4.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Realmente, antes no le prestaba tanta atenci\u00f3n a este tema de la educaci\u00f3n.",
+         "start": 624.987,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pensaba inocentemente que el resto de los estudiantes sordos estaban en centros iguales al m\u00edo.",
+         "start": 630.747,
+         "duration": 4.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "S\u00ed que ten\u00eda varios amigos que estudiaban en un centro de integraci\u00f3n con compa\u00f1eros oyentes y que me contaban cosas, pero yo no hac\u00eda mucho caso.",
+         "start": 635.907,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cre\u00eda que todos los centros eran parecidos. Pero es cierto que ellos ten\u00edan m\u00e1s contacto con personas oyentes y yo con personas sordas, y que al final, nuestro desarrollo ha sido diferente.",
+         "start": 642.587,
+         "duration": 8.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Yo no ten\u00eda mucho en cuenta las diferencias que pod\u00edan haber.",
+         "start": 652.547,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, quisiera a\u00f1adir que se nota mucho cuando una persona sorda ha recibido una educaci\u00f3n oralista y ha crecido sin participar en la comunidad sorda.",
+         "start": 657.548,
+         "duration": 7.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "De hecho, cuando pasa al instituto y cuenta con interprete, todo es diferente.",
+         "start": 705.708,
+         "duration": 6.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se da cuenta de que recibe m\u00e1s informaci\u00f3n, y se siente con una identidad de persona sorda que antes no ten\u00eda.",
+         "start": 712.588,
+         "duration": 5.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Creo que esto demuestra que la lengua de signos es importante para cualquier persona sorda, aun cuando a veces utilice un sistema m\u00e1s tipo bimodal.",
+         "start": 718.828,
+         "duration": 4.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Seg\u00fan coment\u00e1is, para vosotros el tipo de educaci\u00f3n que recib\u00edais, una educaci\u00f3n directamente en lengua de signos era lo normal y lo l\u00f3gico.",
+         "start": 724.708,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sin embargo, a medida que hab\u00e9is ido creciendo, os hab\u00e9is dado cuenta de que ni mucho menos lo es.",
+         "start": 731.748,
+         "duration": 3.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Que lo normal es contar con barreras. Quiero preguntaros algo.",
+         "start": 735.908,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "\u00bfPara vosotros como ser\u00eda la educaci\u00f3n efectiva y perfecta para el alumnado sordo?",
+         "start": 739.548,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "\u00bfCon qu\u00e9 se deber\u00eda contar en el aula?",
+         "start": 744.908,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "El aula perfecta ser\u00eda aquella que contara con un asesor sordo, o con un profesor sordo, para que los ni\u00f1os y ni\u00f1as puedan disfrutar viendo un modelo a quien imitar y con quien sentirse identificados, y para que en un futuro puedan ser m\u00e1s independientes y utilizar la lengua de signos, que es vital.",
+         "start": 749.828,
+         "duration": 20.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tambi\u00e9n creo necesario incluir una asignatura de lengua de signos, educar a los ni\u00f1os acerca del mundo de las personas sordas, su cultura, y su arte, etc...",
+         "start": 810.508,
+         "duration": 10.6,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "No olvidemos que no s\u00f3lo son importantes los profesores. Tambi\u00e9n los son los compa\u00f1eros, es decir, tener a iguales con los que te puedas sentir identificado.",
+         "start": 822.547,
+         "duration": 5.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si a una persona sorda la pones en un aula en la que solo haya compa\u00f1eros oyentes, por mucho que le brindes todos los apoyos que necesita, se va a sentir perdida.",
+         "start": 828.907,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "No va a contar con iguales con los que sentirse identificados.",
+         "start": 835.747,
+         "duration": 1.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para mi es importante tener compa\u00f1eros sordos, cuantos m\u00e1s mejor, no uno o dos, sino el m\u00e1ximo posible.",
+         "start": 837.547,
+         "duration": 5.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tambi\u00e9n importa la forma en que se imparten las clases.",
+         "start": 843.747,
+         "duration": 1.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, si es utilizando la lengua de signos, el alumnado no debe estar sentado en filas unos detr\u00e1s de otros, sino en semic\u00edrculo.",
+         "start": 845.787,
+         "duration": 4.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Buscar que las paredes sean de cristal para que haya una buena comunicaci\u00f3n, o incluso la puerta.",
+         "start": 850.947,
+         "duration": 8.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "En mi etapa de estudiante, como \u00e9ramos pocos alumnos en clase, el aula estaba dividida por una cortina, y en un lado est\u00e1bamos los de primero y en el otro, los de segundo.",
+         "start": 859.907,
+         "duration": 10.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Incluso pod\u00edas pasar de un lado a otro y para verte.",
+         "start": 912.787,
+         "duration": 3.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Fomentar que los ni\u00f1os y ni\u00f1as signen.",
+         "start": 917.948,
+         "duration": 2.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Les da libertad, mayor independencia y autonom\u00eda, y se sienten m\u00e1s libres.",
+         "start": 920.908,
+         "duration": 5.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Personalmente, cuando era peque\u00f1a e iba al colegio, cuando sal\u00eda de clase con mi mochila despu\u00e9s de la jornada, sent\u00eda que en ella llevaba un mont\u00f3n de cosas nuevas que hab\u00eda aprendido.",
+         "start": 926.788,
+         "duration": 7.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer con pelo largo",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es muy importante utilizar la lengua de signos como primera lengua.",
+         "start": 935.587,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez que tienen la lengua, las ni\u00f1as y ni\u00f1os sordos evolucionan en el uso del lenguaje sin cargas ni esfuerzo.",
+         "start": 940.387,
+         "duration": 5.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Una vez que ya tienen esta lengua adquirida, florecen por s\u00ed solos.",
+         "start": 946.587,
+         "duration": 3.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuantos m\u00e1s est\u00edmulos tengan en el colegio, mejor.",
+         "start": 950.947,
+         "duration": 4.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tambi\u00e9n es muy positivo que las familias utilicen la lengua de signos.",
+         "start": 956.947,
+         "duration": 3.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con barba y mo\u00f1o",
+         "screen_position": "center"
+      },
+      {
+         "text": "Muchas gracias.",
+         "start": 1002.708,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "En esta Semana Internacional de las Personas Sordas que estamos celebrando, quer\u00edamos hablar del derecho a una educaci\u00f3n inclusiva y biling\u00fce y hacer referencia a la obligaci\u00f3n de ofertar a la infancia sorda el aprendizaje de la lengua de signos.",
+         "start": 1003.948,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hasta ahora nos ha faltado contar con esta opci\u00f3n en el aula, y para conseguirlo, debe quedar reflejado en las normativas.",
+         "start": 1015.748,
+         "duration": 8.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "left"
+      },
+      {
+         "text": "Muchas gracias a todas y todos vosotros por vernos.",
+         "start": 1024.908,
+         "duration": 2.6,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo, hombre con barba y mo\u00f1o y mujer con pelo largo",
+         "screen_position": "multiple"
+      },
+      {
+         "text": "Ma\u00f1ana es el D\u00eda Internacional de las Lengua de Signos.",
+         "start": 1027.988,
+         "duration": 2.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      },
+      {
+         "text": "Haremos difusi\u00f3n en nuestras redes sociales. Estad atentos.",
+         "start": 1030.988,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y pelo largo",
+         "screen_position": "center"
+      }
+   ]
+}

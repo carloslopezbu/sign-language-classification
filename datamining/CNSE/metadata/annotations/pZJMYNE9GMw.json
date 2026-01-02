@@ -1,0 +1,482 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Aleida Castro es una m\u00e9dica sorda.",
+         "start": 6.239,
+         "duration": 2.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde sentada en una silla naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trabaja en un hospital canario en el que se ha implantado la atenci\u00f3n m\u00e9dica directa en lengua de signos.",
+         "start": 8.719,
+         "duration": 9.32,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde sentada en una silla naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hoy nos acompa\u00f1a en Signar Por Derecho para hablarnos de su trayectoria profesional, de las barreras que ha encontrado, y de c\u00f3mo les ha hecho frente.",
+         "start": 22.439,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde sentada en una silla naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Este proyecto se inici\u00f3 hace dos a\u00f1os y comenz\u00f3 de manera oficial el a\u00f1o pasado.",
+         "start": 36.564,
+         "duration": 4.44,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hasta ahora ha sido una experiencia muy buena y estoy muy contenta.",
+         "start": 42.924,
+         "duration": 3.96,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es una consulta de medicina general donde m\u00e9dico/a y paciente tienen comunicaci\u00f3n directa en lengua de signos, y adem\u00e1s hay bucle y sistema de FM.",
+         "start": 47.524,
+         "duration": 15.52,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Todo est\u00e1 adaptado.",
+         "start": 105.884,
+         "duration": 1.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "El objetivo es que paciente y m\u00e9dico/a, ambas personas sordas, se comuniquen.",
+         "start": 108.444,
+         "duration": 6.04,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que el paciente se sienta a gusto y que haya confidencialidad, intimidad, y que est\u00e9 solo/a pero protegido/a.",
+         "start": 118.044,
+         "duration": 11.36,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En muchos casos, el paciente sordo/a va a la consulta m\u00e9dica acompa\u00f1ado/a y a veces se calla cosas por verg\u00fcenza o bien porque no quiere contar detalles de su vida personal.",
+         "start": 130.484,
+         "duration": 15.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Cuando yo les atiendo, no hace falta contar con mediadora ni con int\u00e9rprete, ya que el paciente se comunica directamente conmigo.",
+         "start": 146.324,
+         "duration": 7.64,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Aleida reconoce no haberse topado con excesivas barreras en su vida profesional, aunque s\u00ed las ha encontrado cuando ha acudido a un hospital como paciente.",
+         "start": 156.919,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde sentada en una silla naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tengo una enfermedad cr\u00f3nica que me obliga a ir al m\u00e9dico cada cuatro meses y ah\u00ed s\u00ed me he encontrado barreras.",
+         "start": 211.724,
+         "duration": 7.72,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, durante la pandemia las mascarillas hac\u00edan que no me enterase absolutamente de nada.",
+         "start": 224.404,
+         "duration": 7.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ten\u00eda que pedirle al m\u00e9dico que se bajase la mascarilla para poder leerle los labios, y que hablase con calma y vocalizando bien. Su respuesta siempre era que no, que no se quitaba la mascarilla.",
+         "start": 232.644,
+         "duration": 15.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tambi\u00e9n me ha pasado estar en la sala de espera y avisar a la enfermera de que, ya que soy sorda, me avise cuando me llamen, pero no por voz, porque no la voy a o\u00edr y no me voy a enterar.",
+         "start": 249.684,
+         "duration": 17.56,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y despu\u00e9s de estar un buen rato esperando, que venga a decirme que me han llamado ya cuatro veces y que no he respondido...",
+         "start": 309.644,
+         "duration": 10.44,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "\u00a1Pero si le hab\u00eda avisado previamente de que no oigo!",
+         "start": 325.084,
+         "duration": 3.36,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y es que seg\u00fan afirma Aleida, en medicina, la comunicaci\u00f3n entre m\u00e9dico y paciente es fundamental para la consecuci\u00f3n de un buen diagn\u00f3stico.",
+         "start": 330.439,
+         "duration": 11.64,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde sentada en una silla naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "De ah\u00ed, que sea un requerimiento fundamental que se respeten los derechos ling\u00fc\u00edsticos de las y los pacientes sordos.",
+         "start": 344.919,
+         "duration": 6.48,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde sentada en una silla naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En primer lugar, como persona sorda que soy, quiero elegir en qu\u00e9 lengua comunicarme.",
+         "start": 353.404,
+         "duration": 6.88,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En una situaci\u00f3n determinada voy a preferir hablar y leer los labios, y en otra situaci\u00f3n puedo preferir signar, y tengo derecho a escoger.",
+         "start": 402.404,
+         "duration": 12.84,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En segundo lugar, todas las personas tenemos derecho a la atenci\u00f3n sanitaria.",
+         "start": 417.444,
+         "duration": 5.96,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y si hablas otra lengua tienes derecho a contar con int\u00e9rprete.",
+         "start": 426.844,
+         "duration": 5.36,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Mi hospital, por ejemplo, est\u00e1 ubicado en el sur de Gran Canaria y vienen muchos/as pacientes extranjeros/as que cuentan con traductores de ingl\u00e9s, de noruego y de muchos otros idiomas.",
+         "start": 435.204,
+         "duration": 15.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Entonces, \u00bfpor qu\u00e9 las personas sordas no vamos a poder ejercer nuestros derechos ling\u00fc\u00edsticos? \u00bfPor qu\u00e9 no hay int\u00e9rpretes en el \u00e1mbito sanitario?",
+         "start": 453.484,
+         "duration": 8.96,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "A mi juicio y seg\u00fan mi experiencia personal como persona que nace oyente y se queda sorda por una enfermedad, la sociedad....",
+         "start": 504.204,
+         "duration": 13.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "\u00bfC\u00f3mo digo esto? La sociedad debe respetarme.",
+         "start": 521.844,
+         "duration": 4.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si quiero signar, debe respetarme; si quiero hablar, debe respetarme; si quiero usar las dos lenguas, tambi\u00e9n debe respetarme.",
+         "start": 528.244,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En este sentido, Aleida tiene claro que el hecho de que la identidad y la cultura sorda no se conozcan lo suficiente representa un h\u00e1ndicap para las personas sordas.",
+         "start": 544.519,
+         "duration": 10.88,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde sentada en una silla naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "La mayor\u00eda piensa que s\u00f3lo hay personas sordas implantadas o personas sordas que nacen sordas y \u00fanicamente utilizan la lengua de signos.",
+         "start": 556.484,
+         "duration": 11.12,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Realmente desconocen nuestra realidad.",
+         "start": 611.244,
+         "duration": 2.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Es importante concienciar, visibilizar y que nos vean desde otra perspectiva.",
+         "start": 614.244,
+         "duration": 5.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como personas capaces de hacer trabajos ordinarios.",
+         "start": 623.284,
+         "duration": 3.76,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Otra cuesti\u00f3n clave, aunque s\u00e9 que al principio cuesta, es que nosotras nos expresemos y comuniquemos sin verg\u00fcenza.",
+         "start": 628.284,
+         "duration": 9.92,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "A m\u00ed me costaba pedir que me repitieran las cosas, solicitar int\u00e9rprete, pedir a mis profesores que usaran el sistema de FM... me daba verg\u00fcenza porque no quer\u00eda ser diferente.",
+         "start": 640.244,
+         "duration": 18.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ahora me he quitado esa verg\u00fcenza porque, si quieres que algo cambie, tienes que quit\u00e1rtela.",
+         "start": 701.244,
+         "duration": 7.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debemos apoyarnos como comunidad, compartir experiencias, que la sociedad vea nuestra heterogeneidad y la diversidad de necesidades que tenemos.",
+         "start": 709.244,
+         "duration": 16.64,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y sobre todo, que nos aceptemos a nosotras mismas.",
+         "start": 729.244,
+         "duration": 3.76,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas v\u00e1lidas, capaces, debemos exigir que se cumplan nuestros derechos.",
+         "start": 737.924,
+         "duration": 4.52,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Para finalizar, nuestra entrevistada ha querido dirigir algunas recomendaciones al personal sanitario que atiende a pacientes sordas/os en centros de salud y hospitales.",
+         "start": 755.999,
+         "duration": 19.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y chaqueta verde sentada en una silla naranja.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En primer lugar, hay que saber qu\u00e9 necesita cada paciente y escucharle.",
+         "start": 818.244,
+         "duration": 5.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Que necesita que te quites la mascarilla y que hables lentamente y vocalizando para que pueda entenderte, hazlo;",
+         "start": 826.244,
+         "duration": 8.76,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "que requiere int\u00e9rprete de lengua de signos, solicita int\u00e9rprete para esa consulta.",
+         "start": 837.244,
+         "duration": 8.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "En segundo lugar, hay que mostrarles respeto.",
+         "start": 848.444,
+         "duration": 3.36,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Las personas sordas somos pacientes que, como le pasa a la gran mayor\u00eda, tambi\u00e9n nos sentimos vulnerables, extra\u00f1as, perdidas. Tenemos que mostrarles empat\u00eda.",
+         "start": 854.244,
+         "duration": 19.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Respecto a las citas m\u00e9dicas, es importante apoyar a la comunidad sorda.",
+         "start": 914.444,
+         "duration": 4.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "El personal que se sirve del m\u00f3vil para esta tarea ha de saber que las personas sordas no pueden recibir llamadas.",
+         "start": 924.244,
+         "duration": 6.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Debemos modificar el sistema de citas m\u00e9dicas y pensar en otra alternativa ya.",
+         "start": 931.844,
+         "duration": 6.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si la comunidad de profesionales sanitarios quiere, podemos intercambiar y compartir ideas y cambiar esta situaci\u00f3n entre toda/os.",
+         "start": 939.844,
+         "duration": 9.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por \u00faltimo, recordemos que vivimos en mundo diverso, con sociedades diversas y grupos de poblaci\u00f3n diferenciados, donde sin embargo, todas y todos somos iguales y debemos tener iguales oportunidades profesionales, vitales, en el acceso a la universidad, etc.",
+         "start": 952.244,
+         "duration": 24.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Si tu compa\u00f1era/o de trabajo tiene una discapacidad, es LGTBI, es una persona sorda... o bien no se comunica en tu misma lengua, br\u00edndale apoyo e intenta adaptarte a ella.",
+         "start": 1018.244,
+         "duration": 16.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y si eres consciente de que existe un comportamiento discriminatorio, intenta cambiarlo por favor.",
+         "start": 1035.444,
+         "duration": 6.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer con gafas y bata blanca en una consulta m\u00e9dica.",
+         "screen_position": "center"
+      }
+   ]
+}

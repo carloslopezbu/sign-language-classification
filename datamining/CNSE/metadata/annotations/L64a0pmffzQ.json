@@ -1,0 +1,518 @@
+{
+   "num_signers": 2,
+   "annotations": [
+      {
+         "text": "Hola a todos y a todas.",
+         "start": 4.2,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Os doy la bienvenida a la Semana Internacional de las Personas Sordas, que comienza hoy lunes.",
+         "start": 6.1,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Como sab\u00e9is, CNSE es una entidad de la discapacidad con m\u00e1s de 85 a\u00f1os de historia.",
+         "start": 11.8,
+         "duration": 5.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Y para hablar de historia, quiero presentaros a un conocido investigador de la historia, Ram\u00f3n Navas.",
+         "start": 18.0,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hola. Gracias por invitarme. Estoy muy interesado en participar en este vodcast y trasladaros la historia de la CNSE. Espero vuestras preguntas.",
+         "start": 29.8,
+         "duration": 9.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ram\u00f3n, \u00bfpues explicarnos c\u00f3mo surge esta afici\u00f3n por investigar la historia de la comunidad sorda?",
+         "start": 39.5,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Mi afici\u00f3n investigadora comenz\u00f3 hace mucho tiempo, cuando asist\u00ed a las Jornadas de Nuestra Identidad en 1992, en las que aprend\u00ed much\u00edsimo.",
+         "start": 49.5,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Estas jornadas me cambiaron la vida. A partir de ese momento comenc\u00e9 a recopilar informaci\u00f3n, a consultar libros, a preguntar a gente, de manera continuada hasta llegar a saltar nuestras fronteras y recoger informaci\u00f3n fuera de nuestro pa\u00eds, a hacer comparativas, etc, siempre enfoc\u00e1ndome en las asociaciones.",
+         "start": 61.5,
+         "duration": 17.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Una vez finalizado el proceso, almaceno la informaci\u00f3n recogida: cambios de presidencias, cambio de locales, consulta de todos los n\u00fameros de Faro del Silencio, para poder trasladar nuestra historia y seguir con esta afici\u00f3n que tanto me gusta y me hace disfrutar.",
+         "start": 79.5,
+         "duration": 14.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las asociaciones son pieza fundamental del movimiento asociativo de CNSE. \u00bfC\u00f3mo han evolucionado a lo largo del tiempo?",
+         "start": 97.2,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las asociaciones del movimiento asociativo llevan muchos a\u00f1os funcionando sin parar su actividad. Si tuviera que marcar una diferencia, dir\u00eda que las personas sordas necesitamos a las asociaciones, nos dan vida, nos proporcionan contacto con nuestros iguales, son fuente de informaci\u00f3n, defienden nuestros intereses y necesidades ante la administraci\u00f3n.",
+         "start": 106.0,
+         "duration": 24.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si no hubiera asociaciones no ser\u00edamos una comunidad, no tendr\u00edamos fuerza para defendernos. Han ido cambiando con el tiempo, es cierto, pero seguimos necesit\u00e1ndolas igual que sucede con otras discapacidades, colectivos o gremios que tienen sus asociaciones. Las personas sordas tenemos que mantener las nuestras.",
+         "start": 134.5,
+         "duration": 20.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tengo otra pregunta: \u00bfPuedes explicarnos c\u00f3mo fue la primera asamblea de CNSE?",
+         "start": 156.0,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Aprovechando la celebraci\u00f3n del 25 aniversario de la asociaci\u00f3n SS. MM. Sordomudos de Barcelona, se mantuvo una primera reuni\u00f3n en Barcelona en 1935 con el objetivo de crear una entidad de personas sordas siguiendo el modelo de Europa, que ya ten\u00eda sus entidades representativas.",
+         "start": 164.5,
+         "duration": 21.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Al a\u00f1o siguiente, en 1936, se hace lo propio en Madrid, en una asociaci\u00f3n peque\u00f1a con unos 11 miembros, en la que se elaboran los estatutos, objetivos, etc para celebrar la asamblea constitutiva, de la que tengo los puntos m\u00e1s importantes.",
+         "start": 186.5,
+         "duration": 18.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "En esa \u00e9poca, las leyes civiles discriminaban claramente a las personas sordas; no pod\u00edamos acceder al permiso de conducir, tampoco al empleo y a otros muchos \u00e1mbitos.",
+         "start": 205.5,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Un punto importante de la asamblea fue conseguir eliminar estos aspectos discriminatorios de la ley;",
+         "start": 216.0,
+         "duration": 7.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "tambi\u00e9n quer\u00edan solicitar subvenciones del gobierno para poder crear otras asociaciones, tener materiales, locales, etc.",
+         "start": 224.0,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Otro punto que recog\u00edan era permitir legalmente que las personas sordas que estuviesen capacitadas y que pudiesen hablar fuesen formadoras.",
+         "start": 237.0,
+         "duration": 11.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tambi\u00e9n ped\u00edan subvenciones para poder asistir al congreso mundial de la WFD de Par\u00eds, que no llegaron a conseguir y se qued\u00f3 en una conclusi\u00f3n de la asamblea.",
+         "start": 249.5,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las reivindicaciones se han ido transformando con el paso del tiempo; en aquel momento quer\u00edamos conseguir el acceso al permiso de conducir, que hubiese m\u00e1s colegios de alumnado sordo.",
+         "start": 261.0,
+         "duration": 9.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hoy nos centramos m\u00e1s en la lengua de signos, su difusi\u00f3n, reconocimiento e investigaci\u00f3n, el impulso del acceso al empleo y la formaci\u00f3n como veh\u00edculo para la consecuci\u00f3n de la igualdad, la eliminaci\u00f3n de las barreras en aras a una mejor calidad de vida para las personas sordas.",
+         "start": 270.5,
+         "duration": 28.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hay cosas que todav\u00eda no se est\u00e1n cumpliendo en su totalidad y la educaci\u00f3n de las personas sordas siempre ha sido un tema pendiente de soluci\u00f3n.",
+         "start": 299.5,
+         "duration": 6.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por otra parte, s\u00ed hemos accedido al carn\u00e9 de conducir, nuestro acceso al empleo es mejor de lo que era, hemos conseguido eliminar aspectos discriminatorios de las leyes, hay subtitulado en la televisi\u00f3n y ahora el objetivo es que la lengua de signos tenga mayor presencia en este \u00e1mbito.",
+         "start": 306.5,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "En un primer momento hab\u00eda alrededor de 11 asociaciones afiliadas, llegando de manera gradual a un n\u00famero similar al que tenemos ahora.",
+         "start": 325.5,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hubo bajas de socios por cambiarse a nuevas asocaciones.",
+         "start": 336.5,
+         "duration": 4.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Durante la dictadura cada ciudad solo pod\u00eda tener una asociaci\u00f3n de personas sordas.",
+         "start": 341.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pero una vez que entramos en democracia el n\u00famero de asociaciones empez\u00f3 a proliferar.",
+         "start": 345.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eso hizo que las personas sordas se repartieran entre las asociaciones, pero el n\u00famero de socios no ha cambiado mucho en los \u00faltimos 30 a\u00f1os.",
+         "start": 349.5,
+         "duration": 10.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por ejemplo, ahora hay 9 asociaciones (en Madrid), 115 en todo el pa\u00eds.",
+         "start": 360.5,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Actualmente, todas las ciudades tienen su asociaci\u00f3n de personas sordas.",
+         "start": 366.5,
+         "duration": 2.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es muy interesante lo que nos has contado; es cierto que hoy podemos conducir, acceder a una mejor educaci\u00f3n y todo gracias a las generaciones anteriores.",
+         "start": 369.5,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "left"
+      },
+      {
+         "text": "El trabajo de investigaci\u00f3n de Ram\u00f3n da cuenta de que el trabajo de las personas sordas que nos precedieron ha resultado en una mejor calidad de vida para nosotras, con menos barreras, y es algo que debemos transmitir como un valor y un orgullo.",
+         "start": 379.5,
+         "duration": 15.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Nos has ense\u00f1ado una copia de un acta de aquel momento, lo que nos hace pensar en todo el trabajo que supon\u00eda tomar estos documentos a mano, registrarlos, hacer los env\u00edos por correo postal, etc y la agilidad y comodidad que nos ha proporcionado la tecnolog\u00eda para hacer todos estos tr\u00e1mites en la actualidad.",
+         "start": 397.0,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Evidentemente; ahora podemos preparar las reuniones, usar las tecnolog\u00edas para contactar, repasar el marco legislativo para estar m\u00e1s preparados; antes se reun\u00edan en un local peque\u00f1o, tomaban las notas a mano, eran pocas personas sordas y no ten\u00edan todo el conocimiento que tenemos ahora.",
+         "start": 411.5,
+         "duration": 16.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "La que sab\u00eda escribir bien era la que tomaba notas, Marroqu\u00edn era un buen ejemplo de ello y el que tiraba de los dem\u00e1s. Ahora tenemos m\u00e1s acceso, sabemos m\u00e1s, el contacto es m\u00e1s fluido y buscamos mejorar la vida de las personas a trav\u00e9s de la presi\u00f3n legislativa.",
+         "start": 428.0,
+         "duration": 17.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "En aquel momento lo que importaba era mantener la comunidad, que resid\u00eda en la asociaci\u00f3n, el contacto entre nuestro iguales. No se pod\u00eda utilizar la lengua de signos, estaba prohibido, y la asociaci\u00f3n era el espacio en el que pod\u00edamos expresarnos en nuestra lengua sin que nadie nos viera; ahora podemos utilizar la lengua de signos libremente y participar de otros espacios en igualdad de condiciones.",
+         "start": 445.0,
+         "duration": 18.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "El papel de la mujer sorda tambi\u00e9n ha evolucionado a lo largo de este tiempo. \u00bfPuedes explicarnos c\u00f3mo?",
+         "start": 466.0,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "left"
+      },
+      {
+         "text": "He recogido datos de cu\u00e1ntas mujeres han ocupado puestos de presidenta seg\u00fan las diferentes presidencias que ha tenido la CNSE.",
+         "start": 476.0,
+         "duration": 12.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Durante la \u00e9poca de Marroqu\u00edn hab\u00eda muy poca participaci\u00f3n femenina, durante los 25 a\u00f1os de su mandato unas tres mujeres en toda Espa\u00f1a ocupaban puestos en juntas directivas.",
+         "start": 488.5,
+         "duration": 12.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Al final del mandato de Marroqu\u00edn se contabilizaban seis mujeres ocupando presidencias o puestos en el consejo de CNSE, adem\u00e1s de alguna mujer oyente que desempe\u00f1aba labores de secretar\u00eda.",
+         "start": 501.5,
+         "duration": 14.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "El resto de vocal\u00edas y presidencias estaban ocupadas por hombres.",
+         "start": 516.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cuando F\u00e9lix Pinedo asume la presidencia, aumenta el n\u00famero de mujeres presidentas.",
+         "start": 520.5,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y con Luis Ca\u00f1on, el n\u00famero tambi\u00e9n aument\u00f3.",
+         "start": 526.5,
+         "duration": 3.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ya con Concha D\u00edaz como presidenta de CNSE, nos encontramos con 60 asociaciones presididas por mujeres.",
+         "start": 530.5,
+         "duration": 5.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Como vemos, el n\u00famero ha ido aumentando progresivamente a lo largo del tiempo hasta alcanzar un 40%; lo mismo ha pasado en las juntas directivas, que est\u00e1n ocupadas por mujeres de manera paritaria.",
+         "start": 536.5,
+         "duration": 16.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tambi\u00e9n se ve que las mujeres que asumen presidencias no repiten mandato o no regresan a ese puesto; sin embargo, los hombres s\u00ed ocupan esos puestos de responsabilidad durante m\u00e1s tiempo e incluso repiten cargo una vez que lo han dejado.",
+         "start": 554.5,
+         "duration": 13.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "En total, de las 1500 presidencias de entidades sordas, unas 300 han sido ocupadas por mujeres.",
+         "start": 568.5,
+         "duration": 13.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ahora mismo hay 60 presidentas, incluida la de la propia CNSE y de cuatro federaciones.",
+         "start": 584.5,
+         "duration": 8.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es interesante lo que nos cuentas y ver la evoluci\u00f3n positiva que ha adquirido el papel de la mujer en el movimiento asociativo.",
+         "start": 595.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Vamos ya con la \u00faltima pregunta: como investigador de la comunidad sorda y de su historia, \u00bfconsideras que es importante mantenerla?",
+         "start": 600.0,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por supuesto, es importante mantener la historia y la comunidad porque son fuente de vida y nuestra historia contiene con hitos importantes.",
+         "start": 610.5,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se dice que el tri\u00e1ngulo cultura-lengua-historia son los elementos de las comunidades.",
+         "start": 621.5,
+         "duration": 7.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sin historia no se puede investigar y sin lengua no existe la historia, no hay un veh\u00edculo para trasladar nuestra herencia hist\u00f3rica, saber de d\u00f3nde venimos, qu\u00e9 es lo que ha pasado, qui\u00e9nes han sido los protagonistas de nuestra historia.",
+         "start": 629.5,
+         "duration": 13.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Todos los colectivos de la discapacidad tienen su historia; la que a m\u00ed me apasiona es la historia de la comunidad sorda y por eso mi tiempo a investigarla y a conservarla.",
+         "start": 644.5,
+         "duration": 10.5,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Hombre con gafas y polo oscuro",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muchas gracias, Ram\u00f3n, por participar en este vodcast y por contarnos cosas tan interesantes.",
+         "start": 655.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lo dejamos aqu\u00ed; nos vemos ma\u00f1ana con otro interesante tema. \u00a1Adi\u00f3s!",
+         "start": 662.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Hombre con barba y camisa azul claro",
+         "screen_position": "center"
+      }
+   ]
+}

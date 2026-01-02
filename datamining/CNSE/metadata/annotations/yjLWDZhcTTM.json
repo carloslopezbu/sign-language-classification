@@ -1,0 +1,662 @@
+{
+   "num_signers": 4,
+   "annotations": [
+      {
+         "text": "\u00a1Felicidades a todas las personas sordas!",
+         "start": 3.14,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Durante esta semana se celebra la Semana Internacional de las Personas sordas, que recoger\u00e1 diferentes temas a lo largo de la misma. Hoy, Arte Sordo.",
+         "start": 5.84,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tenemos claro que cuando hablamos de arte nos referimos al arte general, al \u00e1mbito cultural y la accesibilidad de las personas sordas a los teatros, los cines y las diferentes expresiones art\u00edsticas a trav\u00e9s de su traducci\u00f3n a la lengua de signos;",
+         "start": 12.84,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "y por otro lado est\u00e1 el arte propio de las personas sordas, en lengua de signos, generado por nosotras mismas y que tiene el poder de llegarnos y transmitirnos emociones, con el que nos sentimos vinculadas.",
+         "start": 25.04,
+         "duration": 9.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "A continuaci\u00f3n, vamos a entrevistar a tres artistas sordos.",
+         "start": 35.04,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "La primera de ellas es una actriz, dedicada a la rama de la VV (visual vernacular) y que se ha empezado convertido en una referencia en esta disciplina en nuestro pa\u00eds.",
+         "start": 40.44,
+         "duration": 9.9,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "El pr\u00f3ximo mes de diciembre participar\u00e1 en una obra de teatro en el prestigioso Centro Dram\u00e1tico Nacional, Mar\u00eda Jos\u00e9 L\u00f3pez, de Madrid.",
+         "start": 50.64,
+         "duration": 10.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestro siguiente invitado es fot\u00f3grafo, actor, cineasta, ilustrador y ganador de varios premios por sus trabajos en el cine, el dise\u00f1o gr\u00e1fico y el dibujo.",
+         "start": 99.85,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "En la actualidad est\u00e1 de gira con tres diferentes obras de teatro. Edgar Murillo, de Barcelona.",
+         "start": 111.55,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nuestro \u00faltimo invitado es dibujante por vocaci\u00f3n, titulado en bellas artes. Su proyecto de fin de grado fue seleccionado para ser expuesto en Madrid en la prestigiosa feria del c\u00f3mic. El tema, el Congreso de Mil\u00e1n de 1880, donde como sab\u00e9is, se prohibi\u00f3 la ense\u00f1anza de la lengua de signos en favor del oralismo.",
+         "start": 146.86,
+         "duration": 21.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Su trabajo ha estado expuesto desde el pasado 7 de junio hasta el 5 de septiembre. Manuel Luis Lema, de la ciudad de Vigo.",
+         "start": 168.36,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Ya estamos todas y todos. A continuaci\u00f3n os har\u00e9 algunas preguntas para que nos traslad\u00e9is vuestras opiniones y experiencias.",
+         "start": 204.77,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Sabemos que la comunidad sorda es generadora de arte y conocemos lo que se hace de puertas para dentro.",
+         "start": 213.07,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Pero, \u00bfla sociedad oyente sabe del arte sordo? Y no me refiero a adaptaciones que hagamos del arte oyente para que lo disfruten las personas sordas, sino al arte generado por las propias personas sordas. \u00bfLo conocen? \u00bfC\u00f3mo podr\u00edamos difundirlo entre la sociedad oyente para darnos a conocer?",
+         "start": 218.77,
+         "duration": 14.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "La exposici\u00f3n en la que acabo de participar ha tenido afluencia de visitantes sordos pero tambi\u00e9n oyentes, que se sorprend\u00edan al saber de la existencia del Congreso de Mil\u00e1n.",
+         "start": 238.28,
+         "duration": 8.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Suscitaba su curiosidad ver el a\u00f1o, 1880, y tambi\u00e9n la ciudad de Mil\u00e1n, y cuando entraban a ver los dibujos descubr\u00edan un mont\u00f3n de cosas que no sab\u00edan.",
+         "start": 246.58,
+         "duration": 9.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Les llegaba el mensaje de una manera muy potente, que en realidad yo lo dibujaba para la comunidad sorda, no para la sociedad.",
+         "start": 256.68,
+         "duration": 6.6,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando le\u00edan el texto que acompa\u00f1a a la expo mostraban mucho inter\u00e9s por la historia, desconocida para ellas. Esta fue una manera de abrir el mundo sordo a las personas oyentes y pienso que es importante.",
+         "start": 263.58,
+         "duration": 12.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Muy bien, esto es positivo.",
+         "start": 276.58,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "\u00daltimamente me doy cuenta de que muchas veces las que las personas oyentes se sorprenden de que una persona sorda sea capaz de hacer algo art\u00edstico y hasta les da pena.",
+         "start": 280.29,
+         "duration": 11.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ser una persona sorda que significa simplemente no oyes, no tienes ninguna limitaci\u00f3n m\u00e1s.",
+         "start": 293.19,
+         "duration": 5.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Creo que una forma sencilla de llamar la atenci\u00f3n de la sociedad hacia el arte sordo ser\u00eda establecer contactos, tender puentes, llamar a todas las puertas, no para dependerde las personas oyentes sino para explicarles qu\u00e9 es la identidad sorda y ganar en visibilidad huyendo de paternalismos o de sentimientos de pena, totalmente innecesarios.",
+         "start": 300.59,
+         "duration": 22.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Esto les har\u00eda ver que las personas sordas somos perfectamente capaces igual que el resto.",
+         "start": 324.09,
+         "duration": 6.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por eso es fundamental tender puentes entre ambas comunidades.",
+         "start": 331.39,
+         "duration": 4.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Vemos que todav\u00eda no es suficiente la formaci\u00f3n en arte que se da a la infancia y juventud sorda.",
+         "start": 337.5,
+         "duration": 11.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "\u00bfC\u00f3mo cre\u00e9is que se puede fomentar el arte para despertar la vocaci\u00f3n en las mentes m\u00e1s j\u00f3venes?",
+         "start": 350.5,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "En muchos colegios se imparte la asignatura de m\u00fasica en primaria y tambi\u00e9n en primero de ESO.",
+         "start": 357.51,
+         "duration": 6.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "El alumnado sordo no puede participar en ella, por lo que les derivan a clases de apoyo, refuerzo de lectura o a otras asignaturas. El alumnado oyente disfruta de la m\u00fasica",
+         "start": 364.51,
+         "duration": 10.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "mientras que el sordo no lo hace.",
+         "start": 375.51,
+         "duration": 2.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hay pa\u00edses en los que aprovechas estas horas para ense\u00f1ar VV a sus alumnas y alumnos sordos.",
+         "start": 378.41,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Es una pena que en Espa\u00f1a no se haga lo mismo; que se forme tambi\u00e9n en arte sordo al alumnado sordo: VV, chistes, canciones, poes\u00eda, etc y no relegarlos a clases de apoyo.",
+         "start": 381.71,
+         "duration": 12.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "El resultado es que no reciben formaci\u00f3n en arte del mismo modo que hacen sus compa\u00f1eras y compa\u00f1eros oyentes y consideroque es necesario que s\u00ed lo hagan.",
+         "start": 394.21,
+         "duration": 8.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cuando se ense\u00f1a dibujo a los ni\u00f1os y ni\u00f1as no hay que ponerles l\u00edmites, ya que su imaginaci\u00f3n no los tiene.",
+         "start": 407.72,
+         "duration": 11.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "No debemos darles normas de c\u00f3mo dibujar si no dejar que se expresen libremente porque, aunque sus dibujos no tengan calidad t\u00e9cnica, son igualmente valiosos",
+         "start": 419.22,
+         "duration": 8.6,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Deben dibujar cuanto quieran, de manera libre, acumular sus dibujos.",
+         "start": 428.12,
+         "duration": 3.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Cuando yo era peque\u00f1o mi madre sorda, que es pintora, era muy pesada conmigo para que yo dibujase, cuidase mis dibujos y aprovechase bien el papel.",
+         "start": 431.62,
+         "duration": 10.6,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Quer\u00eda que desarrollase mi vocaci\u00f3n, que estaba todav\u00eda despertando.",
+         "start": 446.42,
+         "duration": 3.6,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es importante animar a las ni\u00f1as y ni\u00f1os a que dibujen formas, colores y a que se desarrollen.",
+         "start": 450.52,
+         "duration": 4.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hace tiempo, cuando yo era un beb\u00e9 o ni siquiera hab\u00eda nacido, si hab\u00eda un movimiento art\u00edstico sordo potente, que fue perdiendo fuerza a lo largo de los a\u00f1os.",
+         "start": 458.93,
+         "duration": 11.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "De hecho se hac\u00eda VV y yo no me enter\u00e9 de que exist\u00eda esta disciplina hasta hace apenas dos a\u00f1os.",
+         "start": 470.43,
+         "duration": 7.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "S\u00ed se hac\u00eda VV pero no se habla apenas de ello, tampoco hay formaci\u00f3n,..",
+         "start": 478.33,
+         "duration": 3.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Creo que tiene que ver el hecho de que ahora se hagan cosas mixtas con personas oyentes. Anta\u00f1o la comunidad era generadora de contenido art\u00edstico, teatro, etc y estaba compuesta s\u00f3lo por personas sordas; ahora eso no sucede y creo que se nota.",
+         "start": 481.63,
+         "duration": 17.4,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfCre\u00e9is que es importante contar con modelos de referencia dentro del arte sordo para poder despertar la vocaci\u00f3n art\u00edstica entre las personas sordas?",
+         "start": 501.04,
+         "duration": 10.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "S\u00ed, efectivamente. Sea en las clases de bellas artes o cualquier otra disciplina.",
+         "start": 513.05,
+         "duration": 6.0,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por ejemplo, en los colegios o institutos, el alumnado oyente aprende y conocer su pasado, su historia; no pasa lo mismo con el alumnado sordo, que no accede a su historia.",
+         "start": 519.35,
+         "duration": 9.6,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es importante que tengan la oportunidad de conocer la historia de las personas sordas, que puedan descubrirla y sentirse inspirados para participar, que sean conscientes de que ha habido personas sordas igual que ellos que pueden ser sus referentes, y que de esta manera puedan elegir su camino de forma consciente y no siguiendo necesariamente a la mayor\u00eda.",
+         "start": 529.25,
+         "duration": 26.6,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Como comentaba antes Mar\u00eda Jos\u00e9, aprovechar la clase de m\u00fasica para ense\u00f1ar a las ni\u00f1as y ni\u00f1os sordos arte sordo, historia de la comunidad sorda, etc.",
+         "start": 558.86,
+         "duration": 7.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Exacto.",
+         "start": 566.56,
+         "duration": 0.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si alguien quiere actuar, dibujar o hacer VV siempre ser\u00e1 bienvenida/o, aqu\u00ed nunca se rechaza a nadie.",
+         "start": 571.67,
+         "duration": 9.6,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo importante es tener clara la identidad con el arte si no es as\u00ed siempre se puede aprender y a partir de ah\u00ed crear esa identificaci\u00f3n.",
+         "start": 582.07,
+         "duration": 11.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfOs imagin\u00e1is una comunidad sorda sin arte? Ser\u00eda una comunidad sin vida, \u00e1rida y triste.",
+         "start": 595.08,
+         "duration": 6.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Es inconcebible",
+         "start": 602.08,
+         "duration": 2.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ser\u00eda como un campo vac\u00edo, no podr\u00edamos aprender ni sentirnos inspiradas por nada.",
+         "start": 605.09,
+         "duration": 4.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "La historia de la comunidad sorda est\u00e1 llena de ejemplos de arte, que le han dado fuerza.",
+         "start": 609.59,
+         "duration": 5.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sin eso, la comunidad puede ser m\u00e1s \u00e1rida, aburrida... no lo s\u00e9, pero lo que es seguro es que ser\u00eda diferente.",
+         "start": 615.09,
+         "duration": 6.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQuer\u00e9is a\u00f1adir alg\u00fan mensaje?",
+         "start": 622.6,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Yo querr\u00eda que m\u00e1s personas sordas pudiesen acceder al arte, ya sea en el bachillerato o en la universidad, para fomentar este conocimiento.",
+         "start": 627.4,
+         "duration": 9.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Yo he visto algunos talentos sordos en dibujo; puede que dibujen cosas raras o totalmente fuera de la norma, pero eso no es importante, cada uno tiene una forma diferente de expresarse.",
+         "start": 637.5,
+         "duration": 9.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "En la universidad puedes aprender, inspirarte, acceder a la historia del arte, al arte contempor\u00e1neo; y cuanto m\u00e1s conozcas, m\u00e1s f\u00e1cil ser\u00e1 que te desarrolles.",
+         "start": 647.6,
+         "duration": 11.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Por ejemplo, las personas sordas somos muy buenas en arte dram\u00e1tico, que contiene muchos clasificadores, mejores que las oyentes.",
+         "start": 659.1,
+         "duration": 9.8,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Un buen ejemplo ser\u00eda la misma Mar\u00eda Jes\u00fas Serna. Pero tambi\u00e9n otras disciplinas como bellas artes, escultura, etc.",
+         "start": 669.2,
+         "duration": 7.6,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Las personas sordas tenemos mayor facilidad, ya que nos centramos en lo visual del arte, mientras que las personas oyentes dedican m\u00e1s tiempo en la lectura, nosotras no tenemos tanta habilidad lectora y asimilamos de manera m\u00e1s r\u00e1pida la esencia.",
+         "start": 676.9,
+         "duration": 14.4,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Hay varios ejemplos en la historia, como Navarrete, Goya que a ra\u00edz de quedarse sordo fue cuando potenci\u00f3 la asimilaci\u00f3n del arte.",
+         "start": 691.6,
+         "duration": 11.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "Animo a las personas sordas que estudien la rama de bachillerato de bellas artes o que estudien esa carrera en la universidad. Mucha suerte.",
+         "start": 709.21,
+         "duration": 8.2,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta oscura",
+         "screen_position": "left"
+      },
+      {
+         "text": "A m\u00ed siempre me ha gustado la actuaci\u00f3n y hace apenas dos a\u00f1os, en 2019, comenc\u00e9 a moverme y a participar de actividades como profesional, cobrando por lo que hac\u00eda.",
+         "start": 718.32,
+         "duration": 13.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Todo vino por que antes hab\u00eda participado en campamentos y talleres, organizados por personas sordas u oyentes, y en actividades que me dieron visibilidad e hicieron que la gente empezase a contactar conmigo para que participase en sus actividades.",
+         "start": 731.82,
+         "duration": 16.2,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Esto me facilit\u00f3 una red de contactos mayor. Mi consejo para cualquier persona que quiera dedicarse al teatro, el cine, series, etc participe de campamentos, talleres, actividades y dem\u00e1s de personas sordas u oyentes, eso da igual, porque conseguir\u00e1 una red de contactos que podr\u00e1 hacer que le llamen para trabajar.",
+         "start": 748.32,
+         "duration": 17.0,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer joven, pelo largo rubio, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para mandar un mensaje claro y conciso a la comunidad sorda dir\u00eda que no se comparen con nadie, que si no saben dibujar siempre se puede aprender; que no tiren sus dibujos, si no que los guarden y repitan.",
+         "start": 767.73,
+         "duration": 13.4,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo mismo con las artes esc\u00e9nicas, que acepten los fallos porque de ellos se aprende.",
+         "start": 791.43,
+         "duration": 6.2,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Quiero que todos aprendan por s\u00ed mismos y que se alejen de comparaciones porque lo m\u00e1s importante es aprender.",
+         "start": 798.13,
+         "duration": 8.8,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, pelo corto oscuro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para concluir, hemos visto la necesidad de que se construyan espacios para promover, trabajar e investigar el arte sordo en profundidad, animando a la participaci\u00f3n de las personas sordas y su formaci\u00f3n.",
+         "start": 808.14,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "Much\u00edsimas gracias por esta entrevista, por concedernos vuestro tiempo, y espero que alcanc\u00e9is todos vuestros sue\u00f1os.",
+         "start": 823.64,
+         "duration": 5.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, blusa negra",
+         "screen_position": "left"
+      },
+      {
+         "text": "- Gracias a ti. - Gracias.",
+         "start": 829.84,
+         "duration": 1.4,
+         "signer_id": -1,
+         "aligned": true,
+         "signer_description": "Varios signantes",
+         "screen_position": "multiple"
+      }
+   ]
+}

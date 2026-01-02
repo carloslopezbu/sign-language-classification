@@ -1,0 +1,824 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola, soy Leticia, psic\u00f3loga de ACCEM.",
+         "start": 8.48,
+         "duration": 2.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Desde nuestra propuesta ACCEM activos en casa os voy a proponer una sesi\u00f3n para trabajar el lenguaje y mantener nuestra mente activa.",
+         "start": 11.48,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Puedes ver el v\u00eddeo las veces que necesites, pararlo si te hace falta, para ir m\u00e1s despacio, as\u00ed que adelante, vamos a ello.",
+         "start": 19.48,
+         "duration": 7.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "En este primer ejercicio, tienes que decir el nombre de las siguientes im\u00e1genes.",
+         "start": 28.8,
+         "duration": 4.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, es una mesa.",
+         "start": 38.8,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00c1rbol.",
+         "start": 47.2,
+         "duration": 1.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "L\u00e1piz.",
+         "start": 54.88,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Avi\u00f3n.",
+         "start": 102.4,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Piscina.",
+         "start": 110.88,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Flor.",
+         "start": 118.88,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Martillo.",
+         "start": 126.64,
+         "duration": 1.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Coliflor.",
+         "start": 134.8,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cepillo.",
+         "start": 142.8,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Marco de fotos.",
+         "start": 150.88,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Banco.",
+         "start": 159.28,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Vela.",
+         "start": 206.4,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Sombrero.",
+         "start": 214.48,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hilo.",
+         "start": 222.8,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Caracol.",
+         "start": 230.4,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Estrella de mar.",
+         "start": 238.48,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Gorila.",
+         "start": 246.64,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Diana.",
+         "start": 254.4,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Avellanas.",
+         "start": 302.48,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ba\u00fal.",
+         "start": 310.64,
+         "duration": 0.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Calendario.",
+         "start": 318.48,
+         "duration": 1.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Candelabro.",
+         "start": 326.8,
+         "duration": 1.04,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, ya hemos terminado este ejercicio. Es posible que las primeras te hayan parecido muy f\u00e1cil y luego se hayan ido complicando o puede ser que las hayas hecho todas genial, en ese caso, perfecto. Vamos a seguir con el siguiente ejercicio.",
+         "start": 330.24,
+         "duration": 13.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "En este ejercicio, vamos a trabajar la fluidez verbal.",
+         "start": 347.6,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Esto permite expresarnos y darnos a entender en una conversaci\u00f3n de manera \u00e1gil.",
+         "start": 351.6,
+         "duration": 4.24,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Nos sirve para poder exponer ideas, producir, asociar y relacionar palabras.",
+         "start": 356.64,
+         "duration": 3.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Di en voz alta nombres de animales, todos los que se te ocurran, como por ejemplo, el perro.",
+         "start": 402.4,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ahora tienes que pensar nombres de mujer, como por ejemplo el m\u00edo, Leticia.",
+         "start": 452.4,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Vamos a ponerlo un poco m\u00e1s dif\u00edcil. Ahora tienes que pensar nombres de \u00e1rboles y decirlos en voz alta, como por ejemplo, el chopo.",
+         "start": 542.4,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, lo est\u00e1s haciendo genial. Ahora piensa palabras que empiecen por la letra T, como torre.",
+         "start": 632.0,
+         "duration": 8.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ahora piensa palabras que empiecen por A, como por ejemplo, ajo. A ver qu\u00e9 tal se te da est\u00e1 vez.",
+         "start": 723.2,
+         "duration": 9.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Piensa palabras que empiecen por la letra S, como por ejemplo, sapo.",
+         "start": 814.4,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "En este ejercicio tienes que decir qu\u00e9 tienen en com\u00fan los dos elementos que aparecen.",
+         "start": 902.4,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por ejemplo, \u00bfqu\u00e9 tienen en com\u00fan la pera y la manzana? Que son frutas.",
+         "start": 911.6,
+         "duration": 5.84,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfY qu\u00e9 tienen en com\u00fan la guitarra y el viol\u00edn?",
+         "start": 924.4,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Son instrumentos musicales, muy bien.",
+         "start": 931.2,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQu\u00e9 tienen en com\u00fan la suma y la resta?",
+         "start": 936.4,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eso es, que son operaciones matem\u00e1ticas.",
+         "start": 943.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfY la cerveza y el vino?",
+         "start": 949.2,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, las dos son bebidas.",
+         "start": 955.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQu\u00e9 tienen en com\u00fan o en qu\u00e9 se parecen una hoja y la ra\u00edz?",
+         "start": 1000.4,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eso es, son partes de una planta.",
+         "start": 1007.6,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfY qu\u00e9 tienen en com\u00fan una falda y un pantal\u00f3n?",
+         "start": 1012.4,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eso es, son prendas de vestir.",
+         "start": 1019.6,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQu\u00e9 tienen en com\u00fan un litro y un metro?",
+         "start": 1024.4,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eso es, son medidas, sirven para medir los dos.",
+         "start": 1031.2,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfY el olfato y el o\u00eddo?",
+         "start": 1035.6,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, son dos de nuestros sentidos.",
+         "start": 1043.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo est\u00e1s haciendo genial, vamos a pasar al siguiente ejercicio.",
+         "start": 1047.2,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ahora voy a leer un texto, t\u00fa tambi\u00e9n puedes seguirlo en la pantalla y a continuaci\u00f3n te har\u00e9 unas preguntas sobre el texto. No hace falta que te fijes en detalles complicados, s\u00f3lo que cojas la idea general y que lo entendamos bien.",
+         "start": 1051.6,
+         "duration": 11.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "El relato que os voy a leer pertenece a la campa\u00f1a de ACCEM \"Mayores cuentan\" y est\u00e1 escrito por Raquel Zaragoza.",
+         "start": 1104.4,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "La primavera no entiende de pandemias.",
+         "start": 1115.2,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Las calles y los parques est\u00e1n vac\u00edos, pero brilla el sol, los \u00e1rboles han florecido y los pajarillos no dejan de cantar...",
+         "start": 1118.0,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "En tiempos de coronavirus, \u00e9poca de puertas cerradas y balcones abiertos, paso mucho tiempo sentada en el m\u00edo; para respirar aire puro y aprovechar al m\u00e1ximo la luz natural.",
+         "start": 1127.2,
+         "duration": 11.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Aqu\u00ed hago lo que he hecho toda la vida: \u00a1coser!",
+         "start": 1141.2,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Desde los primeros recuerdos de mi infancia, siempre he estado rodeada de retales, bastidores y costureros.",
+         "start": 1144.8,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Al salir del colegio, despu\u00e9s de la merienda, mi madre y yo pas\u00e1bamos muchas tardes haciendo labores, mientras escuch\u00e1bamos la radionovela: \u201cAma Rosa\u201d de Guillermo Sautier Casaseca. Es curioso, me cuesta recordar qu\u00e9 com\u00ed ayer y, sin embargo, ese nombre no se me olvida",
+         "start": 1151.6,
+         "duration": 16.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tambi\u00e9n me acuerdo de mi primer dedal; aunque compraron el m\u00e1s peque\u00f1o, ten\u00eda los dedos tan finos que resultaba grande.",
+         "start": 1211.2,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Mam\u00e1, con mucha pericia, redujo su di\u00e1metro interior, con cinta de esparadrapo, hasta conseguir ajustarlo a mi medida. \u00a1Qu\u00e9 orgullosa me sent\u00eda! Para m\u00ed era como llevar una joya en el dedo.",
+         "start": 1219.6,
+         "duration": 11.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hace unos d\u00edas rebusqu\u00e9 en el caj\u00f3n de las telas. Necesitaba encontrar las m\u00e1s adecuadas para confeccionar mascarillas; la idea fue de un chico muy majo que me hace los recados. As\u00ed podr\u00e9 ayudarles, sin salir de casa.",
+         "start": 1233.2,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ha hecho falta una pandemia para saber que, si necesito a mis vecinos, puedo contar con ellos. Ahora s\u00e9 que los j\u00f3venes son solidarios. El barrio est\u00e1 en la zona del hospital y por estas calles reside mucho personal sanitario. En mi edificio hay dos enfermeras. Anoche las vi llegar tarde y tan cansadas que me han dado pena.",
+         "start": 1249.2,
+         "duration": 18.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por eso, esta ma\u00f1ana he madrugado un poquito m\u00e1s para hacerles un bizcocho de almendras.",
+         "start": 1311.6,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si hago bizcochos o mascarillas no es para entretenerme; yo nunca me aburro por estar encerrada en casa. Al fin y al cabo, esto no es nuevo para m\u00ed, tampoco sal\u00eda mucho antes. El edificio no tiene ascensor y mis piernas... no tienen fuerza.",
+         "start": 1317.2,
+         "duration": 15.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "La diferencia es que ahora no pueden venir a visitarme porque soy de riesgo y temen ponerme en peligro. S\u00e9 que lo hacen por mi bien, pero les echo de menos. Resulta parad\u00f3jico, en este momento la mejor forma de demostrar afecto es evitando el contacto; yo necesito sus abrazos, pero puedo esperar.",
+         "start": 1334.0,
+         "duration": 18.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cada d\u00eda que pasa, faltan veinticuatro horas menos para volver a la normalidad. Lo haremos reforzados, y... \u00a1los p\u00e1jaros seguir\u00e1n trinando!",
+         "start": 1353.6,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "En estos d\u00edas, las ventanas y los balcones se han convertido en los espacios m\u00e1s importantes de las casas.",
+         "start": 1404.4,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "De vez en cuando, descanso un poco de la costura y, para entretenerme, desde el m\u00edo miro al cielo, a la calle y a los edificios de enfrente.",
+         "start": 1410.4,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "A las ocho de la tarde los vecinos nos asomamos a la calle porque hay \u201cquedada\u201d.",
+         "start": 1420.8,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Desde la retaguardia, aplaudimos agradecidos el trabajo de unos \u00e1ngeles sin alas. Son los h\u00e9roes que combaten en primera l\u00ednea de batalla.",
+         "start": 1425.6,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "En muchos balcones, los ni\u00f1os han colgado arco\u00edris con mensajes de esperanza:",
+         "start": 1434.4,
+         "duration": 4.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Qu\u00e9date en casa, todo va a salir bien.",
+         "start": 1439.6,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Vamos con las preguntas.",
+         "start": 1445.2,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Si crees que no te has enterado muy bien, puedes volver hacia atr\u00e1s y escucharlo de nuevo.",
+         "start": 1446.8,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfEn qu\u00e9 estaci\u00f3n del a\u00f1o se desarrolla esta historia?",
+         "start": 1452.4,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, es en primavera.",
+         "start": 1500.4,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQu\u00e9 ha hecho la protagonista toda su vida?",
+         "start": 1505.2,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eso es, se ha dedicado a coser.",
+         "start": 1510.8,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfY qu\u00e9 est\u00e1 cosiendo ahora?",
+         "start": 1515.2,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, est\u00e1 haciendo mascarillas.",
+         "start": 1520.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQu\u00e9 postre les ha hecho a sus vecinas enfermeras?",
+         "start": 1527.2,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Eso es, les ha hecho un bizcocho de almendras.",
+         "start": 1534.4,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfA qu\u00e9 hora salen los vecinos a la \"quedada\"?",
+         "start": 1541.2,
+         "duration": 2.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, a las ocho.",
+         "start": 1548.4,
+         "duration": 1.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfY qu\u00e9 dibujo acompa\u00f1a a los mensajes de esperanza?",
+         "start": 1552.8,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Claro, es un arco\u00edris.",
+         "start": 1600.4,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Buen trabajo, seguro que te has esforzado mucho para poder terminar toda esta sesi\u00f3n.",
+         "start": 1607.2,
+         "duration": 4.4,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Nos vemos en los siguientes v\u00eddeos.",
+         "start": 1612.0,
+         "duration": 1.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o claro, camiseta negra",
+         "screen_position": "right"
+      }
+   ]
+}

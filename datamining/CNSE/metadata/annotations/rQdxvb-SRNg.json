@@ -1,0 +1,923 @@
+{
+   "num_signers": 11,
+   "annotations": [
+      {
+         "text": "\u00a1Hola! 2019 est\u00e1 pr\u00f3ximo a finalizar",
+         "start": 0.39,
+         "duration": 4.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "y har\u00e9 un breve repaso del mismo.",
+         "start": 5.92,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "La situaci\u00f3n pol\u00edtica del pa\u00eds, con un gobierno en funciones",
+         "start": 13.98,
+         "duration": 6.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "y un parlamento inactivo ha dificultado que haya avances legislativos y",
+         "start": 20.98,
+         "duration": 8.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "ha retrasado mucho la aprobaci\u00f3n de subvenciones p\u00fablicas",
+         "start": 29.88,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "para ejecutar proyectos y servicios.",
+         "start": 34.48,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "A\u00fan as\u00ed, la actividad de la CNSE no se ha detenido.",
+         "start": 37.98,
+         "duration": 5.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Algunas de las muchas acciones que hemos llevado a cabo.",
+         "start": 44.65,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hemos combatido la soledad, el aislamiento",
+         "start": 50.65,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "gracias al servicio VIDASOR a trav\u00e9s del cual se han atendido",
+         "start": 53.95,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "diariamente a 48 personas mayores sordas;",
+         "start": 58.35,
+         "duration": 6.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "hemos organizado 3 viajes Imserso-CNSE en los que",
+         "start": 67.65,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "han participado un total de 238 personas sordas.",
+         "start": 72.95,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "-Adi\u00f3s. Cu\u00eddate. Nos vemos y mucho \u00e1nimo.",
+         "start": 80.15,
+         "duration": 1.8,
+         "signer_id": 1,
+         "aligned": true,
+         "signer_description": "Mujer pelo oscuro, top morado",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hemos garantizado el derecho a acceder a la informaci\u00f3n y la comunicaci\u00f3n sin barreras durante todo el a\u00f1o,",
+         "start": 84.95,
+         "duration": 5.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "SVisual funciona gracias a que hemos trabajado para mantener",
+         "start": 91.15,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "constante su financiaci\u00f3n p\u00fablica e incrementando la financiaci\u00f3n privada.",
+         "start": 96.95,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "El servicio de videointerpretaci\u00f3n SVisual ha recibido 103.865 llamadas de personas sordas de toda Espa\u00f1a.",
+         "start": 105.15,
+         "duration": 16.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Pero adem\u00e1s, se han realizado 13.170 servicios de interpretaci\u00f3n presenciales",
+         "start": 122.15,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "gracias al convenio de CNSE con el Ministerio de Sanidad.",
+         "start": 129.35,
+         "duration": 7.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por otro lado, hemos atendido a 89 reclusas y reclusos sordos",
+         "start": 138.65,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "de toda Espa\u00f1a en sus derechos b\u00e1sicos.",
+         "start": 148.35,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "40 ciudadanas y ciudadanos sordos han participado en igualdad de condiciones",
+         "start": 153.65,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "en las mesas electorales gracias a los int\u00e9rpretes de lengua de signos.",
+         "start": 159.35,
+         "duration": 4.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hemos luchado contra la discriminaci\u00f3n a las personas sordas,",
+         "start": 170.65,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "atendiendo desde nuestra asesor\u00eda jur\u00eddica m\u00e1s de 250 consultas",
+         "start": 177.95,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "sobre empleo, educaci\u00f3n, nacionalidad espa\u00f1ola, justicia, accesibilidad, etc..",
+         "start": 185.95,
+         "duration": 18.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tambi\u00e9n hemos realizado aportaciones a normativas y planes de actuaci\u00f3n estatales y auton\u00f3micos.",
+         "start": 205.65,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por ejemplo, hemos hecho aportaciones al Reglamento de Conductores,",
+         "start": 220.65,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "en lo relativo a la conducci\u00f3n de camiones, de los ex\u00e1menes,...",
+         "start": 225.95,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "No han podido avanzar, dado la situaci\u00f3n pol\u00edtica.",
+         "start": 231.15,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Seguimos haciendo frente a la violencia machista.",
+         "start": 237.95,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Gracias a la Plataforma ALBA contra la violencia de g\u00e9nero",
+         "start": 244.15,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "hemos atendido m\u00e1s de 800 consultas",
+         "start": 249.95,
+         "duration": 7.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "y estamos haciendo atenci\u00f3n y seguimiento de varios casos de violencia de g\u00e9nero.",
+         "start": 257.65,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por la infancia y la juventud sorda hemos realizado varias acciones,",
+         "start": 274.15,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "entre las que destaco:",
+         "start": 277.95,
+         "duration": 1.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "33 adolescentes sordos en el Encuentro Junior",
+         "start": 280.95,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "y 20 padres y madres en el encuentro de Familias.",
+         "start": 289.15,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "La organizaci\u00f3n de las Jornadas de Atenci\u00f3n a familias e infancia sorda.",
+         "start": 295.15,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "La campa\u00f1a de sensibilizaci\u00f3n sobre el derecho a una educaci\u00f3n",
+         "start": 301.65,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "la cual ha recibido m\u00e1s de 45.000 visitas",
+         "start": 306.95,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "y ha sido enviada a m\u00e1s de 500 centros educativos.",
+         "start": 311.15,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hemos formado en emprendimiento y autoempleo a 60 j\u00f3venes sordos.",
+         "start": 316.95,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trabajamos por la defensa de nuestros derechos ling\u00fc\u00edsticos.",
+         "start": 332.15,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Comparecencia conjunta de CNSE y ASORNA",
+         "start": 334.65,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el Parlamento de Navarra para incluir la lengua de signos espa\u00f1ola en su legislaci\u00f3n",
+         "start": 338.35,
+         "duration": 8.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trabajo conjunto con la Asociaci\u00f3n de Personas Sordas de La Rioja para la inclusi\u00f3n de la lengua de signos espa\u00f1ola en el Estatuto de Autonom\u00eda de La Rioja.",
+         "start": 347.65,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Reuni\u00f3n con el Relator de la ONU sobre cuestiones de Minor\u00edas",
+         "start": 359.95,
+         "duration": 12.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "a quien expusimos la situaci\u00f3n de la comunidad sorda en Espa\u00f1a.",
+         "start": 372.65,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "La incidencia pol\u00edtica que realizamos continuamente para culminar el proceso",
+         "start": 382.65,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "de declaraci\u00f3n oficial de la lengua de signos como Patrimonio Cultural Inmaterial,",
+         "start": 388.35,
+         "duration": 4.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sabremos m\u00e1s una vez que se haya establecido el gobierno.",
+         "start": 393.15,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Trabajamos para la inclusi\u00f3n de la LSE y la LSC bajo la protecci\u00f3n",
+         "start": 397.65,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "de la Carta Europea de las Lenguas Minoritarias o Regionales",
+         "start": 403.65,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "o para la adecuada implementaci\u00f3n a nivel estatal y auton\u00f3mica de las medidas de la ley 27/2007.",
+         "start": 413.65,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Hemos mantenido una intensa interlocuci\u00f3n pol\u00edtica con encuentros",
+         "start": 429.65,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "con el Ministro de Interior, la Secretaria de Estado de Servicios Sociales,",
+         "start": 434.95,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "con la Secretar\u00eda de Estado de Igualdad, con la Direcci\u00f3n de la Pol\u00edtica de Discapacidad,",
+         "start": 441.35,
+         "duration": 3.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "con el Secretario de Estado de Justicia, etc.",
+         "start": 445.35,
+         "duration": 2.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "as\u00ed como participando activamente en plataformas como CERMI Estatal,",
+         "start": 448.65,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Plataforma Infancia Espa\u00f1a, la Uni\u00f3n Democr\u00e1tica de Pensionistas y Jubilados,",
+         "start": 452.35,
+         "duration": 7.6,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "entre otros muchos, para defender los derechos de las personas sordas.",
+         "start": 460.15,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "De las actividades europeas e internacionales a las que hemos asistido,",
+         "start": 472.15,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "que han sido varias, a destacar nuestra asistencia y participaci\u00f3n activa",
+         "start": 476.95,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "en el XVIII Congreso Mundial de la WFD celebrado en Par\u00eds.",
+         "start": 481.35,
+         "duration": 7.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "La importancia un movimiento asociativo fuerte y cohesionado",
+         "start": 492.95,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Tambi\u00e9n hemos realizado aportaciones a normativas y",
+         "start": 496.35,
+         "duration": 2.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "apostando por acciones como las de asesoramiento en gesti\u00f3n de calidad",
+         "start": 499.65,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "con 6 de nuestras federaciones auton\u00f3micas;",
+         "start": 504.95,
+         "duration": 3.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "la formaci\u00f3n de 26 alumnas y alumnos sordos en la Escuela de Liderazgo,",
+         "start": 509.65,
+         "duration": 10.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "la elaboraci\u00f3n conjunta del nuevo Plan Estrat\u00e9gico de la CNSE",
+         "start": 520.15,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "o la organizaci\u00f3n del XI Foro Estatal de Ense\u00f1anza de las Lenguas de Signos",
+         "start": 527.15,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "a la que asistieron 75 especialistas en lengua de signos.",
+         "start": 531.35,
+         "duration": 3.3,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Han sido varios los reconocimientos que hemos recibido este a\u00f1o:",
+         "start": 542.95,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Premio Reina Letizia a la accesibilidad por la app de fomento de la lectura Te Cuento.",
+         "start": 551.65,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Premio Supercuidadores a la Fundaci\u00f3n CNSE",
+         "start": 560.15,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Premio Zardoya Otis a Svisual.",
+         "start": 567.65,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Sello Bequal Plus tanto a CNSE como a Fundaci\u00f3n CNSE por nuestra pol\u00edtica de inclusi\u00f3n laboral de las personas sordas.",
+         "start": 578.65,
+         "duration": 14.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Nos sentimos orgullosos de todos los premios.",
+         "start": 594.15,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "En 2020, independientemente de la situaci\u00f3n pol\u00edtica en Espa\u00f1a,",
+         "start": 603.65,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "continuaremos defendiendo los derechos de las personas sordas y sus familias,",
+         "start": 610.95,
+         "duration": 7.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "el prestigio de nuestras lenguas de signos,",
+         "start": 618.95,
+         "duration": 2.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "la unidad de acci\u00f3n de federaciones, asociaciones y confederaci\u00f3n.",
+         "start": 621.95,
+         "duration": 5.7,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Por un 2020 de derechos cumplidos.",
+         "start": 628.95,
+         "duration": 4.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Igualdad",
+         "start": 634.65,
+         "duration": 1.0,
+         "signer_id": 2,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, jersey negro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Unidad",
+         "start": 636.15,
+         "duration": 2.5,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo ondulado, jersey azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Asociacionismo",
+         "start": 639.15,
+         "duration": 1.0,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Solidaridad",
+         "start": 640.85,
+         "duration": 1.5,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Accesibilidad",
+         "start": 643.15,
+         "duration": 1.5,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con jersey azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Lengua de signos",
+         "start": 645.15,
+         "duration": 1.5,
+         "signer_id": 7,
+         "aligned": true,
+         "signer_description": "Mujer con gafas, blusa estampada",
+         "screen_position": "center"
+      },
+      {
+         "text": "Respeto a la diversidad",
+         "start": 647.15,
+         "duration": 2.2,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Mujer con rastas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Compromiso",
+         "start": 650.15,
+         "duration": 1.2,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre con camisa azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Participaci\u00f3n",
+         "start": 652.15,
+         "duration": 1.5,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Hombre con barba, chaqueta negra",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 654.85,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo corto, top azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 657.15,
+         "duration": 0.7,
+         "signer_id": 3,
+         "aligned": true,
+         "signer_description": "Mujer pelo ondulado, jersey azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 658.15,
+         "duration": 0.7,
+         "signer_id": 4,
+         "aligned": true,
+         "signer_description": "Hombre con gafas, camisa azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 659.15,
+         "duration": 0.7,
+         "signer_id": 5,
+         "aligned": true,
+         "signer_description": "Mujer pelo rizado, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 660.15,
+         "duration": 0.7,
+         "signer_id": 6,
+         "aligned": true,
+         "signer_description": "Hombre con jersey azul",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 661.15,
+         "duration": 0.7,
+         "signer_id": 8,
+         "aligned": true,
+         "signer_description": "Mujer con rastas, chaqueta verde",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 662.15,
+         "duration": 0.7,
+         "signer_id": 9,
+         "aligned": true,
+         "signer_description": "Hombre con camisa azul claro",
+         "screen_position": "center"
+      },
+      {
+         "text": "Somos personas sordas.",
+         "start": 663.15,
+         "duration": 0.7,
+         "signer_id": 10,
+         "aligned": true,
+         "signer_description": "Hombre con barba, chaqueta negra",
+         "screen_position": "center"
+      }
+   ]
+}

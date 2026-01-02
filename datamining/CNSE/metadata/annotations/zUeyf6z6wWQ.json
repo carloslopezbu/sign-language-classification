@@ -1,0 +1,617 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Buenos d\u00edas a todos y a todas, desde ACCEM seguimos con",
+         "start": 9.2,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "los v\u00eddeos de \"Promueve tu autonom\u00eda\", soy Celia Ramos, la terapeuta ocupacional de SEPAP de Molina de Arag\u00f3n, y hoy vengo con una actividad de papiroflexia.",
+         "start": 12.8,
+         "duration": 8.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfQu\u00e9 es la papiroflexia? Es la t\u00e9cnica de realizar figuras con hojas de papel, simplemente.",
+         "start": 22.0,
+         "duration": 6.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "\u00bfCu\u00e1l ser\u00edan los objetivos de esta actividad para hoy?",
+         "start": 29.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pues la papiroflexia desarrolla la destreza manual, la motricidad fina y la coordinaci\u00f3n.",
+         "start": 33.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Promueve la concentraci\u00f3n, y la relajaci\u00f3n, as\u00ed que es una actividad que tiene muchos beneficios pero que tambi\u00e9n es bastante f\u00e1cil.",
+         "start": 40.8,
+         "duration": 9.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "As\u00ed que os invito a que la hag\u00e1is todos en casa.",
+         "start": 51.8,
+         "duration": 2.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para ello, \u00bfqu\u00e9 vamos a necesitar hoy?",
+         "start": 55.8,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Bueno, vamos a hacer figuras, la primera ser\u00eda un avi\u00f3n de papel que vuela mucho, puede ser divertido hacer que vuele en casa.",
+         "start": 60.8,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y la segunda, vamos a realizar un cisne de papel.",
+         "start": 72.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "La primera va a ser el avi\u00f3n.",
+         "start": 80.8,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para realizar el avi\u00f3n necesitamos, una hoja, un folio tama\u00f1o normal A4.",
+         "start": 85.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pues vamos a ir viendo paso a paso c\u00f3mo realizar esta figura.",
+         "start": 94.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Primero, vamos a doblar la hoja por la mitad.",
+         "start": 99.8,
+         "duration": 3.2,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "La tenemos, la mitad, vemos que est\u00e1 doblada por la mitad.",
+         "start": 111.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y vamos a doblar cada esquina hacia el interior, hacia el medio, as\u00ed, una y dos.",
+         "start": 118.8,
+         "duration": 12.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "De esta manera, perfecto.",
+         "start": 139.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ahora, el pico va a coincidir, el pico de este lado lo vamos a doblar hasta coincidir con la mitad que tenemos aqu\u00ed marcada, as\u00ed se quedar\u00e1, muy bien.",
+         "start": 145.0,
+         "duration": 21.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y ahora vamos a hacer un doblez, as\u00ed.",
+         "start": 167.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se dobla la parte superior, lo ten\u00edamos as\u00ed, le doblamos esta leng\u00fceta.",
+         "start": 184.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ahora vamos a subir el tri\u00e1ngulo y como vemos, tiene que sobresalir, as\u00ed se va a quedar, muy bien.",
+         "start": 195.0,
+         "duration": 12.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y ahora, lo vamos a doblar por la mitad, tal como est\u00e1.",
+         "start": 212.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "As\u00ed se tiene que quedar.",
+         "start": 221.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo abro, as\u00ed, muy bien.",
+         "start": 224.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ahora, tenemos que doblar cada ala.",
+         "start": 231.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para ello, vamos a hacer un doblez aqu\u00ed.",
+         "start": 238.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "As\u00ed, y por el otro lado, igual, tiene que coincidir cada lado junto.",
+         "start": 251.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo ten\u00edamos doblado por la mitad, he doblado por un lado y he doblado por otro lado las alas, y tiene que coincidir, perfecto.",
+         "start": 271.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Una vez que lo tenemos as\u00ed, hay que hacer un doblez de 1 cm en cada extremo.",
+         "start": 281.5,
+         "duration": 7.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "M\u00e1s o menos, no tiene por qu\u00e9 ser exacto, as\u00ed se quedar\u00e1, levantar cada ala, muy bien.",
+         "start": 292.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y por \u00faltimo, lo tenemos as\u00ed, un lado levantado, un lado levantado y por este lado, por la parte final opuesta al pico, vamos a hacer un corte.",
+         "start": 307.5,
+         "duration": 19.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "As\u00ed, \u00bfse ve?",
+         "start": 329.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Le damos la vuelta y levantamos.",
+         "start": 337.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Ah\u00ed se tiene que quedar.",
+         "start": 347.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y este avi\u00f3n vuela mucho, con las alas levantadas y esta parte tambi\u00e9n que es la que hemos cortado en \u00faltimo lugar y el pico;",
+         "start": 353.5,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "este avi\u00f3n vuela mucho.",
+         "start": 368.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Pues muy bien, ya tenemos la primera figura, el avi\u00f3n de papel.",
+         "start": 369.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y ahora vamos a hacer un cisne, como os he ense\u00f1ado antes.",
+         "start": 375.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Para ello necesitamos una hoja en forma de cuadrado, da igual el tama\u00f1o, pero tiene que ser cuadrada.",
+         "start": 382.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Quiere decir cada lado del mismo tama\u00f1o.",
+         "start": 393.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Vamos a empezar dobl\u00e1ndola por la mitad, que quede como un tri\u00e1ngulo.",
+         "start": 397.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "As\u00ed, la abrimos y doblamos...",
+         "start": 415.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "La abrimos y doblamos cada esquina hacia el interior coincidiendo con la l\u00ednea que ten\u00edamos hecha y este lado igual.",
+         "start": 424.5,
+         "duration": 14.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, as\u00ed lo ten\u00edamos, se dobla un lateral, el otro.",
+         "start": 450.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se nos queda una especie de rombo, muy bien.",
+         "start": 460.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y ahora, le damos la vuelta y hacemos lo mismo, esta esquina va a venir al medio y esta otra igual, vamos a ver.",
+         "start": 467.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "As\u00ed, repito, esto lo ten\u00edamos ya por este lado y ahora el otro, lo mismo, hay que meter las esquinas hacia el centro y ahora...",
+         "start": 491.0,
+         "duration": 13.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "La punta va a venir hasta aqu\u00ed, va a doblarse hasta aqu\u00ed, as\u00ed de esta manera.",
+         "start": 506.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Perfecto.",
+         "start": 522.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Muy bien, le damos la vuelta y lo doblamos por la mitad.",
+         "start": 528.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Levantamos el cuello del cisne.",
+         "start": 541.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Le hacemos un doblez.",
+         "start": 552.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y otro doblez que ser\u00e1 el pico y la cabeza.",
+         "start": 557.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "As\u00ed te tendr\u00e1 que quedar, \u00bfde acuerdo?",
+         "start": 575.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Vamos a volver a repetir la figura del cisne para que se nos quede a todos bien.",
+         "start": 579.0,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Tenemos el cuadrado que doblamos por la mitad, formando un tri\u00e1ngulo, muy bien.",
+         "start": 591.0,
+         "duration": 9.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Doblamos por la mitad y se nos queda un tri\u00e1ngulo.",
+         "start": 606.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Lo ponemos de esta manera y vamos a venir a doblar cada lateral hacia la l\u00ednea del medio.",
+         "start": 609.5,
+         "duration": 11.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Por un lado y por el otro lado haremos lo mismo.",
+         "start": 629.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Hacemos as\u00ed, as\u00ed y as\u00ed, muy bien.",
+         "start": 638.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "El pico va a venir coincidiendo con el otro extremo, doblaremos y as\u00ed se tiene que quedar.",
+         "start": 646.0,
+         "duration": 11.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y ahora por este lado, se han quedado como dos pesta\u00f1as, se dobla por la mitad.",
+         "start": 659.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y aqu\u00ed tenemos el cuerpo del cisne.",
+         "start": 668.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se levanta la cabeza...",
+         "start": 673.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Se le hace un doblez y otro para el pico.",
+         "start": 678.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Y ya tenemos nuestro cisne.",
+         "start": 695.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Espero que os haya gustado mucho este v\u00eddeo y nos vemos para el pr\u00f3ximo la semana que viene.",
+         "start": 698.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      },
+      {
+         "text": "Cuidaros mucho, espero que est\u00e9is genial, adi\u00f3s.",
+         "start": 704.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o largo y camiseta negra",
+         "screen_position": "right"
+      }
+   ]
+}

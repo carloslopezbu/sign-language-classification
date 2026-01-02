@@ -1,0 +1,671 @@
+{
+   "num_signers": 1,
+   "annotations": [
+      {
+         "text": "Hola a todos, me llamo Sandra y soy fisioterapeuta de ACCEM.",
+         "start": 15.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Hoy, desde cuida tu cuerpo, vamos a trabajar la fuerza de los brazos, de los miembros superiores.",
+         "start": 19.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello, vamos a necesitar antes hacer manualidades; necesitamos llenar con un Kg. de arroz aproximadamente, una o dos botellas, seg\u00fan las que tengamos.",
+         "start": 24.0,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y ahora a continuaci\u00f3n, os ense\u00f1ar\u00e9 c\u00f3mo lo vamos a utilizar.",
+         "start": 32.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a empezar por el calentamiento para poner nuestro cuerpo en marcha.",
+         "start": 42.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a empezar primero por el cuello, mirando arriba y abajo.",
+         "start": 46.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Este movimiento lo repetiremos 10 veces.",
+         "start": 52.8,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El siguiente movimiento llevaremos la oreja hacia un hombro y hacia el otro, haciendo una parada en medio.",
+         "start": 57.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Lo realizaremos 10 veces a cada lado.",
+         "start": 105.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora miraremos por encima del hombro a un lado y al otro, con parada en medio.",
+         "start": 109.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Lo realizaremos 10 veces a cada lado.",
+         "start": 116.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "A continuaci\u00f3n, vamos con los hombros.",
+         "start": 120.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a levantar los hombros arriba y abajo.",
+         "start": 122.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Repetiremos este movimiento otras 10 veces.",
+         "start": 129.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "A continuaci\u00f3n, c\u00edrculos hacia delante, 10 c\u00edrculos hacia delante con los hombros.",
+         "start": 134.0,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y 10 c\u00edrculos hacia detr\u00e1s con los hombros.",
+         "start": 140.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una vez que terminemos esto, pasamos a los brazos.",
+         "start": 144.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a levantarlos arriba y abajo; lo que debemos procurar es que nuestras manos se miren la palma.",
+         "start": 147.5,
+         "duration": 10.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "A continuaci\u00f3n vamos a abrir y cerrar, abrir y cerrar, otras 10 repeticiones.",
+         "start": 203.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y por \u00faltimo, para terminar con los hombros, vamos a levantar alternamente, uno y otro, uno y otro.",
+         "start": 211.5,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Deberemos hacer 10 repeticiones con cada brazo.",
+         "start": 220.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora vamos a calentar los codos.",
+         "start": 225.0,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Apoyamos las manos en los hombros y luego en las rodillas, hombros, rodillas, lo repetimos 10 veces.",
+         "start": 228.5,
+         "duration": 9.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora apoyamos el codo en una mano, giramos a un lado.",
+         "start": 238.8,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "10 giros a un lado, 10 giros al otro.",
+         "start": 244.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y cambiamos de brazo.",
+         "start": 248.0,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Apoyamos el codo en la mano y giramos.",
+         "start": 251.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "A un lado 10 veces y al otro lado, otras 10 veces.",
+         "start": 255.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una vez calientes los codos, pasamos a las mu\u00f1ecas.",
+         "start": 301.0,
+         "duration": 1.8,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a girarlas como si bail\u00e1ramos sevillanas.",
+         "start": 303.5,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Hacia un lado 10 veces y ahora hacia dentro otras 10 veces.",
+         "start": 307.0,
+         "duration": 5.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y para terminar de calentar las mu\u00f1ecas juntamos las manos y las llevamos a un lado y al otro, a un lado y al otro.",
+         "start": 314.5,
+         "duration": 8.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a empezar trabajando el m\u00fasculo de esta parte de delante del brazo.",
+         "start": 340.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello vamos a necesitar la pesa que nos hemos preparado con el arroz.",
+         "start": 346.0,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a colocar la mano mirando hacia abajo con la pesa.",
+         "start": 351.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y el movimiento que debemos realizar es, levantar el brazo hasta la altura del pecho y lo bajamos.",
+         "start": 356.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Eso hay que hacerlo 10 veces.",
+         "start": 407.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una vez que repitamos las 10 veces, cambiamos de brazo.",
+         "start": 410.0,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Igual, la mano mira hacia abajo y levantamos a la altura del pecho y bajamos.",
+         "start": 415.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora te toca a ti hacer las repeticiones con la cuenta atr\u00e1s.",
+         "start": 427.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cambio de brazo. Ahora te toca a ti hacer las repeticiones con la cuenta atr\u00e1s.",
+         "start": 444.8,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Siguiente ejercicio, ahora vamos a trabajar el m\u00fasculo de la parte de fuera de los hombros.",
+         "start": 522.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Va a ser igual que el ejercicio anterior pero el movimiento se hace en el lateral.",
+         "start": 529.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "La mano mirando hacia abajo y subimos hasta los 90 grados.",
+         "start": 533.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Repetimos 10 veces.",
+         "start": 542.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Una vez que hayamos hecho 10 veces con este brazo, cambiamos al otro e igual, mano mira hacia abajo y por el lateral levantamos el brazo.",
+         "start": 544.0,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora te toca a ti hacer las repeticiones con la cuenta atr\u00e1s.",
+         "start": 557.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cambio de brazo. Ahora te toca a ti hacer las repeticiones con la cuenta atr\u00e1s.",
+         "start": 609.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora vamos con el m\u00fasculo de la parte de detr\u00e1s del hombro.",
+         "start": 634.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello vamos a necesitar llevar el brazo para atr\u00e1s.",
+         "start": 639.0,
+         "duration": 2.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Colocamos la mano mirando hacia atr\u00e1s y el brazo va hacia posterior.",
+         "start": 642.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Repetimos 10 veces.",
+         "start": 652.5,
+         "duration": 1.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cambiar\u00edamos al otro brazo, igual.",
+         "start": 655.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "La mano mira hacia atr\u00e1s y el movimiento hacia posterior.",
+         "start": 659.0,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora te toca a ti hacer las repeticiones con la cuenta atr\u00e1s.",
+         "start": 711.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cambio de brazo. Ahora te toca a ti hacer las repeticiones con la cuenta atr\u00e1s.",
+         "start": 721.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "El siguiente m\u00fasculo que vamos a trabajar es el de la parte anterior de los brazos.",
+         "start": 746.5,
+         "duration": 5.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Para ello necesitamos, anclar el codo a nuestra cintura, la mano mira hacia arriba y coge la botella mirando tambi\u00e9n hacia arriba.",
+         "start": 753.5,
+         "duration": 8.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y el gesto que tenemos que hacer es de tocar el hombro y bajar.",
+         "start": 802.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "La mano siempre mirando hacia arriba.",
+         "start": 809.5,
+         "duration": 2.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Repetimos 10 veces.",
+         "start": 812.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cambiamos de mano, anclamos el codo en la cadera, cogemos la mano mirando hacia arriba y a tocar el hombro.",
+         "start": 814.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Ahora te toca a ti hacer las repeticiones con la cuenta atr\u00e1s.",
+         "start": 827.5,
+         "duration": 3.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Cambio de brazo. Ahora te toca a ti hacer las repeticiones con la cuenta atr\u00e1s.",
+         "start": 838.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Bueno, despu\u00e9s de toda la paliza que llevamos con los ejercicios anteriores, lleg\u00f3 la hora de la vuelta a la calma.",
+         "start": 859.5,
+         "duration": 6.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a relajarnos, si estamos muy cansados, podemos hacer antes unas respiraciones.",
+         "start": 906.5,
+         "duration": 7.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Se coge aire por la nariz y se expulsa por la boca.",
+         "start": 916.5,
+         "duration": 4.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Otra vez.",
+         "start": 923.5,
+         "duration": 1.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Podemos realizar las respiraciones que queramos hasta que veamos que ya estamos sin fatiga.",
+         "start": 928.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "A continuaci\u00f3n, para descansar nuestros m\u00fasculos, vamos a necesitar una pelota de tenis o de lo que tengamos por casa.",
+         "start": 933.5,
+         "duration": 6.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Vamos a hacer c\u00edrculos en las partes que hemos trabajado de nuestro cuerpo.",
+         "start": 940.5,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Haremos c\u00edrculos a lo largo del brazo hacia abajo, hacia arriba... Por el cuello, por detr\u00e1s... Cambiamos al otro lado, c\u00edrculos por delante del brazo, por detr\u00e1s...",
+         "start": 946.0,
+         "duration": 21.0,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Y si vemos que no podemos, siempre podemos pedir ayuda a alg\u00fan familiar que nos eche una manilla.",
+         "start": 1004.0,
+         "duration": 4.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      },
+      {
+         "text": "Un saludo y espero que no est\u00e9 siendo muy dura vuestra cuarentena.",
+         "start": 1008.5,
+         "duration": 3.5,
+         "signer_id": 0,
+         "aligned": true,
+         "signer_description": "Mujer pelo casta\u00f1o, camiseta negra",
+         "screen_position": "news-corner"
+      }
+   ]
+}
